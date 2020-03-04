@@ -92,7 +92,7 @@ jobs:
               export TARGET_PATH=<<parameters.bucket>>/branch/$CIRCLE_BRANCH
             fi
 
-            echo aws s3 sync ./build s3://$TARGET_PATH --acl public-read
+            aws s3 sync ./build s3://$TARGET_PATH --acl public-read
 
 workflows:
   version: 2
