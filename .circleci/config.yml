@@ -29,14 +29,18 @@ commands:
             - ~/.npm
 
 jobs:
+  lint:
+    <<: *defaults
+    steps:
+      - checkout
+      - install-deps
+      - run: npm run lint
+
   test:
     <<: *defaults
     steps:
       - checkout
-      - <<: *restore-cache
-      - run: npm ci
-      - <<: *save-cache
-      - run: npm run lint
+      - install-deps
       - run: npm run test -- --coverage --passWithNoTests
 
       - run: |
@@ -91,6 +95,13 @@ workflows:
   version: 2
   make-project:
     jobs:
+      - lint:
+          context: org-global-v2
+          filters:
+            tags:
+              ignore: /.*/
+            branches:
+              only: /.*/
       - test:
           context: org-global-v2
           filters:
