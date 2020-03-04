@@ -1,18 +1,15 @@
 import React from 'react'
 
-import ChatBot from 'react-simple-chatbot'
+import { ThemeProvider } from 'styled-components'
+
+import Chatbot from './components/chatbot'
+import { theme } from './theme'
 
 function App() {
   return (
-    <ChatBot
-      steps={[
-        {
-          id: 'hello-world',
-          message: 'Hello World!',
-          end: true
-        }
-      ]}
-    />
+    <ThemeProvider theme={theme}>
+      <Chatbot />
+    </ThemeProvider>
   )
 }
 
