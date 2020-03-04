@@ -1,0 +1,114 @@
+version: 2.1
+
+regions: &regions
+  - 'ca-central-1'
+  - 'eu-central-1'
+  - 'us-east-1'
+
+buckets: &buckets
+  - 'covid19.dialogue.co'
+
+defaults: &defaults
+  working_directory: ~/covid19
+  docker:
+    - image: circleci/node:10
+
+restore-cache: &restore-cache
+  restore_cache:
+    keys:
+      - v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+      - v1-covid19-{{ .Branch }}-
+      - v1-covid19-
+
+save-cache: &save-cache
+  save_cache:
+    key: v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+    paths:
+      - ~/.npm
+
+jobs:
+  test:
+    <<: *defaults
+    steps:
+      - checkout
+      - <<: *restore-cache
+      - run: npm ci
+      - <<: *save-cache
+      - run: npm run lint
+      - run: npm run test -- --coverage --passWithNoTests
+
+      - run: |
+          if [[ $CODECOV_TOKEN ]]; then
+            bash <(curl -s https://codecov.io/bash) -f ./coverage/coverage-final.json
+          fi
+
+  build:
+    <<: *defaults
+    steps:
+      - checkout
+      - <<: *restore-cache
+      - run: npm ci
+      - <<: *save-cache
+      - run: npm run clean
+      - run: npm run build
+
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - build
+
+  deploy:
+    <<: *defaults
+    parameters:
+      bucket:
+        type: enum
+        enum: *buckets
+      region:
+        type: enum
+        enum: *regions
+    steps:
+      - checkout
+      - <<: *restore-cache
+      - run: npm ci
+      - <<: *save-cache
+
+      - attach_workspace:
+          at: ./
+
+      - run:
+          name: Deploy to s3
+          command: |
+            source scripts/fetch_assume_role.sh
+            source scripts/assume_role.sh <<parameters.region>>
+            source scripts/deploy.sh <<parameters.bucket>>
+
+workflows:
+  version: 2
+  make-project:
+    jobs:
+      - test:
+          context: org-global-v2
+          filters:
+            tags:
+              ignore: /.*/
+            branches:
+              only: /.*/
+      - build:
+          context: org-global-v2
+          filters:
+            tags:
+              ignore: /.*/
+            branches:
+              only: /.*/
+      - deploy:
+          context: org-global-v2
+          bucket: covid19.dialogue.co
+          region: us-east-1
+          requires:
+            - test
+            - build
+          filters:
+            tags:
+              ignore: /.*/
+            branches:
+              only: /.*/
