@@ -8,11 +8,6 @@ regions: &regions
 buckets: &buckets
   - 'covid19.dialogue.co'
 
-defaults: &defaults
-  working_directory: ~/covid19
-  docker:
-    - image: circleci/node:10
-
 executors:
   debian:
     docker:
@@ -41,7 +36,6 @@ commands:
 jobs:
   lint:
     executor: debian
-    <<: *defaults
     steps:
       - checkout
       - install-deps
@@ -49,12 +43,10 @@ jobs:
 
   test:
     executor: debian
-    <<: *defaults
     steps:
       - checkout
       - install-deps
       - run: npm run test -- --coverage --passWithNoTests
-
       - run: |
           if [[ $CODECOV_TOKEN ]]; then
             bash <(curl -s https://codecov.io/bash) -f ./coverage/coverage-final.json
@@ -62,7 +54,6 @@ jobs:
 
   build:
     executor: debian
-    <<: *defaults
     steps:
       - checkout
       - install-deps
@@ -76,7 +67,6 @@ jobs:
 
   deploy:
     executor: aws
-    <<: *defaults
     parameters:
       bucket:
         type: enum
