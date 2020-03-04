@@ -57,7 +57,6 @@ jobs:
     steps:
       - checkout
       - install-deps
-      - run: npm run clean
       - run: npm run build
 
       - persist_to_workspace:
