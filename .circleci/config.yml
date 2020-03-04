@@ -13,18 +13,20 @@ defaults: &defaults
   docker:
     - image: circleci/node:10
 
-restore-cache: &restore-cache
-  restore_cache:
-    keys:
-      - v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
-      - v1-covid19-{{ .Branch }}-
-      - v1-covid19-
-
-save-cache: &save-cache
-  save_cache:
-    key: v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
-    paths:
-      - ~/.npm
+commands:
+  install-deps:
+    description: Install and cache application dependencies
+    steps:
+      - restore_cache:
+          keys:
+            - v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+            - v1-covid19-{{ .Branch }}-
+            - v1-covid19-
+      - run: npm ci
+      - save_cache:
+          key: v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+          paths:
+            - ~/.npm
 
 jobs:
   test:
@@ -46,9 +48,7 @@ jobs:
     <<: *defaults
     steps:
       - checkout
-      - <<: *restore-cache
-      - run: npm ci
-      - <<: *save-cache
+      - install-deps
       - run: npm run clean
       - run: npm run build
 
@@ -68,9 +68,7 @@ jobs:
         enum: *regions
     steps:
       - checkout
-      - <<: *restore-cache
-      - run: npm ci
-      - <<: *save-cache
+      - install-deps
 
       - attach_workspace:
           at: ./
@@ -80,7 +78,14 @@ jobs:
           command: |
             source scripts/fetch_assume_role.sh
             source scripts/assume_role.sh <<parameters.region>>
-            source scripts/deploy.sh <<parameters.bucket>>
+
+            if [ $CIRCLE_BRANCH == master ]; then
+              export TARGET_PATH=<<parameters.bucket>>
+            else
+              export TARGET_PATH=<<parameters.bucket>>/branch/$CIRCLE_BRANCH
+            fi
+
+            echo aws s3 sync ./build s3://$TARGET_PATH --acl public-read
 
 workflows:
   version: 2
