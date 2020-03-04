@@ -1,6 +1,6 @@
-import React from 'react';
-import ChatBot from 'react-simple-chatbot';
-import './App.css';
+import React from 'react'
+import ChatBot from 'react-simple-chatbot'
+import './App.css'
 
 function App() {
   return (
@@ -9,11 +9,11 @@ function App() {
         {
           id: 'hello-world',
           message: 'Hello World!',
-          end: true,
-        },
+          end: true
+        }
       ]}
     />
-  );
+  )
 }
 
-export default App;
+export default App

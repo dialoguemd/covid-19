@@ -17,13 +17,17 @@
     "@types/node": "^12.12.29",
     "@types/react": "^16.9.23",
     "@types/react-dom": "^16.9.5",
+    "husky": "^4.2.3",
+    "prettier": "^1.19.1",
     "react-scripts": "3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "prettier --check \"src/**/*\"",
+    "lint:fix": "prettier --write \"src/**/*\""
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,5 +43,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
   }
 }
