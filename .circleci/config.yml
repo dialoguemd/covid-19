@@ -75,7 +75,6 @@ jobs:
         enum: *regions
     steps:
       - checkout
-      - install-deps
 
       - attach_workspace:
           at: ./
