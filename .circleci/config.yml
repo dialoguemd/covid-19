@@ -1,0 +1,133 @@
+version: 2.1
+
+regions: &regions
+  - 'ca-central-1'
+  - 'eu-central-1'
+  - 'us-east-1'
+
+buckets: &buckets
+  - 'covid19.dialogue.co'
+
+executors:
+  debian:
+    docker:
+      - image: circleci/node:10.16.3
+    working_directory: ~/covid19-debian
+  aws:
+    docker:
+      - image: cibuilds/aws:1.16
+    working_directory: ~/covid19-aws
+
+commands:
+  install-deps:
+    description: Install and cache application dependencies
+    steps:
+      - restore_cache:
+          keys:
+            - v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+            - v1-covid19-{{ .Branch }}-
+            - v1-covid19-
+      - run: npm ci
+      - save_cache:
+          key: v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+          paths:
+            - ~/.npm
+
+jobs:
+  lint:
+    executor: debian
+    steps:
+      - checkout
+      - install-deps
+      - run: npm run lint
+
+  test:
+    executor: debian
+    steps:
+      - checkout
+      - install-deps
+      - run: npm run test -- --coverage --passWithNoTests
+      - run: |
+          if [[ $CODECOV_TOKEN ]]; then
+            bash <(curl -s https://codecov.io/bash) -f ./coverage/coverage-final.json
+          fi
+
+  build:
+    executor: debian
+    steps:
+      - checkout
+      - install-deps
+      - run: npm run build
+
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - build
+
+  deploy:
+    executor: aws
+    parameters:
+      bucket:
+        type: enum
+        enum: *buckets
+      region:
+        type: enum
+        enum: *regions
+    steps:
+      - checkout
+      - install-deps
+
+      - attach_workspace:
+          at: ./
+
+      - run:
+          name: Deploy to s3
+          command: |
+            source scripts/fetch_assume_role.sh
+            source scripts/assume_role.sh <<parameters.region>>
+
+            if [ $CIRCLE_BRANCH == master ]; then
+              export TARGET_PATH=<<parameters.bucket>>
+            else
+              export TARGET_PATH=<<parameters.bucket>>/branch/$CIRCLE_BRANCH
+            fi
+
+            echo aws s3 sync ./build s3://$TARGET_PATH --acl public-read
+
+workflows:
+  version: 2
+  make-project:
+    jobs:
+      - lint:
+          context: org-global-v2
+          filters:
+            tags:
+              ignore: /.*/
+            branches:
+              only: /.*/
+      - test:
+          context: org-global-v2
+          filters:
+            tags:
+              ignore: /.*/
+            branches:
+              only: /.*/
+      - build:
+          context: org-global-v2
+          filters:
+            tags:
+              ignore: /.*/
+            branches:
+              only: /.*/
+      - deploy:
+          context: org-global-v2
+          bucket: covid19.dialogue.co
+          region: us-east-1
+          requires:
+            - test
+            - build
+          filters:
+            tags:
+              ignore: /.*/
+            branches:
+              only: /.*/
