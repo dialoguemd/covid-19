@@ -10,10 +10,11 @@ const colors = {
 } as const
 
 const sizes = {
-  title: '50pt',
-  question: '40pt',
-  buttonText: '24pt',
-  body: '24pt'
+  title: '50px',
+  question: '40px',
+  buttonText: '24px',
+  body: '24px',
+  small: '12px'
 } as const
 
 export const theme = {
