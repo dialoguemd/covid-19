@@ -52,7 +52,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   }
 
   .rsc-content {
-    height: calc(100% - 51px);
+    height: calc(100% - 81px);
     display: flex;
     flex-direction: column;
     padding: 15px;
