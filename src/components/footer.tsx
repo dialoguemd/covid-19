@@ -1,6 +1,6 @@
 import React, { HTMLAttributes } from 'react'
 
-import styled from 'styled-components'
+import styled from 'styled-components/macro'
 
 const FooterContainer = styled.div`
   font-size: ${props => props.theme.sizes.small};

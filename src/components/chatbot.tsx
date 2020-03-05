@@ -1,7 +1,7 @@
 import React from 'react'
 
 import ReactSimpleChatbot from 'react-simple-chatbot'
-import styled, { ThemeProvider } from 'styled-components'
+import styled, { ThemeProvider } from 'styled-components/macro'
 
 import steps from 'steps'
 import { theme } from 'theme'
@@ -41,7 +41,6 @@ export const Chatbot: React.FC = props => {
 export default styled(Chatbot)`
   height: 100%;
   width: 100%;
-  padding: 8px;
   overflow: hidden;
   display: flex;
   justify-content: center;
