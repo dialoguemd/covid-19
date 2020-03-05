@@ -8,8 +8,6 @@ import steps from 'steps'
 import { theme } from 'theme'
 import chloe from 'images/chloe.png'
 
-declare var window: any
-
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   background: colors.background,
   headerBgColor: colors.primary,
