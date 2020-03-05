@@ -5,7 +5,7 @@ import styled, { ThemeProvider } from 'styled-components/macro'
 import { getChatClassifications } from 'services/chat-classifier'
 
 import steps from 'steps'
-import { theme } from 'theme'
+import { theme, mobileBreakpoint } from 'theme'
 import chloe from 'images/chloe.png'
 
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
@@ -63,6 +63,9 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     padding: calc(${props => props.theme.sizes.question} * 0.75);
     margin-top: 10px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    @media (max-width: ${mobileBreakpoint}px) {
+      max-width: 100%;
+    }
   }
 
   .rsc-os {
@@ -94,6 +97,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   .rsc-os-option-element {
     color: ${props => props.theme.colors.primary};
     font-size: ${props => props.theme.sizes.buttonText};
+    font-family: ${props => props.theme.fontFamily};
     padding: calc(${props => props.theme.sizes.buttonText} * 1);
     border-radius: 0;
     font-weight: 500;
