@@ -18,8 +18,13 @@ const intro: Step[] = [
   },
   {
     id: 'intro3',
-    message:
-      'Please note: This app is for information purposes only and does not constitute a medical assessment. The research and data on COVID-19 continues to grow and evolve on an hourly basis which means that this information may be quickly outdated. Consulting this website is not a substitute for consulting your provincial/territorial public health department. None of the information supplied in this conversation is stored.',
+    message: `Please note: 
+
+      This app is for information purposes only and does not constitute a medical assessment.
+      
+      The research and data on COVID-19 continues to grow and evolve on an hourly basis which means that this information may be quickly outdated.
+      
+      Consulting this website is not a substitute for consulting your provincial/territorial public health department. None of the information supplied in this conversation is stored.`,
     trigger: 'intro4'
   },
   {
@@ -32,6 +37,12 @@ const riskAssessment: Step[] = [
   {
     id: 'askForLocation',
     message: 'Where are you currently located?',
+    trigger: 'askForLocationInfo'
+  },
+  {
+    id: 'askForLocationInfo',
+    message:
+      'Based on your location, I will be able to tailor the information so that it applies to you!',
     trigger: 'askForLocationOptions'
   },
   {
@@ -121,12 +132,12 @@ const riskAssessment: Step[] = [
       {
         label: 'Yes',
         value: true,
-        trigger: 'outro1'
+        trigger: 'askTraveledAffectedAreas'
       },
       {
         label: 'No',
         value: false,
-        trigger: 'outro1'
+        trigger: 'askTraveledAffectedAreas'
       }
     ]
   },
@@ -217,7 +228,6 @@ const riskAssessment: Step[] = [
       }
     ]
   },
-
   {
     id: 'askHasDifficultyBreathing',
     message: 'Do you have difficulty breathing?',
@@ -235,6 +245,122 @@ const riskAssessment: Step[] = [
         label: 'No',
         value: false,
         trigger: 'askHasHadContact'
+      }
+    ]
+  },
+  {
+    id: 'askTraveledAffectedAreas',
+    message:
+      'Have you traveled to any of the affected areas in the past 14 days? Affected Areas: Mainland China, Hong Kong, Iran, Italy, Japan, South Korea, Singapore',
+    trigger: 'askTraveledAffectedAreasOptions'
+  },
+  {
+    id: 'askTraveledAffectedAreasOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'askHasImmuneDecreased'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'askHasImmuneDecreased'
+      }
+    ]
+  },
+  {
+    id: 'askHasImmuneDecreased',
+    message:
+      'Do you have any of the following? We would like to find out if your immunity is decreased.',
+    trigger: 'askHasImmuneDecreasedInfo'
+  },
+  {
+    id: 'askHasImmuneDecreasedInfo',
+    message:
+      'You have a history of diabetes. You take long-term oral steroids. You have an autoimmune disease such as lupus or rheumatoid arthritis. You have a history of cancer. You have HIV/AIDS .You have chronic kidney or liver disease. You are on medications after an organ transplant. Has your doctor told you that your immune system is compromised? ',
+    trigger: 'askHasImmuneDecreasedOptions'
+  },
+  {
+    id: 'askHasImmuneDecreasedOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'askHasImmuneDecreased2'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'askHasImmuneDecreased2'
+      }
+    ]
+  },
+  {
+    id: 'askHasImmuneDecreased2',
+    message:
+      'Are you taking any medications that your doctor has said may cause decreased immunity?',
+    trigger: 'askHasImmuneDecreased2Options'
+  },
+  {
+    id: 'askHasImmuneDecreased2Options',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'askHasChronicLungDisease'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'askHasChronicLungDisease'
+      }
+    ]
+  },
+  {
+    id: 'askHasChronicLungDisease',
+    message: 'Do you have a history of chronic lung disease?',
+    trigger: 'askHasChronicLungDiseaseInfo'
+  },
+  {
+    id: 'askHasChronicLungDiseaseInfo',
+    message:
+      'Answer yes to this question if any of the following are true: You have a history of asthma; You have a history of chronic obstructive pulmonary disease/copd or emphysema; You have a history of chronic bronchitis; You have a history of interstitial lung disease; You have a history of a chronic lung disease not listed above.',
+    trigger: 'askHasChronicLungDiseaseOptions'
+  },
+  {
+    id: 'askHasChronicLungDiseaseOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'askHasTravelPlans'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'askHasTravelPlans'
+      }
+    ]
+  },
+  {
+    id: 'askHasTravelPlans',
+    message:
+      'Are you planning on travelling outside of Canada in the next month?',
+    trigger: 'askHasTravelPlansOptions'
+  },
+  {
+    id: 'askHasTravelPlansOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'outro1'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'outro1'
       }
     ]
   }
