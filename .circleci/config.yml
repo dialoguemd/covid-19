@@ -24,12 +24,12 @@ commands:
     steps:
       - restore_cache:
           keys:
-            - v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
-            - v1-covid19-{{ .Branch }}-
-            - v1-covid19-
+            - v2-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+            - v2-covid19-{{ .Branch }}-
+            - v2-covid19-
       - run: npm ci
       - save_cache:
-          key: v1-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
+          key: v2-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
           paths:
             - ~/.npm
 

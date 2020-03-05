@@ -1,5 +1,10 @@
+interface Window {}
+
 declare module 'react-simple-chatbot' {
-  declare let ReactSimpleChatbot: React.FC<{ steps: Step[] }>
+  declare let ReactSimpleChatbot: React.FC<{
+    steps: Step[]
+    [key: string]: any
+  }>
 
   type StepId = string | number
   type StepTrigger =
@@ -35,7 +40,7 @@ declare module 'react-simple-chatbot' {
 
   export interface OptionEntry {
     label: string
-    value: any
+    value?: any
     trigger: StepTrigger
   }
 

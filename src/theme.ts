@@ -10,15 +10,16 @@ const colors = {
 } as const
 
 const sizes = {
-  title: '50pt',
-  question: '40pt',
-  buttonText: '24pt',
-  body: '24pt'
+  title: '36px',
+  question: '20px',
+  buttonText: '16px',
+  body: '16px',
+  small: '12px'
 } as const
 
 export const theme = {
   colors,
   sizes,
   fontFamily:
-    '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
+    '"Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
 } as const

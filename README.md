@@ -20,3 +20,42 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+# Rules
+Defining rules is handled by [json-rules-engine](https://github.com/cachecontrol/json-rules-engine).
+
+- [Documentation](https://github.com/CacheControl/json-rules-engine/tree/master/docs)
+- [Examples](https://github.com/CacheControl/json-rules-engine/tree/master/examples)
+- [Walkthrough](https://github.com/CacheControl/json-rules-engine/blob/master/docs/walkthrough.md)
+
+## Definitions
+- `Facts` are the values collected through the chat
+- `Rules` are the evaluation of those facts
+- `Results` are generated from the rules being applied to those facts
+
+## Adding rules
+
+### Globally
+Add them to `rules/global.json`
+
+### On Step
+They can also be defined on a step directly under metadata. Step-defined rules will only be applied if that step was rendered.
+
+e.g.
+```
+steps={[
+  {
+    id: '1',
+    message: 'Pick a number',
+    trigger: '2',
+    metadata: {
+      rule: {
+        "conditions":{...},
+        "event":{...}
+      }
+    }
+  },
+  ...
+]}
+```

@@ -1,0 +1,49 @@
+import { Engine } from 'json-rules-engine'
+import rulesGlobal from 'rules/global.json'
+
+export const isRule = rule =>
+  typeof rule === 'object' && !!rule.conditions && !!rule.event
+
+export const isDefined = value => value !== undefined
+
+export const stepHasValue = step => isDefined(step.value)
+
+export const getRulesFromChatSteps = (steps = []) =>
+  steps.map(step => step && step.metadata && step.metadata.rule).filter(isRule)
+
+export const getFactsFromChatSteps = (steps = []) =>
+  steps
+    .filter(stepHasValue)
+    .reduce((facts, step) => ({ ...facts, [step.id]: step.value }), {})
+
+export const getClassesFromRuleResults = ({ events }) =>
+  events
+    .map(event => event && event.params && event.params.id)
+    .filter(isDefined)
+
+export const getChatClassifications = ({ renderedSteps }) => {
+  // TODO: Check if there's a way to clear rule set and reuse instance
+  // One-time use.
+  let engine = new Engine()
+
+  // Load rules defined in global rule set
+  rulesGlobal.forEach(rule => engine.addRule(rule))
+
+  // Load rules defined on steps
+  const stepRules = getRulesFromChatSteps(renderedSteps)
+  stepRules.forEach(rule => engine.addRule(rule))
+
+  // Extract facts from the chat values
+  const facts = getFactsFromChatSteps(renderedSteps)
+
+  const cleanUp = () => {
+    // Clean up
+    engine = null
+  }
+
+  // Run the engine to evaluate, return promise
+  return engine
+    .run(facts)
+    .then(getClassesFromRuleResults)
+    .finally(cleanUp)
+}
