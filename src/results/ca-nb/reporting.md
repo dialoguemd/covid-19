@@ -1,4 +1,4 @@
-## Who should I contact if I think I have COVID-19? 
+## Who should I contact if I think I have COVID-19?
 
 If you became sick during your travel or after your return, contact TeleCare 8-1-1 to access a free, confidential service that will provide health advice and information and access to the appropriate level of care.
 

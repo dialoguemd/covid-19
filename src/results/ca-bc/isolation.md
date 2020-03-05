@@ -6,4 +6,4 @@ For the health of your family, friends and community, you need to stay at home. 
 
 It is better if those you live with can stay somewhere else, especially if they have a weak immune system or chronic health conditions. If you need to share a home, stay and sleep in a room with good airflow that is away from others. Use a separate bathroom if you can. Wear a face mask (surgical/procedure mask) if you are in the same room with anyone. Avoid face to face contact; friends or family can drop off food outside your room or home.‎
 
-[Source](http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Self-isolation--and--testing)
+[Source](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Self-isolation--and--testing>)
