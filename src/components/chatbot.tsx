@@ -105,7 +105,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     border-width: 0;
     box-shadow: none;
     width: 100%;
-    text-align: right;
+    text-align: center;
   }
 `
 
