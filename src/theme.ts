@@ -12,7 +12,7 @@ const colors = {
 const sizes = {
   title: '36px',
   question: '20px',
-  buttonText: '16px',
+  buttonText: '20px',
   body: '16px',
   small: '12px'
 } as const
@@ -23,3 +23,5 @@ export const theme = {
   fontFamily:
     '"Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
 } as const
+
+export const mobileBreakpoint = 500 as number

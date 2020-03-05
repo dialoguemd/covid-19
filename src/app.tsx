@@ -1,14 +1,16 @@
 import React from 'react'
 
 import styled, { ThemeProvider } from 'styled-components/macro'
+import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
 
+import ResultsPage from './pages/results'
 import Chatbot from './components/chatbot'
-import Footer from './components/footer'
 import { theme } from './theme'
 
 const AppContainer = styled.div`
   position: absolute;
   height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
 `
@@ -16,10 +18,21 @@ const AppContainer = styled.div`
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <AppContainer>
-        <Chatbot />
-        <Footer />
-      </AppContainer>
+      <Router>
+        <AppContainer>
+          <Switch>
+            <Route exact path="/">
+              <Chatbot />
+            </Route>
+            <Route path="/results/">
+              <ResultsPage />
+            </Route>
+            <Route path="*">
+              <Redirect to="/" />
+            </Route>
+          </Switch>
+        </AppContainer>
+      </Router>
     </ThemeProvider>
   )
 }

@@ -1,3 +1,10 @@
+interface Window {}
+
+declare module '*.md' {
+  declare let url: string
+  export default url
+}
+
 declare module 'react-simple-chatbot' {
   declare let ReactSimpleChatbot: React.FC<{
     steps: Step[]
@@ -48,7 +55,7 @@ declare module 'react-simple-chatbot' {
     hideInput?: boolean
   }
 
-  interface CustomComponentProps {
+  export interface CustomComponentProps {
     previousStep: Record<string, any>
     step: Record<string, any>
     steps: Record<string, any>
@@ -56,7 +63,7 @@ declare module 'react-simple-chatbot' {
   }
 
   export interface CustomStep {
-    component: React.ElementType<CustomComponentProps>
+    component: React.ComponentElement<CustomComponentProps>
     replace?: boolean
     waitAction?: boolean
     asMessage?: boolean
