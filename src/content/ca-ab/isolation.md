@@ -12,4 +12,4 @@ You can also use delivery or pick up services for errands such as grocery shoppi
 
 If you need to leave your home for an urgent errand, such as picking up essential medication, as a precaution to further reduce risk of spread, you can wear a surgical mask while you are out.
 
-[Source] (https://open.alberta.ca/dataset/44e7c639-7bb6-4bb4-9138-1abf5c56a7b8/resource/91cd86ac-7eaf-4376-9f9a-0b600a9af2fa/download/health-self-isolation-information-sheet.pdf)
+[Source](https://open.alberta.ca/dataset/44e7c639-7bb6-4bb4-9138-1abf5c56a7b8/resource/91cd86ac-7eaf-4376-9f9a-0b600a9af2fa/download/health-self-isolation-information-sheet.pdf)

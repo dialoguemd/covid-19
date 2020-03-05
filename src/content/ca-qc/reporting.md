@@ -1,12 +1,5 @@
-# How to report
+## Who should I contact if I think I have COVID-19? 
 
-* Wash your hands often with soap and water for at least 20 seconds
-* Avoid touching your eyes, nose, or mouth with unwashed hands
-* Stay home if you are sick
-* When coughing or sneezing
-  * Cover your mouth and nose with your arm or tissues to reduce the spread of germs
-  * Immediately dispose of any tissues you have used into the garbage as soon as possible and wash your hands afterwards
+Québec residents who develop fever or cough symptoms or respiratory difficulties when they return from a trip outside of Canada are invited to contact Info-Santé 811. As needed, the caseworker will tell them what institution to visit for a check-up. If a consultation is required, it is important for residents to inform the health care facility about their travel history before they go to the facility or when they arrive so that the necessary preventive measures can be taken.
 
-* Avoid visiting people in hospitals or long-term care centres if you are sick
-
-[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
+[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
