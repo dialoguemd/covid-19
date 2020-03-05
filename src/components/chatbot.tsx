@@ -22,15 +22,15 @@ const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   sizes
 })
 
-const navigateToResults = results => {
-  const query = results.join(',')
-  const url = `result=${query}`
-  window.location.search = url
-}
+// const navigateToResults = results => {
+//   const query = results.join(',')
+//   const url = `result=${query}`
+//   window.location.search = url
+// }
 
 const handleEnd = async payload => {
   const results = await getChatClassifications(payload)
-  navigateToResults(results)
+  // navigateToResults(results)
 }
 
 const StyledChatbot = styled(ReactSimpleChatbot)`
