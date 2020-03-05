@@ -40,6 +40,11 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   display: flex;
   justify-content: center;
 
+  /* Removes shadow around avatar */
+  .rsc-ts-bot .rsc-ts-image {
+    box-shadow: none;
+  }
+
   .rsc-container {
     box-shadow: none;
     border-radius: 0;
