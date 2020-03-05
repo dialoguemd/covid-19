@@ -1,6 +1,6 @@
 import React from 'react'
 
-import styled, { ThemeProvider } from 'styled-components'
+import styled, { ThemeProvider } from 'styled-components/macro'
 
 import Chatbot from './components/chatbot'
 import Footer from './components/footer'
