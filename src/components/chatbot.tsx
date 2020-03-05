@@ -74,6 +74,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     overflow: hidden;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     padding: 0;
+    min-width: 25vw;
   }
 
   .rsc-os-option:first-child {
@@ -81,7 +82,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   }
 
   .rsc-os-option {
-    box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.05);
+    box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.05);
   }
 
   .rsc-os-option-element {
@@ -93,6 +94,8 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     background: transparent;
     border-width: 0;
     box-shadow: none;
+    width: 100%;
+    text-align: right;
   }
 `
 
