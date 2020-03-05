@@ -24,4 +24,4 @@ export const theme = {
     '"Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
 } as const
 
-export const mobileBreakpoint = 500 as number;
+export const mobileBreakpoint = 500 as number
