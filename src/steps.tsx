@@ -1,4 +1,8 @@
+import React from 'react'
+
 import { Step } from 'react-simple-chatbot'
+
+import Results from './components/results-bubble'
 
 const intro: Step[] = [
   {
@@ -67,6 +71,9 @@ const riskAssessment: Step[] = [
   }
 ]
 
-const outro: Step[] = [{ id: 'outro1', message: 'Thanks!', end: true }]
+const outro: Step[] = [
+  { id: 'outro1', message: 'Thanks!', trigger: 'showResults' },
+  { id: 'showResults', component: <Results />, end: true }
+]
 
 export default [...intro, ...riskAssessment, ...outro]
