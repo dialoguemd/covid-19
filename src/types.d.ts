@@ -1,3 +1,5 @@
+interface Window {}
+
 declare module 'react-simple-chatbot' {
   declare let ReactSimpleChatbot: React.FC<{
     steps: Step[]
