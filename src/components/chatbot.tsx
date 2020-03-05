@@ -44,6 +44,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   .rsc-os-option-element {
     font-size: ${props => props.theme.sizes.buttonText};
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
+    font-weight: 500;
   }
 `
 
