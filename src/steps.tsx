@@ -40,18 +40,79 @@ const riskAssessment: Step[] = [
       {
         label: 'Quebec',
         value: 'QC',
-        trigger: 'askHasHadContact'
+        trigger: 'askAgeRange'
       },
       {
         label: 'Ontario',
         value: 'ON',
-        trigger: 'askHasHadContact'
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Nova Scotia',
+        value: 'NS',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'New Brunswick',
+        value: 'NB',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Manitoba',
+        value: 'MB',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'British Columbia',
+        value: 'BC',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Prince Edward Island',
+        value: 'PE',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Saskatchewan',
+        value: 'SK',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Alberta',
+        value: 'AB',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Newfoundland and Labrador',
+        value: 'NL',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Northwest Territories',
+        value: 'NT',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Yukon',
+        value: 'YT',
+        trigger: 'askAgeRange'
+      },
+      {
+        label: 'Nunavut',
+        value: 'NU',
+        trigger: 'askAgeRange'
       }
     ]
   },
   {
     id: 'askHasHadContact',
     message: 'Have you been in contact with anyone infected?',
+    trigger: 'askHasHadContactInfo'
+  },
+  {
+    id: 'askHasHadContactInfo',
+    message:
+      'Close contact is defined as: Health care associated exposure, including providing direct care for nCoV patients, working with health care workers infected with novel coronavirus, visiting patients or staying in the same close environment as a nCoV patient. Working together in close proximity or sharing the same classroom environment with a nCoV patient Traveling together with a nCoV patient. Living in the same household as a nCoV patient',
     trigger: 'askHasHadContactOptions'
   },
   {
@@ -66,6 +127,114 @@ const riskAssessment: Step[] = [
         label: 'No',
         value: false,
         trigger: 'outro1'
+      }
+    ]
+  },
+  {
+    id: 'askAgeRange',
+    message: 'Are you above the age of 65?',
+    trigger: 'askHasRangeOptions'
+  },
+  {
+    id: 'askHasRangeOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'askHasFever'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'askHasFever'
+      }
+    ]
+  },
+  {
+    id: 'askHasFever',
+    message: 'Do you have a fever?',
+    trigger: 'askHasFeverInfo'
+  },
+  {
+    id: 'askHasFeverInfo',
+    message:
+      'In most adults, an oral or axillary temperature above 37.6°C (99.7°F) or a rectal or ear temperature above 38.1°C (100.6°F) is considered a fever. A child has a fever when his or her rectal temperature is 38°C (100.4°F) or higher or armpit (axillary) temperature is 37.6°C (99.7°F) or higher. Infants less than 3 months old with a rectal temperature of 38° (100.4°F) or higher or an armpit (axillary) temperature of 37.3°C (99.1°F) or higher should be seen by a doctor.',
+    trigger: 'askHasFeverOptions'
+  },
+  {
+    id: 'askHasFeverOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'askHasCough'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'askHasCough'
+      }
+    ]
+  },
+  {
+    id: 'askHasCough',
+    message: 'Do you have a cough?',
+    trigger: 'askHasCoughOptions'
+  },
+  {
+    id: 'askHasCoughOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'askHasDifficultyBreathing'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'askHasDifficultyBreathing'
+      }
+    ]
+  },
+
+  {
+    id: 'askHasDifficultyBreathing',
+    message: 'Do you have difficulty breathing?',
+    trigger: 'askHasDifficultyBreathingOptions'
+  },
+  {
+    id: 'askHasDifficultyBreathingOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'outro1'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'outro1'
+      }
+    ]
+  },
+
+  {
+    id: 'askHasDifficultyBreathing',
+    message: 'Do you have difficulty breathing?',
+    trigger: 'askHasDifficultyBreathingOptions'
+  },
+  {
+    id: 'askHasDifficultyBreathingOptions',
+    options: [
+      {
+        label: 'Yes',
+        value: true,
+        trigger: 'askHasHadContact'
+      },
+      {
+        label: 'No',
+        value: false,
+        trigger: 'askHasHadContact'
       }
     ]
   }
