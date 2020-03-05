@@ -8,7 +8,7 @@ import steps from 'steps'
 import { theme } from 'theme'
 import chloe from 'images/chloe.png'
 
-declare var window: any;
+declare var window: any
 
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   background: colors.background,
@@ -30,7 +30,7 @@ const navigateToResults = results => {
   window.location.search = url
 }
 
-const handleEnd = async (payload) => {
+const handleEnd = async payload => {
   const results = await getChatClassifications(payload)
   navigateToResults(results)
 }
