@@ -2,10 +2,13 @@ import React from 'react'
 
 import ReactSimpleChatbot from 'react-simple-chatbot'
 import styled, { ThemeProvider } from 'styled-components/macro'
+import { getChatClassifications } from 'services/chat-classifier'
 
 import steps from 'steps'
 import { theme } from 'theme'
 import chloe from 'images/chloe.png'
+
+declare var window: any;
 
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   background: colors.background,
@@ -20,6 +23,17 @@ const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   colors,
   sizes
 })
+
+const navigateToResults = results => {
+  const query = results.join(',')
+  const url = `result=${query}`
+  window.location.search = url
+}
+
+const handleEnd = async (payload) => {
+  const results = await getChatClassifications(payload)
+  navigateToResults(results)
+}
 
 const StyledChatbot = styled(ReactSimpleChatbot)`
   height: 100%;
@@ -54,6 +68,7 @@ export const Chatbot: React.FC = props => {
       <StyledChatbot
         {...props}
         steps={steps}
+        handleEnd={handleEnd}
         hideHeader
         hideUserAvatar
         botAvatar={chloe}
