@@ -1,7 +1,10 @@
-# covid-19
-Client-side chatbot questionnaire to evaluate and inform user on their COVID-19 risk
+# What is it
+The purpose of this app is to deliver accurate personalized information from trusted Canadian medical sources regarding COVID-19.
 
-## Available Scripts
+This service personalizes the information about the virus based on user's individual situation. All content is vetted by Canadian medical professionals. 
+
+
+## Running locally
 
 In the project directory, you can run:
 
