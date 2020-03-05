@@ -12,7 +12,7 @@ const colors = {
 const sizes = {
   title: '36px',
   question: '20px',
-  buttonText: '16px',
+  buttonText: '20px',
   body: '16px',
   small: '12px'
 } as const

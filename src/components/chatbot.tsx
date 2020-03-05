@@ -40,6 +40,11 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   display: flex;
   justify-content: center;
 
+  /* Removes shadow around avatar */
+  .rsc-ts-bot .rsc-ts-image {
+    box-shadow: none;
+  }
+
   .rsc-container {
     box-shadow: none;
     border-radius: 0;
@@ -47,16 +52,55 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
 
   .rsc-content {
     height: calc(100% - 51px);
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
   }
 
   .rsc-ts-bubble {
     font-size: ${props => props.theme.sizes.question};
     padding: calc(${props => props.theme.sizes.question} * 0.75);
+    margin-top: 10px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   }
+
+  .rsc-os {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-grow: 1;
+  }
+
+  .rsc-os-options {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    border-radius: 35px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    padding: 0;
+    min-width: 25vw;
+  }
+
+  .rsc-os-option:first-child {
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
+  }
+
+  .rsc-os-option {
+    box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.05);
+  }
+
   .rsc-os-option-element {
+    color: ${props => props.theme.colors.primary};
     font-size: ${props => props.theme.sizes.buttonText};
-    padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
+    padding: calc(${props => props.theme.sizes.buttonText} * 1);
+    border-radius: 0;
     font-weight: 500;
+    background: transparent;
+    border-width: 0;
+    box-shadow: none;
+    width: 100%;
+    text-align: right;
   }
 `
 
