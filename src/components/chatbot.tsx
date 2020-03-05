@@ -30,6 +30,7 @@ const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
 
 const handleEnd = async payload => {
   const results = await getChatClassifications(payload)
+  console.log(results)
   // navigateToResults(results)
 }
 
