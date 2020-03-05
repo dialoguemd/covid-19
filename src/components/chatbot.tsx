@@ -75,7 +75,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     display: flex;
     justify-content: flex-end;
     flex-direction: column;
-    border-radius: 30px;
+    border-radius: 35px;
     overflow: hidden;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     padding: 0;
