@@ -1,14 +1,25 @@
 import React from 'react'
 
-import { ThemeProvider } from 'styled-components'
+import styled, { ThemeProvider } from 'styled-components'
 
 import Chatbot from './components/chatbot'
+import Footer from './components/footer'
 import { theme } from './theme'
+
+const AppContainer = styled.div`
+  position: absolute;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+`
 
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <Chatbot />
+      <AppContainer>
+        <Chatbot />
+        <Footer />
+      </AppContainer>
     </ThemeProvider>
   )
 }
