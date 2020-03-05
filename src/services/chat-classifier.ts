@@ -1,21 +1,20 @@
 import { Engine } from 'json-rules-engine'
 import rulesGlobal from 'rules/global.json'
 
-export const isRule = rule => typeof rule === 'object' && !!rule.conditions && !!rule.event
+export const isRule = rule =>
+  typeof rule === 'object' && !!rule.conditions && !!rule.event
 
 export const isDefined = value => value !== undefined
 
 export const stepHasValue = step => isDefined(step.value)
 
 export const getRulesFromChatSteps = (steps = []) =>
-  steps
-    .map(step => step && step.metadata && step.metadata.rule)
-    .filter(isRule)
+  steps.map(step => step && step.metadata && step.metadata.rule).filter(isRule)
 
 export const getFactsFromChatSteps = (steps = []) =>
   steps
     .filter(stepHasValue)
-    .reduce((facts, step) => ({...facts, [step.id]: step.value }), {})
+    .reduce((facts, step) => ({ ...facts, [step.id]: step.value }), {})
 
 export const getClassesFromRuleResults = ({ events }) =>
   events
@@ -23,7 +22,6 @@ export const getClassesFromRuleResults = ({ events }) =>
     .filter(isDefined)
 
 export const getChatClassifications = ({ renderedSteps }) => {
-
   // TODO: Check if there's a way to clear rule set and reuse instance
   // One-time use.
   let engine = new Engine()
@@ -48,5 +46,4 @@ export const getChatClassifications = ({ renderedSteps }) => {
     .run(facts)
     .then(getClassesFromRuleResults)
     .finally(cleanUp)
-
 }
