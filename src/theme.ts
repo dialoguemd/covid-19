@@ -10,10 +10,10 @@ const colors = {
 } as const
 
 const sizes = {
-  title: '50px',
-  question: '40px',
-  buttonText: '24px',
-  body: '24px',
+  title: '36px',
+  question: '20px',
+  buttonText: '16px',
+  body: '16px',
   small: '12px'
 } as const
 

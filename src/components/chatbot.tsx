@@ -3,6 +3,7 @@ import React from 'react'
 import ReactSimpleChatbot from 'react-simple-chatbot'
 import styled, { ThemeProvider } from 'styled-components'
 
+import steps from 'steps'
 import { theme } from 'theme'
 import chloe from 'images/chloe.png'
 
@@ -23,28 +24,7 @@ export const Chatbot: React.FC = props => {
     <ThemeProvider theme={makeTheme}>
       <ReactSimpleChatbot
         {...props}
-        steps={[
-          {
-            id: 'hello-world',
-            message: 'Hello! Do you live in Canada?',
-            trigger: 'is-in-canada'
-          },
-          {
-            id: 'is-in-canada',
-            options: [
-              { value: true, label: 'Yes', trigger: 'in-canada' },
-              { value: false, label: 'No', trigger: 'not-in-canada' }
-            ]
-          },
-          {
-            id: 'not-in-canada',
-            message: 'Sorry aboot this, we are only available in Canada.'
-          },
-          {
-            id: 'in-canada',
-            message: 'Great!'
-          }
-        ]}
+        steps={steps}
         hideHeader
         hideUserAvatar
         botAvatar={chloe}
@@ -61,17 +41,26 @@ export const Chatbot: React.FC = props => {
 export default styled(Chatbot)`
   height: 100%;
   width: 100%;
+  padding: 8px;
+  overflow: hidden;
   display: flex;
   justify-content: center;
 
   .rsc-container {
-    max-width: 600px;
     box-shadow: none;
     border-radius: 0;
-    margin: 0;
   }
 
   .rsc-content {
     height: calc(100% - 51px);
+  }
+
+  .rsc-ts-bubble {
+    font-size: ${props => props.theme.sizes.question};
+    padding: calc(${props => props.theme.sizes.question} * 0.75);
+  }
+  .rsc-os-option-element {
+    font-size: ${props => props.theme.sizes.buttonText};
+    padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
   }
 `
