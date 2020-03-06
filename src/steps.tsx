@@ -1,4 +1,5 @@
 import React from 'react'
+import i18n from 'services/i18n'
 
 import { Step } from 'react-simple-chatbot'
 
@@ -7,22 +8,17 @@ import Results from './components/results-bubble'
 const intro: Step[] = [
   {
     id: 'intro1',
-    message: 'Hi there!',
+    message: i18n.t('steps.intro1'),
     trigger: 'intro2'
   },
   {
     id: 'intro2',
-    message:
-      "I'm Chloé, an intelligent medical assistant. I'm here to get you accurate information about COVID-19. To make it relevant to your situation, I'd like to ask you a few questions. It should take not more than a couple of minutes.",
+    message: i18n.t('steps.intro2'),
     trigger: 'intro3'
   },
   {
     id: 'intro3',
-    message: `
-    Note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor.
-
-    The information is updated regularely, but some of it may be outdated.
-    `,
+    message: i18n.t('steps.intro3'),
     trigger: 'intro4'
   },
   {
@@ -250,7 +246,7 @@ const riskAssessment: Step[] = [
   {
     id: 'askTraveledAffectedAreas',
     message: `
-    Have you traveled to **any** of these areas in the past 14 days: 
+    Have you traveled to **any** of these areas in the past 14 days:
 
     - Mainland China
     - Hong Kong
@@ -284,16 +280,16 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasImmuneDecreasedInfo',
-    message: ` 
+    message: `
     Do **any** of these apply to you?
-    
-    - Do you have a history of diabetes? 
-    - Do you take long-term oral steroids? 
-    - Do you have an autoimmune disease such as lupus or rheumatoid arthritis? 
-    - Do you have a history of cancer? 
+
+    - Do you have a history of diabetes?
+    - Do you take long-term oral steroids?
+    - Do you have an autoimmune disease such as lupus or rheumatoid arthritis?
+    - Do you have a history of cancer?
     - Do you have HIV/AIDS?
-    - Do you have chronic kidney or liver disease? 
-    - Do you are on medications after an organ transplant? 
+    - Do you have chronic kidney or liver disease?
+    - Do you are on medications after an organ transplant?
     - Has your doctor told you that your immune system is compromised?`,
     trigger: 'askHasImmuneDecreasedOptions'
   },
@@ -393,7 +389,7 @@ const outro: Step[] = [
     id: 'outro1',
     message: `
     We're done with the questions! Your personal information package is ready.
-      
+
     You can always check back using the link below, our medical team is updating the information as the situation develops.`,
     trigger: 'showResults'
   },
