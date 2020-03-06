@@ -4,19 +4,25 @@ import i18nLanguageDetector from 'i18next-browser-languagedetector'
 import packageJson from '../../package.json'
 
 const resources = {
-  en: { translation: require('i18n/en.json') },
-  fr: { translation: require('i18n/fr.json') }
+  en: {
+    steps: require('i18n/steps.en.json')
+  },
+  fr: {
+    steps: require('i18n/steps.fr.json')
+  },
 }
 
 const fallbackLng =
   process.env.NODE_ENV !== 'production' && packageJson.supportedLanguages
 
 const initOptions = {
+  ns: ['steps'],
   fallbackLng,
   initImmediate: true,
   nonExplicitWhitelist: true,
   resources,
   saveMissing: true,
+  appendNamespaceToMissingKey: true,
   parseMissingKeyHandler: key => `❌${key}`
 }
 

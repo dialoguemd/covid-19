@@ -1,5 +1,5 @@
 import React from 'react'
-import i18n from 'services/i18n'
+import i18n from 'i18next'
 
 import { Step } from 'react-simple-chatbot'
 
@@ -8,22 +8,22 @@ import Results from './components/results-bubble'
 const intro: Step[] = [
   {
     id: 'intro1',
-    message: i18n.t('steps.intro1'),
+    message: i18n.t('steps:intro1'),
     trigger: 'intro2'
   },
   {
     id: 'intro2',
-    message: i18n.t('steps.intro2'),
+    message: i18n.t('steps:intro2'),
     trigger: 'intro3'
   },
   {
     id: 'intro3',
-    message: i18n.t('steps.intro3'),
+    message: i18n.t('steps:intro3'),
     trigger: 'intro4'
   },
   {
     id: 'intro4',
-    options: [{ label: "OK, let's get started", trigger: 'askForLocation' }]
+    options: [{ label: i18n.t('steps:intro4'), trigger: 'askForLocation' }]
   }
 ]
 
