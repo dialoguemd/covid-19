@@ -19,8 +19,8 @@ const intro: Step[] = [
   {
     id: 'intro3',
     message: `Note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor.
-      
-      The information is updated regularely, but some of it may be outdated.      
+
+      The information is updated regularely, but some of it may be outdated.
       `,
     trigger: 'intro4'
   },
@@ -269,7 +269,7 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasImmuneDecreased',
     message:
-      'Now I\'d like to ask you a few questions to find out if your immunity is decreased.',
+      "Now I'd like to ask you a few questions to find out if your immunity is decreased.",
     trigger: 'askHasImmuneDecreasedInfo'
   },
   {
@@ -391,13 +391,18 @@ const riskAssessment: Step[] = [
   {
     id: 'explainDialogue',
     message:
-      'Dialogue is a virtual clinic for you and your family. Here\'s some of the thigs Dialogue can do for you: Chat with a nurse about any medical issue, skip the commute. Consult with a doctor via live video, skip the waiting room. Renew a prescription and get it delivered, skip a pharmacy queue. Get a referral to a specialist, fast. To learn more about Dialogue, visit https://dialogue.co',
-      trigger: 'outro1'
+      "Dialogue is a virtual clinic for you and your family. Here's some of the thigs Dialogue can do for you: Chat with a nurse about any medical issue, skip the commute. Consult with a doctor via live video, skip the waiting room. Renew a prescription and get it delivered, skip a pharmacy queue. Get a referral to a specialist, fast. To learn more about Dialogue, visit https://dialogue.co",
+    trigger: 'outro1'
   }
 ]
 
 const outro: Step[] = [
-  { id: 'outro1', message: 'Done with the questions. Your personal information package is ready. Check back using the link below, our medical team is updating the information as the situation develops. If you know other people in your situation, share the link with them.', trigger: 'showResults' },
+  {
+    id: 'outro1',
+    message:
+      'Done with the questions. Your personal information package is ready. Check back using the link below, our medical team is updating the information as the situation develops. If you know other people in your situation, share the link with them.',
+    trigger: 'showResults'
+  },
   { id: 'showResults', component: <Results />, end: true }
 ]
 
