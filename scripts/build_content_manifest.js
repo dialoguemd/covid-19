@@ -7,21 +7,34 @@ const packageJson = require('../package.json');
 
 const SRC = packageJson.contentSrc
 const DST = packageJson.contentManifestDst
+const SUPPORTED_LANGUAGES = packageJson.supportedLanguages
+const DEFAULT_LANGAUGE = SUPPORTED_LANGUAGES[0]
 
 const cleanLeadingSlash = str => str.substr(str.charAt(0) === "/" ? 1 : 0)
 
 const saveJsonFile = (dst, data) => {
+  console.log(`Saved ${dst}`, data)
   fs.writeFileSync(dst, JSON.stringify(data, null, 2));
 }
 
-const getFileDetails = file => {
+const getLanguageFromFileName = file => {
+  try {
+    const parts = file.split('.')
+    const lang = parts[parts.length - 2]
+    return SUPPORTED_LANGUAGES.indexOf(lang) !== -1 ? lang : DEFAULT_LANGAUGE
+  } catch (err) {}
+}
+
+const getFileInfo = file => {
   const stats = fs.statSync(file)
   return {
     name: path.basename(file, '.md'),
-    filePath: cleanLeadingSlash(file.replace(SRC, '')),
+    path: cleanLeadingSlash(file.replace(SRC, '')),
     md5: md5File.sync(file),
     modified: stats.mtime,
     created: stats.ctime,
+    class: getClassFromFile(file),
+    lang: getLanguageFromFileName(file)
   }
 }
 
@@ -29,19 +42,12 @@ const getClassFromFile = file => cleanLeadingSlash(path.dirname(file).replace(SR
 
 glob(`${SRC}/**/*.md`, function (err, files) {
 
-  const classMap =
+  const output =
     files
-      .reduce((result, file) => {
-        const className = getClassFromFile(file)
-        const fileDetails = getFileDetails(file)
-        if(!className) return result
-        if(!result[className]) result[className] = []
-        result[className].push(fileDetails)
-        return result
-      }, {})
+      .map(getFileInfo)
+      .filter(file => !!file.class)
+      .reduce((fileSet, info) => [...fileSet, info ], [])
 
-  console.log(`Generated ${DST}`, classMap)
-
-  saveJsonFile(DST, classMap)
+  saveJsonFile(DST, output)
 
 })
