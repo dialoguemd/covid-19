@@ -1,68 +1,50 @@
 import React from 'react'
-import styled, { ThemeProvider } from 'styled-components/macro'
-import { theme } from 'theme'
+
+import styled from 'styled-components/macro'
 import logo from 'images/logo.png'
 
-const localTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
-  background: colors.background,
-  headerBgColor: colors.primary,
-  headerFontColor: colors.backgroundLight,
-  headerFontSize: sizes.question,
-  botBubbleColor: colors.backgroundLight,
-  botFontColor: colors.text,
-  userBubbleColor: colors.secondaryLight,
-  userFontColor: colors.backgroundLight,
-  fontFamily,
-  colors,
-  sizes
-})
 
 const Wrapper = styled('div')`
   h1 {
     color: ${props => props.theme.colors.primary};
     font-size: calc(${props => props.theme.sizes.buttonText} * 1.5);
-    font-family: ${props => props.theme.fontFamily};
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 500;
-    display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    text-align: center;
   }
   h2 {
     color: ${props => props.theme.colors.primary};
     font-size: calc(${props => props.theme.sizes.buttonText} * 2.0);
-    font-family: ${props => props.theme.fontFamily};
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 800;
-    display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    text-align: center;
   }
   h3 {
     color: ${props => props.theme.colors.botFontColor};
     font-size: calc(${props => props.theme.sizes.buttonText});
-    font-family: ${props => props.theme.fontFamily};
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 200;
-    display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    text-align: center;
   }
   a {
     color: ${props => props.theme.colors.botFontColor};
     font-size: calc(${props => props.theme.sizes.buttonText});
-    font-family: ${props => props.theme.fontFamily};
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 800;
-    display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    display: flex;
   }
 `
 
 export const WelcomePage: React.FC = () => {
   return (
-    <ThemeProvider theme={localTheme}>
       <Wrapper>
         <img src={logo} />
         <h2>COVID-19: What you need to know</h2>
@@ -70,7 +52,6 @@ export const WelcomePage: React.FC = () => {
 
         <a href="/#/chat/">Get Started</a>
       </Wrapper>
-  </ThemeProvider>
   )
 }
 
