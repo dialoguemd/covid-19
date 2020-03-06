@@ -13,36 +13,33 @@ const intro: Step[] = [
   {
     id: 'intro2',
     message:
-      "I'm Chloe, your friendly & informative chatbot. I'm here to provide you with relevant and personalized content regarding COVID-19 based on a short series of questions.",
+      "I'm Chloe, an intelligent medical assistant. My goal is to get you accurate and personalized information about COVID-19. Let's start with a few questions.",
     trigger: 'intro3'
   },
   {
     id: 'intro3',
-    message: `Please note: 
-
-      This app is for information purposes only and does not constitute a medical assessment.
+    message: `Note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor.
       
-      The research and data on COVID-19 continues to grow and evolve on an hourly basis which means that this information may be quickly outdated.
-      
-      Consulting this website is not a substitute for consulting your provincial/territorial public health department. None of the information supplied in this conversation is stored.`,
+      What we know about COVID-19 evolves on an hourly basis and the information we have may be outdated.      
+      `,
     trigger: 'intro4'
   },
   {
     id: 'intro4',
-    options: [{ label: "Let's start!", trigger: 'askForLocation' }]
+    options: [{ label: "OK, let's get started", trigger: 'askForLocation' }]
   }
 ]
 
 const riskAssessment: Step[] = [
   {
     id: 'askForLocation',
-    message: 'Where are you currently located?',
+    message: 'In which province are you currently located?',
     trigger: 'askForLocationInfo'
   },
   {
     id: 'askForLocationInfo',
     message:
-      'Based on your location, I will be able to tailor the information so that it applies to you!',
+      'I will be able to tailor the information so that it applies to your region.',
     trigger: 'askForLocationOptions'
   },
   {
@@ -123,14 +120,14 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasHadContactInfo',
     message:
-      'Close contact is defined as: Health care associated exposure, including providing direct care for nCoV patients, working with health care workers infected with novel coronavirus, visiting patients or staying in the same close environment as a nCoV patient. Working together in close proximity or sharing the same classroom environment with a nCoV patient Traveling together with a nCoV patient. Living in the same household as a nCoV patient',
+      'By "close contact" I mean any of the following: Health-care associated exposure, such as providing direct care for infected patients, visiting patients or staying in the same close environment. Working together in close proximity or sharing the same classroom with a nCoV patient. Traveling together with a nCoV patient. Living in the same household as a nCoV patient',
     trigger: 'askHasHadContactOptions'
   },
   {
     id: 'askHasHadContactOptions',
     options: [
       {
-        label: 'Yes',
+        label: 'Yes, some of this applies to me',
         value: true,
         trigger: 'askTraveledAffectedAreas'
       },
@@ -169,7 +166,7 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasFeverInfo',
     message:
-      'In most adults, an oral or axillary temperature above 37.6°C (99.7°F) or a rectal or ear temperature above 38.1°C (100.6°F) is considered a fever. A child has a fever when his or her rectal temperature is 38°C (100.4°F) or higher or armpit (axillary) temperature is 37.6°C (99.7°F) or higher. Infants less than 3 months old with a rectal temperature of 38° (100.4°F) or higher or an armpit (axillary) temperature of 37.3°C (99.1°F) or higher should be seen by a doctor.',
+      'This means oral or armpit temperature above 37.6°C (99.7°F) or higher. A child has a fever when his or her rectal temperature is 38°C (100.4°F) or higher or armpit temperature is 37.6°C (99.7°F) or higher.',
     trigger: 'askHasFeverOptions'
   },
   {
@@ -251,7 +248,7 @@ const riskAssessment: Step[] = [
   {
     id: 'askTraveledAffectedAreas',
     message:
-      'Have you traveled to any of the affected areas in the past 14 days? Affected Areas: Mainland China, Hong Kong, Iran, Italy, Japan, South Korea, Singapore',
+      'Have you traveled to any of these areas in the past 14 days: Mainland China, Hong Kong, Iran, Italy, Japan, South Korea, Singapore',
     trigger: 'askTraveledAffectedAreasOptions'
   },
   {
@@ -272,25 +269,25 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasImmuneDecreased',
     message:
-      'Do you have any of the following? We would like to find out if your immunity is decreased.',
+      'Now I\'d like to ask you a few questions to find out if your immunity is decreased.',
     trigger: 'askHasImmuneDecreasedInfo'
   },
   {
     id: 'askHasImmuneDecreasedInfo',
     message:
-      'You have a history of diabetes. You take long-term oral steroids. You have an autoimmune disease such as lupus or rheumatoid arthritis. You have a history of cancer. You have HIV/AIDS .You have chronic kidney or liver disease. You are on medications after an organ transplant. Has your doctor told you that your immune system is compromised? ',
+      'Do you have a history of diabetes? Do you take long-term oral steroids? Do you have an autoimmune disease such as lupus or rheumatoid arthritis? Do you have a history of cancer? Do you have HIV/AIDS. Do you have chronic kidney or liver disease? Do you are on medications after an organ transplant? Has your doctor told you that your immune system is compromised?',
     trigger: 'askHasImmuneDecreasedOptions'
   },
   {
     id: 'askHasImmuneDecreasedOptions',
     options: [
       {
-        label: 'Yes',
+        label: 'Yes, some of this applies to me',
         value: true,
         trigger: 'askHasImmuneDecreased2'
       },
       {
-        label: 'No',
+        label: 'No, nothing applies to me',
         value: false,
         trigger: 'askHasImmuneDecreased2'
       }
@@ -306,7 +303,7 @@ const riskAssessment: Step[] = [
     id: 'askHasImmuneDecreased2Options',
     options: [
       {
-        label: 'Yes',
+        label: 'Yes I do',
         value: true,
         trigger: 'askHasChronicLungDisease'
       },
@@ -325,7 +322,7 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasChronicLungDiseaseInfo',
     message:
-      'Answer yes to this question if any of the following are true: You have a history of asthma; You have a history of chronic obstructive pulmonary disease/copd or emphysema; You have a history of chronic bronchitis; You have a history of interstitial lung disease; You have a history of a chronic lung disease not listed above.',
+      'Not sure? Answer yes if any of the following are true: You have a history of asthma; You have a history of chronic obstructive pulmonary disease/copd or emphysema; You have a history of chronic bronchitis; You have a history of interstitial lung disease; You have a history of a chronic lung disease not listed above.',
     trigger: 'askHasChronicLungDiseaseOptions'
   },
   {
