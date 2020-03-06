@@ -55,7 +55,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   }
 
   .rsc-content {
-    height: calc(100% - 81px);
+    height: calc(100% - 30px);
     display: flex;
     flex-direction: column;
     padding: 15px;
@@ -93,7 +93,12 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     background: ${props => props.theme.colors.backgroundLight};
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     min-width: 6em;
+    margin: 2px;
     cursor: pointer;
+  }
+
+  .rsc-footer {
+    display: none;
   }
 `
 
