@@ -47,7 +47,7 @@ const Container = styled.div`
 export const WelcomePage: React.FC = () => {
   return (
       <Container>
-        <img src={logo} />
+        <img src={logo} alt="Dialogue"/>
         <h2>COVID-19: What you need to know</h2>
         <h3>Get accurate personalized information from trusted Canadian medical sources regarding COVID-19.</h3>
 
