@@ -4,6 +4,7 @@ import { useLocation, Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 
 import Results from 'components/results'
+import { mobileBreakpoint } from 'theme'
 
 const useQuery = () => {
   const location = useLocation()
@@ -18,6 +19,44 @@ const ResultsCard = styled.div`
   padding: 16px;
 `
 
+const Header = styled.div`
+  background-color: ${props => props.theme.colors.primary};
+  color: ${props => props.theme.colors.backgroundLight};
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  @media (max-width: ${mobileBreakpoint}px) {
+    padding: 10px 6px;
+  }
+`
+
+const Title = styled.div`
+  flex: 1 1 600px;
+  font-size: ${props => props.theme.sizes.title};
+  margin: 6px;
+
+  @media (max-width: ${mobileBreakpoint}px) {
+    font-size: ${props => props => props.theme.sizes.buttonText};
+  }
+`
+
+const HeaderLink = styled(Link)`
+  background-color: ${props => props.theme.colors.backgroundLight};
+  color: ${props => props.theme.colors.text};
+  font-size: ${props => props => props.theme.sizes.buttonText};
+  padding: 12px;
+  text-decoration: none;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+`
+
 export const ResultsPage: React.FC = () => {
   const query = useQuery()
 
@@ -28,18 +67,24 @@ export const ResultsPage: React.FC = () => {
   const hasResults = results.length > 0
 
   return (
-    <ResultsCard>
-      {hasResults ? (
-        <Results results={results} />
-      ) : (
-        <div>
-          <h2>No results provided in URL.</h2>
+    <div>
+      <Header>
+        <Title>Your Personalized COVID-19 Guide</Title>
+        <HeaderLink to="/">Take the quiz again</HeaderLink>
+      </Header>
+      <ResultsCard>
+        {hasResults ? (
+          <Results results={results} />
+        ) : (
           <div>
-            <Link to="/">back to questionnaire?</Link>
+            <h2>No results provided in URL.</h2>
+            <div>
+              <Link to="/">back to questionnaire?</Link>
+            </div>
           </div>
-        </div>
-      )}
-    </ResultsCard>
+        )}
+      </ResultsCard>
+    </div>
   )
 }
 
