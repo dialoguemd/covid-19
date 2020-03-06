@@ -72,7 +72,7 @@ export const ResultsPage: React.FC = () => {
     <div>
       <Header>
         <Title>{t('resultsPage.headerTitle')}</Title>
-        <HeaderLink to="/">{t('resultsPage.headerButton')}</HeaderLink>
+        <HeaderLink to="/chat/">{t('resultsPage.headerButton')}</HeaderLink>
       </Header>
       <ResultsCard>
         {hasResults ? (
@@ -81,7 +81,7 @@ export const ResultsPage: React.FC = () => {
           <div>
             <h2>{t('resultsPage.noResultsMessage')}</h2>
             <div>
-              <Link to="/">{t('resultsPage.backToQuestionnaire')}</Link>
+              <Link to="/chat/">{t('resultsPage.backToQuestionnaire')}</Link>
             </div>
           </div>
         )}
