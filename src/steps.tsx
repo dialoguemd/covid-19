@@ -1,5 +1,5 @@
 import React from 'react'
-import i18n from 'i18next'
+import i18n from 'services/i18n'
 
 import { Step } from 'react-simple-chatbot'
 

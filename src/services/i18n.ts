@@ -9,7 +9,7 @@ const resources = {
   },
   fr: {
     steps: require('i18n/steps.fr.json')
-  },
+  }
 }
 
 const fallbackLng =
