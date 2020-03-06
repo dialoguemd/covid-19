@@ -101,4 +101,4 @@ window.addEventListener('hashchange', () => {
   analytics.page(window.location.hash)
 })
 
-export default window.analytics
+export default analytics

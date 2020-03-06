@@ -4,7 +4,6 @@ import stripIndent from 'strip-indent'
 import { Step, TextStep, OptionStep, StepTrigger } from 'react-simple-chatbot'
 
 import MarkdownBubble from 'components/markdown-bubble'
-import analytics from 'analytics'
 
 const isTextStep = (step: Step): step is TextStep => {
   return typeof (step as TextStep).message === 'string'
