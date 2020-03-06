@@ -127,7 +127,7 @@ const riskAssessment: Step[] = [
     - Health-care associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment
     - Working in close proximity or sharing the same classroom with an infected person
     - Traveling with an infected person
-    - Living in the same household an infected person.
+    - Living in the same household an infected person
     `,
     trigger: 'askHasHadContactOptions'
   },
@@ -251,6 +251,7 @@ const riskAssessment: Step[] = [
     id: 'askTraveledAffectedAreas',
     message: `
     Have you traveled to **any** of these areas in the past 14 days: 
+
     - Mainland China
     - Hong Kong
     - Iran
@@ -340,12 +341,13 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasChronicLungDiseaseInfo',
     message: `
-    Not sure? Answer yes if **any** of the following are true: 
-    - You have a history of asthma.
-    - You have a history of chronic obstructive pulmonary disease/copd or emphysema.
-    - You have a history of chronic bronchitis.
-    - You have a history of interstitial lung disease.
-    - You have a history of a chronic lung disease not listed above.`,
+    Not sure? Answer yes if you have a history of **any** of the following:
+
+    - Asthma
+    - Chronic obstructive pulmonary disease/copd or emphysema
+    - Chronic bronchitis
+    - Interstitial lung disease
+    - Chronic lung disease not listed above`,
     trigger: 'askHasChronicLungDiseaseOptions'
   },
   {
