@@ -46,7 +46,6 @@ glob(`${SRC}/**/*.md`, function (err, files) {
     files
       .map(getFileInfo)
       .filter(file => !!file.class)
-      .reduce((fileSet, info) => [...fileSet, info ], [])
 
   saveJsonFile(DST, output)
 
