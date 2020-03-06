@@ -82,6 +82,7 @@ function initAnalytics() {
   // Load Analytics.js with your key, which will automatically
   // load the tools you've enabled for your account. Boosh!
   analytics.load(WRITE_KEY)
+  analytics.debug()
 
   // Make the first page call to load the integrations. If
   // you'd like to manually name or tag the page, edit or
@@ -90,5 +91,14 @@ function initAnalytics() {
 }
 
 initAnalytics()
+
+// track navigation events with HashRouter
+if (window.location.hash) {
+  analytics.page(window.location.hash)
+}
+
+window.addEventListener('hashchange', () => {
+  analytics.page(window.location.hash)
+})
 
 export default window.analytics
