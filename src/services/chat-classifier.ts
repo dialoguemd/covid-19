@@ -18,7 +18,7 @@ export const getFactsFromChatSteps = (steps = []) =>
 
 export const getClassesFromRuleResults = ({ events }) =>
   events
-    .map(event => event && event.params && event.params.id)
+    .flatMap(event => event && event.params && event.params.classes)
     .filter(isDefined)
 
 export const getChatClassifications = ({ renderedSteps }) => {

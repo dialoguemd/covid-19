@@ -58,7 +58,6 @@ jobs:
       - checkout
       - install-deps
       - run: npm run build
-      - run: npm run build:content-manifest
 
       - persist_to_workspace:
           root: ./
