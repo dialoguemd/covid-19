@@ -21,9 +21,7 @@ const initOptions = {
   initImmediate: true,
   nonExplicitWhitelist: true,
   resources,
-  saveMissing: true,
-  appendNamespaceToMissingKey: true,
-  parseMissingKeyHandler: key => `❌${key}`
+  appendNamespaceToMissingKey: true
 }
 
 i18n.use(i18nLanguageDetector).init(initOptions)
