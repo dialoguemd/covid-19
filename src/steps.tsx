@@ -364,7 +364,7 @@ const riskAssessment: Step[] = [
   {
     id: 'askHaveDialogue',
     message:
-      'Ok great. Thank you for your answers. Last question, do you have access to Dialogue?',
+      'Ok great. Thank you for your answers. Last question, do you have access to Dialogue through your employer?',
     trigger: 'askHaveDialogueOptions'
   },
   {
