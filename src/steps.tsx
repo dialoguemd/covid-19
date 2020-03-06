@@ -115,17 +115,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasHadContact',
-    message: 'Have you been in contact with anyone infected?',
+    message: 'Have you been in **close contact** with anyone infected?',
     trigger: 'askHasHadContactInfo'
   },
   {
     id: 'askHasHadContactInfo',
     message: `
-    By "close contact" I mean any of the following:
+    By **close contact** I mean **any** of the following:
+
+
     - Health-care associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment
     - Working in close proximity or sharing the same classroom with an infected person
     - Traveling with an infected person
-    - Living in the same household an infected person.
+    - Living in the same household an infected person
     `,
     trigger: 'askHasHadContactOptions'
   },
@@ -167,12 +169,6 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasFever',
     message: 'Do you have a fever?',
-    trigger: 'askHasFeverInfo'
-  },
-  {
-    id: 'askHasFeverInfo',
-    message:
-      'For adults, it means oral or armpit temperature above 37.6°C (99.7°F) or higher. For children, it means armpit temperature is 37.6°C (99.7°F) or higher or rectal temperature is 38°C (100.4°F) or higher.',
     trigger: 'askHasFeverOptions'
   },
   {
@@ -253,8 +249,16 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askTraveledAffectedAreas',
-    message:
-      'Have you traveled to any of these areas in the past 14 days: Mainland China, Hong Kong, Iran, Italy, Japan, South Korea, Singapore',
+    message: `
+    Have you traveled to **any** of these areas in the past 14 days: 
+
+    - Mainland China
+    - Hong Kong
+    - Iran
+    - Italy
+    - Japan
+    - South Korea
+    - Singapore`,
     trigger: 'askTraveledAffectedAreasOptions'
   },
   {
@@ -280,8 +284,17 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasImmuneDecreasedInfo',
-    message:
-      'Do you have a history of diabetes? Do you take long-term oral steroids? Do you have an autoimmune disease such as lupus or rheumatoid arthritis? Do you have a history of cancer? Do you have HIV/AIDS. Do you have chronic kidney or liver disease? Do you are on medications after an organ transplant? Has your doctor told you that your immune system is compromised?',
+    message: ` 
+    Do **any** of these apply to you?
+    
+    - Do you have a history of diabetes? 
+    - Do you take long-term oral steroids? 
+    - Do you have an autoimmune disease such as lupus or rheumatoid arthritis? 
+    - Do you have a history of cancer? 
+    - Do you have HIV/AIDS?
+    - Do you have chronic kidney or liver disease? 
+    - Do you are on medications after an organ transplant? 
+    - Has your doctor told you that your immune system is compromised?`,
     trigger: 'askHasImmuneDecreasedOptions'
   },
   {
@@ -327,8 +340,14 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasChronicLungDiseaseInfo',
-    message:
-      'Not sure? Answer yes if any of the following are true: You have a history of asthma; You have a history of chronic obstructive pulmonary disease/copd or emphysema; You have a history of chronic bronchitis; You have a history of interstitial lung disease; You have a history of a chronic lung disease not listed above.',
+    message: `
+    Not sure? Answer yes if you have a history of **any** of the following:
+
+    - Asthma
+    - Chronic obstructive pulmonary disease/copd or emphysema
+    - Chronic bronchitis
+    - Interstitial lung disease
+    - Chronic lung disease not listed above`,
     trigger: 'askHasChronicLungDiseaseOptions'
   },
   {
@@ -358,55 +377,24 @@ const riskAssessment: Step[] = [
       {
         label: 'Yes',
         value: true,
-        trigger: 'askHaveDialogue'
+        trigger: 'outro1'
       },
       {
         label: 'No',
         value: false,
-        trigger: 'askHaveDialogue'
+        trigger: 'outro1'
       }
     ]
-  },
-  {
-    id: 'askHaveDialogue',
-    message:
-      'Ok great. Thank you for your answers. Last question, do you have access to Dialogue through your employer?',
-    trigger: 'askHaveDialogueOptions'
-  },
-  {
-    id: 'askHaveDialogueOptions',
-    options: [
-      {
-        label: 'Yes I do',
-        value: true,
-        trigger: 'howDialogueCanHelp'
-      },
-      {
-        label: 'What\'s "Dialogue"?',
-        value: false,
-        trigger: 'explainDialogue'
-      }
-    ]
-  },
-  {
-    id: 'howDialogueCanHelp',
-    message:
-      'Good for you! Remember you can always access Dialogue at https://app.dialogue.co to enquire about this or any other medical question you may have.',
-    trigger: 'outro1'
-  },
-  {
-    id: 'explainDialogue',
-    message:
-      "Dialogue is a virtual clinic for you and your family. Here's some of the thigs Dialogue can do for you: Chat with a nurse about any medical issue, skip the commute. Consult with a doctor via live video, skip the waiting room. Renew a prescription and get it delivered, skip a pharmacy queue. Get a referral to a specialist, fast. To learn more about Dialogue, visit https://dialogue.co",
-    trigger: 'outro1'
   }
 ]
 
 const outro: Step[] = [
   {
     id: 'outro1',
-    message:
-      'Done with the questions. Your personal information package is ready. Check back using the link below, our medical team is updating the information as the situation develops. If you know other people in your situation, share the link with them.',
+    message: `
+    We're done with the questions! Your personal information package is ready.
+      
+    You can always check back using the link below, our medical team is updating the information as the situation develops.`,
     trigger: 'showResults'
   },
   { id: 'showResults', component: <Results />, end: true }
