@@ -64,7 +64,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   .rsc-ts-bubble {
     font-size: ${props => props.theme.sizes.question};
     padding: calc(${props => props.theme.sizes.question} * 0.75);
-    margin-top: 10px;
+    margin-top: 4px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     @media (max-width: ${mobileBreakpoint}px) {
       max-width: 100%;
@@ -93,7 +93,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     background: ${props => props.theme.colors.backgroundLight};
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     min-width: 6em;
-    margin: 2px;
+    margin: 3px;
     cursor: pointer;
   }
 
