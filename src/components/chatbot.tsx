@@ -60,6 +60,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     flex-direction: column;
     padding: 15px;
     @media (max-width: ${mobileBreakpoint}px) {
+      height: calc(100% - 20px);
       padding: 10px;
     }
   }
