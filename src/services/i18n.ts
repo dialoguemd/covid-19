@@ -8,7 +8,8 @@ const resources = {
   fr: { translation: require('i18n/fr.json') }
 }
 
-const fallbackLng = process.env.NODE_ENV !== 'production' && packageJson.supportedLanguages
+const fallbackLng =
+  process.env.NODE_ENV !== 'production' && packageJson.supportedLanguages
 
 const initOptions = {
   fallbackLng,
