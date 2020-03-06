@@ -180,9 +180,42 @@
       ]
     },
     "event": {
-      "type": "askForLocationOptions",
+      "type": "location",
       "params": {
         "classes": ["ca-qc"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "all": [
+        {
+          "fact": "askHasRangeOptions",
+          "operator": "equal",
+          "value": true
+        },
+
+        {
+          "fact": "askHasImmuneDecreasedOptions",
+          "operator": "equal",
+          "value": true
+        },
+        {
+          "fact": "askHasImmuneDecreased2Options",
+          "operator": "equal",
+          "value": true
+        },
+        {
+          "fact": "askHasChronicLungDiseaseOptions",
+          "operator": "equal",
+          "value": true
+        }
+      ]
+    },
+    "event": {
+      "type": "elevatedMedicalRisk",
+      "params": {
+        "classes": ["elevated-medical-risk"]
       }
     }
   }
