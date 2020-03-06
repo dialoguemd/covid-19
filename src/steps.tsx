@@ -18,10 +18,11 @@ const intro: Step[] = [
   },
   {
     id: 'intro3',
-    message: `Note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor.
+    message: `
+    Note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor.
 
-      The information is updated regularely, but some of it may be outdated.
-      `,
+    The information is updated regularely, but some of it may be outdated.
+    `,
     trigger: 'intro4'
   },
   {
@@ -119,8 +120,13 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasHadContactInfo',
-    message:
-      'By "close contact" I mean any of the following: Health-care associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment. Working in close proximity or sharing the same classroom with an infected person. Traveling with an infected person. Living in the same household an infected person.',
+    message: `
+    By "close contact" I mean any of the following:
+    - Health-care associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment
+    - Working in close proximity or sharing the same classroom with an infected person
+    - Traveling with an infected person
+    - Living in the same household an infected person.
+    `,
     trigger: 'askHasHadContactOptions'
   },
   {

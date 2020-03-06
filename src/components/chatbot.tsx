@@ -7,6 +7,9 @@ import { getChatClassifications } from 'services/chat-classifier'
 import steps from 'steps'
 import { theme, mobileBreakpoint } from 'theme'
 import chloe from 'images/chloe.png'
+import { transformStep } from 'services/steps-processor'
+
+const transformedSteps = steps.map(transformStep)
 
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   background: colors.background,
@@ -114,7 +117,7 @@ export const Chatbot: React.FC = props => {
     <ThemeProvider theme={makeTheme}>
       <StyledChatbot
         {...props}
-        steps={steps}
+        steps={transformedSteps}
         handleEnd={handleEnd}
         hideHeader
         hideUserAvatar
