@@ -251,8 +251,8 @@ const riskAssessment: Step[] = [
     id: 'askTraveledAffectedAreas',
     message: `
     Have you traveled to **any** of these areas in the past 14 days: 
-    -  Mainland China
-    -  Hong Kong
+    - Mainland China
+    - Hong Kong
     - Iran
     - Italy
     - Japan
@@ -375,59 +375,14 @@ const riskAssessment: Step[] = [
       {
         label: 'Yes',
         value: true,
-        trigger: 'askHaveDialogue'
+        trigger: 'outro1'
       },
       {
         label: 'No',
         value: false,
-        trigger: 'askHaveDialogue'
+        trigger: 'outro1'
       }
     ]
-  },
-  {
-    id: 'askHaveDialogue',
-    message: `
-      Ok great. Thank you for your answers. 
-
-      Last question, do you have access to Dialogue through your employer?`,
-    trigger: 'askHaveDialogueOptions'
-  },
-  {
-    id: 'askHaveDialogueOptions',
-    options: [
-      {
-        label: 'Yes I do',
-        value: true,
-        trigger: 'howDialogueCanHelp'
-      },
-      {
-        label: "What's Dialogue?",
-        value: false,
-        trigger: 'explainDialogue'
-      }
-    ]
-  },
-  {
-    id: 'howDialogueCanHelp',
-    message: `
-    Good for you! 
-    
-    Remember you can always access Dialogue at https://app.dialogue.co to enquire about this or any other medical question you may have.`,
-    trigger: 'outro1'
-  },
-  {
-    id: 'explainDialogue',
-    message: `
-    Dialogue is a virtual clinic for you and your family. 
-      
-    Here's some of the thigs Dialogue can do for you: 
-    - Chat with a nurse about any medical issue, skip the commute. 
-    - Consult with a doctor via live video, skip the waiting room. 
-    - Renew a prescription and get it delivered, skip a pharmacy queue. 
-    - Get a referral to a specialist, fast. 
-      
-    To learn more about Dialogue, visit https://dialogue.co`,
-    trigger: 'outro1'
   }
 ]
 
@@ -437,9 +392,7 @@ const outro: Step[] = [
     message: `
     We're done with the questions! Your personal information package is ready.
       
-    You can always check back using the link below, our medical team is updating the information as the situation develops. 
-      
-    If you know other people in your situation, share the link with them.`,
+    You can always check back using the link below, our medical team is updating the information as the situation develops.`,
     trigger: 'showResults'
   },
   { id: 'showResults', component: <Results />, end: true }
