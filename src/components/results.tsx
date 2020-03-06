@@ -1,20 +1,22 @@
 import React, { useState, useEffect } from 'react'
+import { getLocalizedFilePathsFromClasses } from 'services/content'
 
 import { loadResults } from 'services/results-loader'
 import Markdown from './markdown'
 
 export interface Props {
-  results: string[]
+  classes: string[]
 }
 
-export const Results: React.FC<Props> = ({ results }) => {
+export const Results: React.FC<Props> = ({ classes }) => {
   const [contents, setContents] = useState<string>(null)
 
   useEffect(() => {
-    if (results) {
+    if (classes) {
+      const results = getLocalizedFilePathsFromClasses(classes)
       loadResults(results).then(setContents)
     }
-  }, [results])
+  }, [classes])
 
   return contents && <Markdown source={contents} />
 }
