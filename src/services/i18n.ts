@@ -2,14 +2,13 @@ import i18n from 'i18next'
 import i18nLanguageDetector from 'i18next-browser-languagedetector'
 
 import packageJson from '../../package.json'
-import isDev from 'services/is-dev'
 
 const resources = {
   en: { translation: require('i18n/en.json') },
   fr: { translation: require('i18n/fr.json') }
 }
 
-const fallbackLng = !isDev && packageJson.supportedLanguages
+const fallbackLng = process.env.NODE_ENV !== 'production' && packageJson.supportedLanguages
 
 const initOptions = {
   fallbackLng,
