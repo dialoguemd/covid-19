@@ -3,6 +3,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import logo from 'images/logo.png'
+import { useTranslation } from 'react-i18next'
+
 
 const Container = styled.div`
   h1 {
@@ -44,16 +46,15 @@ const Container = styled.div`
 `
 
 export const WelcomePage: React.FC = () => {
+  const { t } = useTranslation()
+
   return (
     <Container>
       <img src={logo} alt="Dialogue" />
-      <h2>COVID-19: What you need to know</h2>
-      <h3>
-        Get accurate personalized information from trusted Canadian medical
-        sources regarding COVID-19.
-      </h3>
+      <h2>{t('welcomePage.title')}</h2>
+      <h3>{t('welcomePage.description')}</h3>
 
-      <Link to="/chat/">Get Started</Link>
+      <Link to="/chat/">{t('welcomePage.button')}</Link>
     </Container>
   )
 }
