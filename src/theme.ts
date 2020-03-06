@@ -11,8 +11,8 @@ const colors = {
 
 const sizes = {
   title: '36px',
-  question: '20px',
-  buttonText: '20px',
+  question: '18px',
+  buttonText: '18px',
   body: '16px',
   small: '12px'
 } as const

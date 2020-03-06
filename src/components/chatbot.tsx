@@ -73,42 +73,27 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
 
   .rsc-os {
     display: flex;
-    justify-content: flex-end;
     align-items: flex-end;
     flex-grow: 1;
+    justify-content: center;
   }
 
   .rsc-os-options {
     display: flex;
-    justify-content: flex-end;
-    flex-direction: column;
-    border-radius: 35px;
-    overflow: hidden;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-    padding: 0;
-    min-width: 25vw;
-  }
-
-  .rsc-os-option:first-child {
-    box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
-  }
-
-  .rsc-os-option {
-    box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.05);
+    justify-content: center;
+    flex-wrap: wrap;
   }
 
   .rsc-os-option-element {
     color: ${props => props.theme.colors.primary};
     font-size: ${props => props.theme.sizes.buttonText};
     font-family: ${props => props.theme.fontFamily};
-    padding: calc(${props => props.theme.sizes.buttonText} * 1);
-    border-radius: 0;
+    padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 500;
-    background: transparent;
-    border-width: 0;
-    box-shadow: none;
-    width: 100%;
-    text-align: center;
+    background: ${props => props.theme.colors.backgroundLight};
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    min-width: 6em;
+    cursor: pointer;
   }
 `
 
