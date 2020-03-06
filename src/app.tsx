@@ -4,6 +4,7 @@ import styled, { ThemeProvider } from 'styled-components/macro'
 import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
 
 import ResultsPage from './pages/results'
+import WelcomePage from './pages/welcome'
 import Chatbot from './components/chatbot'
 import { theme } from './theme'
 
@@ -26,6 +27,9 @@ function App() {
             </Route>
             <Route path="/results/">
               <ResultsPage />
+            </Route>
+            <Route path="/welcome/">
+              <WelcomePage />
             </Route>
             <Route path="*">
               <Redirect to="/" />
