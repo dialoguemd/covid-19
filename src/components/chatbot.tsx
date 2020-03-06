@@ -59,6 +59,9 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     display: flex;
     flex-direction: column;
     padding: 15px;
+    @media (max-width: ${mobileBreakpoint}px) {
+      padding: 10px;
+    }
   }
 
   .rsc-ts-bubble {
