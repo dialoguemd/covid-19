@@ -55,16 +55,20 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   }
 
   .rsc-content {
-    height: calc(100% - 81px);
+    height: calc(100% - 30px);
     display: flex;
     flex-direction: column;
     padding: 15px;
+    @media (max-width: ${mobileBreakpoint}px) {
+      height: calc(100% - 20px);
+      padding: 10px;
+    }
   }
 
   .rsc-ts-bubble {
     font-size: ${props => props.theme.sizes.question};
     padding: calc(${props => props.theme.sizes.question} * 0.75);
-    margin-top: 10px;
+    margin-top: 4px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     @media (max-width: ${mobileBreakpoint}px) {
       max-width: 100%;
@@ -73,42 +77,32 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
 
   .rsc-os {
     display: flex;
-    justify-content: flex-end;
     align-items: flex-end;
     flex-grow: 1;
+    justify-content: center;
   }
 
   .rsc-os-options {
     display: flex;
-    justify-content: flex-end;
-    flex-direction: column;
-    border-radius: 35px;
-    overflow: hidden;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-    padding: 0;
-    min-width: 25vw;
-  }
-
-  .rsc-os-option:first-child {
-    box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
-  }
-
-  .rsc-os-option {
-    box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.05);
+    justify-content: center;
+    flex-wrap: wrap;
   }
 
   .rsc-os-option-element {
     color: ${props => props.theme.colors.primary};
     font-size: ${props => props.theme.sizes.buttonText};
     font-family: ${props => props.theme.fontFamily};
-    padding: calc(${props => props.theme.sizes.buttonText} * 1);
-    border-radius: 0;
+    padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 500;
-    background: transparent;
-    border-width: 0;
-    box-shadow: none;
-    width: 100%;
-    text-align: center;
+    background: ${props => props.theme.colors.backgroundLight};
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    min-width: 6em;
+    margin: 3px;
+    cursor: pointer;
+  }
+
+  .rsc-footer {
+    display: none;
   }
 `
 
