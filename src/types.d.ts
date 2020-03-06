@@ -12,7 +12,7 @@ declare module 'react-simple-chatbot' {
   }>
 
   type StepId = string | number
-  type StepTrigger =
+  export type StepTrigger =
     | StepId
     | ((data: { value; steps: Record<string, any> }) => StepId)
 
@@ -49,7 +49,7 @@ declare module 'react-simple-chatbot' {
     trigger: StepTrigger
   }
 
-  export interface OptionStep {
+  export interface OptionStep extends BaseStep {
     options: OptionEntry[]
     end?: boolean
     hideInput?: boolean
