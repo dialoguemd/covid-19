@@ -23,7 +23,9 @@ const intro: Step[] = [
   },
   {
     id: 'intro4',
-    options: [{ label: i18n.t('steps:intro4'), trigger: 'askForLocation' }]
+    options: [
+      { label: "Let's get started!", trigger: 'askForLocation', value: true }
+    ]
   }
 ]
 
