@@ -23,13 +23,13 @@ function App() {
         <AppContainer>
           <Switch>
             <Route exact path="/">
-              <WelcomePage />
+              <Chatbot />
             </Route>
             <Route path="/results/">
               <ResultsPage />
             </Route>
-            <Route path="/chat/">
-              <Chatbot />
+            <Route path="/welcome/">
+              <WelcomePage />
             </Route>
             <Route path="*">
               <Redirect to="/" />
