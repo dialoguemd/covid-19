@@ -6,6 +6,20 @@ This service personalizes the information about the virus based on user's indivi
 ## Who is behind this project
 The project is created by [Dialogue](dialogue.co). Dialogue is the leading Canadian telemedicine provider pioneering virtual healthcare dedicated exclusively to the world's leading organizations. We drive real health outcomes through amazing healthcare experiences, an employee engagement playbook, and a relentless focus on patient safety and security.
 
+
+## How to contribute
+We are very happy to receive and merge your contributions. Here are main ways to contribute to this project:
+- *Keep content up to date.* This is the main way we see medical community contributing to this project. COVID-19 moves fast and information people need to know changes day by day. We welcome and appreciate input and updates from credible trusted sources such as gouvernment agencies, healthcare organizations and media.
+- *Increase personalization.* This can be done by extending the rules of the bot, adding new classes of content, adding new questions, updating existing questions etc.
+ 
+
+To contribute via pull request, follow these steps:
+- Create an issue describing the feature you want to work on
+- Write your content. Make sure it follows the style of existing content. Test it locally.
+- Create a pull request describing your changes
+Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions.
+
+
 ## Running locally
 
 In the project directory, you can run:
@@ -67,16 +81,3 @@ steps={[
   ...
 ]}
 ```
-
-## How to contribute
-We are very happy to receive and merge your contributions. Here are main ways to contribute to this project:
-- *Keep content up to date.* This is the main way we see medical community contributing to this project. COVID-19 moves fast and information people need to know changes day by day. We welcome and appreciate input and updates from credible trusted sources such as gouvernment agencies, healthcare organizations and media.
-- *Increase personalization.* This can be done by extending the rules of the bot, adding new classes of content, adding new questions, updating existing questions etc.
- 
-
-To contribute via pull request, follow these steps:
-- Create an issue describing the feature you want to work on
-- Write your content. Make sure it follows the style of existing content. Test it locally.
-- Create a pull request describing your changes
-Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions.
-
