@@ -1,10 +1,11 @@
 import React from 'react'
 
+import {  Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import logo from 'images/logo.png'
 
 
-const Wrapper = styled('div')`
+const Container = styled.div`
   h1 {
     color: ${props => props.theme.colors.primary};
     font-size: calc(${props => props.theme.sizes.buttonText} * 1.5);
@@ -45,13 +46,13 @@ const Wrapper = styled('div')`
 
 export const WelcomePage: React.FC = () => {
   return (
-      <Wrapper>
+      <Container>
         <img src={logo} />
         <h2>COVID-19: What you need to know</h2>
         <h3>Get accurate personalized information from trusted Canadian medical sources regarding COVID-19.</h3>
 
-        <a href="/#/chat/">Get Started</a>
-      </Wrapper>
+        <Link to="/chat/">Get Started</Link>
+      </Container>
   )
 }
 
