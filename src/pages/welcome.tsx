@@ -5,7 +5,6 @@ import styled from 'styled-components/macro'
 import logo from 'images/logo.png'
 import { useTranslation } from 'react-i18next'
 
-
 const Container = styled.div`
   h1 {
     color: ${props => props.theme.colors.primary};
