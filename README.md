@@ -10,6 +10,9 @@ The project is created by [Dialogue](dialogue.co). Dialogue is the leading Canad
 
 In the project directory, you can run:
 
+### `npm install`
+Installs the dependencies.
+
 ### `npm start`
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
