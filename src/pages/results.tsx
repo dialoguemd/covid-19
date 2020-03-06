@@ -5,6 +5,7 @@ import styled from 'styled-components/macro'
 
 import Results from 'components/results'
 import { mobileBreakpoint } from 'theme'
+import { useTranslation } from 'react-i18next'
 
 const useQuery = () => {
   const location = useLocation()
@@ -59,6 +60,7 @@ const HeaderLink = styled(Link)`
 
 export const ResultsPage: React.FC = () => {
   const query = useQuery()
+  const { t } = useTranslation()
 
   // parse /results?id=a,b,c -> [a, b, c]
   const queryResults = query.get('id')
@@ -69,17 +71,17 @@ export const ResultsPage: React.FC = () => {
   return (
     <div>
       <Header>
-        <Title>Your Personalized COVID-19 Guide</Title>
-        <HeaderLink to="/">Take the quiz again</HeaderLink>
+        <Title>{t('resultsPage.headerTitle')}</Title>
+        <HeaderLink to="/">{t('resultsPage.headerButton')}</HeaderLink>
       </Header>
       <ResultsCard>
         {hasResults ? (
           <Results results={results} />
         ) : (
           <div>
-            <h2>No results provided in URL.</h2>
+            <h2>{t('resultsPage.noResultsMessage')}</h2>
             <div>
-              <Link to="/">back to questionnaire?</Link>
+              <Link to="/">{t('resultsPage.backToQuestionnaire')}</Link>
             </div>
           </div>
         )}

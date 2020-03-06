@@ -15,6 +15,7 @@
     "json-rules-engine": "^5.0.3",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "react-i18next": "^11.3.3",
     "react-markdown": "^4.3.1",
     "react-router-dom": "^5.1.2",
     "react-simple-chatbot": "^0.6.1",

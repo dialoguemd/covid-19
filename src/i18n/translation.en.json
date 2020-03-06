@@ -1,0 +1,8 @@
+{
+  "resultsPage": {
+    "headerTitle": "Your Personalized COVID-19 Guide",
+    "headerButton": "Take the quiz again",
+    "noResultsMessage": "No results provided in URL.",
+    "backToQuestionnaire": "back to questionnaire?"
+  }
+}
