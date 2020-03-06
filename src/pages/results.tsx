@@ -35,7 +35,7 @@ export const ResultsPage: React.FC = () => {
         <div>
           <h2>No results provided in URL.</h2>
           <div>
-            <Link to="/">back to questionnaire?</Link>
+            <Link to="/chat/">back to questionnaire?</Link>
           </div>
         </div>
       )}
