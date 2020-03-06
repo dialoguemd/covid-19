@@ -13,14 +13,14 @@ const intro: Step[] = [
   {
     id: 'intro2',
     message:
-      "I'm Chloe, an intelligent medical assistant. My goal is to get you accurate and personalized information about COVID-19. Let's start with a few questions.",
+      "I'm Chloé, an intelligent medical assistant. I'm here to get you accurate information about COVID-19. To make it relevant to your situation, I'd like to ask you a few questions. It should take not more than a couple of minutes.",
     trigger: 'intro3'
   },
   {
     id: 'intro3',
     message: `Note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor.
       
-      What we know about COVID-19 evolves on an hourly basis and the information we have may be outdated.      
+      The information is updated regularely, but some of it may be outdated.      
       `,
     trigger: 'intro4'
   },
@@ -120,7 +120,7 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasHadContactInfo',
     message:
-      'By "close contact" I mean any of the following: Health-care associated exposure, such as providing direct care for infected patients, visiting patients or staying in the same close environment. Working together in close proximity or sharing the same classroom with a nCoV patient. Traveling together with a nCoV patient. Living in the same household as a nCoV patient',
+      'By "close contact" I mean any of the following: Health-care associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment. Working in close proximity or sharing the same classroom with an infected person. Traveling with an infected person. Living in the same household an infected person.',
     trigger: 'askHasHadContactOptions'
   },
   {
@@ -140,7 +140,7 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askAgeRange',
-    message: 'Are you above the age of 65?',
+    message: 'Are you older than 65?',
     trigger: 'askHasRangeOptions'
   },
   {
@@ -166,7 +166,7 @@ const riskAssessment: Step[] = [
   {
     id: 'askHasFeverInfo',
     message:
-      'This means oral or armpit temperature above 37.6°C (99.7°F) or higher. A child has a fever when his or her rectal temperature is 38°C (100.4°F) or higher or armpit temperature is 37.6°C (99.7°F) or higher.',
+      'For adults, it means oral or armpit temperature above 37.6°C (99.7°F) or higher. For children, it means armpit temperature is 37.6°C (99.7°F) or higher or rectal temperature is 38°C (100.4°F) or higher.',
     trigger: 'askHasFeverOptions'
   },
   {
@@ -352,19 +352,52 @@ const riskAssessment: Step[] = [
       {
         label: 'Yes',
         value: true,
-        trigger: 'outro1'
+        trigger: 'askHaveDialogue'
       },
       {
         label: 'No',
         value: false,
-        trigger: 'outro1'
+        trigger: 'askHaveDialogue'
       }
     ]
+  },
+  {
+    id: 'askHaveDialogue',
+    message:
+      'Ok great. Thank you for your answers. Last question, do you have access to Dialogue?',
+    trigger: 'askHaveDialogueOptions'
+  },
+  {
+    id: 'askHaveDialogueOptions',
+    options: [
+      {
+        label: 'Yes I do',
+        value: true,
+        trigger: 'howDialogueCanHelp'
+      },
+      {
+        label: 'What\'s "Dialogue"?',
+        value: false,
+        trigger: 'explainDialogue'
+      }
+    ]
+  },
+  {
+    id: 'howDialogueCanHelp',
+    message:
+      'Good for you! Remember you can always access Dialogue at https://app.dialogue.co to enquire about this or any other medical question you may have.',
+    trigger: 'outro1'
+  },
+  {
+    id: 'explainDialogue',
+    message:
+      'Dialogue is a virtual clinic for you and your family. Here\'s some of the thigs Dialogue can do for you: Chat with a nurse about any medical issue, skip the commute. Consult with a doctor via live video, skip the waiting room. Renew a prescription and get it delivered, skip a pharmacy queue. Get a referral to a specialist, fast. To learn more about Dialogue, visit https://dialogue.co',
+      trigger: 'outro1'
   }
 ]
 
 const outro: Step[] = [
-  { id: 'outro1', message: 'Thanks!', trigger: 'showResults' },
+  { id: 'outro1', message: 'Done with the questions. Your personal information package is ready. Check back using the link below, our medical team is updating the information as the situation develops. If you know other people in your situation, share the link with them.', trigger: 'showResults' },
   { id: 'showResults', component: <Results />, end: true }
 ]
 
