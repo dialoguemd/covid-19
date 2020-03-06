@@ -2,7 +2,7 @@ export const getFilePath = async (
   resultName: string
 ): Promise<string | null> => {
   try {
-    const module = await import(`results/${resultName}.md`)
+    const module = await import(`content/${resultName}.md`)
     return module.default
   } catch (e) {
     console.warn(`failed to load result ${resultName}.md`, e)
