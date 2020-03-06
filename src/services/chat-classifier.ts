@@ -21,7 +21,7 @@ export const getClassesFromRuleResults = ({ events }) =>
     .flatMap(event => event && event.params && event.params.classes)
     .filter(isDefined)
 
-export const getChatClassifications = ({ renderedSteps }) => {
+export const getChatClassifications = steps => {
   // TODO: Check if there's a way to clear rule set and reuse instance
   // One-time use.
   let engine = new Engine()
@@ -30,11 +30,11 @@ export const getChatClassifications = ({ renderedSteps }) => {
   rulesGlobal.forEach(rule => engine.addRule(rule))
 
   // Load rules defined on steps
-  const stepRules = getRulesFromChatSteps(renderedSteps)
+  const stepRules = getRulesFromChatSteps(steps)
   stepRules.forEach(rule => engine.addRule(rule))
 
   // Extract facts from the chat values
-  const facts = getFactsFromChatSteps(renderedSteps)
+  const facts = getFactsFromChatSteps(steps)
 
   const cleanUp = () => {
     // Clean up

@@ -1,21 +1,32 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 
 import styled from 'styled-components/macro'
-import { CustomComponentProps } from 'react-simple-chatbot'
+import { getChatClassifications } from 'services/chat-classifier'
 
 import Results from './results'
-
-const MOCK_RESULTS = ['test', 'test2', 'this-file-doesnt-exist']
 
 const MdContainer = styled.div`
   width: 100%;
 `
 
-export const ResultsBubble: React.FC<Partial<CustomComponentProps>> = () => {
-  const results = MOCK_RESULTS // FIXME: derive from props
+export const ResultsBubble: React.FC = (props: any) => {
+  const [classes, setClasses] = useState([])
+
+  useEffect(() => {
+    async function processSteps() {
+      const steps = Object.values(props.steps)
+      const answeredSteps = steps.filter(
+        (step: any) => step.value !== undefined
+      )
+      const classes = await getChatClassifications(answeredSteps)
+      setClasses(classes)
+    }
+    processSteps()
+  }, [props.steps])
+
   return (
     <MdContainer>
-      <Results results={results} />
+      <Results classes={classes} />
     </MdContainer>
   )
 }

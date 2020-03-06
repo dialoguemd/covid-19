@@ -63,10 +63,10 @@ export const ResultsPage: React.FC = () => {
   const { t } = useTranslation()
 
   // parse /results?id=a,b,c -> [a, b, c]
-  const queryResults = query.get('id')
-  const results = queryResults ? queryResults.split(',') : []
+  const queryClasses = query.get('id')
+  const classes = queryClasses ? queryClasses.split(',') : []
 
-  const hasResults = results.length > 0
+  const hasClasses = classes.length > 0
 
   return (
     <div>
@@ -75,8 +75,8 @@ export const ResultsPage: React.FC = () => {
         <HeaderLink to="/chat/">{t('resultsPage.headerButton')}</HeaderLink>
       </Header>
       <ResultsCard>
-        {hasResults ? (
-          <Results results={results} />
+        {hasClasses ? (
+          <Results classes={classes} />
         ) : (
           <div>
             <h2>{t('resultsPage.noResultsMessage')}</h2>
