@@ -1,9 +1,8 @@
 import React from 'react'
 
-import {  Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import logo from 'images/logo.png'
-
 
 const Container = styled.div`
   h1 {
@@ -17,7 +16,7 @@ const Container = styled.div`
   }
   h2 {
     color: ${props => props.theme.colors.primary};
-    font-size: calc(${props => props.theme.sizes.buttonText} * 2.0);
+    font-size: calc(${props => props.theme.sizes.buttonText} * 2);
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 800;
     justify-content: center;
@@ -46,15 +45,17 @@ const Container = styled.div`
 
 export const WelcomePage: React.FC = () => {
   return (
-      <Container>
-        <img src={logo} alt="Dialogue"/>
-        <h2>COVID-19: What you need to know</h2>
-        <h3>Get accurate personalized information from trusted Canadian medical sources regarding COVID-19.</h3>
+    <Container>
+      <img src={logo} alt="Dialogue" />
+      <h2>COVID-19: What you need to know</h2>
+      <h3>
+        Get accurate personalized information from trusted Canadian medical
+        sources regarding COVID-19.
+      </h3>
 
-        <Link to="/chat/">Get Started</Link>
-      </Container>
+      <Link to="/chat/">Get Started</Link>
+    </Container>
   )
 }
 
 export default WelcomePage
-
