@@ -7,7 +7,7 @@ import Results from './components/results-bubble'
 const intro: Step[] = [
   {
     id: 'intro1',
-    message: 'Hi there!',
+    message: 'Hi **there!**',
     trigger: 'intro2'
   },
   {
