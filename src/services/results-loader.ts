@@ -1,17 +1,15 @@
-export const getFilePath = async (
-  resultName: string
-): Promise<string | null> => {
+export const getFilePath = async (filePath: string): Promise<string | null> => {
   try {
-    const module = await import(`content/${resultName}.md`)
+    const module = await import(`content/${filePath}`)
     return module.default
   } catch (e) {
-    console.warn(`failed to load result ${resultName}.md`, e)
+    console.warn(`failed to load result ${filePath}`, e)
     return null
   }
 }
 
-export const loadResults = async (resultKeys: string[]): Promise<string> => {
-  const resultFiles = (await Promise.all(resultKeys.map(getFilePath))).filter(
+export const loadResults = async (filePaths: string[]): Promise<string> => {
+  const resultFiles = (await Promise.all(filePaths.map(getFilePath))).filter(
     Boolean
   )
 

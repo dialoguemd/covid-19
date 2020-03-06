@@ -31,8 +31,8 @@ const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
 //   window.location.search = url
 // }
 
-const handleEnd = async payload => {
-  const results = await getChatClassifications(payload)
+const handleEnd = async ({ renderedSteps }) => {
+  const results = await getChatClassifications(renderedSteps)
   console.log(results)
   // navigateToResults(results)
 }
