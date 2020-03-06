@@ -68,7 +68,7 @@ export const WelcomePage: React.FC = () => {
         <h2>COVID-19: What you need to know</h2>
         <h3>Get accurate personalized information from trusted Canadian medical sources regarding COVID-19.</h3>
 
-        <a href="/">Get Started</a>
+        <a href="/#/chat/">Get Started</a>
       </Wrapper>
   </ThemeProvider>
   )
