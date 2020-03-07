@@ -18,6 +18,12 @@ To contribute via pull request, follow these steps:
 - Create a pull request describing your changes
 Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions.
 
+## Content structure
+The structure of this project is based on the following concepts:
+- The chatbot is composed of *steps*. Steps are chained. Each step specifies the next step. A step with a question (eg. "dDo you have fever?" is followed by a step with a set of options (eg. Yes or No). The user selects an option and the system records a new *fact* (eg. Fever:Yes).
+- All facts are used as input to the rules engine. The *rules* are used to classify the set of facts into *classes*. For example, if there is a rule that states that if the facts include Fever:Yes, then this set of facts must be classified as "high-risk".
+- Each *class* represents a set of *content files*. Each class has it's own subdirectory under `src/content` directory. A content file is a Markdown file that has a title, body and a source. A file name of the content file must be in the form `filename.{language-code}.md`.
+
 ## How add new content
 The content served to uses is stored in text files in `https://github.com/dialoguemd/covid-19/tree/master/src/content`. 
 
@@ -37,9 +43,13 @@ To add a new content file, do the following:
 Your content goes here
 
 [Source](https://link-to-the-source-of-the-content)
+
 ```
 
+- Make sure the last line in your file needs to be blank.
 - Create a pull request and submit it.
+
+## How to add new classes of content
 
 
 
