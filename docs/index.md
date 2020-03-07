@@ -1,4 +1,6 @@
-# COVID-19: What you need to know
+layout: page
+title: Canada COVID-19: What you need to know 
+permalink: /
 
 This site explains how to update and extend content on covid19.dialogue.co
 
