@@ -10,7 +10,7 @@ const resources = {
   },
   fr: {
     steps: require('i18n/steps.fr.js').default,
-    translation: require('i18n/translation.en.js').default
+    translation: require('i18n/translation.fr.js').default
   }
 }
 
