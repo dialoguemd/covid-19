@@ -1,8 +1,8 @@
-# People at Higher Risk for COVID-19 Complications
+## 👴🏻 People at higher risk for COVID-19 complications
 
 Current information suggests that older people and people with severe chronic health conditions, such as heart disease, lung disease, and diabetes, are at higher risk of developing more serious illness from COVID-19.
 
-###What to do if you are at higher risk:
+### What to do if you are at higher risk:
 
 - Stay at home as much as possible.
 - Make sure you have access to several weeks of medications and supplies in case you need to stay home for prolonged periods of time.
