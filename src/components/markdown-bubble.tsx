@@ -12,7 +12,7 @@ export const MarkdownBubble: React.FC<Partial<CustomComponentProps>> = ({
 }) => {
   const size = step.metadata && step.metadata.size
 
-  return <Markdown linkTarget="_blank" size={size} {...rest} />
+  return <Markdown size={size} {...rest} />
 }
 
 export default MarkdownBubble
