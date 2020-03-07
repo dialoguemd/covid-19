@@ -27,7 +27,11 @@ i18n
     initImmediate: true,
     nonExplicitWhitelist: true,
     resources,
-    appendNamespaceToMissingKey: true
+    appendNamespaceToMissingKey: true,
+    detection: {
+      order: ['querystring', 'navigator', 'htmlTag'],
+      caches: []
+    }
   })
 
 export default i18n
