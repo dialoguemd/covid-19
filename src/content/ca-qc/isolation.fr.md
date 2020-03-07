@@ -1,4 +1,4 @@
-# Auto-isolement  
+# Auto-isolement
 
 Les premières données épidémiologiques indiquent que la majorité des personnes présentant des symptômes du COVID-19 auront une forme bénigne de l'infection qui ne nécessitera probablement pas une hospitalisation. Il est important que les personnes qui n'ont pas besoin d'être hospitalisées passent leur convalescence à domicile, dans la mesure où un isolement volontaire efficace et une surveillance appropriée de la maladie (c.-à-d. son aggravation) peuvent être assurés.
 
