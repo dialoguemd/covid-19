@@ -88,5 +88,5 @@ export default {
   outro1: `
   Les questions sont terminées ! Votre trousse d'information personnelle est prête.
      
-	Vous pouvez toujours revenir sur cette page en utilisant le lien ci-dessous. Notre équipe médicale met à jour les informations au fur et à mesure que la situation évolue.`
+	Vous pouvez toujours revenir sur cette page. Notre équipe médicale met à jour les informations au fur et à mesure que la situation évolue.`
 }

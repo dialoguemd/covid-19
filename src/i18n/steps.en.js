@@ -78,5 +78,5 @@ export default {
   outro1: `
   We're done with the questions! Your personal information package is ready.
 
-  You can always check back using the link below, our medical team is updating the information as the situation develops.`
+  Check back soon, our medical team is updating the information as the situation develops.`
 }
