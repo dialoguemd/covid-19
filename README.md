@@ -14,10 +14,33 @@ We are very happy to receive and merge your contributions. Here are main ways to
  
 
 To contribute via pull request, follow these steps:
-- Create an issue describing the feature you want to work on
-- Write your content. Make sure it follows the style of existing content. Test it locally.
+- Write your content. Make sure it follows the style of existing content.
 - Create a pull request describing your changes
 Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions.
+
+## How add new content
+The content served to uses is stored in text files in `https://github.com/dialoguemd/covid-19/tree/master/src/content`. 
+
+The files are placed in sub-sirectories. Each sub-directory corresponds to a "content class". A content class is a collection of content that will be served to all users that belong to a class. Which class a user belongs to is determined by the answers they provide.
+
+All content files follow the Markdown format.
+
+
+To add a new content file, do the following:
+- Determine which class your content file belongs to.
+- Create a new .md file and add content in it
+- Make sure to follow this format:
+
+```
+## Title
+
+Your content goes here
+
+[Source](https://link-to-the-source-of-the-content)
+```
+
+- Create a pull request and submit it.
+
 
 
 ## Running locally
@@ -81,3 +104,4 @@ steps={[
   ...
 ]}
 ```
+
