@@ -40,9 +40,6 @@ const handleEnd = async ({ renderedSteps }) => {
 const StyledChatbot = styled(ReactSimpleChatbot)`
   height: 100%;
   width: 100%;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
 
   /* Removes shadow around avatar */
   .rsc-ts-bot .rsc-ts-image {
@@ -55,13 +52,11 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   }
 
   .rsc-content {
-    height: calc(100% - 30px);
-    display: flex;
-    flex-direction: column;
     padding: 15px;
+    height: calc(100% - 30px);
     @media (max-width: ${mobileBreakpoint}px) {
-      height: calc(100% - 20px);
       padding: 10px;
+      height: calc(100% - 20px);
     }
   }
 
@@ -86,6 +81,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    padding-top: 15px;
   }
 
   .rsc-os-option-element {
@@ -99,6 +95,10 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     min-width: 6em;
     margin: 3px;
     cursor: pointer;
+    @media (max-width: ${mobileBreakpoint}px) {
+      padding: 11px;
+      font-size: 14px;
+    }
   }
 
   .rsc-footer {
