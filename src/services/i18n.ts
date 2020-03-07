@@ -3,15 +3,14 @@ import i18nLanguageDetector from 'i18next-browser-languagedetector'
 import { initReactI18next } from 'react-i18next'
 
 import packageJson from '../../package.json'
-
 const resources = {
   en: {
-    steps: require('i18n/steps.en.json'),
-    translation: require('i18n/translation.en.json')
+    steps: require('i18n/steps.en.js').default,
+    translation: require('i18n/translation.en.js').default
   },
   fr: {
-    steps: require('i18n/steps.fr.json'),
-    translation: require('i18n/translation.en.json')
+    steps: require('i18n/steps.fr.js').default,
+    translation: require('i18n/translation.en.js').default
   }
 }
 

@@ -24,7 +24,11 @@ const intro: Step[] = [
   {
     id: 'intro4',
     options: [
-      { label: "Let's get started!", trigger: 'askForLocation', value: true }
+      {
+        label: i18n.t('steps:intro-option1'),
+        trigger: 'askForLocation',
+        value: true
+      }
     ]
   }
 ]
@@ -32,80 +36,79 @@ const intro: Step[] = [
 const riskAssessment: Step[] = [
   {
     id: 'askForLocation',
-    message: 'In which province are you currently located?',
+    message: i18n.t('steps:askForLocation'),
     trigger: 'askForLocationInfo'
   },
   {
     id: 'askForLocationInfo',
-    message:
-      'I will be able to tailor the information so that it applies to your region.',
+    message: i18n.t('steps:askForLocationInfo'),
     trigger: 'askForLocationOptions'
   },
   {
     id: 'askForLocationOptions',
     options: [
       {
-        label: 'Quebec',
+        label: i18n.t('steps:askForLocationOptions-QC'),
         value: 'QC',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Ontario',
+        label: i18n.t('steps:askForLocationOptions-ON'),
         value: 'ON',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Nova Scotia',
+        label: i18n.t('steps:askForLocationOptions-NS'),
         value: 'NS',
         trigger: 'askAgeRange'
       },
       {
-        label: 'New Brunswick',
+        label: i18n.t('steps:askForLocationOptions-NB'),
         value: 'NB',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Manitoba',
+        label: i18n.t('steps:askForLocationOptions-MB'),
         value: 'MB',
         trigger: 'askAgeRange'
       },
       {
-        label: 'British Columbia',
+        label: i18n.t('steps:askForLocationOptions-BC'),
         value: 'BC',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Prince Edward Island',
+        label: i18n.t('steps:askForLocationOptions-PE'),
         value: 'PE',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Saskatchewan',
+        label: i18n.t('steps:askForLocationOptions-SK'),
         value: 'SK',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Alberta',
+        label: i18n.t('steps:askForLocationOptions-AB'),
         value: 'AB',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Newfoundland and Labrador',
+        label: i18n.t('steps:askForLocationOptions-NL'),
         value: 'NL',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Northwest Territories',
+        label: i18n.t('steps:askForLocationOptions-NT'),
         value: 'NT',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Yukon',
+        label: i18n.t('steps:askForLocationOptions-YT'),
         value: 'YT',
         trigger: 'askAgeRange'
       },
       {
-        label: 'Nunavut',
+        label: i18n.t('steps:askForLocationOptions-NU'),
         value: 'NU',
         trigger: 'askAgeRange'
       }
@@ -113,32 +116,24 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasHadContact',
-    message: 'Have you been in **close contact** with anyone infected?',
+    message: i18n.t('steps:askHasHadContact'),
     trigger: 'askHasHadContactInfo'
   },
   {
     id: 'askHasHadContactInfo',
-    message: `
-    By **close contact** I mean **any** of the following:
-
-
-    - Health-care associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment
-    - Working in close proximity or sharing the same classroom with an infected person
-    - Traveling with an infected person
-    - Living in the same household an infected person
-    `,
+    message: i18n.t('steps:askHasHadContactInfo'),
     trigger: 'askHasHadContactOptions'
   },
   {
     id: 'askHasHadContactOptions',
     options: [
       {
-        label: 'Yes, some of this applies to me',
+        label: i18n.t('steps:askHasHadContactOptions-Option1'),
         value: true,
         trigger: 'askTraveledAffectedAreas'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askTraveledAffectedAreas'
       }
@@ -146,19 +141,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askAgeRange',
-    message: 'Are you older than 65?',
+    message: i18n.t('steps:askAgeRange'),
     trigger: 'askHasRangeOptions'
   },
   {
     id: 'askHasRangeOptions',
     options: [
       {
-        label: 'Yes',
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askHasFever'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasFever'
       }
@@ -166,19 +161,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasFever',
-    message: 'Do you have a fever?',
+    message: i18n.t('steps:askHasFever'),
     trigger: 'askHasFeverOptions'
   },
   {
     id: 'askHasFeverOptions',
     options: [
       {
-        label: 'Yes',
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askHasCough'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasCough'
       }
@@ -186,60 +181,39 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasCough',
-    message: 'Do you have a cough?',
+    message: i18n.t('steps:askHasCough'),
     trigger: 'askHasCoughOptions'
   },
   {
     id: 'askHasCoughOptions',
     options: [
       {
-        label: 'Yes',
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askHasDifficultyBreathing'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasDifficultyBreathing'
       }
     ]
   },
-
   {
     id: 'askHasDifficultyBreathing',
-    message: 'Do you have difficulty breathing?',
+    message: i18n.t('steps:askHasDifficultyBreathing'),
     trigger: 'askHasDifficultyBreathingOptions'
   },
   {
     id: 'askHasDifficultyBreathingOptions',
     options: [
       {
-        label: 'Yes',
-        value: true,
-        trigger: 'outro1'
-      },
-      {
-        label: 'No',
-        value: false,
-        trigger: 'outro1'
-      }
-    ]
-  },
-  {
-    id: 'askHasDifficultyBreathing',
-    message: 'Do you have difficulty breathing?',
-    trigger: 'askHasDifficultyBreathingOptions'
-  },
-  {
-    id: 'askHasDifficultyBreathingOptions',
-    options: [
-      {
-        label: 'Yes',
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askHasHadContact'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasHadContact'
       }
@@ -247,28 +221,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askTraveledAffectedAreas',
-    message: `
-    Have you traveled to **any** of these areas in the past 14 days:
-
-    - Mainland China
-    - Hong Kong
-    - Iran
-    - Italy
-    - Japan
-    - South Korea
-    - Singapore`,
+    message: i18n.t('steps:askTraveledAffectedAreas'),
     trigger: 'askTraveledAffectedAreasOptions'
   },
   {
     id: 'askTraveledAffectedAreasOptions',
     options: [
       {
-        label: 'Yes',
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askHasImmuneDecreased'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasImmuneDecreased'
       }
@@ -276,35 +241,24 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasImmuneDecreased',
-    message:
-      "Now I'd like to ask you a few questions to find out if your immunity is decreased.",
+    message: i18n.t('steps:askHasImmuneDecreased'),
     trigger: 'askHasImmuneDecreasedInfo'
   },
   {
     id: 'askHasImmuneDecreasedInfo',
-    message: `
-    Do **any** of these apply to you?
-
-    - Do you have a history of diabetes?
-    - Do you take long-term oral steroids?
-    - Do you have an autoimmune disease such as lupus or rheumatoid arthritis?
-    - Do you have a history of cancer?
-    - Do you have HIV/AIDS?
-    - Do you have chronic kidney or liver disease?
-    - Do you are on medications after an organ transplant?
-    - Has your doctor told you that your immune system is compromised?`,
+    message: i18n.t('steps:askHasImmuneDecreasedInfo'),
     trigger: 'askHasImmuneDecreasedOptions'
   },
   {
     id: 'askHasImmuneDecreasedOptions',
     options: [
       {
-        label: 'Yes, some of this applies to me',
+        label: i18n.t('steps:askHasImmuneDecreasedOptions-Option1'),
         value: true,
         trigger: 'askHasImmuneDecreased2'
       },
       {
-        label: 'No, nothing applies to me',
+        label: i18n.t('steps:askHasImmuneDecreasedOptions-Option2'),
         value: false,
         trigger: 'askHasImmuneDecreased2'
       }
@@ -312,20 +266,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasImmuneDecreased2',
-    message:
-      'Are you taking any medications that your doctor has said may cause decreased immunity?',
+    message: i18n.t('steps:askHasImmuneDecreased2'),
     trigger: 'askHasImmuneDecreased2Options'
   },
   {
     id: 'askHasImmuneDecreased2Options',
     options: [
       {
-        label: 'Yes I do',
+        label: i18n.t('steps:askHasImmuneDecreased2Options-Option1'),
         value: true,
         trigger: 'askHasChronicLungDisease'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasChronicLungDisease'
       }
@@ -333,31 +286,24 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasChronicLungDisease',
-    message: 'Do you have a history of chronic lung disease?',
+    message: i18n.t('steps:askHasChronicLungDisease'),
     trigger: 'askHasChronicLungDiseaseInfo'
   },
   {
     id: 'askHasChronicLungDiseaseInfo',
-    message: `
-    Not sure? Answer yes if you have a history of **any** of the following:
-
-    - Asthma
-    - Chronic obstructive pulmonary disease/copd or emphysema
-    - Chronic bronchitis
-    - Interstitial lung disease
-    - Chronic lung disease not listed above`,
+    message: i18n.t('steps:askHasChronicLungDiseaseInfo'),
     trigger: 'askHasChronicLungDiseaseOptions'
   },
   {
     id: 'askHasChronicLungDiseaseOptions',
     options: [
       {
-        label: 'Yes',
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askHasTravelPlans'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasTravelPlans'
       }
@@ -365,20 +311,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasTravelPlans',
-    message:
-      'Are you planning on travelling outside of Canada in the next month?',
+    message: i18n.t('steps:askHasTravelPlans'),
     trigger: 'askHasTravelPlansOptions'
   },
   {
     id: 'askHasTravelPlansOptions',
     options: [
       {
-        label: 'Yes',
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'outro1'
       },
       {
-        label: 'No',
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'outro1'
       }
@@ -389,10 +334,7 @@ const riskAssessment: Step[] = [
 const outro: Step[] = [
   {
     id: 'outro1',
-    message: `
-    We're done with the questions! Your personal information package is ready.
-
-    You can always check back using the link below, our medical team is updating the information as the situation develops.`,
+    message: i18n.t('steps:outro1'),
     trigger: 'showResults'
   },
   { id: 'showResults', component: <Results />, end: true }
