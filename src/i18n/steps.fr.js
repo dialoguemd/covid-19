@@ -21,12 +21,6 @@ export default {
   'askForLocationOptions-NT': 'Territoires du Nord-Ouest',
   'askForLocationOptions-NL': 'Terre-Neuve et Labrador',
   'askForLocationOptions-NU': 'Nuvavut',
-  'askHasHadContactOptions-Option1':
-    "Oui, certaines de ces situations s'appliquent à moi",
-  'askHasImmuneDecreasedOptions-Option1':
-    "Oui, certaines de ces situations s'appliquent à moi",
-  'askHasImmuneDecreased2Options-Option1': 'Oui, j’en prends',
-  'askHasImmuneDecreasedOptions-Option2': "Non, rien ne s'applique à moi",
   yes: 'Oui',
   no: 'Non',
   askForLocation: 'Dans quelle province êtes-vous actuellement situé?',

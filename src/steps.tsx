@@ -128,7 +128,7 @@ const riskAssessment: Step[] = [
     id: 'askHasHadContactOptions',
     options: [
       {
-        label: i18n.t('steps:askHasHadContactOptions-Option1'),
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askTraveledAffectedAreas'
       },
@@ -253,12 +253,12 @@ const riskAssessment: Step[] = [
     id: 'askHasImmuneDecreasedOptions',
     options: [
       {
-        label: i18n.t('steps:askHasImmuneDecreasedOptions-Option1'),
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askHasImmuneDecreased2'
       },
       {
-        label: i18n.t('steps:askHasImmuneDecreasedOptions-Option2'),
+        label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasImmuneDecreased2'
       }
@@ -273,7 +273,7 @@ const riskAssessment: Step[] = [
     id: 'askHasImmuneDecreased2Options',
     options: [
       {
-        label: i18n.t('steps:askHasImmuneDecreased2Options-Option1'),
+        label: i18n.t('steps:yes'),
         value: true,
         trigger: 'askHasChronicLungDisease'
       },
