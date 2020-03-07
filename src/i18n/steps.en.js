@@ -20,7 +20,7 @@ export default {
   'askForLocationOptions-NU': 'Nuvavut',
   'askHasHadContactOptions-Option1': 'Yes, some of this applies to me',
   'askHasImmuneDecreasedOptions-Option1': 'Yes, some of this applies to me',
-  'askHasImmuneDecreased2Options-Option1': 'Yes, I do',
+  'askHasImmuneDecreased2Options-Option1': 'Yes, I am',
   'askHasImmuneDecreasedOptions-Option2': 'No, nothing applies to me',
   yes: 'Yes',
   no: 'No',
