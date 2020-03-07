@@ -6,7 +6,7 @@ import ReactMarkdown, { ReactMarkdownProps } from 'react-markdown'
 type Props = ReactMarkdownProps & { size?: 'small' | 'default' }
 
 const MarkdownContainer: React.FC<Props> = ({ size = 'default', ...rest }) => (
-  <ReactMarkdown {...rest} />
+  <ReactMarkdown {...rest} linkTarget="_blank" />
 )
 
 export const Markdown = styled(MarkdownContainer)`
