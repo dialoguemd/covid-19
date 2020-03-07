@@ -188,7 +188,7 @@
   },
   {
     "conditions": {
-      "all": [
+      "any": [
         {
           "fact": "askHasRangeOptions",
           "operator": "equal",
@@ -215,6 +215,85 @@
       "type": "classification",
       "params": {
         "classes": ["elevated-medical-risk"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "any": [
+        {
+          "fact": "intro4",
+          "operator": "equal",
+          "value": true
+        }
+      ]
+    },
+    "event": {
+      "type": "classification",
+      "params": {
+        "classes": ["common"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "any": [
+        {
+          "fact": "askHasTravelPlansOptions",
+          "operator": "equal",
+          "value": true
+        }
+      ]
+    },
+    "event": {
+      "type": "classification",
+      "params": {
+        "classes": ["travel-plans"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "all": [
+        {
+          "any": [
+            {
+              "fact": "askHasFeverOptions",
+              "operator": "equal",
+              "value": true
+            },
+            {
+              "fact": "askHasCoughOptions",
+              "operator": "equal",
+              "value": true
+            },
+            {
+              "fact": "askHasDifficultyBreathingOptions",
+              "operator": "equal",
+              "value": true
+            }
+          ]
+        },
+        {
+          "any": [
+            {
+              "fact": "askHasHadContactOptions",
+              "operator": "equal",
+              "value": true
+            },
+            {
+              "fact": "askTraveledAffectedAreasOptions",
+              "operator": "equal",
+              "value": true
+            }
+          ]
+        }
+      ]
+    },
+    "event": {
+      "type": "classification",
+      "params": {
+        "classes": ["elevated-covid-risk"]
       }
     }
   }

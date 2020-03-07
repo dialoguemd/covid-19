@@ -1,4 +1,4 @@
-## What is COVID-19?
+## 👀 What is COVID-19?
 
 Coronaviruses are a large family of viruses. They can cause diseases ranging from the common cold to more severe diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS-CoV). Some transmit easily from person to person while others do not. COVID-19 is a new disease that has not been previously identified in humans.
 
