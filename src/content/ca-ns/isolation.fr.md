@@ -1,14 +1,13 @@
 ## Auto-isolement
 
-Les personnes en Nouvelle-Écosse qui ont été dirigées vers l'auto-isolement peuvent recevoir des informations de soutien en matière de santé de la part de la Nova Scotia Health Authority Public Health en [contactant le bureau le plus proche] (http://www.nshealth.ca/les-services-en-francais-la-regie-de-la-sante-de-la-nouvelle-ecosse)
+Les gens de la Nouvelle-Écosse qui ont été mis en auto-isolement peuvent recevoir des renseignements sur la santé en communiquant avec le [bureau des Services de la santé publique](http://www.nshealth.ca/public-health-offices) de la Régie de la santé de la Nouvelle-Écosse de leur région.
 
-Si vous ne vous sentez pas bien :
-
-- éviter tout contact étroit avec des personnes souffrant de maladies chroniques, des personnes dont le système immunitaire est affaibli et des personnes âgées
-- éviter d'avoir des visiteurs à votre domicile
-- éviter les situations telles que les réunions sociales, le travail, l'école, la garderie, les visites à d'autres personnes se trouvant dans un établissement de soins de santé ou une résidence de soins de longue durée
-- limiter l'utilisation des transports publics, des taxis et du covoiturage
-- se laver souvent les mains avec du savon et de l'eau chaude pendant au moins 20 secondes ; utiliser un désinfectant pour les mains si l'eau et le savon ne sont pas disponibles
-- se couvrir la bouche et le nez avec le bras lorsqu'on tousse ou éternue
+Si vous êtes en auto-isolement ou si vous ne vous sentez pas bien :
+- Évitez le contact direct avec des personnes souffrant de maladies chroniques, les personnes dont le système immunitaire est affaibli et les personnes âgées.
+- Évitez de recevoir des visiteurs à la maison.
+- Évitez les rencontres sociales, le travail, l'école et la garderie, et évitez de rendre visite à des gens dans des établissements de soins de santé et des foyers de soins de longue durée.
+- Limitez votre utilisation du transport en commun, de taxis ou de co-navettage.
+- Lavez-vous les mains souvent avec du savon et de l'eau chaude pendant au moins 20 secondes, et utilisez du désinfectant pour les mains si vous n'avez pas accès à de l'eau et à du savon.
+- Couvrez votre bouche et votre nez avec votre bras pour tousser ou éternuer.
 
 [Source](https://novascotia.ca/coronavirus/fr/)

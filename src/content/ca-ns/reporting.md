@@ -1,6 +1,6 @@
 ## Who should I contact if I think I have COVID-19?
 
-Travellers coming to Canada from [one of the affected areas](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/covid-19-affected-areas-list.html) continue to be at an increased risk for infection. Anyone who has travelled from an affected area should closely monitor their health for 14 days after their arrival in Canada.
+Les personnes qui arrivent au Canada en provenance de l'une des régions touchées continuent d'être à risque élevé d'infection. Toute personne qui a voyagé dans l'une des régions touchées doit surveiller son état de santé pendant 14 jours après son retour au Canada.
 
 If you have travelled to an affected area and develop a fever, cough, or difficulty breathing, call 811 to arrange an assessment.
 
