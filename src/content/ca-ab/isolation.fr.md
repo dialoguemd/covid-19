@@ -12,4 +12,4 @@ Vous pouvez également faire appel à des services de livraison ou de ramassage 
 
 Si vous devez quitter votre domicile pour une course urgente, par exemple pour aller chercher des médicaments essentiels, par mesure de précaution et pour réduire davantage le risque de propagation, vous pouvez porter un masque chirurgical pendant votre sortie.
 
-[Source (in English)](https://open.alberta.ca/dataset/44e7c639-7bb6-4bb4-9138-1abf5c56a7b8/resource/91cd86ac-7eaf-4376-9f9a-0b600a9af2fa/download/health-self-isolation-information-sheet.pdf)
+[Source (en anglais)](https://open.alberta.ca/dataset/44e7c639-7bb6-4bb4-9138-1abf5c56a7b8/resource/91cd86ac-7eaf-4376-9f9a-0b600a9af2fa/download/health-self-isolation-information-sheet.pdf)
