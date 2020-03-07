@@ -9,6 +9,8 @@ import { theme, mobileBreakpoint } from 'theme'
 import chloe from 'images/chloe.png'
 import { transformStep } from 'services/steps-processor'
 
+const DISABLE_DELAYS = process.env.NODE_ENV !== 'production'
+
 const transformedSteps = steps.map(transformStep)
 
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
@@ -116,9 +118,9 @@ export const Chatbot: React.FC = props => {
         hideHeader
         hideUserAvatar
         botAvatar={chloe}
-        userDelay={400}
-        botDelay={800}
-        customDelay={800}
+        userDelay={DISABLE_DELAYS ? 0 : 400}
+        botDelay={DISABLE_DELAYS ? 0 : 800}
+        customDelay={DISABLE_DELAYS ? 0 : 800}
         width="100%"
         height="100%"
       />
