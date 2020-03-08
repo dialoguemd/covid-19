@@ -95,7 +95,7 @@ export const InfoPage: React.FC = () => {
             <div>
               <h4>
                 {t('resultsPage.audiencePrefix')} {classString} <span></span>
-                <a href="/chat/">{t('resultsPage.changeAudience')}></a>
+                <a href="/#/chat/">{t('resultsPage.changeAudience')}></a>
               </h4>
             </div>
           ) : (
