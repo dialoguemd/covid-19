@@ -1,9 +1,8 @@
 export default {
   resultsPage: {
     headerTitle: 'COVID-19: What you need to know',
-    headerButton: 'Take the quiz again',
     noResultsMessage: 'No results provided in URL.',
-    backToQuestionnaire: 'change',
+    changeAudience: 'Change',
     audiencePrefix: 'Information below applies to:',
   },
   welcomePage: {

@@ -1,9 +1,9 @@
 export default {
   resultsPage: {
-    headerTitle: 'Votre guide COVID-19 personnalisé',
-    headerButton: 'Refaire le quiz',
+    headerTitle: 'COVID-19: Ce que vous devez savoir',
     noResultsMessage: 'Aucun résultat trouvé pour cet URL',
-    backToQuestionnaire: 'retourner au questionnaire?'
+    changeAudience: 'modifier',
+    audiencePrefix: 'Les informations ci-dessous s\'appliquent à',
   },
   welcomePage: {
     title: 'COVID-19: Ce que vous devez savoir',

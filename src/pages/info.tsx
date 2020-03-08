@@ -95,7 +95,7 @@ export const InfoPage: React.FC = () => {
           {hasClasses ? (
               <div>
                 <h4>{t('resultsPage.audiencePrefix')} {classString} <span></span>
-                <a href="/chat/">{t('resultsPage.backToQuestionnaire')}></a></h4>
+                <a href="/chat/">{t('resultsPage.changeAudience')}></a></h4>
               </div>
             ) : ( 
               <div></div> 
@@ -109,7 +109,7 @@ export const InfoPage: React.FC = () => {
           <div>
             <h2>{t('resultsPage.noResultsMessage')}</h2>
             <div>
-              <Link to="/chat/">{t('resultsPage.backToQuestionnaire')}</Link>
+              <Link to="/chat/">{t('resultsPage.changeAudience')}</Link>
             </div>
           </div>
         )}
