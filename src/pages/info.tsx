@@ -45,6 +45,16 @@ const Title = styled.div`
   }
 `
 
+const Audience = styled.div`
+  flex: 1 1 600px;
+  font-size: ${props => props.theme.sizes.title/2};
+  margin: 6px;
+
+  @media (max-width: ${mobileBreakpoint}px) {
+    font-size: ${props => props => props.theme.sizes.buttonText};
+  }
+`
+
 const HeaderLink = styled(Link)`
   background-color: ${props => props.theme.colors.backgroundLight};
   color: ${props => props.theme.colors.text};
@@ -58,7 +68,7 @@ const HeaderLink = styled(Link)`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
 `
 
-export const ResultsPage: React.FC = () => {
+export const InfoPage: React.FC = () => {
   const query = useQuery()
   const { t } = useTranslation()
 
@@ -66,13 +76,31 @@ export const ResultsPage: React.FC = () => {
   const queryClasses = query.get('id')
   const classes = queryClasses ? queryClasses.split(',') : []
 
+  // build a comma separated, readable list of classes
+  var classString: string = ''
+  for( let c in classes ) {
+    classString += t('classes.'+classes[c])
+    classString += ', '
+  }
+  classString = classString.substring(0,classString.lastIndexOf(',')) 
+
+
   const hasClasses = classes.length > 0
 
   return (
     <div>
       <Header>
         <Title>{t('resultsPage.headerTitle')}</Title>
-        <HeaderLink to="/chat/">{t('resultsPage.headerButton')}</HeaderLink>
+        <Audience>
+          {hasClasses ? (
+              <div>
+                <h4>{t('resultsPage.audiencePrefix')} {classString} <span></span>
+                <a href="/chat/">{t('resultsPage.backToQuestionnaire')}></a></h4>
+              </div>
+            ) : ( 
+              <div></div> 
+          )}
+        </Audience>
       </Header>
       <ResultsCard>
         {hasClasses ? (
@@ -90,4 +118,4 @@ export const ResultsPage: React.FC = () => {
   )
 }
 
-export default ResultsPage
+export default InfoPage
