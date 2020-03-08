@@ -47,7 +47,7 @@ const Title = styled.div`
 
 const Audience = styled.div`
   flex: 1 1 600px;
-  font-size: ${props => props.theme.sizes.title/2};
+  font-size: ${props => props.theme.sizes.title / 2};
   margin: 6px;
 
   @media (max-width: ${mobileBreakpoint}px) {
@@ -78,12 +78,11 @@ export const InfoPage: React.FC = () => {
 
   // build a comma separated, readable list of classes
   var classString: string = ''
-  for( let c in classes ) {
-    classString += t('classes.'+classes[c])
+  for (let c in classes) {
+    classString += t('classes.' + classes[c])
     classString += ', '
   }
-  classString = classString.substring(0,classString.lastIndexOf(',')) 
-
+  classString = classString.substring(0, classString.lastIndexOf(','))
 
   const hasClasses = classes.length > 0
 
@@ -93,12 +92,14 @@ export const InfoPage: React.FC = () => {
         <Title>{t('resultsPage.headerTitle')}</Title>
         <Audience>
           {hasClasses ? (
-              <div>
-                <h4>{t('resultsPage.audiencePrefix')} {classString} <span></span>
-                <a href="/chat/">{t('resultsPage.changeAudience')}></a></h4>
-              </div>
-            ) : ( 
-              <div></div> 
+            <div>
+              <h4>
+                {t('resultsPage.audiencePrefix')} {classString} <span></span>
+                <a href="/chat/">{t('resultsPage.changeAudience')}></a>
+              </h4>
+            </div>
+          ) : (
+            <div></div>
           )}
         </Audience>
       </Header>

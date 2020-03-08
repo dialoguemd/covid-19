@@ -3,7 +3,7 @@ export default {
     headerTitle: 'COVID-19: Ce que vous devez savoir',
     noResultsMessage: 'Aucun résultat trouvé pour cet URL',
     changeAudience: 'modifier',
-    audiencePrefix: 'Les informations ci-dessous s\'appliquent à',
+    audiencePrefix: "Les informations ci-dessous s'appliquent à"
   },
   welcomePage: {
     title: 'COVID-19: Ce que vous devez savoir',

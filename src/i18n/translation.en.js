@@ -3,7 +3,7 @@ export default {
     headerTitle: 'COVID-19: What you need to know',
     noResultsMessage: 'No results provided in URL.',
     changeAudience: 'Change',
-    audiencePrefix: 'Information below applies to:',
+    audiencePrefix: 'Information below applies to:'
   },
   welcomePage: {
     title: 'COVID-19: What you need to know',
@@ -12,7 +12,7 @@ export default {
     button: 'Get Started'
   },
   classes: {
-    common: "all Canadians",
+    common: 'all Canadians',
     'ca-qc': 'Quebec residents',
     'elevated-medical-risk': 'people with elevated medical risk',
     'elevated-covid-risk': 'people with elevated risk of infection'
