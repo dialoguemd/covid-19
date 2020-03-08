@@ -32,7 +32,7 @@ export default {
   askHasHadContactInfo: `
   By **close contact** I mean **any** of the following:
 
-  - Health-care associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment
+  - Healthcare-associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment
   - Working in close proximity or sharing the same classroom with an infected person
   - Travelling with an infected person
   - Living in the same household as an infected person
@@ -44,10 +44,10 @@ export default {
   askTraveledAffectedAreas: `
   Have you traveled to **any** of these areas in the past 14 days:
 
-  - Mainland China
+  - China
   - Hong Kong
   - Iran
-  - Italy
+  - Northern Italy
   - Japan
   - South Korea
   - Singapore`,
