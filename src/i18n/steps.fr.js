@@ -79,7 +79,7 @@ export default {
 	Vous n'êtes pas sûr ? Répondez oui si vous avez des antécédents de **n'importe lequel** des éléments suivants :
 
 	- Asthme
-	- Maladie pulmonaire obstructive chronique/MPOCcopd ou emphysème
+	- Maladie pulmonaire obstructive chronique (MPOC) ou emphysème
 	- Bronchite chronique
 	- Maladie pulmonaire interstitielle
 	- Maladie pulmonaire chronique non répertoriée ci-dessus`,

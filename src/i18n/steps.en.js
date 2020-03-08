@@ -69,10 +69,10 @@ export default {
   Not sure? Answer yes if you have a history of **any** of the following:
 
   - Asthma
-  - Chronic obstructive pulmonary disease/copd or emphysema
+  - Chronic obstructive pulmonary disease (COPD) or emphysema
   - Chronic bronchitis
   - Interstitial lung disease
-  - Chronic lung disease not listed above`,
+  - Any chronic lung disease not listed above`,
   askHasTravelPlans: `
   Are you planning on travelling outside of Canada in the next month?`,
   outro1: `
