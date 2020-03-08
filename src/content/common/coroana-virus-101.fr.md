@@ -1,4 +1,4 @@
-## Qu'est-ce que le COVID-19?
+## 🦠Qu'est-ce que le COVID-19?
 
 Les coronavirus forment une vaste famille de virus. Ils peuvent causer des maladies allant du simple rhume à des maladies plus graves comme le syndrome respiratoire aigu sévère (SRAS) et le syndrome respiratoire du Moyen-Orient (MERS-CoV). Certains de ces virus se transmettent facilement d'une personne à l'autre, mais pas tous. Le COVID-19 est une nouvelle maladie qui n'a pas encore été identifiée chez l'homme.
 
