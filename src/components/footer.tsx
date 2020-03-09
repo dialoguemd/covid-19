@@ -78,7 +78,13 @@ export const Footer: React.FC = props => {
           <a href="https://github.com/dialoguemd/covid-19">
             {t('footer.githubProject')}
           </a>
-          <a href="https://dialogue.co/">{t('footer.dialogue')}</a>
+          <a
+            href={`https://dialogue.co/${
+              i18n.languages[0] === 'en' ? 'en' : 'fr'
+            }`}
+          >
+            {t('footer.dialogue')}
+          </a>
           <a href="https://www.dialogue.co/?hs_preview=noJtvihk-26668052747">
             {t('footer.organizationResources')}
           </a>
