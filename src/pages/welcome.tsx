@@ -54,11 +54,12 @@ const Container = styled.div`
   align-items: center;
 `
 
-const LogoContainer = styled.div`
-  box-shadow: rgb(242, 241, 245) 0px 2px 10px;
-  background-color: ${props => props.theme.colors.primaryLight};
-  padding: 24px 40px 24px 18px;
-  border-bottom-right-radius: 100px;
+const Body = styled.div`
+  flex: 1 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 18px;
 `
 
 export const WelcomePage: React.FC = () => {
@@ -66,43 +67,21 @@ export const WelcomePage: React.FC = () => {
 
   return (
     <Container>
-      <div
+      <Header
+        title={t('welcomePage.title')}
         css={`
-          display: flex;
-          align-items: flex-start;
-          width: 100%;
-        `}
-      >
-        <LogoContainer>
-          <Logo />
-        </LogoContainer>
-
-        <span
-          css={`
-            flex: 1 1 auto;
-          `}
-        />
-        <LanguagePicker />
-      </div>
-      <Title>{t('welcomePage.title')}</Title>
-      <Description>{t('welcomePage.description')}</Description>
-
-      <div>
-        <GetStartedButton to="/chat/">
-          {t('welcomePage.button')}
-        </GetStartedButton>
-      </div>
-      <div
-        css={`
-          flex: 1 1 auto;
-        `}
-      ></div>
-
-      <Footer
-        css={`
-          width: 100%;
+          flex-shrink: 0;
         `}
       />
+      <Body>
+        <Description>{t('welcomePage.description')}</Description>
+        <div>
+          <GetStartedButton to="/chat/">
+            {t('welcomePage.button')}
+          </GetStartedButton>
+        </div>
+      </Body>
+      <Footer />
     </Container>
   )
 }
