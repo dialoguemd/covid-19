@@ -26,7 +26,7 @@ const Audience = styled.div`
   color: ${props => props.theme.colors.text};
   flex: 1 1 600px;
   font-size: ${props => props.theme.sizes.title / 2};
-  margin: 6px;
+  margin: 6px 15px;
 
   display: flex;
   align-items: center;
@@ -53,7 +53,8 @@ const HeaderLink = styled(Link)`
 `
 
 const InfoPageContainer = styled.div`
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 `
 
 export const InfoPage: React.FC = () => {
