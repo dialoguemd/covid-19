@@ -277,6 +277,11 @@ const riskAssessment: Step[] = [
         trigger: 'askHasChronicLungDisease'
       },
       {
+        label: 'askOptionUnsure',
+        value: true,
+        trigger: 'askHasChronicLungDisease'
+      },
+      {
         label: 'no',
         value: false,
         trigger: 'askHasChronicLungDisease'
