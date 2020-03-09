@@ -80,10 +80,8 @@ export const Footer: React.FC = props => {
           </a>
           <a
             href={`https://www.dialogue.co/${
-              i18n.language === 'en-CA' || i18n.language === 'en-US'
-                ? 'en'
-                : 'fr'
-            }/contact-us`}
+              i18n.languages[0] === 'en' ? 'en/contact-us/' : 'fr/nous-joindre/'
+            }`}
           >
             {t('footer.contactUs')}
           </a>
