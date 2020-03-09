@@ -3,7 +3,7 @@ import React from 'react'
 import styled, { ThemeProvider } from 'styled-components/macro'
 import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
 
-import ResultsPage from './pages/results'
+import InfoPage from './pages/info'
 import WelcomePage from './pages/welcome'
 import Chatbot from './components/chatbot'
 import { theme } from './theme'
@@ -25,8 +25,8 @@ function App() {
             <Route exact path="/">
               <WelcomePage />
             </Route>
-            <Route path="/results/">
-              <ResultsPage />
+            <Route path="/info/">
+              <InfoPage />
             </Route>
             <Route path="/chat/">
               <Chatbot />

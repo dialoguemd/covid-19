@@ -1,15 +1,33 @@
 export default {
   resultsPage: {
-    headerTitle: 'Your Personalized COVID-19 Guide',
-    headerButton: 'Take the quiz again',
+    headerTitle: 'COVID-19: What you need to know',
     noResultsMessage: 'No results provided in URL.',
-    backToQuestionnaire: 'back to questionnaire?'
+    changeAudience: 'Change',
+    audiencePrefix: 'Information below applies to:'
   },
   welcomePage: {
     title: 'COVID-19: What you need to know',
     description:
       'Get accurate personalized information from trusted Canadian medical sources regarding COVID-19.',
     button: 'Get Started'
+  },
+  classes: {
+    common: 'all Canadians',
+    'ca-qc': 'residents of Quebec',
+    'ca-ab': 'residents of Alberta',
+    'ca-on': 'residents of Ontario',
+    'ca-ns': 'residents of Nouvelle-Écosse',
+    'ca-nb': 'residents of Nouveau-Brunswick',
+    'ca-mb': 'residents of Manitoba',
+    'ca-bc': 'residents of la Colombie-Britannique',
+    'ca-sk': 'residents of la Saskatchewan',
+    'ca-pe': "residents of l'Île-du-Prince-Édouard",
+    'ca-yt': 'residents of Yukon',
+    'ca-nt': 'residents of Territoires du Nord',
+    'ca-nl': 'residents of Terre-Neuve-et-Labrador',
+    'ca-nu': 'residents of Nuvavut',
+    'elevated-medical-risk': 'people with a high medical risk',
+    'elevated-covid-risk': 'people at high risk of infection'
   },
   footer: {
     about: 'About',

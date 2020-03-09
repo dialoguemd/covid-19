@@ -12,7 +12,7 @@ const useQuery = () => {
   return new URLSearchParams(location.search)
 }
 
-const ResultsCard = styled.div`
+const InfoCard = styled.div`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   background: ${props => props.theme.colors.backgroundLight};
   border-radius: 12px;
@@ -45,53 +45,69 @@ const Title = styled.div`
   }
 `
 
-const HeaderLink = styled(Link)`
-  background-color: ${props => props.theme.colors.backgroundLight};
-  color: ${props => props.theme.colors.text};
-  font-size: ${props => props => props.theme.sizes.buttonText};
-  padding: 12px;
-  text-decoration: none;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  font-weight: 500;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+const Audience = styled.div`
+  flex: 1 1 600px;
+  font-size: ${props => props.theme.sizes.title / 2};
+  margin: 6px;
+
+  @media (max-width: ${mobileBreakpoint}px) {
+    font-size: ${props => props => props.theme.sizes.buttonText};
+  }
 `
 
-const ResultsPageContainer = styled.div`
+const InfoPageContainer = styled.div`
   overflow: auto;
 `
 
-export const ResultsPage: React.FC = () => {
+export const InfoPage: React.FC = () => {
   const query = useQuery()
   const { t } = useTranslation()
 
-  // parse /results?id=a,b,c -> [a, b, c]
+  // parse /info?id=a,b,c -> [a, b, c]
   const queryClasses = query.get('id')
   const classes = queryClasses ? queryClasses.split(',') : []
+
+  // build a comma separated, readable list of classes
+  var classString: string = ''
+  for (let c in classes) {
+    classString += t('classes.' + classes[c])
+    classString += ', '
+  }
+  classString = classString.substring(0, classString.lastIndexOf(','))
 
   const hasClasses = classes.length > 0
 
   return (
-    <ResultsPageContainer>
+    <InfoPageContainer>
       <Header>
         <Title>{t('resultsPage.headerTitle')}</Title>
-        <HeaderLink to="/chat/">{t('resultsPage.headerButton')}</HeaderLink>
+        <Audience>
+          {hasClasses ? (
+            <div>
+              <h4>
+                {t('resultsPage.audiencePrefix')} {classString} <span></span>
+                <a href="/#/chat/">{t('resultsPage.changeAudience')}></a>
+              </h4>
+            </div>
+          ) : (
+            <div></div>
+          )}
+        </Audience>
       </Header>
-      <ResultsCard>
+      <InfoCard>
         {hasClasses ? (
           <Results classes={classes} />
         ) : (
           <div>
             <h2>{t('resultsPage.noResultsMessage')}</h2>
             <div>
-              <Link to="/chat/">{t('resultsPage.backToQuestionnaire')}</Link>
+              <Link to="/chat/">{t('resultsPage.changeAudience')}</Link>
             </div>
           </div>
         )}
-      </ResultsCard>
-    </ResultsPageContainer>
+      </InfoCard>
+    </InfoPageContainer>
   )
 }
 
-export default ResultsPage
+export default InfoPage
