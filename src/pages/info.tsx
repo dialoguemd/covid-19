@@ -27,8 +27,7 @@ const Audience = styled.div`
   color: ${props => props.theme.colors.text};
   flex: 1 1 600px;
   font-size: ${props => props.theme.sizes.title / 2};
-  margin: 12px;
-
+  margin: 6px 15px;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -59,7 +58,8 @@ const ClassList = styled.h4`
 `
 
 const InfoPageContainer = styled.div`
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 `
 
 export const InfoPage: React.FC = () => {
