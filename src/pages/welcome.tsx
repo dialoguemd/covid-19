@@ -29,7 +29,7 @@ const Container = styled.div`
     text-align: center;
   }
   h3 {
-    color: ${props => props.theme.colors.botFontColor};
+    color: ${props => props.theme.colors.text};
     font-size: calc(${props => props.theme.sizes.buttonText});
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 200;
@@ -38,13 +38,14 @@ const Container = styled.div`
     text-align: center;
   }
   a {
-    color: ${props => props.theme.colors.botFontColor};
+    color: ${props => props.theme.colors.text};
     font-size: calc(${props => props.theme.sizes.buttonText});
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 800;
     justify-content: center;
     flex-wrap: wrap;
     display: flex;
+    text-decoration: none;
   }
 `
 
