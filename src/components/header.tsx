@@ -72,6 +72,7 @@ export const Header: React.FC<Props> = ({ title, ...rest }) => (
 
     <LanguagePickerContainer>
       <span
+        role="img"
         css={`
           font-size: 36px;
         `}

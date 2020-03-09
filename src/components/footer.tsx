@@ -57,6 +57,7 @@ const BottomText = styled.h3`
   font-size: ${props => props.theme.sizes.small};
   margin: 4px 0;
   text-align: center;
+  font-weight: 300;
 `
 
 export const Footer: React.FC = props => {
