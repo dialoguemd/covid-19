@@ -53,6 +53,7 @@ const HeaderContainer = styled.div`
     }
     ${LanguagePickerContainer} {
       order: 2;
+      flex-basis: 0;
     }
   }
 `

@@ -6,16 +6,6 @@ import { useTranslation } from 'react-i18next'
 import Footer from 'components/footer'
 import Header from 'components/header'
 
-const Title = styled.h2`
-  color: ${props => props.theme.colors.primary};
-  font-size: calc(${props => props.theme.sizes.buttonText} * 2);
-  padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
-  font-weight: 800;
-  justify-content: center;
-  flex-wrap: wrap;
-  text-align: center;
-`
-
 const Description = styled.h3`
   color: ${props => props.theme.colors.text};
   font-size: calc(${props => props.theme.sizes.buttonText});
