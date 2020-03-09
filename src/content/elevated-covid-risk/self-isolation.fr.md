@@ -10,4 +10,4 @@ La personne atteinte doit s'isoler à son domicile jusqu'à ce que l'autorité d
 - ne pas aller à l'école, au travail ou dans d'autres lieux publics;
 - ne pas utiliser les transports en commun (p. ex. autobus, métro, taxi).
 
-[Source: Gouvernment of Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html)
+[Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html)

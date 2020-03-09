@@ -4,4 +4,4 @@ Coronaviruses are a large family of viruses. They can cause diseases ranging fro
 
 China determined that a novel coronavirus (referred to as COVID-19) is responsible for the outbreak of pneumonia in Wuhan. Authorities in China and worldwide are conducting further investigations to better understand where the disease came from, how it is spread and the clinical severity of illness in humans.
 
-[Source: Gouvernment of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/frequently-asked-questions.html)
+[Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/frequently-asked-questions.html)
