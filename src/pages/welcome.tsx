@@ -30,13 +30,20 @@ const Description = styled.h3`
 
 const GetStartedButton = styled(Link)`
   color: ${props => props.theme.colors.text};
-  font-size: calc(${props => props.theme.sizes.buttonText});
-  padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
+  font-size: calc(${props => props.theme.sizes.buttonText} * 1.25);
+  padding: 0.75em 1.25em;
   font-weight: 800;
   justify-content: center;
   flex-wrap: wrap;
   display: flex;
   text-decoration: none;
+  border-radius: 8px;
+
+  transition: background 200ms linear;
+
+  &:hover {
+    background-color: ${props => props.theme.colors.primaryLight};
+  }
 `
 
 const Container = styled.div`
@@ -44,6 +51,7 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   height: 100%;
+  align-items: center;
 `
 
 const LogoContainer = styled.div`
@@ -62,6 +70,7 @@ export const WelcomePage: React.FC = () => {
         css={`
           display: flex;
           align-items: flex-start;
+          width: 100%;
         `}
       >
         <LogoContainer>
@@ -78,15 +87,22 @@ export const WelcomePage: React.FC = () => {
       <Title>{t('welcomePage.title')}</Title>
       <Description>{t('welcomePage.description')}</Description>
 
-      <GetStartedButton to="/chat/">{t('welcomePage.button')}</GetStartedButton>
-
+      <div>
+        <GetStartedButton to="/chat/">
+          {t('welcomePage.button')}
+        </GetStartedButton>
+      </div>
       <div
         css={`
           flex: 1 1 auto;
         `}
       ></div>
 
-      <Footer />
+      <Footer
+        css={`
+          width: 100%;
+        `}
+      />
     </Container>
   )
 }

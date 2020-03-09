@@ -62,7 +62,7 @@ export const Footer: React.FC = props => {
   const { t, i18n } = useTranslation()
 
   return (
-    <FooterContainer>
+    <FooterContainer {...props}>
       <FooterContent>
         <FooterColumn>
           <h3>{t('footer.about')}</h3>
