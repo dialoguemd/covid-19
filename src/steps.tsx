@@ -273,17 +273,17 @@ const riskAssessment: Step[] = [
     options: [
       {
         label: 'askHasImmuneDecreased2Options-Option1',
-        value: true,
+        value: 'yes',
         trigger: 'askHasChronicLungDisease'
       },
       {
         label: 'askOptionUnsure',
-        value: true,
+        value: 'maybe',
         trigger: 'askHasChronicLungDisease'
       },
       {
         label: 'no',
-        value: false,
+        value: 'no',
         trigger: 'askHasChronicLungDisease'
       }
     ]
