@@ -47,7 +47,7 @@ export interface Props {
 export const ShareResults: React.FC<Props> = (props: any) => {
   const { t, i18n } = useTranslation()
 
-  const url = encodeURI(window.location.href)
+  const url = encodeURIComponent(window.location.href)
   const facebookHref = `https://www.facebook.com/sharer/sharer.php?u=${url}&amp;src=sdkpreparse`
   const twitterHref = `https://twitter.com/intent/tweet?text=${i18n.t(
     'share.twitterShareText',
