@@ -10,4 +10,4 @@ ou les autorités locales de santé publique et les informer d'un éventuel cont
 
 Si vous êtes malade et que vous devez consulter un professionnel de la santé, appelez à l'avance ou prévenez à votre arrivée si vous avez une maladie respiratoire et si vous avez voyagé.
 
-[Source: Government of Nuvavut](https://gov.nu.ca/sites/default/files/covid-19_web_page.pdf)
+[Source: Gouvernement du Nuvavut](https://gov.nu.ca/sites/default/files/covid-19_web_page.pdf)

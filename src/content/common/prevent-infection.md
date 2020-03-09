@@ -8,4 +8,4 @@
   - Immediately dispose of any tissues you have used into the garbage as soon as possible and wash your hands afterwards
 - Avoid visiting people in hospitals or long-term care centres if you are sick
 
-[Source: Gouvernment of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
+[Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)

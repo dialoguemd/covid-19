@@ -4,4 +4,4 @@ Si vous avez récemment devenu malade pendant votre voyage ou à votre retour, c
 
 L’Agence de la santé publique du Canada a également créé un numéro de téléphone sans frais (1-833-784-4397) pour répondre aux questions au sujet du COVID-19.
 
-[Source: Government of New Brunswick](https://www2.gnb.ca/content/gnb/fr/ministeres/bmhc/maladies_transmissibles/content/maladies_respiratoires/coronavirus.html)
+[Source: Gouvernment du Nouveau Brunswick](https://www2.gnb.ca/content/gnb/fr/ministeres/bmhc/maladies_transmissibles/content/maladies_respiratoires/coronavirus.html)

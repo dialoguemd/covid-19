@@ -10,4 +10,4 @@ Avisez votre prestataire de soins de santé :
 - Si vous avez été en contact étroit avec une personne malade qui voyageait ; et
 - Si vous avez été en contact direct avec des animaux ou des liquides (par exemple, des excréments, du sang).
 
-[Source: Government of Northwest Territories](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/faq-sur-la-maladie-%C3%A0-coronavirus-covid-19)
+[Source: Gouvernement des Territoires du Nord-Ouest](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/faq-sur-la-maladie-%C3%A0-coronavirus-covid-19)

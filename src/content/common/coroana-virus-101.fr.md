@@ -4,4 +4,4 @@ Les coronavirus forment une vaste famille de virus. Ils peuvent causer des malad
 
 La Chine a établi qu'un nouveau coronavirus (appelé COVID-19) est responsable de l'éclosion de pneumonie à Wuhan. Les autorités chinoises et les autorités ailleurs dans le monde mènent des enquêtes plus approfondies pour mieux cerner l'origine de la maladie, sa mode de propagation et la gravité clinique des maladies qu'il provoque chez l'homme.
 
-[Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/foire-aux-questions.html)
+[Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/foire-aux-questions.html)

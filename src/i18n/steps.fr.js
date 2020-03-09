@@ -1,9 +1,9 @@
 export default {
   intro1: 'Bonjour!',
   intro2:
-    "Je suis Chloé, une assistante virtuelle médicale intelligente. Je suis ici pour vous donner des informations précises sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
+    "Je suis Chloé, une assistante virtuelle médicale intelligente. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
   intro3: `
-	Notez que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin.
+	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin.
 
 	Les informations que nous fournissons proviennent de sources officielles..
 	`,
@@ -33,7 +33,7 @@ export default {
   askForLocationInfo:
     "Je pourrai adapter les informations pour qu'elles s'appliquent à votre région.",
   askHasHadContact: `
-  Avez-vous été en **contact étroit** avec une personne infectée?`,
+  Avez-vous été en **contact étroit** avec un cas confirmé ou probable du COVID-19?`,
   askHasHadContactInfo: `
   Par **contact étroit**, j'entends **n'importe lequel** des éléments suivants :
 
