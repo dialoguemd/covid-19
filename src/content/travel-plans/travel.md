@@ -1,6 +1,6 @@
 ## 🛫 Safety and security abroad
 
-Canadians should avoid non-essential travel to China, Iran and northern Italy.
+The Government of Canada recommends that Canadians avoid non-essential travel to China, Iran and northern Italy. Canada also recommends that Canadians avoid all travel to the province of Hubei due to very strict travel and movement restrictions imposed by Chinese authorities to limit the spread of COVID-19.
 
 All travellers should be aware that there are health risks when you travel. It is important to check your destination before you leave to know the risks and to be prepared. You can reduce your risk by taking precautions when travelling to areas where there is risk of coronaviruses. Please consult the destination page on [travel.gc.ca](http://travel.gc.ca/) for the latest travel advice.
 

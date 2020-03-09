@@ -1,6 +1,6 @@
 ## 🛫 Sûreté et sécurité à l'étranger
 
-Les Canadiens devraient éviter les voyages non essentiels en Chine, en Iran et dans le nord de l'Italie.
+Le gouvernement du Canada recommande d'éviter tout voyage non essentiel en Chine, en Iran ou dans le nord de l'Italie. Il recommande aussi aux Canadiens d'éviter tout voyage dans la province du Hubei en raison des lourdes restrictions imposées par les autorités chinoises sur les voyages afin de limiter la propagation du COVID-19.
 
 Tous les voyageurs doivent être conscients des risques pour la santé lors de leurs déplacements. Il est important de vérifier votre destination avant votre départ pour connaître les risques et être prêt. Vous pouvez réduire vos risques en prenant des précautions lorsque vous vous rendez dans des régions où il existe un risque de coronavirus. Veuillez consulter la page de la destination sur [voyage.gc.ca](https://voyage.gc.ca/) pour obtenir les derniers conseils aux voyageurs.
 
