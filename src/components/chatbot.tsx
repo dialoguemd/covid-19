@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useMemo } from 'react'
 
 import ReactSimpleChatbot from 'react-simple-chatbot'
 import styled, { ThemeProvider } from 'styled-components/macro'
@@ -10,8 +10,6 @@ import { transformStep } from 'services/steps-processor'
 import { scrollToLastBotMessage } from 'services/chat-scroll'
 
 const DISABLE_DELAYS = process.env.NODE_ENV !== 'production'
-
-const transformedSteps = steps.map(transformStep)
 
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   background: colors.background,
@@ -97,6 +95,12 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
 `
 
 export const Chatbot: React.FC = props => {
+  // steps are cached by chatbot, so we could update on language
+  // change, but that would involve clearing the current in-progress
+  // q'naire. So, memo is enough.
+  // i.e. take i18n language at initial render of chatbot
+  const transformedSteps = useMemo(() => steps.map(transformStep), [])
+
   return (
     <ThemeProvider theme={makeTheme}>
       <StyledChatbot
