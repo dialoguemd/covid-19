@@ -5,7 +5,7 @@ export default {
   intro3: `
 	Notez que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin.
 
-	Les informations sont régulièrement mises à jour, mais certaines d'entre elles peuvent être devenues désuètes.
+	Les informations que nous fournissons proviennent de sources officielles..
 	`,
   'intro-option1': 'Ok, allons-y!',
   'askForLocationOptions-QC': 'Québec',
