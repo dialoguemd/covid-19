@@ -2,7 +2,8 @@ export default {
   resultsPage: {
     headerTitle: 'COVID-19: Ce que vous devez savoir',
     noResultsMessage: 'Aucun résultat trouvé pour cet URL',
-    changeAudience: 'Refaire le questionnaire',
+    changeAudience:
+      "Cela ne s'applique pas à vous ? Obtenez vos informations personnalisées",
     audiencePrefix: "Les informations ci-dessous s'appliquent à "
   },
   welcomePage: {
