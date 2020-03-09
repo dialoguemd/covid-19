@@ -1,4 +1,4 @@
-# Réduire votre risque d'infection ou de propagation à d'autres
+## 👨‍👩‍👧 Réduire votre risque d'infection ou de propagation à d'autres
 
 - se laver souvent les mains à l'eau savonneuse pendant au moins 20 secondes
 - éviter de toucher ses yeux, son nez ou sa bouche avec ses mains non lavées
