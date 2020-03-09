@@ -76,7 +76,13 @@ export const Footer: React.FC = props => {
           <a href="https://www.dialogue.co/?hs_preview=noJtvihk-26668052747">
             {t('footer.organizationResources')}
           </a>
-          <a href={`https://www.dialogue.co/${i18n.language}/contact-us`}>
+          <a
+            href={`https://www.dialogue.co/${
+              i18n.language === 'en-CA' || i18n.language === 'en-US'
+                ? 'en'
+                : 'fr'
+            }/contact-us`}
+          >
             {t('footer.contactUs')}
           </a>
         </FooterColumn>
