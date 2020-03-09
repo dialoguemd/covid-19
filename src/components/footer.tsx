@@ -26,7 +26,6 @@ const FooterContainer = styled.div`
   color: ${props => props.theme.colors.text};
   display: flex;
   justify-content: center;
-  width: 100%;
 `
 
 const FooterContent = styled.div`

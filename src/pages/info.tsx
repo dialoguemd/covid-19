@@ -1,13 +1,11 @@
 import React from 'react'
 
 import { useLocation, Link } from 'react-router-dom'
-import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 
 import Results from 'components/results'
-import Header from 'components/header'
-import Footer from 'components/footer'
 import { mobileBreakpoint } from 'theme'
+import { useTranslation } from 'react-i18next'
 
 const useQuery = () => {
   const location = useLocation()
@@ -22,33 +20,38 @@ const InfoCard = styled.div`
   padding: 16px;
 `
 
-const Audience = styled.div`
-  color: ${props => props.theme.colors.text};
-  flex: 1 1 600px;
-  font-size: ${props => props.theme.sizes.title / 2};
-  margin: 6px;
-
+const Header = styled.div`
+  background-color: ${props => props.theme.colors.primary};
+  color: ${props => props.theme.colors.backgroundLight};
+  padding: 20px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  @media (max-width: ${mobileBreakpoint}px) {
+    padding: 10px 6px;
+  }
+`
+
+const Title = styled.div`
+  flex: 1 1 600px;
+  font-size: ${props => props.theme.sizes.title};
+  margin: 6px;
 
   @media (max-width: ${mobileBreakpoint}px) {
     font-size: ${props => props => props.theme.sizes.buttonText};
   }
 `
 
-const HeaderLink = styled(Link)`
-  color: ${props => props.theme.colors.text};
-  font-size: ${props => props.theme.sizes.buttonText};
-  padding: 12px 18px;
-  text-decoration: none;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  font-weight: 500;
-  transition: background 200ms linear;
+const Audience = styled.div`
+  flex: 1 1 600px;
+  font-size: ${props => props.theme.sizes.title / 2};
+  margin: 6px;
 
-  &:hover {
-    background-color: ${props => props.theme.colors.primaryLight};
+  @media (max-width: ${mobileBreakpoint}px) {
+    font-size: ${props => props => props.theme.sizes.buttonText};
   }
 `
 
@@ -65,26 +68,32 @@ export const InfoPage: React.FC = () => {
   const classes = queryClasses ? queryClasses.split(',') : []
 
   // build a comma separated, readable list of classes
-  const classString = classes
-    .map(className => t(`classes.${className}`))
-    .join(', ')
+  var classString: string = ''
+  for (let c in classes) {
+    classString += t('classes.' + classes[c])
+    classString += ', '
+  }
+  classString = classString.substring(0, classString.lastIndexOf(','))
 
   const hasClasses = classes.length > 0
 
   return (
     <InfoPageContainer>
-      <Header title={t('resultsPage.headerTitle')} />
-      <Audience>
-        <h4>
-          {t('resultsPage.audiencePrefix')} {classString}
-        </h4>
-        <span
-          css={`
-            flex: 1 1 auto;
-          `}
-        ></span>
-        <HeaderLink to="/chat/">{t('resultsPage.changeAudience')}></HeaderLink>
-      </Audience>
+      <Header>
+        <Title>{t('resultsPage.headerTitle')}</Title>
+        <Audience>
+          {hasClasses ? (
+            <div>
+              <h4>
+                {t('resultsPage.audiencePrefix')} {classString} <span></span>
+                <a href="/#/chat/">{t('resultsPage.changeAudience')}></a>
+              </h4>
+            </div>
+          ) : (
+            <div></div>
+          )}
+        </Audience>
+      </Header>
       <InfoCard>
         {hasClasses ? (
           <Results classes={classes} />
@@ -97,7 +106,6 @@ export const InfoPage: React.FC = () => {
           </div>
         )}
       </InfoCard>
-      <Footer />
     </InfoPageContainer>
   )
 }
