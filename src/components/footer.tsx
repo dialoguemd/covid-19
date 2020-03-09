@@ -47,7 +47,7 @@ const FooterContent = styled.div`
   }
 
   h3 {
-    font-size: ${props => props.theme.sizes.body};
+    font-size: ${props => props.theme.sizes.small};
     margin: 8px 0;
   }
 `

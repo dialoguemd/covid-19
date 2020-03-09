@@ -22,6 +22,23 @@
         {
           "fact": "askForLocationOptions",
           "operator": "equal",
+          "value": "SK"
+        }
+      ]
+    },
+    "event": {
+      "type": "askForLocationOptions",
+      "params": {
+        "classes": ["ca-sk"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "all": [
+        {
+          "fact": "askForLocationOptions",
+          "operator": "equal",
           "value": "BC"
         }
       ]
