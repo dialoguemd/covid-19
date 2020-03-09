@@ -10,4 +10,4 @@ Let your healthcare provider know:
 - If you have been in close contact with someone who is sick and was travelling; and
 - If you have been in direct contact with animals or fluids (ie. droppings, blood).
 
-[Source](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/coronavirus-disease-covid-19-faqs)
+[Source: Government of Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/coronavirus-disease-covid-19-faqs)

@@ -10,4 +10,4 @@ Les voyageurs doivent s'attendre à des mesures de dépistage accrues aux points
 
 Certains gouvernements ont mis en place des restrictions d'entrée et de sortie spéciales pour leur territoire.  Avant de voyager, vérifiez auprès de la mission diplomatique étrangère de votre destination si ses autorités ont mis en place des restrictions spécifiques liées à cette situation.  Celles-ci comprennent les conditions d'entrée, les fermetures de frontières et les suspensions de vols. 
 
-[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
+[Source: Gouvernment of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)

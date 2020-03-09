@@ -10,4 +10,4 @@ Travellers should expect increased health screening measures at points of entry 
 
 Some governments have implemented special entry and exit restrictions for their territory. Before travelling, verify with the foreign diplomatic mission of your destination to see if its authorities have implemented any specific restrictions related to this situation. These include entry requirements, border closures and flight suspensions.
 
-[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
+[Source: Gouvernment of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)

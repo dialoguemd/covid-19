@@ -11,4 +11,4 @@ Les voyageurs qui reviennent d’endroits qui font l’objet d’un avertissemen
 - se surveiller pour détecter tout symptôme du nouveau coronavirus de 2019 pendant 14 jours après avoir quitté une région touchée
 - communiquer avec Télésanté Ontario au 1 866 797-0000 ou le [bureau de santé publique de leur région](http://www.health.gov.on.ca/fr/common/system/services/phu/locations.aspx) s’ils présentent des symptômes du nouveau coronavirus de 2019
 
-[Source](https://www.ontario.ca/fr/page/nouveau-coronavirus-2019#section-5)
+[Source: Government of Ontario](https://www.ontario.ca/fr/page/nouveau-coronavirus-2019#section-5)

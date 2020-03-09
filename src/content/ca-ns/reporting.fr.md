@@ -4,4 +4,4 @@ Les personnes qui arrivent au Canada en provenance de [l'une des régions touch�
 
 Si vous avez voyagé dans l'une des régions touchées et si vous présentez une fièvre, une toux ou des difficultés respiratoires, communiquez avec le service 811 afin de prendre les mesures nécessaires pour une évaluation.
 
-[Source](https://novascotia.ca/coronavirus/fr/)
+[Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/fr/)

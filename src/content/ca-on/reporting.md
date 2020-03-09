@@ -11,4 +11,4 @@ Travellers who have returned from areas under a travel health advisory for COVID
 - monitor themselves for symptoms of the 2019 novel coronavirus for 14 days after leaving the affected area
 - contact Telehealth Ontario at 1-866-797-0000 or their [local public health unit](http://www.health.gov.on.ca/en/common/system/services/phu/locations.aspx) if they experience symptoms of the 2019 novel coronavirus
 
-[Source](https://www.ontario.ca/page/2019-novel-coronavirus#section-5)
+[Source: Government of Ontario](https://www.ontario.ca/page/2019-novel-coronavirus#section-5)

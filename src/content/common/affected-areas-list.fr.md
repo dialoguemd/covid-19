@@ -13,4 +13,4 @@ Sur la base des informations publiées le 27 février 2020, les zones suivantes 
 
 Les pays ou zones sont ajoutés à cette liste après un examen minutieux par des experts des données des cas signalés publiquement et l'application d'un processus d'évaluation des risques. 
 
-[Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html)
+[Source: Gouvernment of Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html)

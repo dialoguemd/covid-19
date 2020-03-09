@@ -4,4 +4,4 @@ People arriving in Canada from one of the affected areas continue to be at high 
 
 If you have travelled to an affected area and develop a fever, cough, or difficulty breathing, call 811 to arrange an assessment.
 
-[Source](https://novascotia.ca/coronavirus/)
+[Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/)

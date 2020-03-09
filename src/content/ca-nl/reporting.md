@@ -13,4 +13,4 @@ Tell your health care provider:
 - Where you live and if you live alone or with others
 - If you have had close contact with a sick person, especially if they have had fever, cough or difficulty breathing
 
-[Source](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)
+[Source: Newfoundland and Labrador, Health and Community Services](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)

@@ -11,4 +11,4 @@ Les informations actuelles suggèrent que les personnes âgées et les personnes
 
 Si vous présentez un risque accru de complications liées à la COVID-19, veuillez consulter votre prestataire de soins de santé pour obtenir plus d'informations sur la surveillance de votre santé en vue de détecter des symptômes évocateurs de la COVID-19. Bien que la plupart des personnes atteintes de COVID-19 puissent se rétablir à domicile, les personnes à haut risque qui présentent des symptômes de COVID-19 doivent consulter un médecin plus tôt que les personnes plus jeunes et/ou en bonne santé.
 
-[Source](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)
+[Source: Gouvernment of Canada](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)

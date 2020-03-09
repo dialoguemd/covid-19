@@ -4,4 +4,5 @@ If you are ill and have recently traveled to an affected area, or if you are ill
 
 Call Health Links–Info Santé in Winnipeg at 204-788-8200; toll free elsewhere in Manitoba 1-888-315-9257.
 
-[Source] https://www.gov.mb.ca/health/publichealth/factsheets/coronavirus.pdf
+[Source: Government of Manitoba](https://www.gov.mb.ca/health/publichealth/factsheets/coronavirus.pdf)
+

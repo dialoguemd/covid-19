@@ -13,4 +13,4 @@ Call ahead to the health-care facility you are planning to visit so they can be 
 
 Until more is understood about the virus, older people and people with a weakened immune system or underlying medical condition are considered at higher risk of severe disease.
 
-[Source](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)
+[Source: BC Centre for Disease Control](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)

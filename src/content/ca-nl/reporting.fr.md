@@ -13,4 +13,4 @@ Informez votre prestataire de soins de santé :
 - Où vous habitez et si vous vivez seul ou avec d'autres
 - Si vous avez été en contact étroit avec une personne malade, en particulier si elle a eu de la fièvre, de la toux ou des difficultés à respirer
 
-[Source (en anglais)](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)
+[Source: Newfoundland and Labrador, Health and Community Services (en anglais)](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)

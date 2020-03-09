@@ -13,4 +13,4 @@ Appelez à l'avance l'établissement de santé que vous prévoyez visiter afin q
 
 Tant que l'on n'en saura pas plus sur le virus, les personnes âgées et les personnes dont le système immunitaire est affaibli ou qui souffrent d'un problème médical sous-jacent sont considérées comme plus exposées à une maladie grave.
 
-[Source (en anglais)](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)
+[Source: BC Centre for Disease Control (en anglais)](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)

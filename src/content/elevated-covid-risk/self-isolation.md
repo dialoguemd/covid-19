@@ -10,4 +10,4 @@ The case should isolate themselves in the home setting until advised by the Publ
 - Not go to school, work, or other public areas
 - Not use public transportation (e.g. buses, subways, taxis)
 
-[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#app1)
+[Source: Gouvernment of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#app1)

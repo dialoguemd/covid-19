@@ -4,4 +4,4 @@ If you became sick during your travel or after your return, contact TeleCare 8-1
 
 Public Health Agency of Canada has also established a new toll-free phone number (1-833-784-4397) to answer questions about COVID-19.
 
-[Source](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
+[Source: Government of New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
