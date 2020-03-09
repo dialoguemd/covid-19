@@ -111,8 +111,8 @@ export const Chatbot: React.FC = props => {
         hideUserAvatar
         botAvatar={chloe}
         userDelay={DISABLE_DELAYS ? 0 : 400}
-        botDelay={DISABLE_DELAYS ? 0 : 800}
-        customDelay={DISABLE_DELAYS ? 0 : 800}
+        botDelay={DISABLE_DELAYS ? 0 : 400}
+        customDelay={DISABLE_DELAYS ? 0 : 400}
         width="100%"
         height="100%"
       />
