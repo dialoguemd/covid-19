@@ -26,10 +26,11 @@ const Audience = styled.div`
   color: ${props => props.theme.colors.text};
   flex: 1 1 600px;
   font-size: ${props => props.theme.sizes.title / 2};
-  margin: 6px;
+  margin: 12px;
 
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 
   @media (max-width: ${mobileBreakpoint}px) {
     font-size: ${props => props => props.theme.sizes.buttonText};
@@ -39,7 +40,7 @@ const Audience = styled.div`
 const HeaderLink = styled(Link)`
   color: ${props => props.theme.colors.text};
   font-size: ${props => props.theme.sizes.buttonText};
-  padding: 12px 18px;
+  padding: 8px 12px;
   text-decoration: none;
   border-radius: 12px;
   display: flex;
@@ -50,6 +51,10 @@ const HeaderLink = styled(Link)`
   &:hover {
     background-color: ${props => props.theme.colors.primaryLight};
   }
+`
+
+const ClassList = styled.h4`
+  margin: 0 8px 0 12px;
 `
 
 const InfoPageContainer = styled.div`
@@ -75,15 +80,10 @@ export const InfoPage: React.FC = () => {
     <InfoPageContainer>
       <Header title={t('resultsPage.headerTitle')} />
       <Audience>
-        <h4>
+        <ClassList>
           {t('resultsPage.audiencePrefix')} {classString}
-        </h4>
-        <span
-          css={`
-            flex: 1 1 auto;
-          `}
-        ></span>
-        <HeaderLink to="/chat/">{t('resultsPage.changeAudience')}></HeaderLink>
+        </ClassList>
+        <HeaderLink to="/chat/">{t('resultsPage.changeAudience')}</HeaderLink>
       </Audience>
       <InfoCard>
         {hasClasses ? (

@@ -2,8 +2,8 @@ export default {
   resultsPage: {
     headerTitle: 'COVID-19: Ce que vous devez savoir',
     noResultsMessage: 'Aucun résultat trouvé pour cet URL',
-    changeAudience: 'modifier',
-    audiencePrefix: "Les informations ci-dessous s'appliquent: "
+    changeAudience: 'Refaire le questionnaire',
+    audiencePrefix: "Les informations ci-dessous s'appliquent "
   },
   welcomePage: {
     title: 'COVID-19: Ce que vous devez savoir',
@@ -12,7 +12,7 @@ export default {
     button: 'Démarrer'
   },
   classes: {
-    common: ' à tous les Canadiens',
+    common: 'à tous les Canadiens',
     'ca-qc': 'aux résidents du Québec',
     'ca-ab': "aux résidents de l'Alberta",
     'ca-on': "aux résidents de l'Ontario",
