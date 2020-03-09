@@ -9,7 +9,7 @@ Sur la base des informations publiées le 27 février 2020, les zones suivantes 
 - Italie 🇮🇹
 - Japon 🇯🇵
 - Singapour 🇰🇷
-Les pays ou zones sont ajoutés à cette liste après un examen minutieux par des experts des données des cas signalés publiquement et l'application d'un processus d'évaluation des risques. 
+  Les pays ou zones sont ajoutés à cette liste après un examen minutieux par des experts des données des cas signalés publiquement et l'application d'un processus d'évaluation des risques.
 
 [Autres pays ou régions](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 

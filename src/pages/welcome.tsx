@@ -6,6 +6,8 @@ import logo from 'images/logo.png'
 import { useTranslation } from 'react-i18next'
 
 const Container = styled.div`
+  overflow: auto;
+
   h1 {
     color: ${props => props.theme.colors.primary};
     font-size: calc(${props => props.theme.sizes.buttonText} * 1.5);

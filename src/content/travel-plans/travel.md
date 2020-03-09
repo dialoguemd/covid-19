@@ -1,6 +1,6 @@
 ## 🛫 Safety and security abroad
 
-Canadians should avoid non-essential travel to China, Iran and northern Italy. 
+Canadians should avoid non-essential travel to China, Iran and northern Italy.
 
 All travellers should be aware that there are health risks when you travel. It is important to check your destination before you leave to know the risks and to be prepared. You can reduce your risk by taking precautions when travelling to areas where there is risk of coronaviruses. Please consult the destination page on travel.gc.ca for the latest travel advice.
 

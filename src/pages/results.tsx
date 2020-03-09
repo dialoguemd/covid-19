@@ -58,6 +58,10 @@ const HeaderLink = styled(Link)`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
 `
 
+const ResultsPageContainer = styled.div`
+  overflow: auto;
+`
+
 export const ResultsPage: React.FC = () => {
   const query = useQuery()
   const { t } = useTranslation()
@@ -69,7 +73,7 @@ export const ResultsPage: React.FC = () => {
   const hasClasses = classes.length > 0
 
   return (
-    <div>
+    <ResultsPageContainer>
       <Header>
         <Title>{t('resultsPage.headerTitle')}</Title>
         <HeaderLink to="/chat/">{t('resultsPage.headerButton')}</HeaderLink>
@@ -86,7 +90,7 @@ export const ResultsPage: React.FC = () => {
           </div>
         )}
       </ResultsCard>
-    </div>
+    </ResultsPageContainer>
   )
 }
 
