@@ -7,7 +7,6 @@ import steps from 'steps'
 import { theme, mobileBreakpoint } from 'theme'
 import chloe from 'images/chloe.png'
 import { transformStep } from 'services/steps-processor'
-import { scrollToLastBotMessage } from 'services/chat-scroll'
 
 const DISABLE_DELAYS = process.env.NODE_ENV !== 'production'
 
@@ -58,6 +57,11 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     }
   }
 
+  .rsc-cs {
+    background: none;
+    box-shadow: none;
+  }
+
   .rsc-os {
     display: flex;
     align-items: flex-end;
@@ -106,7 +110,6 @@ export const Chatbot: React.FC = props => {
       <StyledChatbot
         {...props}
         steps={transformedSteps}
-        handleEnd={scrollToLastBotMessage}
         hideHeader
         hideUserAvatar
         botAvatar={chloe}

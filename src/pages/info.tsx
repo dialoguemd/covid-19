@@ -7,6 +7,7 @@ import styled from 'styled-components/macro'
 import Results from 'components/results'
 import Header from 'components/header'
 import Footer from 'components/footer'
+import ShareResults from 'components/share-results'
 import { mobileBreakpoint } from 'theme'
 
 const useQuery = () => {
@@ -97,6 +98,7 @@ export const InfoPage: React.FC = () => {
           </div>
         )}
       </InfoCard>
+      <ShareResults classes={classes} />
       <Footer />
     </InfoPageContainer>
   )
