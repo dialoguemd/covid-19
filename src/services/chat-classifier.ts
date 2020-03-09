@@ -22,7 +22,6 @@ export const getClassesFromRuleResults = ({ events }) =>
     .filter(isDefined)
 
 export const getChatClassesFromSteps = steps => {
-
   const answeredSteps = Object.values(steps).filter(
     (step: any) => step.value !== undefined
   )

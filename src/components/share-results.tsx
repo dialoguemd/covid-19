@@ -3,7 +3,6 @@ import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 import { mobileBreakpoint } from 'theme'
 
-
 const ShareContainer = styled.div`
   padding: 15px 0 25px 0;
   display: flex;
@@ -13,7 +12,6 @@ const ShareContainer = styled.div`
     flex-direction: column;
   }
 `
-
 
 const ShareButton = styled.a.attrs({ target: '_blank' })`
   font-size: ${props => props.theme.sizes.buttonText};
@@ -52,8 +50,9 @@ export const ShareResults: React.FC<Props> = (props: any) => {
   const url = encodeURI(window.location.href)
   const facebookHref = `https://www.facebook.com/sharer/sharer.php?u=${url}&amp;src=sdkpreparse`
   const twitterHref = `https://twitter.com/intent/tweet?text=${i18n.t(
-    'share.twitterShareText'
-  , { url })}`
+    'share.twitterShareText',
+    { url }
+  )}`
 
   return (
     props.classes && (
