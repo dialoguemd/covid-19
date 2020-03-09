@@ -38,7 +38,7 @@ export default {
     organizationResources: 'Ressources pour organisations canadiennes',
     contactUs: 'Contacter Dialogue',
     forProvince: 'Pour les résidents de provinces',
-    forCanadians: 'Pour les canadiens',
+    forCanadians: 'Pour les Canadiens',
     generalInfo: 'Informations générales',
     elevatedInfection: "Personnes présentant un risque accru d'infection",
     elevatedMedical: 'Personnes présentant un risque accru de complications',
