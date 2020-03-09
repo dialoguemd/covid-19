@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 
 import { ReactComponent as Logo } from 'images/dialogue-logo.svg'
@@ -64,9 +64,11 @@ const HeaderContainer = styled.div`
 
 export const Header: React.FC<Props> = ({ title, ...rest }) => (
   <HeaderContainer {...rest}>
-    <LogoContainer>
-      <Logo />
-    </LogoContainer>
+    <Link to="/">
+      <LogoContainer>
+        <Logo />
+      </LogoContainer>
+    </Link>
 
     <Title>{title}</Title>
 
