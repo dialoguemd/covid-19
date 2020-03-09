@@ -33,7 +33,7 @@ export default {
   askForLocationInfo:
     "Je pourrai adapter les informations pour qu'elles s'appliquent à votre région.",
   askHasHadContact: `
-  Avez-vous été en **contact étroit** avec une personne infectée?`,
+  Avez-vous été en **contact étroit** avec un cas confirmé ou probable du COVID-19?`,
   askHasHadContactInfo: `
   Par **contact étroit**, j'entends **n'importe lequel** des éléments suivants :
 
