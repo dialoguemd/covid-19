@@ -2,10 +2,14 @@ import React from 'react'
 
 import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
-import logo from 'images/logo.png'
 import { useTranslation } from 'react-i18next'
 
+import LanguagePicker from 'components/language-picker'
+import logo from 'images/logo.png'
+
 const Container = styled.div`
+  overflow: auto;
+
   h1 {
     color: ${props => props.theme.colors.primary};
     font-size: calc(${props => props.theme.sizes.buttonText} * 1.5);
@@ -25,7 +29,7 @@ const Container = styled.div`
     text-align: center;
   }
   h3 {
-    color: ${props => props.theme.colors.botFontColor};
+    color: ${props => props.theme.colors.text};
     font-size: calc(${props => props.theme.sizes.buttonText});
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 200;
@@ -34,13 +38,14 @@ const Container = styled.div`
     text-align: center;
   }
   a {
-    color: ${props => props.theme.colors.botFontColor};
+    color: ${props => props.theme.colors.text};
     font-size: calc(${props => props.theme.sizes.buttonText});
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
     font-weight: 800;
     justify-content: center;
     flex-wrap: wrap;
     display: flex;
+    text-decoration: none;
   }
 `
 
@@ -49,7 +54,20 @@ export const WelcomePage: React.FC = () => {
 
   return (
     <Container>
-      <img src={logo} alt="Dialogue" />
+      <div
+        css={`
+          display: flex;
+          align-items: flex-start;
+        `}
+      >
+        <img src={logo} alt="Dialogue" />
+        <span
+          css={`
+            flex: 1 1 auto;
+          `}
+        />
+        <LanguagePicker />
+      </div>
       <h2>{t('welcomePage.title')}</h2>
       <h3>{t('welcomePage.description')}</h3>
 
