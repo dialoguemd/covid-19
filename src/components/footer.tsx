@@ -83,21 +83,21 @@ export const Footer: React.FC = props => {
         <FooterColumn>
           <h3>{t('footer.forProvince')}</h3>
           {PROVINCES.map(province => (
-            <Link to={`/results?id=ca-${province.toLowerCase()}`}>
+            <Link to={`/info?id=ca-${province.toLowerCase()}`}>
               {t(`provinces.${province}`)}
             </Link>
           ))}
         </FooterColumn>
         <FooterColumn>
           <h3>{t('footer.forCanadians')}</h3>
-          <Link to="/results?id=common">{t('footer.generalInfo')}</Link>
-          <Link to="/results?id=elevated-covid-risk">
+          <Link to="/info?id=common">{t('footer.generalInfo')}</Link>
+          <Link to="/info?id=elevated-covid-risk">
             {t('footer.elevatedInfection')}
           </Link>
-          <Link to="/results?id=elevated-medical-risk">
+          <Link to="/info?id=elevated-medical-risk">
             {t('footer.elevatedMedical')}
           </Link>
-          <Link to="/results?id=travel-plans">{t('footer.travelPlans')}</Link>
+          <Link to="/info?id=travel-plans">{t('footer.travelPlans')}</Link>
         </FooterColumn>
       </FooterContent>
     </FooterContainer>
