@@ -8,46 +8,42 @@ import Footer from 'components/footer'
 import LanguagePicker from 'components/language-picker'
 import logo from 'images/logo.png'
 
+const Title = styled.h2`
+  color: ${props => props.theme.colors.primary};
+  font-size: calc(${props => props.theme.sizes.buttonText} * 2);
+  padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
+  font-weight: 800;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+`
+
+const Description = styled.h3`
+  color: ${props => props.theme.colors.text};
+  font-size: calc(${props => props.theme.sizes.buttonText});
+  padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
+  font-weight: 200;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+`
+
+const GetStartedButton = styled(Link)`
+  color: ${props => props.theme.colors.text};
+  font-size: calc(${props => props.theme.sizes.buttonText});
+  padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
+  font-weight: 800;
+  justify-content: center;
+  flex-wrap: wrap;
+  display: flex;
+  text-decoration: none;
+`
+
 const Container = styled.div`
   overflow: auto;
-
-  h1 {
-    color: ${props => props.theme.colors.primary};
-    font-size: calc(${props => props.theme.sizes.buttonText} * 1.5);
-    padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
-    font-weight: 500;
-    justify-content: center;
-    flex-wrap: wrap;
-    text-align: center;
-  }
-  h2 {
-    color: ${props => props.theme.colors.primary};
-    font-size: calc(${props => props.theme.sizes.buttonText} * 2);
-    padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
-    font-weight: 800;
-    justify-content: center;
-    flex-wrap: wrap;
-    text-align: center;
-  }
-  h3 {
-    color: ${props => props.theme.colors.text};
-    font-size: calc(${props => props.theme.sizes.buttonText});
-    padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
-    font-weight: 200;
-    justify-content: center;
-    flex-wrap: wrap;
-    text-align: center;
-  }
-  a {
-    color: ${props => props.theme.colors.text};
-    font-size: calc(${props => props.theme.sizes.buttonText});
-    padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
-    font-weight: 800;
-    justify-content: center;
-    flex-wrap: wrap;
-    display: flex;
-    text-decoration: none;
-  }
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 `
 
 export const WelcomePage: React.FC = () => {
@@ -69,10 +65,16 @@ export const WelcomePage: React.FC = () => {
         />
         <LanguagePicker />
       </div>
-      <h2>{t('welcomePage.title')}</h2>
-      <h3>{t('welcomePage.description')}</h3>
+      <Title>{t('welcomePage.title')}</Title>
+      <Description>{t('welcomePage.description')}</Description>
 
-      <Link to="/chat/">{t('welcomePage.button')}</Link>
+      <GetStartedButton to="/chat/">{t('welcomePage.button')}</GetStartedButton>
+
+      <div
+        css={`
+          flex: 1 1 auto;
+        `}
+      ></div>
 
       <Footer />
     </Container>
