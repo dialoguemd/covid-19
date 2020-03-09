@@ -32,10 +32,10 @@ export default {
   askHasHadContactInfo: `
   By **close contact** I mean **any** of the following:
 
-  - Health-care associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment
+  - Healthcare-associated exposure, like providing care for infected patients, visiting or staying with them in the same close environment
   - Working in close proximity or sharing the same classroom with an infected person
-  - Traveling with an infected person
-  - Living in the same household an infected person
+  - Travelling with an infected person
+  - Living in the same household as an infected person
   `,
   askAgeRange: `Are you older than 65?`,
   askHasFever: `Do you have a fever?`,
@@ -44,10 +44,10 @@ export default {
   askTraveledAffectedAreas: `
   Have you traveled to **any** of these areas in the past 14 days:
 
-  - Mainland China
+  - China
   - Hong Kong
   - Iran
-  - Italy
+  - Northern Italy
   - Japan
   - South Korea
   - Singapore`,
@@ -61,7 +61,7 @@ export default {
   - Do you have a history of cancer?
   - Do you have HIV/AIDS?
   - Do you have chronic kidney or liver disease?
-  - Do you are on medications after an organ transplant?
+  - Are you currently on medications after an organ transplant?
   - Has your doctor told you that your immune system is compromised?`,
   askHasImmuneDecreased2: `Are you taking any medications that your doctor has said may cause decreased immunity?`,
   askHasChronicLungDisease: `Do you have a history of chronic lung disease?`,
@@ -69,10 +69,10 @@ export default {
   Not sure? Answer yes if you have a history of **any** of the following:
 
   - Asthma
-  - Chronic obstructive pulmonary disease/copd or emphysema
+  - Chronic obstructive pulmonary disease (COPD) or emphysema
   - Chronic bronchitis
   - Interstitial lung disease
-  - Chronic lung disease not listed above`,
+  - Any chronic lung disease not listed above`,
   askHasTravelPlans: `
   Are you planning on travelling outside of Canada in the next month?`,
   outro1: `
