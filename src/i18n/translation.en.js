@@ -6,7 +6,7 @@ export default {
     audiencePrefix: 'Information below applies to:'
   },
   share: {
-    viewResults: 'View your shareable results',
+    viewResults: 'View your personalised results',
     twitterButton: 'Share on twitter',
     facebookButton: 'Share on facebook',
     twitterShareText: 'Get information about COVID-19 {{url}}'

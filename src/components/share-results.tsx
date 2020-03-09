@@ -36,7 +36,7 @@ const FacebookShareButton = styled(ShareButton)`
   background: #3b5998;
 `
 
-const TwitterSharebutton = styled(FacebookShareButton)`
+const TwitterSharebutton = styled(ShareButton)`
   background: #1da1f2;
 `
 
@@ -54,8 +54,10 @@ export const ShareResults: React.FC<Props> = (props: any) => {
     { url }
   )}`
 
+  const hasClasses = props.classes && props.classes.length > 0
+
   return (
-    props.classes && (
+    hasClasses && (
       <ShareContainer>
         <FacebookShareButton href={facebookHref}>
           {t('share.facebookButton')}
