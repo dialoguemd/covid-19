@@ -91,7 +91,7 @@ export const Footer: React.FC = props => {
         <FooterColumn>
           <h3>{t('footer.forProvince')}</h3>
           {PROVINCES.map(province => (
-            <Link to={`/info?id=ca-${province.toLowerCase()}`}>
+            <Link key={province} to={`/info?id=ca-${province.toLowerCase()}`}>
               {t(`provinces.${province}`)}
             </Link>
           ))}
