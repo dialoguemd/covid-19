@@ -44,7 +44,7 @@ const Container = styled.div`
 `
 
 const Body = styled.div`
-  flex: 1 1 auto;
+  flex: 1 0 auto;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -56,7 +56,12 @@ export const WelcomePage: React.FC = () => {
 
   return (
     <Container>
-      <Header title={t('welcomePage.title')} />
+      <Header
+        title={t('welcomePage.title')}
+        css={`
+          flex-shrink: 0;
+        `}
+      />
       <Body>
         <Description>{t('welcomePage.description')}</Description>
         <div>
