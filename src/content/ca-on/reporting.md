@@ -1,4 +1,4 @@
-## Who should I contact if I think I have COVID-19?
+## Ontario: Who should I contact if I think I have COVID-19?
 
 Travellers who have returned from Hubei province, including Wuhan City, should:
 

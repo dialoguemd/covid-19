@@ -11,7 +11,7 @@ export default {
   'askForLocationOptions-QC': 'Québec',
   'askForLocationOptions-AB': 'Alberta',
   'askForLocationOptions-ON': 'Ontario',
-  'askForLocationOptions-NS': 'Nova Scotia',
+  'askForLocationOptions-NS': 'Nouvelle-Écosse',
   'askForLocationOptions-NB': 'Nouveau-Brunswick',
   'askForLocationOptions-MB': 'Manitoba',
   'askForLocationOptions-BC': 'Colombie-Britannique',

@@ -1,4 +1,4 @@
-## Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Nouveau-Brunswick: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
 Si vous avez récemment devenu malade pendant votre voyage ou à votre retour, communiquez avec TéléSoins 8-1-1 pour accéder une ligne téléphonique gratuite et confidentielle de renseignements et de conseils en matière de santé relative au coronavirus.
 

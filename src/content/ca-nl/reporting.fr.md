@@ -1,4 +1,4 @@
-## Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Terre-Neuve et Labrador: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
 Les personnes qui ont voyagé dans les régions touchées au cours des 14 jours précédant leur retour au Canada, sont priées de surveiller étroitement leur santé et de contacter le 811 s’ils ont contracté de la fièvre, de la toux ou des difficultés respiratoires. Pour plus d'informations sur la liste des zones touchées, consultez [ce lien](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html)
 

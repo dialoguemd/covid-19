@@ -1,3 +1,5 @@
+See project wiki at https://github.com/dialoguemd/covid-19/wiki
+
 # What is it
 The purpose of this app is to deliver accurate personalized information from trusted Canadian medical sources regarding COVID-19.
 

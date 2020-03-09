@@ -1,4 +1,4 @@
-## Who should I contact if I think I have COVID-19?
+## Newfoundland and Labrador: Who should I contact if I think I have COVID-19?
 
 People who have travelled to affected areas in the 14 days prior to their return to Canada are asked to closely monitor their health and contact 811 if you develop fever, cough, or difficulty breathing. For more information on a list of affected areas, visit [this link.](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/covid-19-affected-areas-list.html)
 

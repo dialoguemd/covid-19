@@ -1,4 +1,4 @@
-## Who should I contact if I think I have COVID-19?
+## Manitoba: Who should I contact if I think I have COVID-19?
 
 If you are ill and have recently traveled to an affected area, or if you are ill and have been in close contact (within 2 meters/ 6ft) with an ill person connected to the current outbreak, you should call Health Links–Info Santé, who will provide advice on where to go to be assessed.
 

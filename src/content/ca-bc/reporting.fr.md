@@ -1,4 +1,4 @@
-## Qui dois-je contacter si je pense avoir COVID-19 ?
+## Colombie-Britannique: Qui dois-je contacter si je pense avoir COVID-19 ?
 
 Si vous avez voyagé dans une zone touchée ou si vous présentez des symptômes, évitez tout contact avec d'autres personnes et appelez à l'avance un professionnel de la santé. Faites de même si vous présentez des symptômes et que vous avez été en contact avec un cas confirmé, ou un voyageur présentant ces symptômes, revenant de la zone touchée.
 

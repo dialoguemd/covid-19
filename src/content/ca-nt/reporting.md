@@ -1,4 +1,4 @@
-## Who should I contact if I think I have COVID-19?
+## Northern Territories: Who should I contact if I think I have COVID-19?
 
 If you have been travelling and you are sick you should tell your health care provider. You should also tell your health care provider if you become ill after contact with someone who has travelled (particularly if that person has been ill). If you seek health care, wear a mask or ask for one when you get there.
 

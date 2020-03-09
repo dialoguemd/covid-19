@@ -1,4 +1,4 @@
-## Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Territoires du Nord-Ouest: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
 Si vous avez voyagé et que vous êtes malade, vous devez en informer votre prestataire de soins de santé. Vous devez également informer votre prestataire de soins de santé si vous tombez malade après avoir été en contact avec une personne qui a voyagé (en particulier si cette personne a été malade). Si vous vous faites soigner, portez un masque ou demandez-en un à votre arrivée.
 
