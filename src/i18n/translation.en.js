@@ -9,7 +9,7 @@ export default {
     viewResults: 'View your shareable results',
     twitterButton: 'Share on twitter',
     facebookButton: 'Share on facebook',
-    twitterShareText: 'Get information about COVID-19 {{URL}}'
+    twitterShareText: 'Get information about COVID-19 {{url}}'
   },
   welcomePage: {
     title: 'COVID-19: What you need to know',
