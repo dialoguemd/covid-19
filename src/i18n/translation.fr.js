@@ -26,9 +26,9 @@ export default {
     'ca-nt': 'résidents des Territoires du Nord',
     'ca-nl': 'résidents de Terre-Neuve-et-Labrador',
     'ca-nu': 'Les habitants de Nuvavut',
-    'elevated-medical-risk': 'les personnes présentant un risque médical élevé',
+    'elevated-medical-risk': 'personnes présentant un risque accru de complications',
     'elevated-covid-risk':
-      "les personnes présentant un risque élevé d'infection"
+      "personnes présentant un risque accru d'infection"
   },
   footer: {
     about: 'À propos',
@@ -40,8 +40,8 @@ export default {
     forProvince: 'Pour les résidents de provinces',
     forCanadians: 'Pour les canadiens',
     generalInfo: 'Informations générales',
-    elevatedInfection: "Personnes à risque élevé d'infection",
-    elevatedMedical: 'Personnes à risque médical élevé',
+    elevatedInfection: "Personnes présentant un risque accru d'infection",
+    elevatedMedical: 'Personnes présentant un risque accru de complications',
     travelPlans: 'Personnes avec des voyages prévus'
   },
   provinces: {

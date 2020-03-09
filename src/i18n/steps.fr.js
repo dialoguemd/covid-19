@@ -3,7 +3,7 @@ export default {
   intro2:
     "Je suis Chloé, une assistante virtuelle médicale intelligente. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
   intro3: `
-	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin.
+	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin. Si vous présentez des symptômes graves, consultez un médecin.
 
 	Les informations que nous fournissons proviennent de sources officielles..
 	`,
@@ -29,7 +29,7 @@ export default {
   'askHasImmuneDecreasedOptions-Option2': "Non, rien ne s'applique à moi",
   yes: 'Oui',
   no: 'Non',
-  askForLocation: 'Dans quelle province êtes-vous actuellement situé?',
+  askForLocation: 'Dans quelle province ou territoire êtes-vous actuellement situé?',
   askForLocationInfo:
     "Je pourrai adapter les informations pour qu'elles s'appliquent à votre région.",
   askHasHadContact: `
@@ -64,8 +64,8 @@ export default {
 	Est-ce que l'un de ces éléments s'applique à vous ?
    
 	- Avez-vous des antécédents de diabète ?
-	- Prenez-vous des stéroïdes oraux à long terme ?
-	- Souffrez-vous d'une maladie auto-immune telle que le lupus ou le rhumatisme articulaire aigu ?
+	- Prenez-vous des médicaments de suppression de l'immunité tels que la Prednisone ou tout autre stéroïde ?
+	- Souffrez-vous d'une maladie auto-immune telle que le lupus, chrones ou le rhumatisme articulaire aigu ?
 	- Avez-vous des antécédents de cancer ?
 	- Êtes-vous atteint du VIH/sida ?
 	- Souffrez-vous d'une maladie chronique des reins ou du foie ?
@@ -80,8 +80,7 @@ export default {
 
 	- Asthme
 	- Maladie pulmonaire obstructive chronique (MPOC) ou emphysème
-	- Bronchite chronique
-	- Maladie pulmonaire interstitielle
+  - Bronchite chronique
 	- Maladie pulmonaire chronique non répertoriée ci-dessus`,
   askHasTravelPlans: `
   Prévoyez-vous voyager à l'étranger au cours du prochain mois?`,
