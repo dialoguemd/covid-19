@@ -25,7 +25,7 @@ const LanguagePickerButton = styled.button`
 export const LanguagePicker: React.FC = props => {
   const { i18n } = useTranslation()
 
-  const otherLanguage = i18n.language === 'fr' ? 'en' : 'fr'
+  const otherLanguage = i18n.languages.find(lang => lang !== i18n.language)
 
   const toggleLanguage = useCallback(() => {
     i18n.changeLanguage(otherLanguage)

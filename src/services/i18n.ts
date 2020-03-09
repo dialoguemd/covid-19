@@ -24,8 +24,9 @@ i18n
     ns: ['translation', 'steps'],
     fallbackLng,
     initImmediate: true,
-    nonExplicitWhitelist: true,
+    nonExplicitWhitelist: false,
     resources,
+    whitelist: packageJson.supportedLanguages,
     appendNamespaceToMissingKey: true,
     detection: {
       order: ['querystring', 'navigator', 'htmlTag'],
