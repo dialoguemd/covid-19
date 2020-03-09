@@ -12,7 +12,7 @@ const useQuery = () => {
   return new URLSearchParams(location.search)
 }
 
-const ResultsCard = styled.div`
+const InfoCard = styled.div`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   background: ${props => props.theme.colors.backgroundLight};
   border-radius: 12px;
@@ -55,24 +55,15 @@ const Audience = styled.div`
   }
 `
 
-const HeaderLink = styled(Link)`
-  background-color: ${props => props.theme.colors.backgroundLight};
-  color: ${props => props.theme.colors.text};
-  font-size: ${props => props => props.theme.sizes.buttonText};
-  padding: 12px;
-  text-decoration: none;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  font-weight: 500;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+const InfoPageContainer = styled.div`
+  overflow: auto;
 `
 
 export const InfoPage: React.FC = () => {
   const query = useQuery()
   const { t } = useTranslation()
 
-  // parse /results?id=a,b,c -> [a, b, c]
+  // parse /info?id=a,b,c -> [a, b, c]
   const queryClasses = query.get('id')
   const classes = queryClasses ? queryClasses.split(',') : []
 
@@ -87,7 +78,7 @@ export const InfoPage: React.FC = () => {
   const hasClasses = classes.length > 0
 
   return (
-    <div>
+    <InfoPageContainer>
       <Header>
         <Title>{t('resultsPage.headerTitle')}</Title>
         <Audience>
@@ -103,7 +94,7 @@ export const InfoPage: React.FC = () => {
           )}
         </Audience>
       </Header>
-      <ResultsCard>
+      <InfoCard>
         {hasClasses ? (
           <Results classes={classes} />
         ) : (
@@ -114,8 +105,8 @@ export const InfoPage: React.FC = () => {
             </div>
           </div>
         )}
-      </ResultsCard>
-    </div>
+      </InfoCard>
+    </InfoPageContainer>
   )
 }
 

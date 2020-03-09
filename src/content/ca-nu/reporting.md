@@ -1,4 +1,4 @@
-## Who should I contact if I think I have COVID-19?
+## Nuvavut: Who should I contact if I think I have COVID-19?
 
 If you develop symptoms and have travelled to a region with known cases of COVID-19
 occurring in the community or have been in contact with someone who has:
@@ -13,4 +13,4 @@ COVID-19.
 If you are ill and must visit a health care professional, call ahead or tell them when you
 arrive that you have a respiratory illness and if you have traveled.
 
-[Source](https://gov.nu.ca/sites/default/files/covid-19_web_page.pdf)
+[Source: Government of Nuvavut](https://gov.nu.ca/sites/default/files/covid-19_web_page.pdf)

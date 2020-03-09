@@ -7,4 +7,4 @@
   - jeter immédiatement les mouchoirs utilisés à la poubelle et se laver les mains par la suite
 - éviter de rendre visite aux personnes dans les hôpitaux ou les centres de soins de longue durée si l'on est malade
 
-[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
+[Source: Gouvernement du Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)

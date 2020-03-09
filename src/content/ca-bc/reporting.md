@@ -1,4 +1,4 @@
-## Who should I contact if I think I have COVID-19?
+## British Columbia: Who should I contact if I think I have COVID-19?
 
 If you have traveled to an affected area or develop symptoms, avoid contact with others and call ahead to a health-care professional. Do the same if you develop symptoms and have been in contact with a confirmed case or a traveller returning from the affected area with these symptoms.
 
@@ -13,4 +13,4 @@ Call ahead to the health-care facility you are planning to visit so they can be 
 
 Until more is understood about the virus, older people and people with a weakened immune system or underlying medical condition are considered at higher risk of severe disease.
 
-[Source](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)
+[Source: BC Centre for Disease Control](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)

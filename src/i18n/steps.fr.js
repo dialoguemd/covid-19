@@ -1,17 +1,17 @@
 export default {
   intro1: 'Bonjour!',
   intro2:
-    "Je suis Chloé, une assistante virtuelle intelligente médicale intelligente. Je suis ici pour vous donner des informations précises sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
+    "Je suis Chloé, une assistante virtuelle médicale intelligente. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
   intro3: `
-	Notez que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin.
+	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin.
 
-	Les informations sont régulièrement mises à jour, mais certaines d'entre elles peuvent être devenues désuètes.
+	Les informations que nous fournissons proviennent de sources officielles..
 	`,
   'intro-option1': 'Ok, allons-y!',
   'askForLocationOptions-QC': 'Québec',
   'askForLocationOptions-AB': 'Alberta',
   'askForLocationOptions-ON': 'Ontario',
-  'askForLocationOptions-NS': 'Nova Scotia',
+  'askForLocationOptions-NS': 'Nouvelle-Écosse',
   'askForLocationOptions-NB': 'Nouveau-Brunswick',
   'askForLocationOptions-MB': 'Manitoba',
   'askForLocationOptions-BC': 'Colombie-Britannique',
@@ -33,7 +33,7 @@ export default {
   askForLocationInfo:
     "Je pourrai adapter les informations pour qu'elles s'appliquent à votre région.",
   askHasHadContact: `
-  Avez-vous été en **contact étroit** avec une personne infectée?`,
+  Avez-vous été en **contact étroit** avec un cas confirmé ou probable du COVID-19?`,
   askHasHadContactInfo: `
   Par **contact étroit**, j'entends **n'importe lequel** des éléments suivants :
 
@@ -50,10 +50,10 @@ export default {
   askTraveledAffectedAreas: `
 	Avez-vous voyagé dans l'une de ces régions au cours des 14 derniers jours :
 
-	- Chine continentale
+	- Chine
 	- Hong Kong
 	- Iran
-	- Italie
+	- Italie du Nord
 	- Japon
 	- Corée du Sud
 	- Singapour
@@ -79,7 +79,7 @@ export default {
 	Vous n'êtes pas sûr ? Répondez oui si vous avez des antécédents de **n'importe lequel** des éléments suivants :
 
 	- Asthme
-	- Maladie pulmonaire obstructive chronique/MPOCcopd ou emphysème
+	- Maladie pulmonaire obstructive chronique (MPOC) ou emphysème
 	- Bronchite chronique
 	- Maladie pulmonaire interstitielle
 	- Maladie pulmonaire chronique non répertoriée ci-dessus`,

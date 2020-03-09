@@ -29,5 +29,34 @@ export default {
     'elevated-medical-risk': 'les personnes présentant un risque médical élevé',
     'elevated-covid-risk':
       "les personnes présentant un risque élevé d'infection"
+  },
+  footer: {
+    about: 'À propos',
+    aboutThisSite: 'À propos de ce site',
+    githubProject: 'Projet GitHub',
+    dialogue: 'Dialogue',
+    organizationResources: 'Ressources pour organisations canadiennes',
+    contactUs: 'Contacter Dialogue',
+    forProvince: 'Pour les résidents de provinces',
+    forCanadians: 'Pour les canadiens',
+    generalInfo: 'Informations générales',
+    elevatedInfection: "Personnes à risque élevé d'infection",
+    elevatedMedical: 'Personnes à risque médical élevé',
+    travelPlans: 'Personnes avec des voyages prévus'
+  },
+  provinces: {
+    QC: 'Québec',
+    AB: 'Alberta',
+    ON: 'Ontario',
+    NS: 'Nouvelle-Écosse',
+    NB: 'Nouveau-Brunswick',
+    MB: 'Manitoba',
+    BC: 'Colombie-Britannique',
+    SK: 'Saskatchewan',
+    PE: 'Île-du-Prince-Édouard',
+    YT: 'Yukon',
+    NT: 'Territoires du Nord-Ouest',
+    NL: 'Terre-Neuve et Labrador',
+    NU: 'Nuvavut'
   }
 }
