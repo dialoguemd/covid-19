@@ -26,6 +26,7 @@ const FooterContainer = styled.div`
   color: ${props => props.theme.colors.text};
   display: flex;
   justify-content: center;
+  width: 100%;
 `
 
 const FooterContent = styled.div`
@@ -85,6 +86,7 @@ export const Footer: React.FC = props => {
           >
             {t('footer.contactUs')}
           </a>
+          <h3>Dialogue © 2020</h3>
         </FooterColumn>
         <FooterColumn>
           <h3>{t('footer.forProvince')}</h3>
