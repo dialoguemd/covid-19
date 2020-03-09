@@ -1,5 +1,4 @@
 import React from 'react'
-import i18n from 'services/i18n'
 
 import { Step } from 'react-simple-chatbot'
 
@@ -8,24 +7,24 @@ import Results from './components/results-bubble'
 const intro: Step[] = [
   {
     id: 'intro1',
-    message: i18n.t('steps:intro1'),
+    message: 'intro1',
     trigger: 'intro2'
   },
   {
     id: 'intro2',
-    message: i18n.t('steps:intro2'),
+    message: 'intro2',
     trigger: 'intro3'
   },
   {
     id: 'intro3',
-    message: i18n.t('steps:intro3'),
+    message: 'intro3',
     trigger: 'intro4'
   },
   {
     id: 'intro4',
     options: [
       {
-        label: i18n.t('steps:intro-option1'),
+        label: 'intro-option1',
         trigger: 'askForLocation',
         value: true
       }
@@ -36,79 +35,79 @@ const intro: Step[] = [
 const riskAssessment: Step[] = [
   {
     id: 'askForLocation',
-    message: i18n.t('steps:askForLocation'),
+    message: 'askForLocation',
     trigger: 'askForLocationInfo'
   },
   {
     id: 'askForLocationInfo',
-    message: i18n.t('steps:askForLocationInfo'),
+    message: 'askForLocationInfo',
     trigger: 'askForLocationOptions'
   },
   {
     id: 'askForLocationOptions',
     options: [
       {
-        label: i18n.t('steps:askForLocationOptions-QC'),
+        label: 'askForLocationOptions-QC',
         value: 'QC',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-ON'),
+        label: 'askForLocationOptions-ON',
         value: 'ON',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-NS'),
+        label: 'askForLocationOptions-NS',
         value: 'NS',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-NB'),
+        label: 'askForLocationOptions-NB',
         value: 'NB',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-MB'),
+        label: 'askForLocationOptions-MB',
         value: 'MB',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-BC'),
+        label: 'askForLocationOptions-BC',
         value: 'BC',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-PE'),
+        label: 'askForLocationOptions-PE',
         value: 'PE',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-SK'),
+        label: 'askForLocationOptions-SK',
         value: 'SK',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-AB'),
+        label: 'askForLocationOptions-AB',
         value: 'AB',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-NL'),
+        label: 'askForLocationOptions-NL',
         value: 'NL',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-NT'),
+        label: 'askForLocationOptions-NT',
         value: 'NT',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-YT'),
+        label: 'askForLocationOptions-YT',
         value: 'YT',
         trigger: 'askAgeRange'
       },
       {
-        label: i18n.t('steps:askForLocationOptions-NU'),
+        label: 'askForLocationOptions-NU',
         value: 'NU',
         trigger: 'askAgeRange'
       }
@@ -116,24 +115,24 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasHadContact',
-    message: i18n.t('steps:askHasHadContact'),
+    message: 'askHasHadContact',
     trigger: 'askHasHadContactInfo'
   },
   {
     id: 'askHasHadContactInfo',
-    message: i18n.t('steps:askHasHadContactInfo'),
+    message: 'askHasHadContactInfo',
     trigger: 'askHasHadContactOptions'
   },
   {
     id: 'askHasHadContactOptions',
     options: [
       {
-        label: i18n.t('steps:askHasHadContactOptions-Option1'),
+        label: 'askHasHadContactOptions-Option1',
         value: true,
         trigger: 'askTraveledAffectedAreas'
       },
       {
-        label: i18n.t('steps:no'),
+        label: 'no',
         value: false,
         trigger: 'askTraveledAffectedAreas'
       }
@@ -141,19 +140,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askAgeRange',
-    message: i18n.t('steps:askAgeRange'),
+    message: 'askAgeRange',
     trigger: 'askHasRangeOptions'
   },
   {
     id: 'askHasRangeOptions',
     options: [
       {
-        label: i18n.t('steps:yes'),
+        label: 'yes',
         value: true,
         trigger: 'askHasFever'
       },
       {
-        label: i18n.t('steps:no'),
+        label: 'no',
         value: false,
         trigger: 'askHasFever'
       }
@@ -161,19 +160,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasFever',
-    message: i18n.t('steps:askHasFever'),
+    message: 'askHasFever',
     trigger: 'askHasFeverOptions'
   },
   {
     id: 'askHasFeverOptions',
     options: [
       {
-        label: i18n.t('steps:yes'),
+        label: 'yes',
         value: true,
         trigger: 'askHasCough'
       },
       {
-        label: i18n.t('steps:no'),
+        label: 'no',
         value: false,
         trigger: 'askHasCough'
       }
@@ -181,19 +180,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasCough',
-    message: i18n.t('steps:askHasCough'),
+    message: 'askHasCough',
     trigger: 'askHasCoughOptions'
   },
   {
     id: 'askHasCoughOptions',
     options: [
       {
-        label: i18n.t('steps:yes'),
+        label: 'yes',
         value: true,
         trigger: 'askHasDifficultyBreathing'
       },
       {
-        label: i18n.t('steps:no'),
+        label: 'no',
         value: false,
         trigger: 'askHasDifficultyBreathing'
       }
@@ -201,19 +200,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasDifficultyBreathing',
-    message: i18n.t('steps:askHasDifficultyBreathing'),
+    message: 'askHasDifficultyBreathing',
     trigger: 'askHasDifficultyBreathingOptions'
   },
   {
     id: 'askHasDifficultyBreathingOptions',
     options: [
       {
-        label: i18n.t('steps:yes'),
+        label: 'yes',
         value: true,
         trigger: 'askHasHadContact'
       },
       {
-        label: i18n.t('steps:no'),
+        label: 'no',
         value: false,
         trigger: 'askHasHadContact'
       }
@@ -221,19 +220,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askTraveledAffectedAreas',
-    message: i18n.t('steps:askTraveledAffectedAreas'),
+    message: 'askTraveledAffectedAreas',
     trigger: 'askTraveledAffectedAreasOptions'
   },
   {
     id: 'askTraveledAffectedAreasOptions',
     options: [
       {
-        label: i18n.t('steps:yes'),
+        label: 'yes',
         value: true,
         trigger: 'askHasImmuneDecreased'
       },
       {
-        label: i18n.t('steps:no'),
+        label: 'no',
         value: false,
         trigger: 'askHasImmuneDecreased'
       }
@@ -241,24 +240,24 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasImmuneDecreased',
-    message: i18n.t('steps:askHasImmuneDecreased'),
+    message: 'askHasImmuneDecreased',
     trigger: 'askHasImmuneDecreasedInfo'
   },
   {
     id: 'askHasImmuneDecreasedInfo',
-    message: i18n.t('steps:askHasImmuneDecreasedInfo'),
+    message: 'askHasImmuneDecreasedInfo',
     trigger: 'askHasImmuneDecreasedOptions'
   },
   {
     id: 'askHasImmuneDecreasedOptions',
     options: [
       {
-        label: i18n.t('steps:askHasImmuneDecreasedOptions-Option1'),
+        label: 'askHasImmuneDecreasedOptions-Option1',
         value: true,
         trigger: 'askHasImmuneDecreased2'
       },
       {
-        label: i18n.t('steps:askHasImmuneDecreasedOptions-Option2'),
+        label: 'askHasImmuneDecreasedOptions-Option2',
         value: false,
         trigger: 'askHasImmuneDecreased2'
       }
@@ -266,44 +265,49 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasImmuneDecreased2',
-    message: i18n.t('steps:askHasImmuneDecreased2'),
+    message: 'askHasImmuneDecreased2',
     trigger: 'askHasImmuneDecreased2Options'
   },
   {
     id: 'askHasImmuneDecreased2Options',
     options: [
       {
-        label: i18n.t('steps:askHasImmuneDecreased2Options-Option1'),
-        value: true,
+        label: 'askHasImmuneDecreased2Options-Option1',
+        value: 'yes',
         trigger: 'askHasChronicLungDisease'
       },
       {
-        label: i18n.t('steps:no'),
-        value: false,
+        label: 'askOptionUnsure',
+        value: 'maybe',
+        trigger: 'askHasChronicLungDisease'
+      },
+      {
+        label: 'no',
+        value: 'no',
         trigger: 'askHasChronicLungDisease'
       }
     ]
   },
   {
     id: 'askHasChronicLungDisease',
-    message: i18n.t('steps:askHasChronicLungDisease'),
+    message: 'askHasChronicLungDisease',
     trigger: 'askHasChronicLungDiseaseInfo'
   },
   {
     id: 'askHasChronicLungDiseaseInfo',
-    message: i18n.t('steps:askHasChronicLungDiseaseInfo'),
+    message: 'askHasChronicLungDiseaseInfo',
     trigger: 'askHasChronicLungDiseaseOptions'
   },
   {
     id: 'askHasChronicLungDiseaseOptions',
     options: [
       {
-        label: i18n.t('steps:yes'),
+        label: 'yes',
         value: true,
         trigger: 'askHasTravelPlans'
       },
       {
-        label: i18n.t('steps:no'),
+        label: 'no',
         value: false,
         trigger: 'askHasTravelPlans'
       }
@@ -311,19 +315,19 @@ const riskAssessment: Step[] = [
   },
   {
     id: 'askHasTravelPlans',
-    message: i18n.t('steps:askHasTravelPlans'),
+    message: 'askHasTravelPlans',
     trigger: 'askHasTravelPlansOptions'
   },
   {
     id: 'askHasTravelPlansOptions',
     options: [
       {
-        label: i18n.t('steps:yes'),
+        label: 'yes',
         value: true,
         trigger: 'outro1'
       },
       {
-        label: i18n.t('steps:no'),
+        label: 'no',
         value: false,
         trigger: 'outro1'
       }
@@ -334,7 +338,7 @@ const riskAssessment: Step[] = [
 const outro: Step[] = [
   {
     id: 'outro1',
-    message: i18n.t('steps:outro1'),
+    message: 'outro1',
     trigger: 'showResults'
   },
   { id: 'showResults', component: <Results />, end: true }

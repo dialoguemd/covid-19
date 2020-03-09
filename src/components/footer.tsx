@@ -24,17 +24,20 @@ const FooterContainer = styled.div`
   background-color: ${props => props.theme.colors.backgroundLight};
   border-top: 1px solid ${props => props.theme.colors.primaryLight};
   color: ${props => props.theme.colors.text};
-  display: flex;
-  justify-content: center;
   width: 100%;
 `
 
 const FooterContent = styled.div`
   max-width: 900px;
-  flex: 1 1 auto;
+  width: 100%;
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
   padding: 12px;
+
+  h3 {
+    font-size: ${props => props.theme.sizes.body};
+  }
 
   a {
     font-size: ${props => props.theme.sizes.small};
@@ -46,17 +49,19 @@ const FooterContent = styled.div`
       text-decoration: underline;
     }
   }
-
-  h3 {
-    font-size: ${props => props.theme.sizes.small};
-    margin: 8px 0;
-  }
 `
 
 const FooterColumn = styled.div`
   display: flex;
   flex-direction: column;
   flex: 1 1 auto;
+`
+
+const BottomText = styled.h3`
+  font-size: ${props => props.theme.sizes.small};
+  margin: 4px 0;
+  text-align: center;
+  font-weight: 300;
 `
 
 export const Footer: React.FC = props => {
@@ -79,19 +84,16 @@ export const Footer: React.FC = props => {
           </a>
           <a
             href={`https://www.dialogue.co/${
-              i18n.language === 'en-CA' || i18n.language === 'en-US'
-                ? 'en'
-                : 'fr'
-            }/contact-us`}
+              i18n.languages[0] === 'en' ? 'en/contact-us/' : 'fr/nous-joindre/'
+            }`}
           >
             {t('footer.contactUs')}
           </a>
-          <h3>Dialogue © 2020</h3>
         </FooterColumn>
         <FooterColumn>
           <h3>{t('footer.forProvince')}</h3>
           {PROVINCES.map(province => (
-            <Link to={`/info?id=ca-${province.toLowerCase()}`}>
+            <Link key={province} to={`/info?id=ca-${province.toLowerCase()}`}>
               {t(`provinces.${province}`)}
             </Link>
           ))}
@@ -108,6 +110,7 @@ export const Footer: React.FC = props => {
           <Link to="/info?id=travel-plans">{t('footer.travelPlans')}</Link>
         </FooterColumn>
       </FooterContent>
+      <BottomText>© 2020 Dialogue</BottomText>
     </FooterContainer>
   )
 }

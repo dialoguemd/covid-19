@@ -3,7 +3,7 @@ export default {
   intro2:
     "I'm Chloé, an intelligent medical assistant. I’m here to give you accurate information about COVID-19. To make it relevant to your situation, I'd like to ask you a few questions. It should not take more than a few minutes.",
   intro3:
-    "Please note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor. The information we supply is from official sources.",
+    "Please note that the information you'll receive is not a medical assessment. If you are experiencing severe symptoms, seek medical attention. This service is not a substitute for consulting with your doctor. The information we supply is from publicly available sources and is subject to frequent change.",
   'intro-option1': "Ok, let's get started!",
   'askForLocationOptions-QC': 'Quebec',
   'askForLocationOptions-AB': 'Alberta',
@@ -24,7 +24,7 @@ export default {
   'askHasImmuneDecreasedOptions-Option2': 'No, nothing applies to me',
   yes: 'Yes',
   no: 'No',
-  askForLocation: 'In which province are you currently located?',
+  askForLocation: 'In which province or territory are you currently located?',
   askForLocationInfo:
     'I will be able to tailor the information so that it applies to your region.',
   askHasHadContact: `
@@ -37,6 +37,7 @@ export default {
   - Travelling with an infected person
   - Living in the same household as an infected person
   `,
+  askOptionUnsure: `I don't know`,
   askAgeRange: `Are you older than 65?`,
   askHasFever: `Do you have a fever?`,
   askHasCough: `Do you have a cough?`,
@@ -56,8 +57,8 @@ export default {
   Do **any** of these apply to you?
 
   - Do you have a history of diabetes?
-  - Do you take long-term oral steroids?
-  - Do you have an autoimmune disease such as lupus or rheumatoid arthritis?
+  - Do you take immune suppresion medication such as Prednisone or any other steroid?
+  - Do you have an autoimmune disease such as lupus, rheumatoid arthritis or Crohn's disease?
   - Do you have a history of cancer?
   - Do you have HIV/AIDS?
   - Do you have chronic kidney or liver disease?
@@ -71,7 +72,6 @@ export default {
   - Asthma
   - Chronic obstructive pulmonary disease (COPD) or emphysema
   - Chronic bronchitis
-  - Interstitial lung disease
   - Any chronic lung disease not listed above`,
   askHasTravelPlans: `
   Are you planning on travelling outside of Canada in the next month?`,

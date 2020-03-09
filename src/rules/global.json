@@ -219,7 +219,7 @@
         {
           "fact": "askHasImmuneDecreased2Options",
           "operator": "equal",
-          "value": true
+          "value": ["yes", "maybe"]
         },
         {
           "fact": "askHasChronicLungDiseaseOptions",
