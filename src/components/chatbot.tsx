@@ -2,12 +2,12 @@ import React from 'react'
 
 import ReactSimpleChatbot from 'react-simple-chatbot'
 import styled, { ThemeProvider } from 'styled-components/macro'
+import { getChatClassifications } from 'services/chat-classifier'
 
 import steps from 'steps'
 import { theme, mobileBreakpoint } from 'theme'
 import chloe from 'images/chloe.png'
 import { transformStep } from 'services/steps-processor'
-import { scrollToLastBotMessage } from 'services/chat-scroll'
 
 const DISABLE_DELAYS = process.env.NODE_ENV !== 'production'
 
@@ -26,6 +26,18 @@ const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   colors,
   sizes
 })
+
+// const navigateToResults = results => {
+//   const query = results.join(',')
+//   const url = `result=${query}`
+//   window.location.search = url
+// }
+
+const handleEnd = async ({ renderedSteps }) => {
+  const results = await getChatClassifications(renderedSteps)
+  console.log(results)
+  // navigateToResults(results)
+}
 
 const StyledChatbot = styled(ReactSimpleChatbot)`
   height: 100%;
@@ -102,7 +114,7 @@ export const Chatbot: React.FC = props => {
       <StyledChatbot
         {...props}
         steps={transformedSteps}
-        handleEnd={scrollToLastBotMessage}
+        handleEnd={handleEnd}
         hideHeader
         hideUserAvatar
         botAvatar={chloe}

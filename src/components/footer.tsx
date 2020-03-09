@@ -24,13 +24,13 @@ const FooterContainer = styled.div`
   background-color: ${props => props.theme.colors.backgroundLight};
   border-top: 1px solid ${props => props.theme.colors.primaryLight};
   color: ${props => props.theme.colors.text};
-  width: 100%;
+  display: flex;
+  justify-content: center;
 `
 
 const FooterContent = styled.div`
   max-width: 900px;
-  width: 100%;
-  margin: auto;
+  flex: 1 1 auto;
   display: flex;
   flex-wrap: wrap;
   padding: 12px;
@@ -45,19 +45,17 @@ const FooterContent = styled.div`
       text-decoration: underline;
     }
   }
+
+  h3 {
+    font-size: ${props => props.theme.sizes.small};
+    margin: 8px 0;
+  }
 `
 
 const FooterColumn = styled.div`
   display: flex;
   flex-direction: column;
   flex: 1 1 auto;
-`
-
-const BottomText = styled.h3`
-  font-size: ${props => props.theme.sizes.small};
-  margin: 4px 0;
-  text-align: center;
-  font-weight: 300;
 `
 
 export const Footer: React.FC = props => {
@@ -87,11 +85,12 @@ export const Footer: React.FC = props => {
           >
             {t('footer.contactUs')}
           </a>
+          <h3>Dialogue © 2020</h3>
         </FooterColumn>
         <FooterColumn>
           <h3>{t('footer.forProvince')}</h3>
           {PROVINCES.map(province => (
-            <Link key={province} to={`/info?id=ca-${province.toLowerCase()}`}>
+            <Link to={`/info?id=ca-${province.toLowerCase()}`}>
               {t(`provinces.${province}`)}
             </Link>
           ))}
@@ -108,7 +107,6 @@ export const Footer: React.FC = props => {
           <Link to="/info?id=travel-plans">{t('footer.travelPlans')}</Link>
         </FooterColumn>
       </FooterContent>
-      <BottomText>© 2020 Dialogue</BottomText>
     </FooterContainer>
   )
 }
