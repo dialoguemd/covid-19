@@ -35,6 +35,10 @@ const FooterContent = styled.div`
   flex-wrap: wrap;
   padding: 12px;
 
+  h3 {
+    font-size: ${props => props.theme.sizes.body};
+  }
+
   a {
     font-size: ${props => props.theme.sizes.small};
     margin: 3px 0;
