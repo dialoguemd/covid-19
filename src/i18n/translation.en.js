@@ -7,8 +7,8 @@ export default {
   },
   share: {
     viewResults: 'View your personalised results',
-    twitterButton: 'Share on twitter',
-    facebookButton: 'Share on facebook',
+    twitterButton: 'Share on Twitter',
+    facebookButton: 'Share on Facebook',
     twitterShareText: 'Get information about COVID-19 {{url}}'
   },
   welcomePage: {
