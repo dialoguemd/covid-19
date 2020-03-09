@@ -21,7 +21,8 @@ const PROVINCES = [
 ]
 
 const FooterContainer = styled.div`
-  background-color: ${props => props.theme.colors.backgroundLight};
+  background: ${props => props.theme.colors.backgroundLight};
+  background: linear-gradient(0deg, ${props => props.theme.colors.background} 0%, ${props => props.theme.colors.backgroundLight} 100%);
   border-top: 1px solid ${props => props.theme.colors.primaryLight};
   color: ${props => props.theme.colors.text};
   display: flex;
