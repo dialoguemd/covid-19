@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import logo from 'images/logo.png'
 import { useTranslation } from 'react-i18next'
+import Footer from 'components/footer'
 
 const Container = styled.div`
   overflow: auto;
@@ -56,6 +57,8 @@ export const WelcomePage: React.FC = () => {
       <h3>{t('welcomePage.description')}</h3>
 
       <Link to="/chat/">{t('welcomePage.button')}</Link>
+
+      <Footer />
     </Container>
   )
 }
