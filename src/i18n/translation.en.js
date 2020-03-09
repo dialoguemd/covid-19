@@ -5,6 +5,12 @@ export default {
     changeAudience: 'Take the questionnaire again',
     audiencePrefix: 'Information below applies to:'
   },
+  share: {
+    viewResults: 'View your personalised results',
+    twitterButton: 'Share on twitter',
+    facebookButton: 'Share on facebook',
+    twitterShareText: 'Get information about COVID-19 {{url}}'
+  },
   welcomePage: {
     title: 'COVID-19: What you need to know',
     description:
