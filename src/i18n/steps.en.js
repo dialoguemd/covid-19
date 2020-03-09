@@ -3,7 +3,7 @@ export default {
   intro2:
     "I'm Chloé, an intelligent medical assistant. I’m here to give you accurate information about COVID-19. To make it relevant to your situation, I'd like to ask you a few questions. It should not take more than a few minutes.",
   intro3:
-    "Note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor. The information we supply is from official sources.",
+    "Please note that the information you'll receive is not a medical assessment. This service is not a substitute for consulting with your doctor. The information we supply is from official sources.",
   'intro-option1': "Ok, let's get started!",
   'askForLocationOptions-QC': 'Quebec',
   'askForLocationOptions-AB': 'Alberta',
