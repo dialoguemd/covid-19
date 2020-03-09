@@ -4,7 +4,7 @@ export default {
     noResultsMessage: 'Aucun résultat trouvé pour cet URL',
     changeAudience:
       "Cela ne s'applique pas à vous ? Obtenez vos informations personnalisées",
-    audiencePrefix: "Les informations ci-dessous s'appliquent à "
+    audiencePrefix: "Les informations ci-dessous s'appliquent "
   },
   welcomePage: {
     title: 'COVID-19: Ce que vous devez savoir',
