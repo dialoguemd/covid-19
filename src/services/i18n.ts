@@ -14,19 +14,17 @@ const resources = {
   }
 }
 
-const fallbackLng =
-  process.env.NODE_ENV !== 'production' && packageJson.supportedLanguages
-
 i18n
   .use(i18nLanguageDetector)
   .use(initReactI18next)
   .init({
     ns: ['translation', 'steps'],
-    fallbackLng,
+    fallbackLng: packageJson.supportedLanguages,
     initImmediate: true,
-    nonExplicitWhitelist: false,
+    nonExplicitWhitelist: true,
     resources,
     whitelist: packageJson.supportedLanguages,
+    load: 'languageOnly',
     appendNamespaceToMissingKey: true,
     detection: {
       order: ['querystring', 'navigator', 'htmlTag'],
@@ -34,4 +32,5 @@ i18n
     }
   })
 
+console.log(i18n.languages, i18n.language)
 export default i18n
