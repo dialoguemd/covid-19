@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 import Footer from 'components/footer'
+import { ReactComponent as Logo } from 'images/dialogue-logo.svg'
 
 import LanguagePicker from 'components/language-picker'
-import logo from 'images/logo.png'
 
 const Title = styled.h2`
   color: ${props => props.theme.colors.primary};
@@ -46,6 +46,13 @@ const Container = styled.div`
   height: 100%;
 `
 
+const LogoContainer = styled.div`
+  box-shadow: rgb(242, 241, 245) 0px 2px 10px;
+  background-color: ${props => props.theme.colors.primaryLight};
+  padding: 24px 40px 24px 18px;
+  border-bottom-right-radius: 100px;
+`
+
 export const WelcomePage: React.FC = () => {
   const { t } = useTranslation()
 
@@ -57,7 +64,10 @@ export const WelcomePage: React.FC = () => {
           align-items: flex-start;
         `}
       >
-        <img src={logo} alt="Dialogue" />
+        <LogoContainer>
+          <Logo />
+        </LogoContainer>
+
         <span
           css={`
             flex: 1 1 auto;
