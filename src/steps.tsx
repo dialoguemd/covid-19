@@ -278,6 +278,11 @@ const riskAssessment: Step[] = [
         trigger: 'askHasChronicLungDisease'
       },
       {
+        label: i18n.t('steps:askOptionUnsure'),
+        value: true,
+        trigger: 'askHasChronicLungDisease'
+      },
+      {
         label: i18n.t('steps:no'),
         value: false,
         trigger: 'askHasChronicLungDisease'

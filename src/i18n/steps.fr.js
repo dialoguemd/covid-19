@@ -29,7 +29,8 @@ export default {
   'askHasImmuneDecreasedOptions-Option2': "Non, rien ne s'applique à moi",
   yes: 'Oui',
   no: 'Non',
-  askForLocation: 'Dans quelle province ou territoire êtes-vous actuellement situé?',
+  askForLocation:
+    'Dans quelle province ou territoire êtes-vous actuellement situé?',
   askForLocationInfo:
     "Je pourrai adapter les informations pour qu'elles s'appliquent à votre région.",
   askHasHadContact: `
@@ -43,6 +44,7 @@ export default {
 	- Voyager avec une personne infectée
 	- Vivre dans le même domicile qu'une personne infectée
 `,
+  askOptionUnsure: `Je ne sais pas`,
   askAgeRange: `Avez-vous plus de 65 ans?`,
   askHasFever: `Avez-vous de la fièvre?`,
   askHasCough: `Avez-vous une toux?`,
@@ -65,7 +67,7 @@ export default {
    
 	- Avez-vous des antécédents de diabète ?
 	- Prenez-vous des médicaments de suppression de l'immunité tels que la Prednisone ou tout autre stéroïde ?
-	- Souffrez-vous d'une maladie auto-immune telle que le lupus, chrones ou le rhumatisme articulaire aigu ?
+	- Souffrez-vous d'une maladie auto-immune telle que le lupus, la maladie de Crohn's ou le rhumatisme articulaire aigu ?
 	- Avez-vous des antécédents de cancer ?
 	- Êtes-vous atteint du VIH/sida ?
 	- Souffrez-vous d'une maladie chronique des reins ou du foie ?

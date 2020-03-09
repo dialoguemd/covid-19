@@ -37,6 +37,7 @@ export default {
   - Travelling with an infected person
   - Living in the same household as an infected person
   `,
+  askOptionUnsure: `I don't know`,
   askAgeRange: `Are you older than 65?`,
   askHasFever: `Do you have a fever?`,
   askHasCough: `Do you have a cough?`,
@@ -57,7 +58,7 @@ export default {
 
   - Do you have a history of diabetes?
   - Do you take immune suppresion medication such as Prednisone or any other steroid?
-  - Do you have an autoimmune disease such as lupus, rheumatoid arthritis or chron's?
+  - Do you have an autoimmune disease such as lupus, rheumatoid arthritis or Crohn's disease?
   - Do you have a history of cancer?
   - Do you have HIV/AIDS?
   - Do you have chronic kidney or liver disease?

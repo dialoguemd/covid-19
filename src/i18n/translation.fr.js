@@ -26,9 +26,9 @@ export default {
     'ca-nt': 'résidents des Territoires du Nord',
     'ca-nl': 'résidents de Terre-Neuve-et-Labrador',
     'ca-nu': 'Les habitants de Nuvavut',
-    'elevated-medical-risk': 'personnes présentant un risque accru de complications',
-    'elevated-covid-risk':
-      "personnes présentant un risque accru d'infection"
+    'elevated-medical-risk':
+      'personnes présentant un risque accru de complications',
+    'elevated-covid-risk': "personnes présentant un risque accru d'infection"
   },
   footer: {
     about: 'À propos',
