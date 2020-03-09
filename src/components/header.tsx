@@ -32,11 +32,15 @@ const LogoContainer = styled.div`
   padding: 24px 40px 24px 18px;
   border-bottom-right-radius: 100px;
   width: 200px;
+  flex-basis: 0;
 `
 
 const LanguagePickerContainer = styled.div`
   width: 200px;
   text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 `
 
 const HeaderContainer = styled.div`
@@ -67,7 +71,18 @@ export const Header: React.FC<Props> = ({ title, ...rest }) => (
     <Title>{title}</Title>
 
     <LanguagePickerContainer>
-      <LanguagePicker />
+      <span
+        css={`
+          font-size: 36px;
+        `}
+      >
+        🇨🇦
+      </span>
+      <LanguagePicker
+        css={`
+          margin-left: 2px;
+        `}
+      />
     </LanguagePickerContainer>
   </HeaderContainer>
 )

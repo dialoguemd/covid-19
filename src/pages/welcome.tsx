@@ -3,6 +3,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
+
 import Footer from 'components/footer'
 import Header from 'components/header'
 
@@ -42,25 +43,28 @@ const Container = styled.div`
   align-items: center;
 `
 
+const Body = styled.div`
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 18px;
+`
+
 export const WelcomePage: React.FC = () => {
   const { t } = useTranslation()
 
   return (
     <Container>
       <Header title={t('welcomePage.title')} />
-      <Description>{t('welcomePage.description')}</Description>
-
-      <div>
-        <GetStartedButton to="/chat/">
-          {t('welcomePage.button')}
-        </GetStartedButton>
-      </div>
-      <div
-        css={`
-          flex: 1 1 auto;
-        `}
-      ></div>
-
+      <Body>
+        <Description>{t('welcomePage.description')}</Description>
+        <div>
+          <GetStartedButton to="/chat/">
+            {t('welcomePage.button')}
+          </GetStartedButton>
+        </div>
+      </Body>
       <Footer />
     </Container>
   )
