@@ -7,7 +7,9 @@ import styled from 'styled-components/macro'
 import Results from 'components/results'
 import Header from 'components/header'
 import Footer from 'components/footer'
+import Title from 'components/title'
 import ShareResults from 'components/share-results'
+import ScrollAnchor from 'components/scroll-anchor'
 
 const useQuery = () => {
   const location = useLocation()
@@ -116,7 +118,9 @@ export const InfoPage: React.FC = () => {
 
   return (
     <InfoPageContainer>
-      <Header title={t('resultsPage.headerTitle')} />
+      <ScrollAnchor />
+      <Header />
+      <Title>{t('resultsPage.headerTitle')}</Title>
       <Audience>
         <ClassList>
           {t('resultsPage.audiencePrefix')} {classString}
