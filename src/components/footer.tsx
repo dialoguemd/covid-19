@@ -75,7 +75,7 @@ const BottomText = styled.h3`
 // Todo: replace this with a proper solution
 const scrollToContent = () => {
   const contentAnchor = window.document.getElementById('contentScrollAnchor')
-  if(contentAnchor) {
+  if (contentAnchor) {
     contentAnchor.scrollIntoView()
   }
 }
