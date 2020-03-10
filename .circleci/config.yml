@@ -54,10 +54,22 @@ jobs:
 
   build:
     executor: debian
+    parameters:
+      bucket:
+        type: enum
+        enum: *buckets
     steps:
       - checkout
       - install-deps
-      - run: npm run build
+      - run:
+          name: Build
+          command: |
+            if [ $CIRCLE_BRANCH == master ]; then
+              export REACT_APP_SHARE_PUBLIC_URL=<<parameters.bucket>>
+            else
+              export REACT_APP_SHARE_PUBLIC_URL=<<parameters.bucket>>/branch/$CIRCLE_BRANCH
+            fi
+            npm run build
 
       - persist_to_workspace:
           root: ./
@@ -113,6 +125,7 @@ workflows:
               only: /.*/
       - build:
           context: org-global-v2
+          bucket: covid19.dialogue.co
           filters:
             tags:
               ignore: /.*/
