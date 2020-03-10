@@ -13,7 +13,7 @@ The project is created by [Dialogue](dialogue.co). Dialogue is the leading Canad
 
 ## How to contribute
 
-See [CONTRIBUTING.md](./CONTRIBUTING.MD).
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Content structure
 The structure of this project is based on the following concepts:
