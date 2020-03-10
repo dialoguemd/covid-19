@@ -5,7 +5,7 @@ export default {
   intro3: `
 	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin. Si vous présentez des symptômes graves, consultez un médecin.
 
-	Les informations que nous fournissons proviennent de sources officielles..
+	Les informations que nous fournissons proviennent de sources officielles.
 	`,
   'intro-option1': 'Ok, allons-y!',
   'askForLocationOptions-QC': 'Québec',

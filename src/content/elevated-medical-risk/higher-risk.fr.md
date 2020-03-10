@@ -1,4 +1,4 @@
-## 👴🏻 Les personnes les plus exposées aux complications de la COVID-19
+## 🧓 Les personnes ayant un risque plus élevé de complications de la COVID-19
 
 Le gouvernement du Canada [cite](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html) que les aînés et les personnes dont le système immunitaire est affaibli ou qui ont un problème de santé sous-jacent présentent un risque plus élevé de complications de la COVID-19.
 
