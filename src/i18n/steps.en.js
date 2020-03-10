@@ -77,4 +77,5 @@ export default {
   Are you planning on travelling outside of Canada in the next month?`,
   outro1: `
   We're done with the questions! Your personal information package is ready.
+  `
 }

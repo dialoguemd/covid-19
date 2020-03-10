@@ -88,4 +88,5 @@ export default {
   Prévoyez-vous voyager à l'étranger au cours du prochain mois?`,
   outro1: `
   Les questions sont terminées ! Votre trousse d'information personnelle est prête.
+  `
 }
