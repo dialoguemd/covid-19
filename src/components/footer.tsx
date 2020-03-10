@@ -3,6 +3,7 @@ import React from 'react'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
+import { mobileBreakpoint } from 'theme'
 
 const PROVINCES = [
   'QC',
@@ -55,6 +56,13 @@ const FooterColumn = styled.div`
   display: flex;
   flex-direction: column;
   flex: 1 1 auto;
+  margin-bottom: 15px;
+
+  @media (max-width: ${mobileBreakpoint}px) {
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 `
 
 const BottomText = styled.h3`
@@ -63,6 +71,15 @@ const BottomText = styled.h3`
   text-align: center;
   font-weight: 300;
 `
+
+// Todo: replace this with a proper solution
+const scrollToContent = () => {
+  window.document.getElementById('contentScrollAnchor').scrollIntoView()
+}
+
+const AutoScrollLink: React.FC<any> = props => {
+  return <Link onClick={scrollToContent} {...props} />
+}
 
 export const Footer: React.FC = props => {
   const { t, i18n } = useTranslation()
@@ -99,21 +116,28 @@ export const Footer: React.FC = props => {
         <FooterColumn>
           <h3>{t('footer.forProvince')}</h3>
           {PROVINCES.map(province => (
-            <Link key={province} to={`/info?id=ca-${province.toLowerCase()}`}>
+            <AutoScrollLink
+              key={province}
+              to={`/info?id=ca-${province.toLowerCase()}`}
+            >
               {t(`provinces.${province}`)}
-            </Link>
+            </AutoScrollLink>
           ))}
         </FooterColumn>
         <FooterColumn>
           <h3>{t('footer.forCanadians')}</h3>
-          <Link to="/info?id=common">{t('footer.generalInfo')}</Link>
-          <Link to="/info?id=elevated-covid-risk">
+          <AutoScrollLink onClick={scrollToContent} to="/info?id=common">
+            {t('footer.generalInfo')}
+          </AutoScrollLink>
+          <AutoScrollLink to="/info?id=elevated-covid-risk">
             {t('footer.elevatedInfection')}
-          </Link>
-          <Link to="/info?id=elevated-medical-risk">
+          </AutoScrollLink>
+          <AutoScrollLink to="/info?id=elevated-medical-risk">
             {t('footer.elevatedMedical')}
-          </Link>
-          <Link to="/info?id=travel-plans">{t('footer.travelPlans')}</Link>
+          </AutoScrollLink>
+          <AutoScrollLink to="/info?id=travel-plans">
+            {t('footer.travelPlans')}
+          </AutoScrollLink>
         </FooterColumn>
       </FooterContent>
       <BottomText>© 2020 Dialogue</BottomText>

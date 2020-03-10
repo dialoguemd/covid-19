@@ -7,6 +7,7 @@ import { useTranslation } from 'react-i18next'
 import Footer from 'components/footer'
 import Header from 'components/header'
 import Title from 'components/title'
+import ScrollAnchor from 'components/scroll-anchor'
 
 import ImageCanadaFlag from 'images/canada-flag.jpg'
 
@@ -87,6 +88,7 @@ export const WelcomePage: React.FC = () => {
 
   return (
     <Container>
+      <ScrollAnchor />
       <Header
         css={`
           flex-shrink: 0;

@@ -8,6 +8,7 @@ import Results from 'components/results'
 import Header from 'components/header'
 import Footer from 'components/footer'
 import ShareResults from 'components/share-results'
+import ScrollAnchor from 'components/scroll-anchor'
 
 const useQuery = () => {
   const location = useLocation()
@@ -116,6 +117,7 @@ export const InfoPage: React.FC = () => {
 
   return (
     <InfoPageContainer>
+      <ScrollAnchor />
       <Header title={t('resultsPage.headerTitle')} />
       <Audience>
         <ClassList>

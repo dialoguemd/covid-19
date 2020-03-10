@@ -13,6 +13,7 @@ interface Props {
 
 const LogoContainer = styled.div`
   position: absolute;
+  z-index:2;
   top: 0;
   background-color: ${props => props.theme.colors.primaryLight};
   padding: 24px 42px 21px 18px;
