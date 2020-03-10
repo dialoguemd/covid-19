@@ -13,4 +13,4 @@ COVID-19.
 If you are ill and must visit a health care professional, call ahead or tell them when you
 arrive that you have a respiratory illness and if you have traveled.
 
-[Source: Government of Nuvavut](https://gov.nu.ca/sites/default/files/covid-19_web_page.pdf)
+[Source: Government of Nuvavut](https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus)
