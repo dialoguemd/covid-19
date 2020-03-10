@@ -49,7 +49,7 @@ export const ShareResults: React.FC<Props> = (props: any) => {
   const { t, i18n } = useTranslation()
 
   const url = encodeURIComponent(window.location.href)
-  const facebookHref = `https://www.facebook.com/sharer/sharer.php?u=${url}&amp;src=sdkpreparse`
+  const facebookHref = `https://www.facebook.com/sharer/sharer.php?u=${url}`
   const twitterHref = `https://twitter.com/intent/tweet?text=${i18n.t(
     'share.twitterShareText',
     { url }
