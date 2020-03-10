@@ -10,7 +10,7 @@ export default {
     viewResults: 'View information package',
     twitterButton: 'Share on Twitter',
     facebookButton: 'Share on Facebook',
-    twitterShareText: 'Latest COVID-19 info from Canadian Government {{url}}'
+    twitterShareText: 'Latest COVID-19 info from Canadian Government %23coronavirus {{url}}'
   },
   welcomePage: {
     title: 'COVID-19: What you need to know',
