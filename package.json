@@ -2,7 +2,7 @@
   "name": "@dialogue/covid-19",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/dialoguemd/covid-19",
+  "homepage": ".",
   "contentSrc": "./src/content",
   "contentManifestDst": "./src/content/manifest.json",
   "supportedLanguages": [
