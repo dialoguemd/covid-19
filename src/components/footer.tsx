@@ -36,7 +36,7 @@ const FooterContent = styled.div`
   padding: 12px;
 
   h3 {
-    font-size: ${props => props.theme.sizes.body};
+    font-size: ${props => props.theme.sizes.small};
   }
 
   a {
