@@ -7,7 +7,7 @@ export default {
     audiencePrefix: 'Information below applies to:'
   },
   share: {
-    viewResults: 'View your personalised results',
+    viewResults: 'View information package',
     twitterButton: 'Share on Twitter',
     facebookButton: 'Share on Facebook',
     twitterShareText: 'Latest COVID-19 info from Canadian Government {{url}}'

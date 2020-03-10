@@ -1,7 +1,7 @@
 export default {
   intro1: 'Bonjour!',
   intro2:
-    "Je suis Chloé, une assistante virtuelle médicale intelligente. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
+    "Je suis Chloe, une assistante virtuelle médicale intelligente. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
   intro3: `
 	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin. Si vous présentez des symptômes graves, consultez un médecin.
 
@@ -88,6 +88,5 @@ export default {
   Prévoyez-vous voyager à l'étranger au cours du prochain mois?`,
   outro1: `
   Les questions sont terminées ! Votre trousse d'information personnelle est prête.
-     
-	Vous pouvez toujours revenir sur cette page. Notre équipe médicale met à jour les informations au fur et à mesure que la situation évolue.`
+  `
 }
