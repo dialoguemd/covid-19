@@ -8,12 +8,12 @@ The purpose of this app is to deliver accurate personalized information from tru
 This service personalizes the information about the virus based on user's individual situation. All content is vetted by Canadian medical professionals.
 
 ## Who is behind this project
-The project is created by [Dialogue](dialogue.co). Dialogue is the leading Canadian telemedicine provider pioneering virtual healthcare dedicated exclusively to the world's leading organizations. We drive real health outcomes through amazing healthcare experiences, an employee engagement playbook, and a relentless focus on patient safety and security.
+The project is created by [Dialogue](https://dialogue.co). Dialogue is the leading Canadian telemedicine provider pioneering virtual healthcare dedicated exclusively to the world's leading organizations. We drive real health outcomes through amazing healthcare experiences, an employee engagement playbook, and a relentless focus on patient safety and security.
 
 
 ## How to contribute
 
-See [CONTRIBUTING.md](./CONTRIBUTING.MD).
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Content structure
 The structure of this project is based on the following concepts:

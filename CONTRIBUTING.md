@@ -1,7 +1,7 @@
 # Contributing
 
 We are very happy to receive and merge your contributions. Here are main ways to contribute to this project:
-- *Keep content up to date.* This is the main way we see medical community contributing to this project. COVID-19 moves fast and information people need to know changes day by day. We welcome and appreciate input and updates from credible trusted sources such as gouvernment agencies, healthcare organizations and media.
+- *Keep content up to date.* This is the main way we see medical community contributing to this project. COVID-19 moves fast and information people need to know changes day by day. We welcome and appreciate input and updates from credible trusted sources such as government agencies, healthcare organizations and media.
 - *Increase personalization.* This can be done by extending the rules of the bot, adding new classes of content, adding new questions, updating existing questions etc.
 
 
