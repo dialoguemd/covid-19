@@ -1,5 +1,5 @@
 {
-  "name": "covid-19",
+  "name": "@dialogue/covid-19",
   "version": "0.1.0",
   "private": true,
   "homepage": ".",
@@ -79,5 +79,6 @@
     "hooks": {
       "pre-commit": "npm run lint"
     }
-  }
+  },
+  "license": "MIT"
 }
