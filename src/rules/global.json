@@ -182,7 +182,7 @@
     "event": {
       "type": "askForLocationOptions",
       "params": {
-        "classes": ["ca-pei"]
+        "classes": ["ca-pe"]
       }
     }
   },
