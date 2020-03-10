@@ -8,6 +8,8 @@ import Footer from 'components/footer'
 import Header from 'components/header'
 import Title from 'components/title'
 
+import ImageCanadaFlag from 'images/canada-flag.jpg'
+
 const Description = styled.h3`
   color: ${props => props.theme.colors.text};
   font-size: calc(${props => props.theme.sizes.buttonText});
@@ -45,6 +47,7 @@ const Container = styled.div`
   height: 100%;
   align-items: center;
   overflow-x: hidden;
+  background-color: #e9e7e8;
 `
 
 const Body = styled.div`
@@ -55,6 +58,28 @@ const Body = styled.div`
   margin-bottom: 18px;
   justify-content: center;
   max-width: 600px;
+  position: relative;
+  z-index: 1;
+`
+
+const FooterContainer = styled.div`
+  display: block;
+  position: relative;
+  width: 100%;
+`
+
+const Flag = styled.div`
+  width: 16vw;
+  height: 16vw;
+  top: -16vw;
+  right: 0px;
+  background-image: url(${ImageCanadaFlag});
+  background-size: 100%;
+  background-color: #e9e6e7;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  position: absolute;
+  z-index: 0;
 `
 
 export const WelcomePage: React.FC = () => {
@@ -76,7 +101,10 @@ export const WelcomePage: React.FC = () => {
           </GetStartedButton>
         </div>
       </Body>
-      <Footer />
+      <FooterContainer>
+        <Flag />
+        <Footer />
+      </FooterContainer>
     </Container>
   )
 }

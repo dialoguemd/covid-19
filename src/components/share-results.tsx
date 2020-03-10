@@ -8,6 +8,7 @@ const ShareContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-shrink: 0;
   @media (max-width: ${mobileBreakpoint}px) {
     flex-direction: column;
   }

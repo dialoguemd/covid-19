@@ -12,7 +12,8 @@ interface Props {
 }
 
 const LogoContainer = styled.div`
-  box-shadow: rgb(242, 241, 245) 0px 2px 10px;
+  position: absolute;
+  top: 0;
   background-color: ${props => props.theme.colors.primaryLight};
   padding: 24px 42px 21px 18px;
   border-bottom-right-radius: 100px;
