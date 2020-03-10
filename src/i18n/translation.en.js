@@ -2,14 +2,15 @@ export default {
   resultsPage: {
     headerTitle: 'COVID-19: What you need to know',
     noResultsMessage: 'No results provided in URL.',
-    changeAudience: 'Doesn’t apply to you? Get personalized info',
+    changeAudienceTitle: 'Doesn’t apply to you?',
+    changeAudience: 'Get personalized info',
     audiencePrefix: 'Information below applies to:'
   },
   share: {
     viewResults: 'View your personalised results',
     twitterButton: 'Share on Twitter',
     facebookButton: 'Share on Facebook',
-    twitterShareText: 'Get information about COVID-19 {{url}}'
+    twitterShareText: 'Latest COVID-19 info from Canadian Government {{url}}'
   },
   welcomePage: {
     title: 'COVID-19: What you need to know',
