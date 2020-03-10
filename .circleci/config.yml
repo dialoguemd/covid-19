@@ -65,9 +65,9 @@ jobs:
           name: Build
           command: |
             if [ $CIRCLE_BRANCH == master ]; then
-              export REACT_APP_SHARE_PUBLIC_URL=<<parameters.bucket>>
+              export REACT_APP_SHARE_PUBLIC_URL=https://<<parameters.bucket>>
             else
-              export REACT_APP_SHARE_PUBLIC_URL=<<parameters.bucket>>/branch/$CIRCLE_BRANCH
+              export REACT_APP_SHARE_PUBLIC_URL=https://<<parameters.bucket>>/branch/$CIRCLE_BRANCH
             fi
             npm run build
 
