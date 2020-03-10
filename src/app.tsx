@@ -7,6 +7,7 @@ import InfoPage from './pages/info'
 import WelcomePage from './pages/welcome'
 import Chatbot from './components/chatbot'
 import { theme } from './theme'
+import GlobalStyles from './styles'
 
 const AppContainer = styled.div`
   position: absolute;
@@ -19,8 +20,9 @@ const AppContainer = styled.div`
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <Router>
-        <AppContainer>
+      <GlobalStyles />
+      <AppContainer>
+        <Router>
           <Switch>
             <Route exact path="/">
               <WelcomePage />
@@ -35,8 +37,8 @@ function App() {
               <Redirect to="/" />
             </Route>
           </Switch>
-        </AppContainer>
-      </Router>
+        </Router>
+      </AppContainer>
     </ThemeProvider>
   )
 }

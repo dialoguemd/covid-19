@@ -1,3 +1,5 @@
+import 'styled-components'
+
 const colors = {
   primary: '#0097F3',
   primaryLight: '#E5F4FD',
@@ -25,3 +27,12 @@ export const theme = {
 } as const
 
 export const mobileBreakpoint = 500 as number
+
+// and extend them!
+declare module 'styled-components' {
+  export interface DefaultTheme {
+    colors: typeof colors
+    sizes: typeof sizes
+    fontFamily: string
+  }
+}
