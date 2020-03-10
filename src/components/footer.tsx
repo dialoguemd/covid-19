@@ -74,7 +74,10 @@ const BottomText = styled.h3`
 
 // Todo: replace this with a proper solution
 const scrollToContent = () => {
-  window.document.getElementById('contentScrollAnchor').scrollIntoView()
+  const contentAnchor = window.document.getElementById('contentScrollAnchor')
+  if(contentAnchor) {
+    contentAnchor.scrollIntoView()
+  }
 }
 
 const AutoScrollLink: React.FC<any> = props => {
