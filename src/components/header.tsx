@@ -24,7 +24,6 @@ const LogoContainer = styled.div`
 `
 
 const LanguagePickerContainer = styled.div`
-  width: 200px;
   text-align: right;
   display: flex;
   align-items: center;
@@ -38,6 +37,7 @@ const HeaderContainer = styled.div`
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
+  margin: 10px;
   @media (max-width: ${mobileBreakpoint}px) {
     flex-wrap: wrap;
 
@@ -62,15 +62,6 @@ export const Header: React.FC<Props> = ({ title, ...rest }) => (
     {title && <Title>{title}</Title>}
 
     <LanguagePickerContainer>
-      <span
-        role="img"
-        aria-label="Canada"
-        css={`
-          font-size: 36px;
-        `}
-      >
-        🇨🇦
-      </span>
       <LanguagePicker
         css={`
           margin-left: 2px;
