@@ -15,7 +15,7 @@ export default {
   welcomePage: {
     title: 'COVID-19: What you need to know',
     description:
-      'Get accurate personalized information from trusted Canadian medical sources regarding COVID-19.',
+      'Get accurate and personalized information from trusted Canadian medical sources regarding COVID-19.',
     button: 'Get Started'
   },
   classes: {
@@ -23,7 +23,7 @@ export default {
     'ca-qc': 'residents of Quebec',
     'ca-ab': 'residents of Alberta',
     'ca-on': 'residents of Ontario',
-    'ca-ns': 'residents of Nova-Scotia',
+    'ca-ns': 'residents of Nova Scotia',
     'ca-nb': 'residents of New Brunswick',
     'ca-mb': 'residents of Manitoba',
     'ca-bc': 'residents of British Columbia',
