@@ -1,7 +1,9 @@
 ## Nova Scotia: Who should I contact if I think I have COVID-19?
 
-People arriving in Canada from one of the affected areas continue to be at high risk of infection. Anyone who has travelled to one of the affected areas should monitor their health for 14 days after returning to Canada.
+Anyone who has travelled outside Canada may have come in contact with the novel coronavirus and should closely monitor their health for 14 days after returning to the country.
 
-If you have travelled to an affected area and develop a fever, cough, or difficulty breathing, call 811 to arrange an assessment.
+Travellers who start to feel unwell, should stay at home/self-isolate away from the public. Individuals who develop fever, with a temperature 38°C or higher, and/or cough should call 811 for assessment.
+
+People in Nova Scotia who have been directed to self-isolate can receive supporting health information from Nova Scotia Health Authority Public Health by [contacting the nearest office](http://www.nshealth.ca/public-health-offices).
 
 [Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/)
