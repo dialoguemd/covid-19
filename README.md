@@ -1,24 +1,20 @@
+# Canada COVID-19 Bot
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![CircleCI](https://circleci.com/gh/dialoguemd/covid-19.svg?style=svg)](https://circleci.com/gh/dialoguemd/covid-19)
+
 See project wiki at https://github.com/dialoguemd/covid-19/wiki
 
-# What is it
+## What it is
 The purpose of this app is to deliver accurate personalized information from trusted Canadian medical sources regarding COVID-19.
 
-This service personalizes the information about the virus based on user's individual situation. All content is vetted by Canadian medical professionals. 
+This service personalizes the information about the virus based on user's individual situation. All content is vetted by Canadian medical professionals.
 
 ## Who is behind this project
 The project is created by [Dialogue](dialogue.co). Dialogue is the leading Canadian telemedicine provider pioneering virtual healthcare dedicated exclusively to the world's leading organizations. We drive real health outcomes through amazing healthcare experiences, an employee engagement playbook, and a relentless focus on patient safety and security.
 
 
 ## How to contribute
-We are very happy to receive and merge your contributions. Here are main ways to contribute to this project:
-- *Keep content up to date.* This is the main way we see medical community contributing to this project. COVID-19 moves fast and information people need to know changes day by day. We welcome and appreciate input and updates from credible trusted sources such as gouvernment agencies, healthcare organizations and media.
-- *Increase personalization.* This can be done by extending the rules of the bot, adding new classes of content, adding new questions, updating existing questions etc.
- 
 
-To contribute via pull request, follow these steps:
-- Write your content. Make sure it follows the style of existing content.
-- Create a pull request describing your changes
-Your pull request will be reviewed by a maintainer, who will get back to you about any necessary changes or questions.
+See [CONTRIBUTING.md](./CONTRIBUTING.MD).
 
 ## Content structure
 The structure of this project is based on the following concepts:
@@ -27,7 +23,7 @@ The structure of this project is based on the following concepts:
 - Each *class* represents a set of *content files*. Each class has it's own subdirectory under `src/content` directory. A content file is a Markdown file that has a title, body and a source. A file name of the content file must be in the form `filename.{language-code}.md`.
 
 ## How add new content
-The content served to uses is stored in text files in `https://github.com/dialoguemd/covid-19/tree/master/src/content`. 
+The content served to uses is stored in text files in `https://github.com/dialoguemd/covid-19/tree/master/src/content`.
 
 The files are placed in sub-sirectories. Each sub-directory corresponds to a "content class". A content class is a collection of content that will be served to all users that belong to a class. Which class a user belongs to is determined by the answers they provide.
 
@@ -63,17 +59,20 @@ In the project directory, you can run:
 Installs the dependencies.
 
 ### `npm start`
-Runs the app in the development mode.<br />
+Runs the app in the development mode.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
+The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 ### `npm run build`
-Builds the app for production to the `build` folder.<br />
+Builds the app for production to the `build` folder.
+
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
+The build is minified and the filenames include the hashes.
+
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
@@ -100,8 +99,8 @@ Add them to `rules/global.json`
 They can also be defined on a step directly under metadata. Step-defined rules will only be applied if that step was rendered.
 
 e.g.
-```
-steps={[
+```js
+steps = [
   {
     id: '1',
     message: 'Pick a number',
@@ -114,6 +113,6 @@ steps={[
     }
   },
   ...
-]}
+]
 ```
 
