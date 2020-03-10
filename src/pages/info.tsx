@@ -8,7 +8,6 @@ import Results from 'components/results'
 import Header from 'components/header'
 import Footer from 'components/footer'
 import ShareResults from 'components/share-results'
-import { mobileBreakpoint } from 'theme'
 
 const useQuery = () => {
   const location = useLocation()
@@ -21,23 +20,54 @@ const InfoCard = styled.div`
   border-radius: 12px;
   margin: 12px;
   padding: 16px;
+  max-width: 1000px;
+  align-items: center;
+  flex-shrink: 0;
 `
 
 const Audience = styled.div`
   color: ${props => props.theme.colors.text};
-  flex: 1 1 600px;
-  font-size: ${props => props.theme.sizes.title / 2};
-  margin: 6px 15px;
+  margin: 15px 15px;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  max-width: 1000px;
+  flex-shrink: 0;
+`
 
-  @media (max-width: ${mobileBreakpoint}px) {
-    font-size: ${props => props => props.theme.sizes.buttonText};
-  }
+const HeaderLinkContainer = styled.div`
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  margin-top: 16px;
 `
 
 const HeaderLink = styled(Link)`
+  align-items: center;
+  transition: background 200ms linear;
+  font-size: ${props => props.theme.sizes.buttonText};
+  font-family: ${props => props.theme.fontFamily};
+  font-weight: 500;
+  border-radius: 28px;
+  padding: calc(${props => props.theme.sizes.buttonText} * 0.75) 24px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  min-width: 6em;
+  margin: 3px;
+  color: #fff;
+  text-decoration: none;
+  background: #079af3;
+  display: block;
+  text-align: center;
+  flex-shrink: 0;
+  &:hover {
+    opacity: 0.7;
+  }
+`
+
+const HeaderLinkSubTitle = styled.div`
   color: ${props => props.theme.colors.text};
   font-size: ${props => props.theme.sizes.buttonText};
   padding: 8px 12px;
@@ -45,21 +75,28 @@ const HeaderLink = styled(Link)`
   border-radius: 12px;
   display: flex;
   align-items: center;
-  font-weight: 500;
-  transition: background 200ms linear;
-
-  &:hover {
-    background-color: ${props => props.theme.colors.primaryLight};
-  }
+  font-weight: normal;
+  flex-shrink: 0;
+  text-align: center;
 `
 
 const ClassList = styled.h4`
   margin: 0 8px 0 12px;
+  font-size: 18px;
+  font-weight: normal;
 `
 
 const InfoPageContainer = styled.div`
   overflow-y: auto;
   overflow-x: hidden;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`
+
+const Spacer = styled.div`
+  flex-grow: 1;
 `
 
 export const InfoPage: React.FC = () => {
@@ -84,7 +121,12 @@ export const InfoPage: React.FC = () => {
         <ClassList>
           {t('resultsPage.audiencePrefix')} {classString}
         </ClassList>
-        <HeaderLink to="/chat/">{t('resultsPage.changeAudience')}</HeaderLink>
+        <HeaderLinkContainer>
+          <HeaderLinkSubTitle>
+            {t('resultsPage.changeAudienceTitle')}
+          </HeaderLinkSubTitle>
+          <HeaderLink to="/chat/">{t('resultsPage.changeAudience')}</HeaderLink>
+        </HeaderLinkContainer>
       </Audience>
       <InfoCard>
         {hasClasses ? (
@@ -98,6 +140,7 @@ export const InfoPage: React.FC = () => {
           </div>
         )}
       </InfoCard>
+      <Spacer />
       <ShareResults classes={classes} />
       <Footer />
     </InfoPageContainer>

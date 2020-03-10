@@ -6,6 +6,7 @@ import { useTranslation } from 'react-i18next'
 
 import Footer from 'components/footer'
 import Header from 'components/header'
+import Title from 'components/title'
 
 const Description = styled.h3`
   color: ${props => props.theme.colors.text};
@@ -18,20 +19,22 @@ const Description = styled.h3`
 `
 
 const GetStartedButton = styled(Link)`
-  color: ${props => props.theme.colors.text};
+  color: #fff;
   font-size: calc(${props => props.theme.sizes.buttonText} * 1.25);
+  font-family: ${props => props.theme.fontFamily};
+  font-weight: 500;
   padding: 0.75em 1.25em;
   font-weight: 800;
   justify-content: center;
   flex-wrap: wrap;
   display: flex;
   text-decoration: none;
-  border-radius: 8px;
-
-  transition: background 200ms linear;
-
+  border-radius: 30px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  transition: opacity 300ms ease-in-out;
+  background-color: ${props => props.theme.colors.primary};
   &:hover {
-    background-color: ${props => props.theme.colors.primaryLight};
+    opacity: 0.7;
   }
 `
 
@@ -41,6 +44,7 @@ const Container = styled.div`
   flex-direction: column;
   height: 100%;
   align-items: center;
+  overflow-x: hidden;
 `
 
 const Body = styled.div`
@@ -49,6 +53,8 @@ const Body = styled.div`
   align-items: center;
   flex-direction: column;
   margin-bottom: 18px;
+  justify-content: center;
+  max-width: 600px;
 `
 
 export const WelcomePage: React.FC = () => {
@@ -57,12 +63,12 @@ export const WelcomePage: React.FC = () => {
   return (
     <Container>
       <Header
-        title={t('welcomePage.title')}
         css={`
           flex-shrink: 0;
         `}
       />
       <Body>
+        <Title>{t('welcomePage.title')}</Title>
         <Description>{t('welcomePage.description')}</Description>
         <div>
           <GetStartedButton to="/chat/">
