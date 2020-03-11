@@ -38,11 +38,15 @@ const addAnalyticsToOptionStep = (step: Step): Step => {
           ? option.trigger(data)
           : option.trigger
 
-      analytics.track('answered_question', {
-        question_id: step.id,
-        value: option.value,
-        next_step: triggerId
-      })
+      analytics.track(
+        'answered_question',
+        {
+          question_id: step.id,
+          value: option.value,
+          next_step: triggerId
+        },
+        { context: { ip: '0.0.0.0' } }
+      )
 
       return triggerId
     }
