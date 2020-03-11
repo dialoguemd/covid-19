@@ -11,7 +11,8 @@ export default {
     twitterButton: 'Share on Twitter',
     facebookButton: 'Share on Facebook',
     twitterShareText:
-      'Latest COVID-19 info from Canadian Government %23coronavirus {{url}}'
+      'Latest COVID-19 info from Canadian Government %23coronavirus {{url}}',
+    CTA: 'Spread the word, not the virus.'
   },
   welcomePage: {
     title: 'COVID-19: What you need to know',

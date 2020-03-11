@@ -41,11 +41,19 @@ const TwitterSharebutton = styled(ShareButton)`
   background: #1da1f2;
 `
 
+const CtaText = styled.h3`
+  font-size: ${props => props.theme.sizes.buttonText};
+  margin: 4px 0;
+  text-align: center;
+  font-weight: 400;
+  color: ${props => props.theme.colors.text};
+`
+
 export interface Props {
   classes: string[]
 }
 
-export const ShareResults: React.FC<Props> = (props: any) => {
+export const ShareResults: React.FC<Props> = ({ classes, ...rest }) => {
   const { t, i18n } = useTranslation()
 
   const url = encodeURIComponent(window.location.href)
@@ -55,18 +63,22 @@ export const ShareResults: React.FC<Props> = (props: any) => {
     { url }
   )}`
 
-  const hasClasses = props.classes && props.classes.length > 0
+  const hasClasses = classes && classes.length > 0
 
   return (
     hasClasses && (
-      <ShareContainer>
-        <FacebookShareButton href={facebookHref}>
-          {t('share.facebookButton')}
-        </FacebookShareButton>
-        <TwitterSharebutton href={twitterHref}>
-          {t('share.twitterButton')}
-        </TwitterSharebutton>
-      </ShareContainer>
+      <div {...rest}>
+        <CtaText>{t('share.CTA')}</CtaText>
+
+        <ShareContainer>
+          <FacebookShareButton href={facebookHref}>
+            {t('share.facebookButton')}
+          </FacebookShareButton>
+          <TwitterSharebutton href={twitterHref}>
+            {t('share.twitterButton')}
+          </TwitterSharebutton>
+        </ShareContainer>
+      </div>
     )
   )
 }
