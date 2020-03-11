@@ -4,6 +4,8 @@ Anyone who has travelled outside Canada may have come in contact with the novel 
 
 Travellers who start to feel unwell, should stay at home/self-isolate away from the public. Individuals who develop fever, with a temperature 38°C or higher, and/or cough should call 811 for assessment.
 
+Nova Scotia Health Authority has established COVID-19 [assessment centres](http://www.nshealth.ca/coronavirus). If there is a need for in-person assessment, 811 will refer you to a centre. Please do not go to a COVID-19 assessment centre without having been referred by 811.
+
 People in Nova Scotia who have been directed to self-isolate can receive supporting health information from Nova Scotia Health Authority Public Health by [contacting the nearest office](http://www.nshealth.ca/public-health-offices).
 
 [Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/)
