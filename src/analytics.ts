@@ -86,18 +86,18 @@ function initAnalytics() {
   // Make the first page call to load the integrations. If
   // you'd like to manually name or tag the page, edit or
   // move this call however you'd like.
-  analytics.page()
+  analytics.page(null, null, {}, { context: { ip: '0.0.0.0' } })
 }
 
 initAnalytics()
 
 // track navigation events with HashRouter
 if (window.location.hash) {
-  analytics.page(window.location.hash)
+  analytics.page(window.location.hash, null, {}, { context: { ip: '0.0.0.0' } })
 }
 
 window.addEventListener('hashchange', () => {
-  analytics.page(window.location.hash)
+  analytics.page(window.location.hash, null, {}, { context: { ip: '0.0.0.0' } })
 })
 
 export default analytics
