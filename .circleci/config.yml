@@ -69,6 +69,7 @@ jobs:
             else
               export REACT_APP_SHARE_PUBLIC_URL=https://<<parameters.bucket>>/branch/$CIRCLE_BRANCH
             fi
+            export REACT_APP_COMMIT_SHA1=$CIRCLE_SHA1
             npm run build
 
       - persist_to_workspace:
