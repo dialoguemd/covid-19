@@ -1,5 +1,5 @@
 import i18n from 'services/i18n'
-import contentManifest from 'content/manifest.json'
+import contentManifest from 'content/info/manifest.json'
 
 export const getManifestFilesFromClasses = (classes: string[]) =>
   classes

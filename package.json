@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "homepage": ".",
-  "contentSrc": "./src/content",
-  "contentManifestDst": "./src/content/manifest.json",
+  "contentSrc": "./src/content/info",
+  "contentManifestDst": "./src/content/info/manifest.json",
   "supportedLanguages": [
     "en",
     "fr"
