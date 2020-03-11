@@ -1,17 +1,9 @@
 ## 🌍Liste des régions touchées par le COVID-19
 
-Sur la base des informations publiées le 27 février 2020 par le gouvernement du Canada, les zones suivantes sont considérées comme affectées :
+Le nombre de pays qui signalent des cas de COVID-19 a augmenté et continue de changer chaque jour. L’Organisation mondiale de la Santé (OMS) tient à jour les listes des régions ou des pays touchés dans son [rapport de situation](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) quotidien, qui peut être consulté (en anglais seulement) sur le site web de l’OMS.
 
-- Chine (continentale) 🇨🇳
-- Corée du Sud 🇰🇷
-- Hong Kong 🇭🇰
-- Iran 🇮🇷
-- Italie 🇮🇹
-- Japon 🇯🇵
-- Singapour 🇰🇷
+Le rapport de situation comporte deux listes : une pour les cas confirmés et soupçonnés de maladie respiratoire aiguë COVID-19 signalés par les provinces, régions et villes de Chine (Tableau 1. Cas confirmés et soupçonnés de COVID-19 [maladie respiratoire aiguë] signalés par les provinces, les régions et les villes en Chine) et l’autre pour tous les autres pays, territoires ou régions en dehors de la Chine ayant signalé des cas et des décès confirmés en laboratoire attribuables au coronavirus (Tableau 2. Pays, territoires ou régions à l’extérieur de la Chine où il y a des cas confirmés en laboratoire de COVID-19 et des décès dus à la maladie).
 
-Les pays ou zones sont ajoutés à cette liste après un examen minutieux par des experts des données des cas signalés publiquement et l'application d'un processus d'évaluation des risques.
-
-[Autres pays ou régions](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
+Nous invitons les professionnels de la santé du Canada qui participent à l’évaluation et à la prise en charge d’éventuels cas de COVID-19 et leurs proches à consulter ces tableaux dans le rapport de situation quotidien de l’OMS pour les aider à prendre des décisions éclairées. La décision de procéder à des analyses de laboratoire doit être fondée sur les orientations fournies par l’autorité de santé publique de la province ou du territoire.
 
 [Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html)
