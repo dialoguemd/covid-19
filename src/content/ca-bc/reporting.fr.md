@@ -1,6 +1,8 @@
 ## Colombie-Britannique: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si vous avez voyagé dans une zone touchée ou si vous présentez des symptômes, évitez tout contact avec d'autres personnes et appelez à l'avance un professionnel de la santé. Faites de même si vous présentez des symptômes et que vous avez été en contact avec un cas confirmé, ou un voyageur présentant ces symptômes, revenant de la zone touchée.
+Les symptômes de la COVID-19, sont similaires à ceux d'autres maladies respiratoires, y compris la grippe et le rhume. Ils comprennent la toux, les éternuements, la fièvre, les maux de gorge et les difficultés respiratoires.
+
+Si vous avez voyagé dans la zone touchée de la province de Hubei, en Chine, et que vous présentez ces symptômes, évitez tout contact avec d'autres personnes et appelez à l'avance un professionnel de la santé. Faites de même si vous présentez des symptômes et que vous avez été en contact avec un cas confirmé, ou un voyageur présentant ces symptômes, revenant de la zone touchée.
 
 Avisez votre professionnel de la santé de votre situation :
 

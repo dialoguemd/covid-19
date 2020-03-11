@@ -1,6 +1,6 @@
 ## Ontario: Who should I contact if I think I have COVID-19?
 
-Travellers who have returned from Hubei province, including Wuhan City, should:
+Travellers who have returned from Hubei province (China) or Iran, where returning travellers are advised to self-isolate should:
 
 - contact their [local public health unit](http://www.health.gov.on.ca/en/common/system/services/phu/locations.aspx) within 24 hours of arriving in Canada
 - stay at home and avoid close contact with others, including those in their home, for a total of 14 days from the date they left Hubei province
