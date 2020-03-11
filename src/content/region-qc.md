@@ -1,3 +1,0 @@
-## Region QC
-
-TODO
