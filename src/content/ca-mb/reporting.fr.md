@@ -4,4 +4,4 @@ Si vous êtes malade et avez récemment voyagé dans une zone touchée ou si vou
 
 Appelez Health Links-Info Santé à Winnipeg au 204-788-8200 ; ailleurs au Manitoba, vous pouvez composer sans frais le 1-888-315-9257.
 
-[Source: Gouvernment du Manitoba](https://www.gov.mb.ca/health/coronavirus/index.fr.html)
+[Source: Gouvernment du Manitoba](https://www.gov.mb.ca/health/coronavirus/public.fr.html)
