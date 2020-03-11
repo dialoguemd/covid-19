@@ -41,6 +41,13 @@ const TwitterSharebutton = styled(ShareButton)`
   background: #1da1f2;
 `
 
+const CtaText = styled.h3`
+  font-size: ${props => props.theme.sizes.buttonText};
+  margin: 4px 0;
+  text-align: center;
+  font-weight: 400;
+`
+
 export interface Props {
   classes: string[]
 }
@@ -59,14 +66,18 @@ export const ShareResults: React.FC<Props> = (props: any) => {
 
   return (
     hasClasses && (
-      <ShareContainer>
-        <FacebookShareButton href={facebookHref}>
-          {t('share.facebookButton')}
-        </FacebookShareButton>
-        <TwitterSharebutton href={twitterHref}>
-          {t('share.twitterButton')}
-        </TwitterSharebutton>
-      </ShareContainer>
+      <div>
+        <CtaText>{t('share.CTA')}</CtaText>
+
+        <ShareContainer>
+          <FacebookShareButton href={facebookHref}>
+            {t('share.facebookButton')}
+          </FacebookShareButton>
+          <TwitterSharebutton href={twitterHref}>
+            {t('share.twitterButton')}
+          </TwitterSharebutton>
+        </ShareContainer>
+      </div>
     )
   )
 }
