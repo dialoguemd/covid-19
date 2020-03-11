@@ -1,6 +1,6 @@
 ## Terre-Neuve et Labrador: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Les personnes qui ont voyagé dans les régions touchées au cours des 14 jours précédant leur retour au Canada, sont priées de surveiller étroitement leur santé et de contacter le 811 s’ils ont contracté de la fièvre, de la toux ou des difficultés respiratoires. Pour plus d'informations sur la liste des zones touchées, consultez [ce lien](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html)
+Les personnes qui ont voyagé dans les régions touchées au cours des 14 jours précédant leur retour au Canada, sont priées de surveiller étroitement leur santé et de contacter le 811 s’ils ont contracté de la fièvre, de la toux, des difficultés respiratoires ou une pneumonie dans les deux poumons. Pour plus d'informations sur la liste des zones touchées, consultez [ce lien](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html)
 
 Si vous avez voyagé dans la province de Hubei en Chine ou en Iran, ou si vous avez été en contact avec un cas suspect, ou confirmé, de COVID-19 et que vous présentez les symptômes mentionnés ci-dessus, vous pourriez être en danger.
 
