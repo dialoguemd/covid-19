@@ -35,6 +35,8 @@ const Audience = styled.div`
   flex-wrap: wrap;
   max-width: 1000px;
   flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
 `
 
 const HeaderLinkContainer = styled.div`
