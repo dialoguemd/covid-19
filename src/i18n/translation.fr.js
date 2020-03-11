@@ -12,7 +12,7 @@ export default {
     facebookButton: 'Partager sur Facebook',
     twitterShareText:
       'Dernières informations COVID-19 du Gouvernement Canadien %23coronavirus {{url}}',
-    CTA: 'Faites passer le signal, pas le virus.'
+    CTA: 'Passez le mot, pas le virus.'
   },
   welcomePage: {
     title: 'COVID-19: Ce que vous devez savoir',
