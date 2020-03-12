@@ -1,14 +1,32 @@
-## 🛫 Sûreté et sécurité à l'étranger
+## 🛫 Conseils aux voyageurs
 
-Le gouvernement du Canada recommande d'éviter tout voyage non essentiel en Chine, en Iran ou dans le nord de l'Italie. Il recommande aussi aux Canadiens d'éviter tout voyage dans la province du Hubei en raison des lourdes restrictions imposées par les autorités chinoises sur les voyages afin de limiter la propagation du COVID-19.
+Tous les voyageurs doivent être conscients des risques pour leur santé lorsqu'ils voyagent. Il est important de [vérifier votre destination](https://voyage.gc.ca/voyager/avertissements) avant de partir pour connaître les risques et vous préparer en conséquence.
 
-Tous les voyageurs doivent être conscients des risques pour la santé lors de leurs déplacements. Il est important de vérifier votre destination avant votre départ pour connaître les risques et être prêt. Vous pouvez réduire vos risques en prenant des précautions lorsque vous vous rendez dans des régions où il existe un risque de coronavirus. Veuillez consulter la page de la destination sur [voyage.gc.ca](https://voyage.gc.ca/) pour obtenir les derniers conseils aux voyageurs.
+Il est important de surveiller votre état de santé pendant votre voyage et à votre retour. Si vous tombez malade en voyage, appelez à l'avance un professionnel de la santé pour lui expliquer vos symptômes. Si vous tombez malade à votre retour, veuillez appeler votre autorité locale de santé publique pour obtenir des directives supplémentaires.
 
-Pendant votre absence et à votre retour, il est important de surveiller votre santé. Si vous tombez malade pendant votre voyage, appelez à l'avance un professionnel de la santé pour lui expliquer vos symptômes. Si vous tombez malade à votre retour, appelez votre autorité locale de santé publique pour obtenir des instructions supplémentaires.
+Si vous avez voyagé à l'extérieur du Canada, vous pouvez réduire le risque de propagation de l'infection en suivant les mesures de prévention lors de votre retour au Canada.
 
-Les voyageurs doivent s'attendre à des mesures de dépistage accrues aux points d'entrée des destinations internationales, y compris les aéroports. Les autorités locales peuvent imposer des mesures de contrôle soudaines, y compris des restrictions de mouvement telles que des quarantaines.
+Les gens peuvent contracter des coronavirus après être entrés en contact avec une personne infectée. Les données probantes actuelles indiquent que la maladie se propage de personne à personne lorsqu'il y a un contact étroit entre des sujets.
 
-Certains gouvernements ont mis en place des restrictions d'entrée et de sortie spéciales pour leur territoire. Avant de voyager, vérifiez auprès de la mission diplomatique étrangère de votre destination si ses autorités ont mis en place des restrictions spécifiques liées à cette situation. Celles-ci comprennent les conditions d'entrée, les fermetures de frontières et les suspensions de vols.
+Il n'existe pas de vaccin ou de traitement pour prévenir les coronavirus. La majorité des personnes infectées par un type commun de coronavirus se rétabliront d'elles-mêmes.
+
+Si vous présentez des symptômes préoccupants du COVID-19 comme la fièvre, la toux ou des difficultés à respirer, communiquez avec [votre autorité locale de santé publique](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/2019-nouveau-coronavirus-fiche-information.html#au) pour obtenir des directives supplémentaires.
+
+### Conseils de sécurité à l'étranger
+
+Les voyageurs doivent s'attendre à des mesures de contrôle sanitaire accrues aux points d'entrée de nombreuses destinations internationales, y compris les aéroports. Les autorités locales peuvent imposer des mesures de contrôle de manière soudaine, y compris des restrictions de mouvement telles que des quarantaines.
+
+Certains gouvernements ont mis en place des exigences particulières d'entrée et de sortie pour leur territoire. Avant de voyager, vérifiez auprès de la [mission diplomatique étrangère](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=fra) de votre destination si ses autorités ont mis en place des restrictions spécifiques liées à cette situation. Celles-ci comprennent des exigences d'entrée, des fermetures de frontières et des suspensions de vols.
+
+Pour vous assurer d'être au courant des derniers faits nouveaux concernant cette situation en évolution, nous vous recommandons de :
+
+- suivre l'actualité
+- lire les [conseils aux voyageurs et avertissements](https://voyage.gc.ca/voyager/avertissements) pour votre destination
+
+Si vous êtes dans une destination touchée, nous vous recommandons de :
+
+- suivre les instructions des autorités locales
+- vous inscrire à notre [service d'Inscription des Canadiens à l'étranger](https://voyage.gc.ca/voyager/inscription) pour recevoir des mises à jour importantes.
 
 ### 🚢 Éviter tout voyage à bord de navires de croisière
 
