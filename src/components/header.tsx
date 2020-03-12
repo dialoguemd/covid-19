@@ -10,6 +10,8 @@ import { mobileBreakpoint } from 'theme'
 import { requireRegionFile } from 'services/region-loader'
 
 const config = requireRegionFile('config.json')
+const isLocalhost = window.location.hostname === 'localhost'
+const ENABLE_REGION_SWITCHING = isLocalhost || config.ENABLE_REGION_SWITCHING
 
 interface Props {
   title?: string
@@ -79,7 +81,7 @@ export const Header: React.FC<Props> = ({
           margin-left: 2px;
         `}
       />
-      {config.ENABLE_REGION_SWITCHING && showRegionPicker && <RegionPicker />}
+      {ENABLE_REGION_SWITCHING && showRegionPicker && <RegionPicker />}
     </LanguagePickerContainer>
   </HeaderContainer>
 )

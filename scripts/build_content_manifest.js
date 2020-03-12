@@ -26,7 +26,6 @@ const generateManifest = (regionPath) => {
   const DST_MANIFEST = path.join(regionPath, '/manifest.json')
   const config = require(path.join('../', regionPath, '/config.json'));
 
-
   const getFileInfo = file => {
     const stats = fs.statSync(file)
     return {
@@ -50,16 +49,10 @@ const generateManifest = (regionPath) => {
     saveJsonFile(DST_MANIFEST, output)
 
   })
-
 }
 
 // Iterate through region folders and generate manifests
 glob(`${REGIONS_SRC}/*/`, function (err, regionsPaths) {
-
-  const regions = regionsPaths.map(p => path.basename(p))
-  const DST_MANIFEST = path.join(REGIONS_SRC, '/manifest.json')
-  saveJsonFile(DST_MANIFEST, { regions })
-
   regionsPaths.forEach(regionPath => {
     generateManifest(regionPath)
   })

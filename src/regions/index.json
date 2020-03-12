@@ -1,0 +1,9 @@
+{
+  "REGIONS": ["ca", "de"],
+  "DOMAINS": {
+    "localhost": "ca",
+    "covid19.dialogue.co": "ca",
+    "covid19-de.dialogue.co": "de",
+    "coronavirus-de.dialogue.co": "de"
+  }
+}

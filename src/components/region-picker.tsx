@@ -1,7 +1,7 @@
 import React from 'react'
 
 import styled from 'styled-components/macro'
-import regionsManifest from 'regions/manifest.json'
+import regionsIndex from 'regions/index.json'
 import { getRegionId } from 'services/region-loader'
 const regionId = getRegionId()
 
@@ -62,7 +62,7 @@ export const RegionPicker: React.FC = () => {
     <RegionPickerContainer>
       <RegionOptionsContainer>
         <Region id={regionId} />
-        {regionsManifest.regions
+        {regionsIndex.REGIONS
           .filter(id => id !== regionId)
           .map(id => (
             <Region key={id} id={id} onClick={() => changeRegion(id)} />
