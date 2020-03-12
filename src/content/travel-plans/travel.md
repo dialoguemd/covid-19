@@ -1,14 +1,32 @@
-## 🛫 Safety and security abroad
+## 🛫 Travel Advice
 
-The Government of Canada recommends that Canadians avoid non-essential travel to China, Iran and northern Italy. Canada also recommends that Canadians avoid all travel to the province of Hubei due to very strict travel and movement restrictions imposed by Chinese authorities to limit the spread of COVID-19.
-
-All travellers should be aware that there are health risks when you travel. It is important to check your destination before you leave to know the risks and to be prepared. You can reduce your risk by taking precautions when travelling to areas where there is risk of coronaviruses. Please consult the destination page on [travel.gc.ca](http://travel.gc.ca/) for the latest travel advice.
+All travellers should be aware that there are health risks when you travel. It is important to [check your destination](https://travel.gc.ca/travelling/advisories) before you leave to know the risks and to be prepared.
 
 While you are away, and when you return, it is important to monitor your health. If you become sick while travelling, call ahead to a health professional to explain your symptoms. If you become sick upon your return, call your local Public Health Authority for further instructions.
 
+If you have travelled outside Canada, you can reduce the risk of spreading infection by following prevention measures when returning to Canada.
+
+People can contract coronaviruses after coming into contact with an infected person. Current evidence suggests person-to-person spread is efficient when there is close contact.
+
+There is no vaccine or treatment to prevent coronaviruses. Most people with common coronavirus illness will recover on their own.
+
+If you are concerned that you have symptoms of COVID-19 such as fever, cough or difficulty breathing, contact your [local public health authority](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/2019-novel-coronavirus-information-sheet.html#pha) for further instructions.
+
+### Safety and security abroad
+
 Travellers should expect increased health screening measures at points of entry for international destinations, including airports. Local authorities may impose control measures suddenly, including movement restrictions such as quarantines.
 
-Some governments have implemented special entry and exit restrictions for their territory. Before travelling, verify with the foreign diplomatic mission of your destination to see if its authorities have implemented any specific restrictions related to this situation. These include entry requirements, border closures and flight suspensions.
+Some governments have implemented special entry and exit restrictions for their territory. Before travelling, verify with the [foreign diplomatic mission](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng) of your destination to see if its authorities have implemented any specific restrictions related to this situation. These include entry requirements, border closures and flight suspensions.
+
+To ensure you are aware of the latest developments on this evolving situation, we recommend:
+
+- monitoring the news
+- reading all [travel advice and advisories](https://travel.gc.ca/travelling/advisories) for your destination
+
+If you are in an affected destination, we recommend:
+
+- following the instructions of local authorities
+- signing up to our [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive important updates
 
 ## 🚢 Avoid all travel on cruise ships
 
