@@ -5,13 +5,13 @@ import { requireRegionFile } from 'services/region-loader'
 
 const { ENABLED_LANGUAGES } = requireRegionFile('config.json')
 
-const langToResourceSet = lang => ({
+const langToResources = lang => ({
   steps: requireRegionFile(`i18n/steps.${lang}.ts`).default,
   translation: requireRegionFile(`i18n/translation.${lang}.ts`).default
 })
 
 const resources = ENABLED_LANGUAGES.reduce(
-  (acc, lang) => ({ ...acc, [lang]: langToResourceSet(lang) }),
+  (acc, lang) => ({ ...acc, [lang]: langToResources(lang) }),
   {}
 )
 
@@ -33,10 +33,11 @@ i18n
     }
   })
 
+const { languages } = i18n
 export const getNextLanguage = () => {
-  const langIndex = ENABLED_LANGUAGES.indexOf(i18n.language)
-  const returnToZero = langIndex === ENABLED_LANGUAGES.length - 1
-  return ENABLED_LANGUAGES[returnToZero ? 0 : langIndex + 1]
+  const langIndex = languages.indexOf(i18n.language)
+  const returnToZero = langIndex === languages.length - 1
+  return languages[returnToZero ? 0 : langIndex + 1]
 }
 
 export default i18n
