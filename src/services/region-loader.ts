@@ -1,6 +1,7 @@
 import regionsIndex from 'regions/index.json'
 
-export const localStorageRegion = window.location.hostname === 'localhost' && localStorage.getItem('region')
+export const localStorageRegion =
+  window.location.hostname === 'localhost' && localStorage.getItem('region')
 
 export const getRegionId = () =>
   localStorageRegion ||
