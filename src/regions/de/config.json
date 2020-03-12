@@ -19,5 +19,6 @@
     "TH"
   ],
   "ENABLE_FACEBOOK_SHARE": true,
-  "ENABLE_TWITTER_SHARE": false
+  "ENABLE_TWITTER_SHARE": true,
+  "ENABLE_REGION_SWITCHING": true
 }

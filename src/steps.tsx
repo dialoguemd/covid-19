@@ -2,8 +2,8 @@ import React from 'react'
 
 import Results from './components/results-bubble'
 
-import { getRegion } from 'services/region'
-const { steps } = getRegion()
+import { requireRegionFile } from 'services/region-loader'
+const steps = requireRegionFile('steps.json')
 
 const resultsStep = { id: 'showResults', component: <Results />, end: true }
 

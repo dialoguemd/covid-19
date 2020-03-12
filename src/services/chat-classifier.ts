@@ -1,6 +1,6 @@
 import { Engine } from 'json-rules-engine'
-import { getRegion } from 'services/region'
-const { rules } = getRegion()
+import { requireRegionFile } from 'services/region-loader'
+const rules = requireRegionFile('rules.json')
 
 export const isRule = rule =>
   typeof rule === 'object' && !!rule.conditions && !!rule.event
