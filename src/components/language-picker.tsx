@@ -31,7 +31,6 @@ export const LanguagePicker: React.FC = props => {
   const nextLanguage = getNextLanguage()
 
   const cycleLanguage = useCallback(() => {
-    console.log('nextLanguage', nextLanguage)
     i18n.changeLanguage(nextLanguage)
   }, [nextLanguage, i18n])
 
