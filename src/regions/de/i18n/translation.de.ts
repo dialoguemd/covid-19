@@ -7,17 +7,17 @@ export default {
     audiencePrefix: 'Information below applies to:'
   },
   share: {
-    viewResults: 'View information package',
+    viewResults: 'Informationspaket anzeigen',
     twitterButton: 'Share on Twitter',
     facebookButton: 'Share on Facebook',
     twitterShareText:
       'Latest COVID-19 info from Canadian Government %23coronavirus {{url}}'
   },
   welcomePage: {
-    title: 'COVID-19: What you need to know',
+    title: 'COVID-19: Was Sie wissen müssen',
     description:
-      'Get accurate and personalized information from trusted Canadian medical sources regarding COVID-19.',
-    button: 'Get Started'
+      'Erhalten Sie genaue und personalisierte Informationen von vertrauenswürdigen kanadischen medizinischen Quellen bezüglich COVID-19.',
+    button: 'Erste Schritte'
   },
   classes: {
     common: 'all Canadians',
@@ -53,18 +53,21 @@ export default {
     travelPlans: 'People with travel plans'
   },
   provinces: {
-    QC: 'Quebec',
-    AB: 'Alberta',
-    ON: 'Ontario',
-    NS: 'Nova Scotia',
-    NB: 'New Brunswick',
-    MB: 'Manitoba',
-    BC: 'British Columbia',
-    SK: 'Saskatchewan',
-    PE: 'Prince Edward Island',
-    YT: 'Yukon',
-    NT: 'Northern Territories',
-    NL: 'Newfoundland and Labrador',
-    NU: 'Nuvavut'
+    BW: 'Baden-Württemberg',
+    BY: 'Bayern',
+    BE: 'Berlin',
+    BB: 'Brandenburg',
+    HB: 'Bremen',
+    HH: 'Hamburg',
+    HE: 'Hessen',
+    MV: 'Mecklenburg-Vorpommern',
+    NI: 'Niedersachsen',
+    NW: 'Nordrhein-Westfalen',
+    RP: 'Rheinland-Pfalz',
+    SL: 'Saarland',
+    SN: 'Sachsen',
+    ST: 'Sachsen-Anhalt',
+    SH: 'Schleswig-Holstein',
+    TH: 'Thüringen'
   }
 }

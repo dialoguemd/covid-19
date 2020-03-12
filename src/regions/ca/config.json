@@ -1,6 +1,20 @@
 {
-  "SUPPORTED_LANGUAGES": ["en", "fr"],
-  "ADMIN_AREAS": ["ON", "AB", "BC", "MB", "NB", "NL", "NT", "NU", "NS", "PE", "QC", "SK", "YT"],
+  "ENABLED_LANGUAGES": ["en", "fr"],
+  "ADMIN_AREAS": [
+    "ON",
+    "AB",
+    "BC",
+    "MB",
+    "NB",
+    "NL",
+    "NT",
+    "NU",
+    "NS",
+    "PE",
+    "QC",
+    "SK",
+    "YT"
+  ],
   "ENABLE_FACEBOOK_SHARE": true,
   "ENABLE_TWITTER_SHARE": true
 }

@@ -2,6 +2,8 @@ import React from 'react'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 import { mobileBreakpoint } from 'theme'
+import { getRegion } from 'services/region'
+const { config } = getRegion()
 
 const ShareContainer = styled.div`
   padding: 15px 0 25px 0;
@@ -69,14 +71,17 @@ export const ShareResults: React.FC<Props> = ({ classes, ...rest }) => {
     hasClasses && (
       <div {...rest}>
         <CtaText>{t('share.CTA')}</CtaText>
-
         <ShareContainer>
-          <FacebookShareButton href={facebookHref}>
-            {t('share.facebookButton')}
-          </FacebookShareButton>
-          <TwitterSharebutton href={twitterHref}>
-            {t('share.twitterButton')}
-          </TwitterSharebutton>
+          {config.ENABLE_FACEBOOK_SHARE && (
+            <FacebookShareButton href={facebookHref}>
+              {t('share.facebookButton')}
+            </FacebookShareButton>
+          )}
+          {config.ENABLE_TWITTER_SHARE && (
+            <TwitterSharebutton href={twitterHref}>
+              {t('share.twitterButton')}
+            </TwitterSharebutton>
+          )}
         </ShareContainer>
       </div>
     )

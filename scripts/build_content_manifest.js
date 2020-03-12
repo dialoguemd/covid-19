@@ -36,7 +36,7 @@ const generateManifest = (regionPath) => {
       modified: stats.mtime,
       created: stats.ctime,
       class: getClassFromFile(file),
-      lang: getLanguageFromFileName(file, config.SUPPORTED_LANGUAGES)
+      lang: getLanguageFromFileName(file, config.ENABLED_LANGUAGES)
     }
   }
 
@@ -55,6 +55,11 @@ const generateManifest = (regionPath) => {
 
 // Iterate through region folders and generate manifests
 glob(`${REGIONS_SRC}/*/`, function (err, regionsPaths) {
+
+  const regions = regionsPaths.map(p => path.basename(p))
+  const DST_MANIFEST = path.join(REGIONS_SRC, '/manifest.json')
+  saveJsonFile(DST_MANIFEST, { regions })
+
   regionsPaths.forEach(regionPath => {
     generateManifest(regionPath)
   })

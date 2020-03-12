@@ -3,23 +3,10 @@ import React from 'react'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
-import { mobileBreakpoint } from 'theme'
 
-const PROVINCES = [
-  'QC',
-  'AB',
-  'ON',
-  'NS',
-  'NB',
-  'MB',
-  'BC',
-  'SK',
-  'PE',
-  'YT',
-  'NT',
-  'NL',
-  'NU'
-]
+import { mobileBreakpoint } from 'theme'
+import { getRegion } from 'services/region'
+const { config, region } = getRegion()
 
 const FooterContainer = styled.div`
   background-color: ${props => props.theme.colors.backgroundLight};
@@ -84,6 +71,11 @@ const AutoScrollLink: React.FC<any> = props => {
   return <Link onClick={scrollToContent} {...props} />
 }
 
+const classifiedAdminAreas = config.ADMIN_AREAS.map(area => ({
+  areaClass: `${region}-${area.toLowerCase()}`,
+  area
+}))
+
 export const Footer: React.FC = props => {
   const { t, i18n } = useTranslation()
 
@@ -118,18 +110,15 @@ export const Footer: React.FC = props => {
         </FooterColumn>
         <FooterColumn>
           <h3>{t('footer.forProvince')}</h3>
-          {PROVINCES.map(province => (
-            <AutoScrollLink
-              key={province}
-              to={`/info?id=ca-${province.toLowerCase()}`}
-            >
-              {t(`provinces.${province}`)}
+          {classifiedAdminAreas.map(({ areaClass, area }) => (
+            <AutoScrollLink key={area} to={`/info?id=${areaClass}`}>
+              {t(`provinces.${area}`)}
             </AutoScrollLink>
           ))}
         </FooterColumn>
         <FooterColumn>
           <h3>{t('footer.forCanadians')}</h3>
-          <AutoScrollLink onClick={scrollToContent} to="/info?id=common">
+          <AutoScrollLink to="/info?id=common">
             {t('footer.generalInfo')}
           </AutoScrollLink>
           <AutoScrollLink to="/info?id=elevated-covid-risk">
