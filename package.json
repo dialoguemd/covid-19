@@ -3,12 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": ".",
-  "contentSrc": "./src/content/info",
-  "contentManifestDst": "./src/content/info/manifest.json",
-  "supportedLanguages": [
-    "en",
-    "fr"
-  ],
   "dependencies": {
     "i18next": "^19.3.2",
     "i18next-browser-languagedetector": "^4.0.2",

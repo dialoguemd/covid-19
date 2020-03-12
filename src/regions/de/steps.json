@@ -1,0 +1,112 @@
+[
+  {
+    "id": "intro1",
+    "message": "intro1",
+    "trigger": "intro4"
+  },
+  {
+    "id": "intro4",
+    "options": [
+      {
+        "label": "intro-option1",
+        "trigger": "askForLocation",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "askForLocation",
+    "message": "askForLocation",
+    "trigger": "askForLocationOptions"
+  },
+  {
+    "id": "askForLocationOptions",
+    "options": [
+      {
+        "label": "askForLocationOptions-BW",
+        "value": "BW",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-BY",
+        "value": "BY",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-BE",
+        "value": "BE",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-BB",
+        "value": "BB",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-HB",
+        "value": "HB",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-HH",
+        "value": "HH",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-HE",
+        "value": "HE",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-NI",
+        "value": "NI",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-MV",
+        "value": "MV",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-NW",
+        "value": "NW",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-RP",
+        "value": "RP",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-SL",
+        "value": "SL",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-SN",
+        "value": "SN",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-ST",
+        "value": "ST",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-SH",
+        "value": "SH",
+        "trigger": "outro1"
+      },
+      {
+        "label": "askForLocationOptions-TH",
+        "value": "TH",
+        "trigger": "outro1"
+      }
+    ]
+  },
+  {
+    "id": "outro1",
+    "message": "outro1",
+    "trigger": "showResults"
+  }
+]
