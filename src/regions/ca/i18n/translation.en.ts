@@ -55,9 +55,12 @@ export default {
     classMenu: [
       ['General information', 'common'],
       ['People with an increased risk of infection', 'elevated-covid-risk'],
-      ['People with an increased risk of complications', 'elevated-medical-risk'],
+      [
+        'People with an increased risk of complications',
+        'elevated-medical-risk'
+      ],
       ['People with travel plans', 'travel-plans']
-    ],
+    ]
   },
   provinces: {
     QC: 'Quebec',

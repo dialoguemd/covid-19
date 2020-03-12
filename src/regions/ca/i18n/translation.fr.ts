@@ -44,7 +44,7 @@ export default {
     aboutHeader: 'À propos',
     aboutMenu: [
       ['À propos de ce site', 'https://github.com/dialoguemd/covid-19/wiki'],
-      [ 'Projet GitHub', 'https://github.com/dialoguemd/covid-19'],
+      ['Projet GitHub', 'https://github.com/dialoguemd/covid-19'],
       ['Dialogue', 'https://dialogue.co/fr'],
       [
         'Ressources pour organisations canadiennes',
@@ -56,10 +56,16 @@ export default {
     classHeader: 'Pour les Canadiens',
     classMenu: [
       ['Informations générales', 'common'],
-      ["Personnes présentant un risque accru d'infection", 'elevated-covid-risk'],
-      ['Personnes présentant un risque accru de complications', 'elevated-medical-risk'],
+      [
+        "Personnes présentant un risque accru d'infection",
+        'elevated-covid-risk'
+      ],
+      [
+        'Personnes présentant un risque accru de complications',
+        'elevated-medical-risk'
+      ],
       ['Personnes avec des voyages prévus', 'travel-plans']
-    ],
+    ]
   },
   provinces: {
     QC: 'Québec',
