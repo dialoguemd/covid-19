@@ -12,7 +12,7 @@
     "event": {
       "type": "askForLocationOptions",
       "params": {
-        "classes": ["de-BW"]
+        "classes": ["de-bw"]
       }
     }
   },
