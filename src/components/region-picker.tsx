@@ -62,11 +62,9 @@ export const RegionPicker: React.FC = () => {
     <RegionPickerContainer>
       <RegionOptionsContainer>
         <Region id={regionId} />
-        {regionsIndex.REGIONS
-          .filter(id => id !== regionId)
-          .map(id => (
-            <Region key={id} id={id} onClick={() => changeRegion(id)} />
-          ))}
+        {regionsIndex.REGIONS.filter(id => id !== regionId).map(id => (
+          <Region key={id} id={id} onClick={() => changeRegion(id)} />
+        ))}
       </RegionOptionsContainer>
     </RegionPickerContainer>
   )

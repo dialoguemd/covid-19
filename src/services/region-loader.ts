@@ -11,5 +11,3 @@ export const requireRegionFile = file =>
 
 export const importRegionFile = file =>
   import(`regions/${getRegionId()}/${file}`)
-
-
