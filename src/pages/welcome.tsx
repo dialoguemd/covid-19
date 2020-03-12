@@ -9,10 +9,8 @@ import Header from 'components/header'
 import Title from 'components/title'
 import ScrollAnchor from 'components/scroll-anchor'
 
-import { getRegion } from 'services/region'
-
-const region = getRegion()
-const { images } = region
+import { requireRegionFile } from 'services/region-loader'
+const flagImage = requireRegionFile('images/flag.jpg')
 
 const Description = styled.h3`
   color: ${props => props.theme.colors.text};
@@ -77,7 +75,7 @@ const Flag = styled.div`
   height: 16vw;
   top: -16vw;
   right: 0px;
-  background-image: url(${images.flag});
+  background-image: url(${flagImage});
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom right;

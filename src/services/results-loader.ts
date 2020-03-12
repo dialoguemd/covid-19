@@ -1,9 +1,8 @@
-import { getRegion } from 'services/region'
-const { region } = getRegion()
+import { importRegionFile } from 'services/region-loader'
 
 export const getFilePath = async (filePath: string): Promise<string | null> => {
   try {
-    const module = await import(`regions/${region}/info/${filePath}`)
+    const module = await importRegionFile(`info/${filePath}`)
     return module.default
   } catch (e) {
     console.warn(`failed to load result ${filePath}`, e)

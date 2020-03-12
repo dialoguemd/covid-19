@@ -1,6 +1,6 @@
 import i18n from 'services/i18n'
-import { getRegion } from 'services/region'
-const { manifest } = getRegion()
+import { requireRegionFile } from 'services/region-loader'
+const manifest = requireRegionFile('manifest.json')
 
 export const getManifestFilesFromClasses = (classes: string[]) =>
   classes

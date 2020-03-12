@@ -7,6 +7,9 @@ import LanguagePicker from './language-picker'
 import Title from './title'
 import RegionPicker from 'components/region-picker'
 import { mobileBreakpoint } from 'theme'
+import { requireRegionFile } from 'services/region-loader'
+
+const config = requireRegionFile('config.json')
 
 interface Props {
   title?: string
@@ -76,7 +79,7 @@ export const Header: React.FC<Props> = ({
           margin-left: 2px;
         `}
       />
-      {showRegionPicker && <RegionPicker />}
+      {config.ENABLE_REGION_SWITCHING && showRegionPicker && <RegionPicker />}
     </LanguagePickerContainer>
   </HeaderContainer>
 )
