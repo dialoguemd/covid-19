@@ -1,5 +1,6 @@
 import { Engine } from 'json-rules-engine'
-import rulesGlobal from 'content/rules.json'
+import { getRegion } from 'services/region'
+const { rules } = getRegion()
 
 export const isRule = rule =>
   typeof rule === 'object' && !!rule.conditions && !!rule.event
@@ -31,7 +32,7 @@ export const getChatClassesFromSteps = steps => {
   let engine = new Engine()
 
   // Load rules defined in global rule set
-  rulesGlobal.forEach(rule => engine.addRule(rule))
+  rules.forEach(rule => engine.addRule(rule))
 
   // Load rules defined on steps
   const stepRules = getRulesFromChatSteps(answeredSteps)

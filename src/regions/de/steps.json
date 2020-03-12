@@ -2,6 +2,11 @@
   {
     "id": "intro1",
     "message": "intro1",
+    "trigger": "intro2"
+  },
+  {
+    "id": "intro2",
+    "message": "intro2",
     "trigger": "intro4"
   },
   {

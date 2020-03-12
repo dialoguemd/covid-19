@@ -1,11 +1,10 @@
 import i18n from 'services/i18n'
-import contentManifest from 'content/info/manifest.json'
+import { getRegion } from 'services/region'
+const { manifest } = getRegion()
 
 export const getManifestFilesFromClasses = (classes: string[]) =>
   classes
-    .flatMap(className =>
-      contentManifest.filter(file => file.class === className)
-    )
+    .flatMap(className => manifest.filter(file => file.class === className))
     .filter(Boolean)
 
 export const getLocalizedFilePathsFromClasses = (classes: string[]) =>
