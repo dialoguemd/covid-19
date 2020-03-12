@@ -49,17 +49,7 @@ export default {
   askHasFever: `Avez-vous de la fièvre?`,
   askHasCough: `Avez-vous une toux?`,
   askHasDifficultyBreathing: `Avez-vous de la difficulté à respirer?`,
-  askTraveledAffectedAreas: `
-	Avez-vous voyagé dans l'une de ces régions au cours des 14 derniers jours :
-
-	- Chine
-	- Hong Kong
-	- Iran
-	- Italie du Nord
-	- Japon
-	- Corée du Sud
-	- Singapour
-`,
+  askTraveledAffectedAreas: `Avez-vous voyagé à l'étranger au cours des 14 derniers jours`,
   askHasImmuneDecreased:
     "Maintenant, j'aimerais vous poser quelques questions pour savoir si votre système d'immunité est affaibli.",
   askHasImmuneDecreasedInfo: `

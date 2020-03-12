@@ -43,15 +43,7 @@ export default {
   askHasCough: `Do you have a cough?`,
   askHasDifficultyBreathing: `Do you have difficulty breathing?`,
   askTraveledAffectedAreas: `
-  Have you traveled to **any** of these areas in the past 14 days:
-
-  - China
-  - Hong Kong
-  - Iran
-  - Northern Italy
-  - Japan
-  - South Korea
-  - Singapore`,
+  Have you traveled internationally in the past 14 days`,
   askHasImmuneDecreased: `Now I'd like to ask you a few questions to find out if your immunity is decreased.`,
   askHasImmuneDecreasedInfo: `
   Do **any** of these apply to you?
