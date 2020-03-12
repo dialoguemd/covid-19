@@ -80,10 +80,14 @@ const classifiedAdminAreas = config.ADMIN_AREAS.map(area => [
 export const Footer: React.FC = props => {
   const { t, i18n } = useTranslation()
 
-  let aboutMenu: any = i18n.t('footer.aboutMenu', { returnObjects: true })
-  if (!(aboutMenu instanceof Array)) aboutMenu = []
-  let classMenu: any = i18n.t('footer.classMenu', { returnObjects: true })
-  if (!(classMenu instanceof Array)) classMenu = []
+  const aboutMenu: Array<[string, string]> = i18n.t('footer.aboutMenu', {
+    returnObjects: true,
+    defaultValue: []
+  })
+  const classMenu: Array<[string, string]> = i18n.t('footer.classMenu', {
+    returnObjects: true,
+    defaultValue: []
+  })
 
   return (
     <FooterContainer {...props}>
