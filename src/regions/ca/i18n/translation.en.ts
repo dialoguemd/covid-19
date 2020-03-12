@@ -39,18 +39,25 @@ export default {
     'elevated-covid-risk': 'people with an increased risk of infection'
   },
   footer: {
-    about: 'About',
-    aboutThisSite: 'About this site',
-    githubProject: 'GitHub Project',
-    dialogue: 'Dialogue',
-    organizationResources: 'Resources for Canadian Organizations',
-    contactUs: 'Contact Dialogue',
-    forProvince: 'For Provincial Residents',
-    forCanadians: 'For Canadians',
-    generalInfo: 'General information',
-    elevatedInfection: 'People with an increased risk of infection',
-    elevatedMedical: 'People with an increased risk of complications',
-    travelPlans: 'People with travel plans'
+    aboutHeader: 'About',
+    aboutMenu: [
+      ['About this site', 'https://github.com/dialoguemd/covid-19/wiki'],
+      ['GitHub Project', 'https://github.com/dialoguemd/covid-19'],
+      ['Dialogue', 'https://dialogue.co/en'],
+      [
+        'Resources for Canadian Organizations',
+        'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747'
+      ],
+      ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/']
+    ],
+    adminAreaHeader: 'For Provincial Residents',
+    classHeader: 'For Canadians',
+    classMenu: [
+      ['General information', 'common'],
+      ['People with an increased risk of infection', 'elevated-covid-risk'],
+      ['People with an increased risk of complications', 'elevated-medical-risk'],
+      ['People with travel plans', 'travel-plans']
+    ],
   },
   provinces: {
     QC: 'Quebec',

@@ -41,18 +41,25 @@ export default {
       "aux personnes présentant un risque accru d'infection"
   },
   footer: {
-    about: 'À propos',
-    aboutThisSite: 'À propos de ce site',
-    githubProject: 'Projet GitHub',
-    dialogue: 'Dialogue',
-    organizationResources: 'Ressources pour organisations canadiennes',
-    contactUs: 'Contacter Dialogue',
-    forProvince: 'Pour les résidents de provinces',
-    forCanadians: 'Pour les Canadiens',
-    generalInfo: 'Informations générales',
-    elevatedInfection: "Personnes présentant un risque accru d'infection",
-    elevatedMedical: 'Personnes présentant un risque accru de complications',
-    travelPlans: 'Personnes avec des voyages prévus'
+    aboutHeader: 'À propos',
+    aboutMenu: [
+      ['À propos de ce site', 'https://github.com/dialoguemd/covid-19/wiki'],
+      [ 'Projet GitHub', 'https://github.com/dialoguemd/covid-19'],
+      ['Dialogue', 'https://dialogue.co/fr'],
+      [
+        'Ressources pour organisations canadiennes',
+        'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747'
+      ],
+      ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/']
+    ],
+    adminAreaHeader: 'Pour les résidents de provinces',
+    classHeader: 'Pour les Canadiens',
+    classMenu: [
+      ['Informations générales', 'common'],
+      ["Personnes présentant un risque accru d'infection", 'elevated-covid-risk'],
+      ['Personnes présentant un risque accru de complications', 'elevated-medical-risk'],
+      ['Personnes avec des voyages prévus', 'travel-plans']
+    ],
   },
   provinces: {
     QC: 'Québec',

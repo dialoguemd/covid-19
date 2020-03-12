@@ -72,65 +72,45 @@ const AutoScrollLink: React.FC<any> = props => {
   return <Link onClick={scrollToContent} {...props} />
 }
 
-const classifiedAdminAreas = config.ADMIN_AREAS.map(area => ({
-  areaClass: `${regionId}-${area.toLowerCase()}`,
+const classifiedAdminAreas = config.ADMIN_AREAS.map(area => [
+  `${regionId}-${area.toLowerCase()}`,
   area
-}))
+])
 
 export const Footer: React.FC = props => {
   const { t, i18n } = useTranslation()
+
+  let aboutMenu: any = i18n.t('footer.aboutMenu', { returnObjects: true })
+  if (!(aboutMenu instanceof Array)) aboutMenu = []
+  let classMenu: any = i18n.t('footer.classMenu', { returnObjects: true })
+  if (!(classMenu instanceof Array)) classMenu = []
 
   return (
     <FooterContainer {...props}>
       <FooterContent>
         <FooterColumn>
-          <h3>{t('footer.about')}</h3>
-          <a href="https://github.com/dialoguemd/covid-19/wiki">
-            {t('footer.aboutThisSite')}
-          </a>
-          <a href="https://github.com/dialoguemd/covid-19">
-            {t('footer.githubProject')}
-          </a>
-          <a
-            href={`https://dialogue.co/${
-              i18n.languages[0] === 'en' ? 'en' : 'fr'
-            }`}
-          >
-            {t('footer.dialogue')}
-          </a>
-          <a href="https://www.dialogue.co/?hs_preview=noJtvihk-26668052747">
-            {t('footer.organizationResources')}
-          </a>
-          <a
-            href={`https://www.dialogue.co/${
-              i18n.languages[0] === 'en' ? 'en/contact-us/' : 'fr/nous-joindre/'
-            }`}
-          >
-            {t('footer.contactUs')}
-          </a>
+          <h3>{t('footer.aboutHeader')}</h3>
+          {aboutMenu.map(([text, url]) => (
+            <a key={text} href={url}>
+              {text}
+            </a>
+          ))}
         </FooterColumn>
         <FooterColumn>
-          <h3>{t('footer.forProvince')}</h3>
-          {classifiedAdminAreas.map(({ areaClass, area }) => (
+          <h3>{t('footer.adminAreaHeader')}</h3>
+          {classifiedAdminAreas.map(([areaClass, area]) => (
             <AutoScrollLink key={area} to={`/info?id=${areaClass}`}>
               {t(`provinces.${area}`)}
             </AutoScrollLink>
           ))}
         </FooterColumn>
         <FooterColumn>
-          <h3>{t('footer.forCanadians')}</h3>
-          <AutoScrollLink to="/info?id=common">
-            {t('footer.generalInfo')}
-          </AutoScrollLink>
-          <AutoScrollLink to="/info?id=elevated-covid-risk">
-            {t('footer.elevatedInfection')}
-          </AutoScrollLink>
-          <AutoScrollLink to="/info?id=elevated-medical-risk">
-            {t('footer.elevatedMedical')}
-          </AutoScrollLink>
-          <AutoScrollLink to="/info?id=travel-plans">
-            {t('footer.travelPlans')}
-          </AutoScrollLink>
+          <h3>{t('footer.classHeader')}</h3>
+          {classMenu.map(([text, classes]) => (
+            <AutoScrollLink key={text} to={`/info?id=${classes}`}>
+              {text}
+            </AutoScrollLink>
+          ))}
         </FooterColumn>
       </FooterContent>
       <BottomText>© 2020 Dialogue</BottomText>
