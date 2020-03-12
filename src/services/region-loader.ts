@@ -1,8 +1,10 @@
 import regionsIndex from 'regions/index.json'
 
+export const localStorageRegion = window.location.hostname === 'localhost' && localStorage.getItem('region')
+
 export const getRegionId = () =>
+  localStorageRegion ||
   process.env.REACT_APP_INITIAL_REGION ||
-  localStorage.getItem('region') ||
   regionsIndex.DOMAINS[window.location.hostname] ||
   regionsIndex.REGIONS[0]
 
