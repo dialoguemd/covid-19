@@ -12,7 +12,7 @@ export default {
     facebookButton: 'Auf Facebook teilen',
     twitterShareText:
       'Neueste COVID-19-Informationen der deutschen Regierung %23coronavirus {{url}}',
-    CTA: 'Verbreiten Sie das Wort, nicht den Virus.'
+    CTA: 'Verbreiten Sie die Information, nicht den Virus'
   },
   welcomePage: {
     title: 'COVID-19: Was Sie wissen müssen',
