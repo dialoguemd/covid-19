@@ -2,7 +2,7 @@
 
 Toute personne qui a voyagé à l’étranger dans les 14 derniers jours devrait s’autosurveiller pendant deux semaines à partir du jour de son retour au Canada. Le risque individuel dépendra de la destination.
 
-Les personnes en provenance de l’Iran ou de la province du Hubei devront s’auto-isoler sans égard aux symptômes.
+Les personnes arrivant de la province chinoise de Hubei, d’Iran et d’Italie devront s’auto-isoler à leur retour au Canada, sans égard aux symptômes.
 
 Des symptômes comme la fièvre, la toux ou des difficultés respiratoires peuvent prendre jusqu’à 14 jours avant d’apparaître.
 

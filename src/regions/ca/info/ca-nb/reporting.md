@@ -2,7 +2,7 @@
 
 Anyone who has traveled internationally in the last 14 days should self-monitor for two weeks from when they arrived back in Canada. Individual risk will vary depending on the destination.
 
-People arriving from Iran or the Chinese province of Hubei will need to self-isolate regardless of symptoms.
+People arriving from the Chinese province of Hubei, Iran, and Italy will need to self-isolate when they return to Canada, regardless of symptoms.
 
 Symptoms such as fever, cough, difficulty breathing may take up to 14 days to appear.
 
