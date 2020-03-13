@@ -1,17 +1,17 @@
 ## Colombie-Britannique: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Les symptômes de la COVID-19, sont similaires à ceux d'autres maladies respiratoires, y compris la grippe et le rhume. Ils comprennent la toux, les éternuements, la fièvre, les maux de gorge et les difficultés respiratoires.
+Les symptômes de la COVID-19 sont similaires à ceux d'autres maladies respiratoires, notamment la grippe et le rhume. Ils comprennent la toux, les éternuements, la fièvre, les maux de gorge et les difficultés respiratoires.
 
-Si vous avez voyagé dans la zone touchée de la province de Hubei, en Chine, et que vous présentez ces symptômes, évitez tout contact avec d'autres personnes et appelez à l'avance un professionnel de la santé. Faites de même si vous présentez des symptômes et que vous avez été en contact avec un cas confirmé, ou un voyageur présentant ces symptômes, revenant de la zone touchée.
+Contactez votre prestataire de soins si vous avez développé des symptômes et avez été en contact étroit avec une personne connue pour être atteinte de COVID-19. Faites de même si vous avez développé des symptômes et avez été en contact avec un voyageur revenant d'une zone touchée où la propagation de COVID-19 est très répandue.
 
-Avisez votre professionnel de la santé de votre situation :
+Informez votre professionnel de la santé :
 
 - vos symptômes ;
-- où vous avez voyagé ou vécu ;
+- l'endroit où vous avez voyagé ou vécu ;
 - si vous avez été en contact direct avec des animaux (par exemple, si vous avez visité un marché d'animaux vivants)
-- si vous avez eu un contact direct avec une personne malade, en particulier si elle avait de la fièvre, de la toux ou des difficultés à respirer.
+- si vous avez eu un contact étroit avec une personne malade, en particulier si elle avait de la fièvre, de la toux ou des difficultés à respirer.
 
-Appelez à l'avance l'établissement de santé que vous prévoyez visiter afin qu'il soit prêt à prendre des précautions. En cas d'urgence, décrivez vos symptômes, vos antécédents de voyage et tout contact à risque à votre arrivée dans l'établissement afin que les précautions appropriées puissent être prises.
+Appelez à l'avance l'établissement de santé que vous prévoyez de visiter afin qu'il soit prêt à prendre des précautions. En cas d'urgence, décrivez vos symptômes, vos antécédents de voyage et tout contact avec une personne malade lors de votre arrivée à l'établissement afin que les précautions appropriées puissent être prises.
 
 Tant que l'on n'en saura pas plus sur le virus, les personnes âgées et les personnes dont le système immunitaire est affaibli ou qui souffrent d'un problème médical sous-jacent sont considérées comme plus exposées à une maladie grave.
 

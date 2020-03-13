@@ -1,7 +1,13 @@
 ## Quebec: Who should I contact if I think I have COVID-19?
 
-Quebec residents who develop fever or cough symptoms or respiratory difficulties when they return from a trip outside of Canada are invited to contact Info-Santé 811. As needed, the caseworker will tell them what institution to visit for a check-up. If a consultation is required, it is important for residents to inform the health care facility about their travel history before they go to the facility or when they arrive so that the necessary preventive measures can be taken.
+### For citizens returning from travel:
 
-As of March 10, 2020, for COVID-19, all countries outside of Canada are now on the enhanced monitoring list [as per the Ministry of Health and Social Services](https://www.msss.gouv.qc.ca/professionnels/documents/liste-des-pays-mrsi.pdf).
+A 14 days [voluntary isolation](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#si) is recommended for all persons returning from abroad as of March 12, 2020. They should be vigilant and monitor their symptoms.
+
+### For citizens who do not return from a trip but who show symptoms:
+
+All persons who, as of March 12, 2020, have symptoms associated with the flu or cold should place themselves in [voluntary isolation](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#si) for 14 days.
+
+People who are in doubt about their health status may first contact Info-Santé 811. A nurse will assess the situation and give the appropriate instructions.
 
 [Source: Government of Québec](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)

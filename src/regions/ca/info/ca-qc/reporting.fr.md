@@ -1,7 +1,15 @@
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Les résidents du Québec qui développent des symptômes de fièvre, toux ou difficultés respiratoires à leur retour de voyage à l’extérieur du Canada, sont invités à communiquer avec la ligne Info-Santé 811. Au besoin, l’intervenant leur indiquera dans quel établissement se rendre pour vérifier leur état de santé. Si une consultation est requise, il est important que le résident informe le milieu de soins de son histoire de voyage avant de se présenter ou dès son arrivée afin que les mesures de prévention requises soient appliquées.
+### Pour les citoyens de retour de voyage
 
-Depuis le 10 mars 2020, pour COVID-19, tous les pays en dehors du Canada sont désormais sur la liste de surveillance renforcée [selon le ministère de la Santé et des Services sociaux](https://www.msss.gouv.qc.ca/professionnels/documents/liste-des-pays-mrsi.pdf).
+Un [isolement volontaire](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1) de 14 jours est recommandé à toutes les personnes qui reviennent de l’étranger à compter du 12 mars 2020. Ces personnes doivent faire preuve de vigilance et surveiller leurs symptômes.
+
+Cet [isolement](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1) est obligatoire pour tous les employés de la fonction publique et pour tout le personnel de la santé, de l’éducation et des services de garde, privés et public, qui reviennent de l’étranger. Pour le secteur public, les employés conserveront leur traitement durant la période d’isolement.
+
+### Pour les citoyens qui ne reviennent pas de voyage mais qui présentent des symptômes
+
+Toutes les personnes qui présentent, à compter du 12 mars 2020, des symptômes associés à la grippe ou au rhume doivent se placer en isolement volontaire Cet hyperlien s'ouvrira dans une nouvelle fenêtre. pour 14 jours.
+
+Les personnes qui ont un doute sur leur état de santé peuvent contacter en premier lieu Info-Santé 811. Une infirmière évaluera la situation et transmettra les consignes appropriées.
 
 [Source: Gouvernement du Québec](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
