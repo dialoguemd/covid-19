@@ -14,6 +14,6 @@ If you think you have COVID-19 infection, call Info-Santé at 811 first. A nurse
 
 [Source: Government of Quebec](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c35268)
 
-## Quebec area
+### Quebec area
 
 According to [this source](https://globalnews.ca/news/6654510/quebec-coronavirus-clinics-how-they-work/), another clinic has opened in Quebec City. We will confirm with more information as it becomes available.

@@ -1,6 +1,6 @@
 # Québec: Clinique désignée COVID-19
 
-## Région de Montréal
+### Région de Montréal
 
 La clinique désignée COVID-19 est accessible sur rendez-vous seulement.
 
@@ -14,6 +14,6 @@ Si vous croyez avoir une infection au COVID-19. Contactez d’abord Info-Santé 
 
 [Source: Governement du Québec](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c35268)
 
-## Région du Québec
+### Région de Québec
 
 Selon [cette source](https://globalnews.ca/news/6654510/quebec-coronavirus-clinics-how-they-work/), une autre clinique a ouvert à Québec. Nous confirmerons avec plus d'informations au fur et à mesure qu'elles seront disponibles.
