@@ -4,7 +4,7 @@
 
 La clinique désignée COVID-19 est accessible sur rendez-vous seulement.
 
-À Montréal, la première clinique désignée COVID-19, site Centre-Sud, vient d'ouvrir ses portes dans l’ancien Hôpital Hôtel-Dieu. Des démarches sont en cours dans l’est et l’ouest de l’Île pour identifier deux nouveaux lieux.
+À Montréal, la première clinique désignée COVID-19, site Centre-Sud, vient d'ouvrir ses portes dans l’ancien Hôpital Hôtel-Dieu. Selon cette [source](https://globalnews.ca/news/6654510/quebec-coronavirus-clinics-how-they-work/), une autre clinique de la Montérégie ouvrira ses portes au début de la semaine prochaine. Des démarches sont en cours dans l’est et l’ouest de l’Île pour identifier deux nouveaux lieux.
 
 La clinique désignée COVID-19 est une mesure complémentaire pour les cas non sévères. Elle vise à soutenir les hôpitaux, les cliniques de médecine familiale et les équipes de santé publique. Elle permet d’éviter l’engorgement des urgences et d’empêcher les personnes malades de se présenter à une clinique médicale.
 
@@ -16,4 +16,4 @@ Si vous croyez avoir une infection au COVID-19. Contactez d’abord Info-Santé 
 
 ## Région du Québec
 
-Plus d'informations à venir
+Selon [cette source](https://globalnews.ca/news/6654510/quebec-coronavirus-clinics-how-they-work/), une autre clinique a ouvert à Québec. Nous confirmerons avec plus d'informations au fur et à mesure qu'elles seront disponibles.
