@@ -60,10 +60,7 @@ export default {
     classMenu: [
       ['Allgemeine Informationen', 'common'],
       ['Personen mit einem erhöhten Infektionsrisiko', 'elevated-covid-risk'],
-      [
-        'Personen die einer Risikogruppe zugehören',
-        'elevated-medical-risk'
-      ],
+      ['Personen die einer Risikogruppe zugehören', 'elevated-medical-risk'],
       ['Informationen für Reisende', 'travel-plans']
     ]
   }
