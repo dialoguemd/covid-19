@@ -10,3 +10,9 @@ There have been 2 other specific coronaviruses that have spread from animals to 
 - [Middle East respiratory syndrome coronavirus (MERS CoV)](https://www.canada.ca/en/public-health/services/diseases/middle-east-respiratory-syndrome-mers.html)
 
 [Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/frequently-asked-questions.html)
+
+## 📞 Who to contact?
+
+To get more information about COVID-19, you can call 1-833-784-4397 or email them at phac.info.aspc@canada.ca 
+
+You can also visit [this website](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html).

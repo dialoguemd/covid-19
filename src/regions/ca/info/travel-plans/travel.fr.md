@@ -28,6 +28,9 @@ Si vous êtes dans une destination touchée, nous vous recommandons de :
 - suivre les instructions des autorités locales
 - vous inscrire à notre [service d'Inscription des Canadiens à l'étranger](https://voyage.gc.ca/voyager/inscription) pour recevoir des mises à jour importantes.
 
+## 🌍 Éviter tout voyage international non essentiel
+Selon [cette source](https://www.theglobeandmail.com/canada/article-avoid-non-essential-travel-outside-canada-trudeau-urges/), en date du 13 mars 2020, le gouvernement a demandé que les Canadiens évitent tout voyage international non essentiel. 
+
 ### 🚢 Éviter tout voyage à bord de navires de croisière
 
 Jusqu’à nouvel ordre, le gouvernement du Canada conseille aux Canadiens **d'éviter tout voyage en croisière en raison de l'épidémie de COVID-19 en cours.**
