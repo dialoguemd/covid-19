@@ -4,7 +4,8 @@ export default {
     noResultsMessage: 'No results provided in URL.',
     changeAudienceTitle: 'Doesn’t apply to you?',
     changeAudience: 'Get personalized info',
-    audiencePrefix: 'Information below applies to:'
+    audiencePrefix: 'Information below applies to:',
+    lastModified: 'Updated {{date}}'
   },
   share: {
     viewResults: 'View information package',

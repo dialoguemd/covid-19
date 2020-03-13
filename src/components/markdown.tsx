@@ -1,12 +1,25 @@
 import React from 'react'
+import { parse } from 'node-html-parser'
 
 import styled from 'styled-components/macro'
 import ReactMarkdown, { ReactMarkdownProps } from 'react-markdown'
+import ResultFooter from 'components/result-footer'
 
 type Props = ReactMarkdownProps & { size?: 'small' | 'default' }
 
+const markdownRenderers = {
+  html: ({ value }: any) => {
+    const element = (parse(value) as any).firstChild || {}
+    const { tagName, attributes } = element
+    if (tagName === 'ResultsFooter') {
+      return <ResultFooter {...attributes} />
+    }
+    return value
+  }
+}
+
 const MarkdownContainer: React.FC<Props> = ({ size = 'default', ...rest }) => (
-  <ReactMarkdown {...rest} linkTarget="_blank" />
+  <ReactMarkdown {...rest} linkTarget="_blank" renderers={markdownRenderers} />
 )
 
 export const Markdown = styled(MarkdownContainer)`

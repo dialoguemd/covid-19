@@ -4,7 +4,8 @@ export default {
     noResultsMessage: 'Aucun résultat trouvé pour cet URL',
     changeAudienceTitle: "Cela ne s'applique pas à vous ? ",
     changeAudience: 'Obtenez vos informations personnalisées',
-    audiencePrefix: "Les informations ci-dessous s'appliquent "
+    audiencePrefix: "Les informations ci-dessous s'appliquent ",
+    lastModified: 'Mise à jour {{date}}'
   },
   share: {
     viewResults: "Voir votre trousse d'information",
