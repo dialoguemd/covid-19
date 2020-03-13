@@ -36,4 +36,6 @@ Cruise passengers include travellers from around the world who may be arriving f
 
 Recent cruise ship outbreaks of COVID-19 indicate that a large number of individuals onboard can become infected. While the majority of affected passengers may experience mild symptoms, there have been a significant number of cases requiring hospitalization and critical care, and some deaths have been reported.
 
+For more information about planning a cruise, visit [this link.](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
+
 [Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
