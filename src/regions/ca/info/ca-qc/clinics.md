@@ -13,3 +13,7 @@ At the specialized clinic, strict preventive measures are in place to protect st
 If you think you have COVID-19 infection, call Info-Santé at 811 first. A nurse will assess your situation and recommend what to do next. If a medical consultation in a specialized COVID-19 clinic is required, the Info-Santé nurse will book an appointment for you. If your state of health indicates that you require hospitalization, the Jewish General (adults) and Sainte-Justine’s (children) are the hospitals designated to treat confirmed cases
 
 [Source: Government of Quebec](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c35268)
+
+## Quebec area
+
+More information to come

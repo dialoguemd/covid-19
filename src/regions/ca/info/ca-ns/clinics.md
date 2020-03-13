@@ -1,4 +1,4 @@
-# Nova Scotia: Specialized COVID-19 Clinics
+## Nova Scotia: Specialized COVID-19 Clinics
 
 Nova Scotians who have travelled out of country and who develop a fever with a temperature of 38°C or higher, and/or cough, should call 811.
 

@@ -1,4 +1,4 @@
-# Nouvelle-Écosse: Clinique désignée COVID-19
+## Nouvelle-Écosse: Clinique désignée COVID-19
 
 Les citoyens de la Nouvelle-Écosse qui ont voyagé à l'étranger et qui développent une fièvre avec une température de 38°C ou plus, et/ou une toux, doivent appeler le 811.
 
