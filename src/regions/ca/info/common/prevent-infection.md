@@ -23,6 +23,6 @@ If you are a healthy individual, the use of a mask is not recommended for preven
 
 Wearing a mask when you are not ill may give a false sense of security. There is a potential risk of infection with improper mask use and disposal. They also need to be changed frequently.
 
-However, your health care provider may recommend you wear a mask if you are experiencing symptoms of COVID-19 while you are seeking or waiting for care. In this instance, masks are an appropriate part of infection prevention and control measures. The mask acts as a barrier and helps stop the tiny droplets from spreading you when you cough or sneeze.
+However, your health care provider may recommend you wear a mask if you are experiencing symptoms of COVID-19 while you are seeking or waiting for care. In this instance, masks are an appropriate part of infection prevention and control measures. The mask acts as a barrier and helps stop the tiny droplets from spreading when you cough or sneeze.
 
 [Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
