@@ -5,7 +5,6 @@ import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
 
 import { mobileBreakpoint } from 'theme'
-import { requireRegionFile, getRegionId } from 'services/region-loader'
 
 const FooterContainer = styled.div`
   background-color: ${props => props.theme.colors.backgroundLight};
