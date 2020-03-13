@@ -1,11 +1,11 @@
 export default {
-  intro1: 'Hallo!',
+  intro1: 'Willkommen!',
   intro2:
-    'Ich bin Chloe, eine automatische medizinische Assistentin. Ich bin hier, um Ihnen genaue Informationen über COVID-19 zu geben. Um sie für Ihre Situation relevant zu machen, möchte ich Ihnen ein paar Fragen stellen. Es sollte nicht länger als ein paar Minuten dauern.',
-  consent: "Sind Sie damit einverstanden, in [Übereinstimmung mit den Dienstbedingungen](https://github.com/dialoguemd/covid-19/wiki/German-Privacy-Page) und [der Datenschutzpolitik vorzugehen](https://github.com/dialoguemd/covid-19/wiki/German-Data-Protection-page)?",  
+    'Ich bin Chloe, Ihre virtuelle medizinische Assistentin. Ich bin hier, um Ihnen genaue Informationen über den Coronavirus (COVID-19) zu geben. Damit die folgenden Informationen möglichst genau auf Ihre individuelle Situation abgestimmt sind, möchte ich Ihnen vorher ein paar Fragen stellen. Dies wird nicht länger als ein paar Minuten dauern.',
+  consent: "Es werden keine Fragen gestellt, die Sie persönlich identifizierbar machen. Bitte stimmen Sie mit Klick auf **Ja** der [Einwilligung zur Datenverarbeitung](https://github.com/dialoguemd/covid-19/wiki/German-Privacy-Page) und der [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/German-Data-Protection-page) zu. Andernfalls klicken Sie **Nein**",  
   intro3:
-    'Bitte beachten Sie, dass es sich bei den Informationen, die Sie erhalten, nicht um eine medizinische Beurteilung handelt. Wenn Sie schwere Symptome haben, suchen Sie einen Arzt auf. Dieser Service ist kein Ersatz für die Beratung durch Ihren Arzt. Die von uns bereitgestellten Informationen stammen aus öffentlich zugänglichen Quellen und unterliegen häufigen Änderungen.',
-  'intro-option1': 'Ok, fangen wir an!',
+    'Bitte beachten Sie, dass es sich bei den Informationen, die Sie erhalten, nicht um eine medizinische Beurteilung handelt. Wenn Sie Krankheitssymptome haben, suchen Sie einen Arzt auf. Dieser Service ersetzt keine Beratung durch einen Arzt. Die von uns bereitgestellten Informationen stammen aus öffentlich zugänglichen Quellen und unterliegen regelmäßigen Änderungen.',
+  'intro-option1': 'Lassen Sie uns starten!',
   'askForLocationOptions-BW': 'Baden-Württemberg',
   'askForLocationOptions-BY': 'Bayern',
   'askForLocationOptions-BE': 'Berlin',
@@ -22,56 +22,56 @@ export default {
   'askForLocationOptions-ST': 'Sachsen-Anhalt',
   'askForLocationOptions-SH': 'Schleswig-Holstein',
   'askForLocationOptions-TH': 'Thüringen',
-  'askHasHadContactOptions-Option1': 'Ja, einiges davon trifft auf mich zu.',
+  'askHasHadContactOptions-Option1': 'Ja, davon trifft etwas auf mich zu',
   'askHasImmuneDecreasedOptions-Option1':
-    'Ja, einiges davon trifft auf mich zu.',
-  'askHasImmuneDecreased2Options-Option1': 'Ja, das bin ich.',
-  'askHasImmuneDecreasedOptions-Option2': 'Nein, nichts trifft auf mich zu.',
+    'Ja, davon trifft etwas auf mich zu',
+  'askHasImmuneDecreased2Options-Option1': 'Ja, das tue ich',
+  'askHasImmuneDecreasedOptions-Option2': 'Nein, davon trifft nichts zu',
   yes: 'Ja',
   no: 'Nein',
   askForLocation:
-    'In welcher Provinz oder welchem Gebiet befinden Sie sich derzeit?',
+    'In welchem Bundesland befinden Sie sich gerade?',
   askForLocationInfo:
-    'Ich werde in der Lage sein, die Informationen so zuzuschneiden, dass sie für Ihre Region gelten.',
+    'Mit Hilfe Ihrer Angabe kann ich die wichtigsten Informationen für die ausgewählte Region anzeigen.',
   askHasHadContact: `
-  Hatten Sie **naher Kontakt** mit einem bestätigten oder wahrscheinlichen Fall von COVID-19?`,
+  Hatten Sie **engen Kontakt** mit einer Person, die ein bestätigter oder wahrscheinlicher Fall von COVID-19 ist?,
   askHasHadContactInfo: `
-  Mit **schließender Kontakt** meine ich **jeden** der folgenden Punkte:
+  Mit **engem Kontakt** meinen wir **jede** der folgenden Situationen:
 
-  - Gesundheitspflege-assoziierte Exposition, wie z.B. die Versorgung infizierter Patienten, der Besuch oder der Aufenthalt bei ihnen in der gleichen engen Umgebung
-  - Arbeit in unmittelbarer Nähe oder im selben Klassenzimmer mit einer infizierten Person
-  - Reisen mit einer infizierten Person
-  - Im gleichen Haushalt wie eine infizierte Person leben
+  - Medizinische oder gesundheitliche Pflege einer infizierten Person, dazu gehören z.B. die Versorgung, der Besuch oder der Aufenthalt in gleicher enger Umgebung
+  - Arbeit in unmittelbarer Nähe oder im selben Zimmer mit einer infizierten Person
+  - Reise mit einer infizierten Person
+  - Leben im gleichen Haushalt mit einer infizierten Person
   `,
-  askOptionUnsure: `Ich weiß es nicht.`,
+  askOptionUnsure: `Ich weiss es nicht`,
   askAgeRange: `Sind Sie älter als 65 Jahre?`,
   askHasFever: `Haben Sie Fieber?`,
-  askHasCough: `Haben Sie einen Husten?`,
-  askHasDifficultyBreathing: `Haben Sie Atembeschwerden?`,
+  askHasCough: `Haben Sie Husten?`,
+  askHasDifficultyBreathing: `Haben Sie Probleme mit der Atmung?`,
   askTraveledAffectedAreas: `
-  Sind Sie in den letzten 14 Tagen international gereist?`,
-  askHasImmuneDecreased: `Nun möchte ich Ihnen ein paar Fragen stellen, um herauszufinden, ob Ihre Immunität herabgesetzt wurde.`,
+  Sind Sie in den letzten 14 Tagen in eines der folgenden Gebiete gereist?`,
+  askHasImmuneDecreased: `Nun möchte ich Ihnen ein paar Fragen stellen, um herauszufinden, ob Sie ein geschwächtes Immunsystem haben.`,
   askHasImmuneDecreasedInfo: `
-  Trifft **einer** davon auf Sie zu?
+  Trifft **eine** der folgenden Fragen auf Sie zu?
 
-  - Haben Sie eine Vorgeschichte mit Diabetes?
-  - Nehmen Sie Immunsuppressiva wie Prednison oder andere Steroide ein?
-  - Leiden Sie an einer Autoimmunkrankheit wie Lupus, rheumatoider Arthritis oder Morbus Crohn?
-  - Haben Sie in der Vergangenheit schon einmal Krebs gehabt?
+  - Haben Sie Diabetes?
+  - Nehmen Sie immunsuppressive Medikamente wie Prednison oder andere Steroide ein?
+  - Haben Sie eine Autoimmunerkrankung wie Lupus, rheumatoide Arthritis oder Morbus Crohn?
+  - Haben oder hatten Sie in der Vergangenheit Krebs?
   - Leiden Sie an HIV/AIDS?
   - Leiden Sie an einer chronischen Nieren- oder Lebererkrankung?
-  - Nehmen Sie derzeit nach einer Organtransplantation Medikamente ein?
-  - Hat Ihnen ein Arzt oder eine Ärztin gesagt, dass Ihr Immunsystem geschwächt ist?`,
-  askHasImmuneDecreased2: `Nehmen Sie Medikamente ein, von denen ein Arzt gesagt hat, dass sie ein geschwächtes Immunsystem verursachen können?  `,
-  askHasChronicLungDisease: `Haben Sie eine Vorgeschichte mit einer chronischen Lungenkrankheit?`,
+  - Nehmen Sie derzeit, im Anschluss an eine Organtransplantation, Medikamente ein?
+  - Hat Ihnen ein Arzt gesagt, dass Ihr Immunsystem geschwächt ist?`,
+  askHasImmuneDecreased2: `Nehmen Sie Medikamente ein, von denen ein Arzt gesagt hat, dass Sie ein geschwächtes Immunsystem verursachen könnten?`,
+  askHasChronicLungDisease: `Haben oder hatten Sie in der Vergangenheit eine chronische Lungenkrankheit?`,
   askHasChronicLungDiseaseInfo: `
-  Nicht sicher? Antworten Sie mit ja, wenn Sie eine Vorgeschichte von **einer** der folgenden Punkte haben:
+  Nicht sicher? Antworten Sie mit ja, wenn **eine** der folgenden Konditionen auf Sie zutrifft:
 
   - Asthma
-  - Chronisch-obstruktive Lungenerkrankung (COPD) oder Emphysem
+  - Chronisch obstruktive Lungenerkrankung (COPD) oder Emphysem
   - Chronische Bronchitis
-  - Jede chronische Lungenkrankheit, die oben nicht aufgeführt ist`,
+  - Eine chronische Lungenkrankheit, die in dieser Auflistung nicht aufgeführt ist`,
   askHasTravelPlans: `
-  Haben Sie vor, im nächsten Monat ins Ausland zu reisen?`,
-  outro1: `Wir sind fertig mit den Fragen! Ihr persönliches Informationspaket ist fertig.`
+  Haben Sie vor, im nächsten Monat außerhalb von Deutschland zu reisen?`,
+  outro1: `Sie haben alle Fragen beantwortet! Auf Basis Ihrer Antworten haben wir Ihnen ein persönliches Informationspaket erstellt.`
 }
