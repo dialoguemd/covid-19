@@ -1,16 +1,9 @@
 ## Newfoundland and Labrador: Who should I contact if I think I have COVID-19?
 
-People who have travelled to affected areas in the 14 days prior to their return to Canada are asked to closely monitor their health and contact 811 if you develop fever, cough, difficulty breathing or pneumonia in both lungs. For more information on a list of affected areas, visit [this link.](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/covid-19-affected-areas-list.html)
+Individuals who have travelled outside of the country or attended a mass gathering event with international attendees in the 14 days prior to their return to Newfoundland and Labrador are asked to closely monitor their health and contact 811 if you develop fever, cough, or difficulty breathing.
 
-If you have traveled to Hubei province in China or Iran, or have been in contact with a suspect or confirmed case of COVID-19 and have symptoms mentioned above, you may be at risk.
+Anyone who has been to the Hubei province of China, Iran, or Italy, or has been in close contact with a confirmed case of COVID-19 or someone that is ill and has travelled to these areas, are asked to self-isolate (away from work and school) for 14 days from their last day in the region or their last contact with the affected person. They are asked to monitor themselves and their household contacts closely. Those in self-isolation should contact 811 to receive supporting health information from Newfoundland and Labrador Public Health.
 
-- Avoid contact with others and follow-up with your health care provider or call the NL Healthline at 811.
-
-Tell your health care provider:
-
-- Your symptoms and when they started
-- Where you have been travelling
-- Where you live and if you live alone or with others
-- If you have had close contact with a sick person, especially if they have had fever, cough or difficulty breathing
+These timelines apply to those newly arrived in the province and those who have already returned. Anyone who meets either of the above criteria who develops a fever, cough or difficulty breathing should call 811 to receive further information.
 
 [Source: Newfoundland and Labrador, Health and Community Services](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)

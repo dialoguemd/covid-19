@@ -1,16 +1,9 @@
 ## Terre-Neuve et Labrador: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Les personnes qui ont voyagé dans les régions touchées au cours des 14 jours précédant leur retour au Canada, sont priées de surveiller étroitement leur santé et de contacter le 811 s’ils ont contracté de la fièvre, de la toux, des difficultés respiratoires ou une pneumonie dans les deux poumons. Pour plus d'informations sur la liste des zones touchées, consultez [ce lien](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html)
+Les personnes qui ont voyagé à l'extérieur du pays ou qui ont participé à un rassemblement de masse avec des participants internationaux dans les 14 jours précédant leur retour à Terre-Neuve-et-Labrador sont priées de surveiller étroitement leur santé et de contacter le 811 si vous avez de la fièvre, de la toux ou des difficultés à respirer.
 
-Si vous avez voyagé dans la province de Hubei en Chine ou en Iran, ou si vous avez été en contact avec un cas suspect, ou confirmé, de COVID-19 et que vous présentez les symptômes mentionnés ci-dessus, vous pourriez être en danger.
+Toute personne qui s'est rendue dans la province chinoise de Hubei, en Iran ou en Italie, ou qui a été en contact étroit avec un cas confirmé de COVID-19 ou avec une personne malade qui s'est rendue dans ces régions, est priée de s'isoler (loin du travail et de l'école) pendant 14 jours à compter de son dernier jour dans la région ou de son dernier contact avec la personne atteinte. Il leur est demandé de se surveiller étroitement, ainsi que leurs contacts familiaux. Les personnes qui s'isolent doivent contacter le 811 pour recevoir des informations sur la santé de la part du service de santé publique de Terre-Neuve-et-Labrador.
 
-- Évitez tout contact avec d'autres personnes et faites un suivi avec votre prestataire de soins de santé ou appelez la NL Healthline au 811.
-
-Informez votre prestataire de soins de santé :
-
-- Vos symptômes et quand ils ont commencé
-- Où vous avez voyagé
-- Où vous habitez et si vous vivez seul ou avec d'autres
-- Si vous avez été en contact étroit avec une personne malade, en particulier si elle a eu de la fièvre, de la toux ou des difficultés à respirer
+Ces délais s'appliquent aux personnes nouvellement arrivées dans la province et à celles qui sont déjà revenues. Toute personne qui répond à l'un ou l'autre des critères ci-dessus et qui développe de la fièvre, de la toux ou des difficultés respiratoires doit appeler le 811 pour recevoir de plus amples informations.
 
 [Source: Newfoundland and Labrador, Health and Community Services (en anglais)](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)

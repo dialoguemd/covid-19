@@ -36,4 +36,6 @@ Les passagers de navires de croisière incluent des voyageurs du monde entier qu
 
 Les récentes éclosions de COVID-19 survenues sur des navires de croisière montrent qu'une forte proportion de personnes à bord peut être infectée. Même si la majorité des passagers touchés peuvent avoir des symptômes bénins, un nombre important de cas ont dû être hospitalisés et recevoir des soins intensifs, et des décès ont été signalés.
 
+Pour plus d'informations sur la planification d'une croisière, consultez [ce lien.](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
+
 [Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html)

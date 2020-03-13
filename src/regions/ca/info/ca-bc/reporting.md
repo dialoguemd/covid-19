@@ -1,8 +1,8 @@
 ## British Columbia: Who should I contact if I think I have COVID-19?
 
-The symptoms of COVID-19, are similar to other respiratory illnesses, including the flu and common cold. They include cough, sneezing, fever, sore throat and difficulty breathing.
+The symptoms of COVID-19 are similar to other respiratory illnesses, including the flu and common cold. They include cough, sneezing, fever, sore throat and difficulty breathing.
 
-If you have traveled to the affected area of Hubei Province, China, and develop these symptoms, avoid contact with others and call ahead to a health-care professional. Do the same if you develop symptoms and have been in contact with a confirmed case or a traveller returning from the affected area with these symptoms.
+Contact your healthcare provider if you have developed symptoms and have been in close contact with someone known to have COVID-19. Do the same if you develop symptoms and have been in contact with a traveller returning from an affected area with widespread community spread of COVID-19.
 
 Tell your health-care professional:
 

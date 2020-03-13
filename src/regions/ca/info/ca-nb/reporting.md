@@ -1,15 +1,22 @@
 ## New Brunswick: Who should I contact if I think I have COVID-19?
 
-All travelers returning to NB should monitor themselves and their children closely for symptoms for 14 days. Upon your return, monitor your health for fever, cough or difficulty breathing and avoid places where you cannot easily separate yourself from others if you become ill.
+Anyone who has traveled internationally in the last 14 days should self-monitor for two weeks from when they arrived back in Canada. Individual risk will vary depending on the destination.
 
-If you develop a fever, cough or difficulty breathing within those 14 days:
+People arriving from Iran or the Chinese province of Hubei will need to self-isolate regardless of symptoms.
 
-- isolate yourself from others as quickly as possible
-- immediately call Telecare 811 before seeking medical attention.
-- describe your symptoms and travel history
-- follow their instructions carefully
-- New Brunswick hospitals are prepared to receive patients for diagnosis and treatment of symptoms, and there are protocols in place to ensure a potential case is not spread to other users of the hospital system. By contacting Telecare 811, these practices will be put in place before your arrival and during your time at the hospital.
+Symptoms such as fever, cough, difficulty breathing may take up to 14 days to appear.
 
-If you are concerned you have COVID-19, contact Telecare 811.
+Should an individual who has recently traveled outside the country experience non-specific symptoms (such as headache, congestion, achiness, feeling unwell) they should separate themselves from others and stay home to monitor themselves further.
+
+Should these symptoms progress to include fever or cough, the individual should:
+
+- continue to stay at home
+- immediately call Tele-Care 811
+- describe symptoms and travel history
+- follow instructions carefully
+
+These individuals should pay particular attention to taking everyday precautions as well as generally keeping space between themselves and others, such as minimizing attendance at crowded gatherings and mass events or thinking of other ways of participating (virtual attendance). Protect yourself and others.
+
+They should also think about what health and food supplies they need on hand should they have to stay home, and slowly start replenishing their shelves. Make a plan.
 
 [Source: Government of New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
