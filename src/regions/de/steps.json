@@ -7,7 +7,27 @@
   {
     "id": "intro2",
     "message": "intro2",
-    "trigger": "intro3"
+    "trigger": "consent"
+  },
+  {
+    "id": "consent",
+    "message": "consent",
+    "trigger": "consentOptions"
+  },
+  {
+    "id": "consentOptions",
+    "options": [
+      {
+        "label": "yes",
+        "value": "yes",
+        "trigger": "intro3"
+      },
+      {
+        "label": "no",
+        "value": "no",
+        "trigger": "showResults"
+      }
+    ]
   },
   {
     "id": "intro3",

@@ -21,7 +21,7 @@ export default {
   },
   classes: {
     common: 'alle deutschen Einwohner',
-    'ca-de': 'Einwohner jeder deutschen Region',
+    'de': 'Einwohner jeder deutschen Region',
     'travel-plans': 'Menschen mit Reiseplänen',
     'elevated-medical-risk': 'Menschen mit einem erhöhten Komplikationsrisiko',
     'elevated-covid-risk': 'Menschen mit einem erhöhten Infektionsrisiko'
