@@ -5,4 +5,3 @@ Seit Anfang Dezember 2019 sind ausgehend von Wuhan, der Hauptstadt der zentralch
 Weitere Informationen erhalten Sie im Merkblatt [COVID-19](https://www.auswaertiges-amt.de/blob/2294930/107d636c93fabf934ac9fcb528f0d6dd/ncov-data.pdf).
 
 Quellen: [Bundesministerium für Gesundheit](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/C/Coronavirus/Info-Handzettel_SARS-CoV-2_040320.pdf); [Auswärtiges Amt](https://www.auswaertiges-amt.de/blob/2294930/107d636c93fabf934ac9fcb528f0d6dd/ncov-data.pdf)
-
