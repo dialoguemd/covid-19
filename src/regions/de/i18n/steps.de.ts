@@ -28,7 +28,7 @@ export default {
   'askHasImmuneDecreased2Options-Option1': 'Ja, das bin ich.',
   'askHasImmuneDecreasedOptions-Option2': 'Nein, nichts trifft auf mich zu.',
   yes: 'Ja',
-  no: 'nein',
+  no: 'Nein',
   askForLocation:
     'In welcher Provinz oder welchem Gebiet befinden Sie sich derzeit?',
   askForLocationInfo:
