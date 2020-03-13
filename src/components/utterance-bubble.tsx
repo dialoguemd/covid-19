@@ -53,7 +53,6 @@ const UtteranceBubble: React.FC<Partial<Props>> = ({
     if (!utterResponse) return
 
     if (utterResponse.wait_for_user) {
-      console.log(previousStep)
       triggerNextStep({ trigger: previousStep.id, value: null }) // go back to previous user input
     } else {
       triggerNextStep() // go to step defined in rules
