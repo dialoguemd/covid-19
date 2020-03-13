@@ -9,7 +9,8 @@ import Header from 'components/header'
 import Title from 'components/title'
 import ScrollAnchor from 'components/scroll-anchor'
 
-import ImageCanadaFlag from 'images/canada-flag.jpg'
+import { requireRegionFile } from 'services/region-loader'
+const flagImage = requireRegionFile('images/flag.jpg')
 
 const Description = styled.h3`
   color: ${props => props.theme.colors.text};
@@ -48,7 +49,7 @@ const Container = styled.div`
   height: 100%;
   align-items: center;
   overflow-x: hidden;
-  background-color: #e9e7e8;
+  background-color: ${props => props.theme.colors.background};
 `
 
 const Body = styled.div`
@@ -74,9 +75,8 @@ const Flag = styled.div`
   height: 16vw;
   top: -16vw;
   right: 0px;
-  background-image: url(${ImageCanadaFlag});
+  background-image: url(${flagImage});
   background-size: 100%;
-  background-color: #e9e6e7;
   background-repeat: no-repeat;
   background-position: bottom right;
   position: absolute;
@@ -90,6 +90,7 @@ export const WelcomePage: React.FC = () => {
     <Container>
       <ScrollAnchor />
       <Header
+        showRegionPicker
         css={`
           flex-shrink: 0;
         `}

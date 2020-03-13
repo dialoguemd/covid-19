@@ -1,0 +1,36 @@
+[
+  {
+    "conditions": {
+      "all": [
+        {
+          "fact": "askForLocationOptions",
+          "operator": "equal",
+          "value": "BW"
+        }
+      ]
+    },
+    "event": {
+      "type": "askForLocationOptions",
+      "params": {
+        "classes": ["de-bw"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "any": [
+        {
+          "fact": "intro4",
+          "operator": "equal",
+          "value": true
+        }
+      ]
+    },
+    "event": {
+      "type": "classification",
+      "params": {
+        "classes": ["common"]
+      }
+    }
+  }
+]

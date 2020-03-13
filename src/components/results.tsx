@@ -14,6 +14,8 @@ export const Results: React.FC<Props> = ({ classes }) => {
   useEffect(() => {
     if (classes) {
       const results = getLocalizedFilePathsFromClasses(classes)
+      console.log('classes', classes)
+      console.log('results', results)
       loadResults(results).then(setContents)
     }
   }, [classes])

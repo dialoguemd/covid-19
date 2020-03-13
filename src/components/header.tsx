@@ -5,10 +5,17 @@ import styled from 'styled-components/macro'
 import { ReactComponent as Logo } from 'images/dialogue-logo.svg'
 import LanguagePicker from './language-picker'
 import Title from './title'
+import RegionPicker from 'components/region-picker'
 import { mobileBreakpoint } from 'theme'
+import { requireRegionFile } from 'services/region-loader'
+
+const config = requireRegionFile('config.json')
+const isLocalhost = window.location.hostname === 'localhost'
+const ENABLE_REGION_SWITCHING = isLocalhost || config.ENABLE_REGION_SWITCHING
 
 interface Props {
   title?: string
+  showRegionPicker?: Boolean
 }
 
 const LogoContainer = styled.div`
@@ -40,9 +47,10 @@ const HeaderContainer = styled.div`
   align-items: center;
   flex-shrink: 0;
   margin: 10px;
+  min-height: 60px;
   @media (max-width: ${mobileBreakpoint}px) {
     flex-wrap: wrap;
-
+    min-height: 40px;
     ${Title} {
       order: 3;
     }
@@ -53,7 +61,11 @@ const HeaderContainer = styled.div`
   }
 `
 
-export const Header: React.FC<Props> = ({ title, ...rest }) => (
+export const Header: React.FC<Props> = ({
+  showRegionPicker,
+  title,
+  ...rest
+}) => (
   <HeaderContainer {...rest}>
     <Link to="/">
       <LogoContainer>
@@ -69,6 +81,7 @@ export const Header: React.FC<Props> = ({ title, ...rest }) => (
           margin-left: 2px;
         `}
       />
+      {ENABLE_REGION_SWITCHING && showRegionPicker && <RegionPicker />}
     </LanguagePickerContainer>
   </HeaderContainer>
 )

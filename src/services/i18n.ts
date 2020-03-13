@@ -1,29 +1,30 @@
 import i18n from 'i18next'
 import i18nLanguageDetector from 'i18next-browser-languagedetector'
 import { initReactI18next } from 'react-i18next'
+import { requireRegionFile } from 'services/region-loader'
 
-import packageJson from '../../package.json'
-const resources = {
-  en: {
-    steps: require('i18n/steps.en.js').default,
-    translation: require('i18n/translation.en.js').default
-  },
-  fr: {
-    steps: require('i18n/steps.fr.js').default,
-    translation: require('i18n/translation.fr.js').default
-  }
-}
+const { ENABLED_LANGUAGES } = requireRegionFile('config.json')
+
+const langToResources = lang => ({
+  steps: requireRegionFile(`i18n/steps.${lang}.ts`).default,
+  translation: requireRegionFile(`i18n/translation.${lang}.ts`).default
+})
+
+const resources = ENABLED_LANGUAGES.reduce(
+  (acc, lang) => ({ ...acc, [lang]: langToResources(lang) }),
+  {}
+)
 
 i18n
   .use(i18nLanguageDetector)
   .use(initReactI18next)
   .init({
     ns: ['translation', 'steps'],
-    fallbackLng: packageJson.supportedLanguages,
+    fallbackLng: ENABLED_LANGUAGES,
     initImmediate: true,
     nonExplicitWhitelist: true,
     resources,
-    whitelist: packageJson.supportedLanguages,
+    whitelist: ENABLED_LANGUAGES,
     load: 'languageOnly',
     appendNamespaceToMissingKey: true,
     detection: {
@@ -31,5 +32,12 @@ i18n
       caches: []
     }
   })
+
+const { languages } = i18n
+export const getNextLanguage = () => {
+  const langIndex = languages.indexOf(i18n.language)
+  const returnToZero = langIndex === languages.length - 1
+  return languages[returnToZero ? 0 : langIndex + 1]
+}
 
 export default i18n

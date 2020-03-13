@@ -1,0 +1,23 @@
+{
+  "ENABLED_LANGUAGES": ["de"],
+  "ADMIN_AREAS": [
+    "BW",
+    "BY",
+    "BE",
+    "BB",
+    "HB",
+    "HH",
+    "HE",
+    "NI",
+    "MV",
+    "NW",
+    "RP",
+    "SL",
+    "SN",
+    "ST",
+    "SH",
+    "TH"
+  ],
+  "ENABLE_FACEBOOK_SHARE": true,
+  "ENABLE_TWITTER_SHARE": true
+}

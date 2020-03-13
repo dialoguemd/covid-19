@@ -3,23 +3,11 @@ import React from 'react'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
-import { mobileBreakpoint } from 'theme'
 
-const PROVINCES = [
-  'QC',
-  'AB',
-  'ON',
-  'NS',
-  'NB',
-  'MB',
-  'BC',
-  'SK',
-  'PE',
-  'YT',
-  'NT',
-  'NL',
-  'NU'
-]
+import { mobileBreakpoint } from 'theme'
+import { requireRegionFile, getRegionId } from 'services/region-loader'
+const config = requireRegionFile('config.json')
+const regionId = getRegionId()
 
 const FooterContainer = styled.div`
   background-color: ${props => props.theme.colors.backgroundLight};
@@ -84,63 +72,49 @@ const AutoScrollLink: React.FC<any> = props => {
   return <Link onClick={scrollToContent} {...props} />
 }
 
+const classifiedAdminAreas = config.ADMIN_AREAS.map(area => [
+  `${regionId}-${area.toLowerCase()}`,
+  area
+])
+
 export const Footer: React.FC = props => {
   const { t, i18n } = useTranslation()
+
+  const aboutMenu: Array<[string, string]> = i18n.t('footer.aboutMenu', {
+    returnObjects: true,
+    defaultValue: []
+  })
+  const classMenu: Array<[string, string]> = i18n.t('footer.classMenu', {
+    returnObjects: true,
+    defaultValue: []
+  })
 
   return (
     <FooterContainer {...props}>
       <FooterContent>
         <FooterColumn>
-          <h3>{t('footer.about')}</h3>
-          <a href="https://github.com/dialoguemd/covid-19/wiki">
-            {t('footer.aboutThisSite')}
-          </a>
-          <a href="https://github.com/dialoguemd/covid-19">
-            {t('footer.githubProject')}
-          </a>
-          <a
-            href={`https://dialogue.co/${
-              i18n.languages[0] === 'en' ? 'en' : 'fr'
-            }`}
-          >
-            {t('footer.dialogue')}
-          </a>
-          <a href="https://www.dialogue.co/?hs_preview=noJtvihk-26668052747">
-            {t('footer.organizationResources')}
-          </a>
-          <a
-            href={`https://www.dialogue.co/${
-              i18n.languages[0] === 'en' ? 'en/contact-us/' : 'fr/nous-joindre/'
-            }`}
-          >
-            {t('footer.contactUs')}
-          </a>
+          <h3>{t('footer.aboutHeader')}</h3>
+          {aboutMenu.map(([text, url]) => (
+            <a key={text} href={url}>
+              {text}
+            </a>
+          ))}
         </FooterColumn>
         <FooterColumn>
-          <h3>{t('footer.forProvince')}</h3>
-          {PROVINCES.map(province => (
-            <AutoScrollLink
-              key={province}
-              to={`/info?id=ca-${province.toLowerCase()}`}
-            >
-              {t(`provinces.${province}`)}
+          <h3>{t('footer.adminAreaHeader')}</h3>
+          {classifiedAdminAreas.map(([areaClass, area]) => (
+            <AutoScrollLink key={area} to={`/info?id=${areaClass}`}>
+              {t(`provinces.${area}`)}
             </AutoScrollLink>
           ))}
         </FooterColumn>
         <FooterColumn>
-          <h3>{t('footer.forCanadians')}</h3>
-          <AutoScrollLink onClick={scrollToContent} to="/info?id=common">
-            {t('footer.generalInfo')}
-          </AutoScrollLink>
-          <AutoScrollLink to="/info?id=elevated-covid-risk">
-            {t('footer.elevatedInfection')}
-          </AutoScrollLink>
-          <AutoScrollLink to="/info?id=elevated-medical-risk">
-            {t('footer.elevatedMedical')}
-          </AutoScrollLink>
-          <AutoScrollLink to="/info?id=travel-plans">
-            {t('footer.travelPlans')}
-          </AutoScrollLink>
+          <h3>{t('footer.classHeader')}</h3>
+          {classMenu.map(([text, classes]) => (
+            <AutoScrollLink key={text} to={`/info?id=${classes}`}>
+              {text}
+            </AutoScrollLink>
+          ))}
         </FooterColumn>
       </FooterContent>
       <BottomText>© 2020 Dialogue</BottomText>
