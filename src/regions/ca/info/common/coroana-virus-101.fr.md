@@ -10,3 +10,9 @@ Il y a eu 2 autres coronavirus qui se sont transmis des animaux aux humains, et 
 - [le coronavirus du syndrome respiratoire du Moyen-Orient (CoV-SRMO)](https://www.canada.ca/fr/sante-publique/services/maladies/syndrome-respiratoire-moyen-orient-srmo.html)
 
 [Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/foire-aux-questions.html)
+
+## 📞 Qui contacter?
+
+Pour obtenir plus d'informations sur le COVID-19, vous pouvez appeler le 1-833-784-4397 ou leur envoyer un courriel à phac.info.aspc@canada.ca
+
+Vous pouvez également visiter [ce site](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html).
