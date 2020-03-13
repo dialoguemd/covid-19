@@ -19,8 +19,8 @@ export default {
   welcomePage: {
     title: 'COVID-19: Was Sie wissen müssen',
     description:
-      'Erhalten Sie genaue und personalisierte Informationen von vertrauenswürdigen kanadischen medizinischen Quellen bezüglich COVID-19.',
-    button: 'Erste Schritte'
+      'Erhalten Sie genaue Informationen von öffentlichen, vertrauenswürdigen Quellen über die Atemwegserkrankung COVID-19, basierend auf Ihrer individuellen Lebenssituation.',
+    button: 'Es kann losgehen'
   },
   classes: {
     common: 'alle deutschen Einwohner',
@@ -32,10 +32,10 @@ export default {
   footer: {
     aboutHeader: 'Über',
     aboutMenu: [
-      ['Über diese Website', 'https://github.com/dialoguemd/covid-19/wiki'],
+      ['Über uns', 'https://www.argumed.net/impressum/'],
       ['GitHub Project', 'https://github.com/dialoguemd/covid-19'],
-      ['Dialogue', 'https://dialogue.co/en'],
-      ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/']
+      ['Argumed', 'https://www.argumed.net/'],
+      ['Kontakt', 'https://www.argumed.net/kontakt/']
     ],
     adminAreaHeader: 'Regionale Informationen',
     classHeader: 'Für alle in Deutschland ansässigen Personen',
