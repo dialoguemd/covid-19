@@ -1,4 +1,4 @@
-## Québec: Clinique désignée COVID-19
+## Québec: Cliniques désignées COVID-19
 
 ### Région de Montréal
 
