@@ -34,7 +34,7 @@ export default {
   askForLocationInfo:
     'Mit Hilfe Ihrer Angabe kann ich die wichtigsten Informationen für die ausgewählte Region anzeigen.',
   askHasHadContact: `
-  Hatten Sie **engen Kontakt** mit einer Person, die ein bestätigter oder wahrscheinlicher Fall von COVID-19 ist?,
+  Hatten Sie **engen Kontakt** mit einer Person, die ein bestätigter oder wahrscheinlicher Fall von COVID-19 ist?`,
   askHasHadContactInfo: `
   Mit **engem Kontakt** meinen wir **jede** der folgenden Situationen:
 
