@@ -4,7 +4,8 @@ export default {
     noResultsMessage: 'Keine Ergebnisse in URL angegeben.',
     changeAudienceTitle: 'Trifft auf Sie nicht zu?',
     changeAudience: 'Personalisierte Informationen erhalten',
-    audiencePrefix: 'Die folgenden Informationen gelten für:'
+    audiencePrefix: 'Die folgenden Informationen gelten für:',
+    lastModified: 'Aktualisiert {{date}}'
   },
   share: {
     viewResults: 'Informationspaket anzeigen',

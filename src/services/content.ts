@@ -11,3 +11,6 @@ export const getLocalizedFilePathsFromClasses = (classes: string[]) =>
   getManifestFilesFromClasses(classes)
     .filter(file => i18n.language.indexOf(file.lang) !== -1)
     .map(file => file.path)
+
+export const getManifestFileFromPath = (path: string) =>
+  manifest.find(file => file.path === path)
