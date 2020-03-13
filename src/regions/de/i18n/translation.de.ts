@@ -38,6 +38,7 @@ export default {
       ['Kontakt', 'https://www.argumed.net/kontakt/']
     ],
     adminAreaHeader: 'Regionale Informationen',
+    adminAreaMenu: [],
     classHeader: 'Für alle in Deutschland ansässigen Personen',
     classMenu: [
       ['Allgemeine Informationen', 'common'],
@@ -48,23 +49,5 @@ export default {
       ],
       ['Menschen mit Reiseplänen', 'travel-plans']
     ]
-  },
-  provinces: {
-    BW: 'Baden-Württemberg',
-    BY: 'Bayern',
-    BE: 'Berlin',
-    BB: 'Brandenburg',
-    HB: 'Bremen',
-    HH: 'Hamburg',
-    HE: 'Hessen',
-    MV: 'Mecklenburg-Vorpommern',
-    NI: 'Niedersachsen',
-    NW: 'Nordrhein-Westfalen',
-    RP: 'Rheinland-Pfalz',
-    SL: 'Saarland',
-    SN: 'Sachsen',
-    ST: 'Sachsen-Anhalt',
-    SH: 'Schleswig-Holstein',
-    TH: 'Thüringen'
   }
 }
