@@ -10,7 +10,7 @@ La clinique désignée COVID-19 est une mesure complémentaire pour les cas non 
 
 Des mesures de prévention rigoureuses sont déployées au sein de la clinique pour protéger le personnel, les usagers et la population. Des contrôles sont faits dès l’entrée et des mesures sont prévues pour le transport sécuritaire des usagers.
 
-Si vous croyez avoir une infection au COVID-19. Contactez d’abord Info-Santé 811 avant de consulter. Une infirmière évaluera la situation et vous transmettra des recommandations appropriées. Si une consultation médicale est requise dans une clinique désignée COVID-19, l’infirmière d’Info-Santé 811 vous donnera un rendez-vous. Si votre état de santé nécessite une hospitalisation, l’Hôpital général juif (clientèle adulte) et le CHU Sainte-Justine (clientèle pédiatrique) demeurent les centres désignés pour l’hospitalisation des cas confirmés.
+Si vous croyez avoir une infection au COVID-19, vous pouvez contacter, sans frais, le 1 877 644-4545, avant de consulter. Une infirmière évaluera la situation et vous transmettra des recommandations appropriées. Si une consultation médicale est requise dans une clinique désignée COVID-19, l’infirmière d’Info-Santé 811 vous donnera un rendez-vous. Si votre état de santé nécessite une hospitalisation, l’Hôpital général juif (clientèle adulte) et le CHU Sainte-Justine (clientèle pédiatrique) demeurent les centres désignés pour l’hospitalisation des cas confirmés.
 
 [Source: Governement du Québec](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c35268)
 
