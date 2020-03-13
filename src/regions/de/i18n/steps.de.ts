@@ -2,7 +2,8 @@ export default {
   intro1: 'Willkommen!',
   intro2:
     'Ich bin Chloe, Ihre virtuelle medizinische Assistentin. Ich bin hier, um Ihnen genaue Informationen über den Coronavirus (COVID-19) zu geben. Damit die folgenden Informationen möglichst genau auf Ihre individuelle Situation abgestimmt sind, möchte ich Ihnen vorher ein paar Fragen stellen. Dies wird nicht länger als ein paar Minuten dauern.',
-  consent: "Es werden keine Fragen gestellt, die Sie persönlich identifizierbar machen. Bitte stimmen Sie mit Klick auf **Ja** der [Einwilligung zur Datenverarbeitung](https://github.com/dialoguemd/covid-19/wiki/German-Privacy-Page) und der [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/German-Data-Protection-page) zu. Andernfalls klicken Sie **Nein**",  
+  consent:
+    'Es werden keine Fragen gestellt, die Sie persönlich identifizierbar machen. Bitte stimmen Sie mit Klick auf **Ja** der [Einwilligung zur Datenverarbeitung](https://github.com/dialoguemd/covid-19/wiki/German-Privacy-Page) und der [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/German-Data-Protection-page) zu. Andernfalls klicken Sie **Nein**',
   intro3:
     'Bitte beachten Sie, dass es sich bei den Informationen, die Sie erhalten, nicht um eine medizinische Beurteilung handelt. Wenn Sie Krankheitssymptome haben, suchen Sie einen Arzt auf. Dieser Service ersetzt keine Beratung durch einen Arzt. Die von uns bereitgestellten Informationen stammen aus öffentlich zugänglichen Quellen und unterliegen regelmäßigen Änderungen.',
   'intro-option1': 'Lassen Sie uns starten!',
@@ -23,14 +24,12 @@ export default {
   'askForLocationOptions-SH': 'Schleswig-Holstein',
   'askForLocationOptions-TH': 'Thüringen',
   'askHasHadContactOptions-Option1': 'Ja, davon trifft etwas auf mich zu',
-  'askHasImmuneDecreasedOptions-Option1':
-    'Ja, davon trifft etwas auf mich zu',
+  'askHasImmuneDecreasedOptions-Option1': 'Ja, davon trifft etwas auf mich zu',
   'askHasImmuneDecreased2Options-Option1': 'Ja, das tue ich',
   'askHasImmuneDecreasedOptions-Option2': 'Nein, davon trifft nichts zu',
   yes: 'Ja',
   no: 'Nein',
-  askForLocation:
-    'In welchem Bundesland befinden Sie sich gerade?',
+  askForLocation: 'In welchem Bundesland befinden Sie sich gerade?',
   askForLocationInfo:
     'Mit Hilfe Ihrer Angabe kann ich die wichtigsten Informationen für die ausgewählte Region anzeigen.',
   askHasHadContact: `
