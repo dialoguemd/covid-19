@@ -2,7 +2,8 @@ export default {
   intro1: 'Hallo!',
   intro2:
     'Ich bin Chloe, eine automatische medizinische Assistentin. Ich bin hier, um Ihnen genaue Informationen über COVID-19 zu geben. Um sie für Ihre Situation relevant zu machen, möchte ich Ihnen ein paar Fragen stellen. Es sollte nicht länger als ein paar Minuten dauern.',
-  consent: "Sind Sie damit einverstanden, in [Übereinstimmung mit den Dienstbedingungen](https://github.com/dialoguemd/covid-19/wiki/German-Privacy-Page) und [der Datenschutzpolitik vorzugehen](https://github.com/dialoguemd/covid-19/wiki/German-Data-Protection-page)?",  
+  consent:
+    'Sind Sie damit einverstanden, in [Übereinstimmung mit den Dienstbedingungen](https://github.com/dialoguemd/covid-19/wiki/German-Privacy-Page) und [der Datenschutzpolitik vorzugehen](https://github.com/dialoguemd/covid-19/wiki/German-Data-Protection-page)?',
   intro3:
     'Bitte beachten Sie, dass es sich bei den Informationen, die Sie erhalten, nicht um eine medizinische Beurteilung handelt. Wenn Sie schwere Symptome haben, suchen Sie einen Arzt auf. Dieser Service ist kein Ersatz für die Beratung durch Ihren Arzt. Die von uns bereitgestellten Informationen stammen aus öffentlich zugänglichen Quellen und unterliegen häufigen Änderungen.',
   'intro-option1': 'Ok, fangen wir an!',
