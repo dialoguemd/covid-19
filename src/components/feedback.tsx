@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import styled from 'styled-components/macro'
 import { ReactComponent as ImageThumbsUp } from 'images/thumb-up.svg'
 import { ReactComponent as ImageThumbsDown } from 'images/thumb-down.svg'
+import { useTranslation } from 'react-i18next'
 
 const Container = styled.div`
   display: flex;
@@ -10,6 +11,24 @@ const Container = styled.div`
   flex-shrink: 0;
   align-items: flex-end;
   justify-content: flex-end;
+  flex-direction: column;
+`
+
+const ButtonContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  align-items: flex-end;
+  justify-content: flex-end;
+`
+
+const Label = styled.div<{
+  visible: Boolean
+}>`
+  font-size: 12px;
+  transition: all ease-in-out 1s;
+  opacity: ${props => (props.visible ? '0.5' : '0')};
 `
 
 const Button = styled.button<{
@@ -47,7 +66,10 @@ const Button = styled.button<{
   `};
 `
 
-export const Feedback: React.FC<any> = ({ id }) => {
+export const Feedback: React.FC<{
+  id: String
+}> = ({ id }) => {
+  const { t } = useTranslation()
   const [submitted, setSubmitted] = useState(null)
 
   const track = eventType =>
@@ -65,22 +87,25 @@ export const Feedback: React.FC<any> = ({ id }) => {
 
   return (
     <Container>
-      <Button
-        submitted={submitted}
-        visible={submitted !== 'thumbs_down'}
-        disabled={!!submitted}
-        onClick={trackThumbsUp}
-      >
-        <ImageThumbsUp />
-      </Button>
-      <Button
-        submitted={submitted}
-        visible={submitted !== 'thumbs_up'}
-        disabled={!!submitted}
-        onClick={trackThumbsDown}
-      >
-        <ImageThumbsDown />
-      </Button>
+      <Label visible={!submitted}>{t('resultsPage.feedbackLabel')}</Label>
+      <ButtonContainer>
+        <Button
+          submitted={submitted}
+          visible={submitted !== 'thumbs_down'}
+          disabled={!!submitted}
+          onClick={trackThumbsUp}
+        >
+          <ImageThumbsUp />
+        </Button>
+        <Button
+          submitted={submitted}
+          visible={submitted !== 'thumbs_up'}
+          disabled={!!submitted}
+          onClick={trackThumbsDown}
+        >
+          <ImageThumbsDown />
+        </Button>
+      </ButtonContainer>
     </Container>
   )
 }

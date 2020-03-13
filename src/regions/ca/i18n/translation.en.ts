@@ -5,7 +5,8 @@ export default {
     changeAudienceTitle: 'Doesn’t apply to you?',
     changeAudience: 'Get personalized info',
     audiencePrefix: 'Information below applies to:',
-    lastModified: 'Updated {{date}}'
+    lastModified: 'Updated {{date}}',
+    feedbackLabel: 'Was this useful?'
   },
   share: {
     viewResults: 'View information package',

@@ -5,7 +5,8 @@ export default {
     changeAudienceTitle: "Cela ne s'applique pas à vous ? ",
     changeAudience: 'Obtenez vos informations personnalisées',
     audiencePrefix: "Les informations ci-dessous s'appliquent ",
-    lastModified: 'Mise à jour {{date}}'
+    lastModified: 'Mise à jour {{date}}',
+    feedbackLabel: 'Ceci vous a-t-il aidé?'
   },
   share: {
     viewResults: "Voir votre trousse d'information",
