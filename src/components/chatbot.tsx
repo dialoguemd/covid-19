@@ -40,7 +40,7 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
 
   .rsc-content {
     padding: 15px;
-    height: calc(100% - 30px);
+    height: calc(100% - 87px);
     @media (max-width: ${mobileBreakpoint}px) {
       padding: 10px;
       height: calc(100% - 20px);
@@ -91,10 +91,6 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
       padding: 11px;
       font-size: 14px;
     }
-  }
-
-  .rsc-footer {
-    display: none;
   }
 `
 

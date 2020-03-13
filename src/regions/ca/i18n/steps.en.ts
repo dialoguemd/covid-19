@@ -1,4 +1,5 @@
 export default {
+  rasaIntro: 'Ask me anything!',
   intro1: 'Hi there!',
   intro2:
     "I'm Chloe, an automated medical assistant. I’m here to give you accurate information about COVID-19. To make it relevant to your situation, I'd like to ask you a few questions. It should not take more than a few minutes.",

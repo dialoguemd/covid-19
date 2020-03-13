@@ -1,4 +1,5 @@
 export default {
+  rasaIntro: 'Ask me anything!',
   intro1: 'Bonjour!',
   intro2:
     "Je suis Chloe, une assistante virtuelle médicale automatisée. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
@@ -54,7 +55,7 @@ export default {
     "Maintenant, j'aimerais vous poser quelques questions pour savoir si votre système d'immunité est affaibli.",
   askHasImmuneDecreasedInfo: `
 	Est-ce que l'un de ces éléments s'applique à vous ?
-   
+
 	- Avez-vous des antécédents de diabète ?
 	- Prenez-vous des médicaments de suppression de l'immunité tels que la Prednisone ou tout autre stéroïde ?
 	- Souffrez-vous d'une maladie auto-immune telle que le lupus, la maladie de Crohn's ou le rhumatisme articulaire aigu ?
