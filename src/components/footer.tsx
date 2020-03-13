@@ -6,8 +6,6 @@ import { Link } from 'react-router-dom'
 
 import { mobileBreakpoint } from 'theme'
 import { requireRegionFile, getRegionId } from 'services/region-loader'
-const config = requireRegionFile('config.json')
-const regionId = getRegionId()
 
 const FooterContainer = styled.div`
   background-color: ${props => props.theme.colors.backgroundLight};
