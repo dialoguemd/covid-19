@@ -9,21 +9,23 @@ Alors que les maladies peuvent rendre n'importe qui malade, certains Canadiens s
 ### Les populations vulnérables peuvent comprendre
 
 #### Tous les individus qui sont:
-* une personne âgée
-* à risque en raison de conditions médicales sous-jacentes (par exemple, maladies cardiaques, hypertension, diabète, maladies respiratoires chroniques, cancer)
-* à risque en raison d'un système immunitaire affaibli par une affection ou un traitement médical (par exemple, la chimiothérapie)
+
+- une personne âgée
+- à risque en raison de conditions médicales sous-jacentes (par exemple, maladies cardiaques, hypertension, diabète, maladies respiratoires chroniques, cancer)
+- à risque en raison d'un système immunitaire affaibli par une affection ou un traitement médical (par exemple, la chimiothérapie)
 
 #### Tous les individus qui ont:
-* des difficultés à lire, à parler, à comprendre ou à communiquer
-* difficulté d'accès aux soins médicaux ou aux conseils de santé
-* difficulté à faire des activités préventives, comme se laver fréquemment les mains et couvrir ses éternuements
-* des soins médicaux spécialisés continus ou des besoins spécifiques en fournitures médicales
-* les besoins de surveillance continue ou de soutien au maintien de l'indépendance
-* difficulté d'accès aux transports
-* des obstacles économiques
-* emploi instable ou conditions de travail inflexibles
-* l'isolement social ou géographique, comme dans les communautés éloignées et isolées
-* des conditions de logement précaires, inadéquates ou inexistantes
+
+- des difficultés à lire, à parler, à comprendre ou à communiquer
+- difficulté d'accès aux soins médicaux ou aux conseils de santé
+- difficulté à faire des activités préventives, comme se laver fréquemment les mains et couvrir ses éternuements
+- des soins médicaux spécialisés continus ou des besoins spécifiques en fournitures médicales
+- les besoins de surveillance continue ou de soutien au maintien de l'indépendance
+- difficulté d'accès aux transports
+- des obstacles économiques
+- emploi instable ou conditions de travail inflexibles
+- l'isolement social ou géographique, comme dans les communautés éloignées et isolées
+- des conditions de logement précaires, inadéquates ou inexistantes
 
 [Source](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/vulnerable-populations-covid-19.html)
 

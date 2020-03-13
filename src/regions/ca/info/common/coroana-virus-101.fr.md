@@ -13,6 +13,6 @@ Il y a eu 2 autres coronavirus qui se sont transmis des animaux aux humains, et 
 
 ## 📞 Qui contacter?
 
-Pour obtenir plus d'informations sur le COVID-19, vous pouvez appeler le 1-833-784-4397 ou leur envoyer un courriel à phac.info.aspc@canada.ca 
+Pour obtenir plus d'informations sur le COVID-19, vous pouvez appeler le 1-833-784-4397 ou leur envoyer un courriel à phac.info.aspc@canada.ca
 
 Vous pouvez également visiter [ce site](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html).

@@ -29,6 +29,7 @@ If you are in an affected destination, we recommend:
 - signing up to our [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive important updates
 
 ## 🌍 Avoid all non-essential international travel
+
 According to [this source](https://www.theglobeandmail.com/canada/article-avoid-non-essential-travel-outside-canada-trudeau-urges/), as of March 13, 2020, the government has asked that Canadian avoid all non-essential international travel.
 
 ## 🚢 Avoid all travel on cruise ships

@@ -13,6 +13,6 @@ There have been 2 other specific coronaviruses that have spread from animals to 
 
 ## 📞 Who to contact?
 
-To get more information about COVID-19, you can call 1-833-784-4397 or email them at phac.info.aspc@canada.ca 
+To get more information about COVID-19, you can call 1-833-784-4397 or email them at phac.info.aspc@canada.ca
 
 You can also visit [this website](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html).
