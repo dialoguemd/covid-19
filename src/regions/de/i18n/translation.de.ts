@@ -38,7 +38,24 @@ export default {
       ['Kontakt', 'https://www.argumed.net/kontakt/']
     ],
     adminAreaHeader: 'Regionale Informationen',
-    adminAreaMenu: [],
+    adminAreaMenu: [
+      ['Baden-Württemberg', 'de'],
+      ['Bayern', 'de'],
+      ['Berlin', 'de'],
+      ['Brandenburg', 'de'],
+      ['Bremen', 'de'],
+      ['Hamburg', 'de'],
+      ['Hessen', 'de'],
+      ['Mecklenburg-Vorpommern', 'de'],
+      ['Niedersachsen', 'de'],
+      ['Nordrhein-Westfalen', 'de'],
+      ['Rheinland-Pfalz', 'de'],
+      ['Saarland', 'de'],
+      ['Sachsen', 'de'],
+      ['Sachsen-Anhalt', 'de'],
+      ['Schleswig-Holstein', 'de'],
+      ['Thüringen', 'de']
+    ],
     classHeader: 'Für alle in Deutschland ansässigen Personen',
     classMenu: [
       ['Allgemeine Informationen', 'common'],
