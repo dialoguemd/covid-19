@@ -5,14 +5,63 @@
         {
           "fact": "askForLocationOptions",
           "operator": "equal",
-          "value": "BW"
+          "value": "de"
         }
       ]
     },
     "event": {
       "type": "askForLocationOptions",
       "params": {
-        "classes": ["de-bw"]
+        "classes": ["de"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "all": [
+        {
+          "fact": "askForLocationOptions",
+          "operator": "equal",
+          "value": "QC"
+        }
+      ]
+    },
+    "event": {
+      "type": "classification",
+      "params": {
+        "classes": ["ca-qc"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "any": [
+        {
+          "fact": "askHasRangeOptions",
+          "operator": "equal",
+          "value": true
+        },
+        {
+          "fact": "askHasImmuneDecreasedOptions",
+          "operator": "equal",
+          "value": true
+        },
+        {
+          "fact": "askHasImmuneDecreased2Options",
+          "operator": "equal",
+          "value": ["yes", "maybe"]
+        },
+        {
+          "fact": "askHasChronicLungDiseaseOptions",
+          "operator": "equal",
+          "value": true
+        }
+      ]
+    },
+    "event": {
+      "type": "classification",
+      "params": {
+        "classes": ["elevated-medical-risk"]
       }
     }
   },
@@ -30,6 +79,68 @@
       "type": "classification",
       "params": {
         "classes": ["common"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "any": [
+        {
+          "fact": "askHasTravelPlansOptions",
+          "operator": "equal",
+          "value": true
+        }
+      ]
+    },
+    "event": {
+      "type": "classification",
+      "params": {
+        "classes": ["travel-plans"]
+      }
+    }
+  },
+  {
+    "conditions": {
+      "all": [
+        {
+          "any": [
+            {
+              "fact": "askHasFeverOptions",
+              "operator": "equal",
+              "value": true
+            },
+            {
+              "fact": "askHasCoughOptions",
+              "operator": "equal",
+              "value": true
+            },
+            {
+              "fact": "askHasDifficultyBreathingOptions",
+              "operator": "equal",
+              "value": true
+            }
+          ]
+        },
+        {
+          "any": [
+            {
+              "fact": "askHasHadContactOptions",
+              "operator": "equal",
+              "value": true
+            },
+            {
+              "fact": "askTraveledAffectedAreasOptions",
+              "operator": "equal",
+              "value": true
+            }
+          ]
+        }
+      ]
+    },
+    "event": {
+      "type": "classification",
+      "params": {
+        "classes": ["elevated-covid-risk"]
       }
     }
   }

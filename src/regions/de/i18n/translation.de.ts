@@ -1,17 +1,18 @@
 export default {
   resultsPage: {
-    headerTitle: 'COVID-19: What you need to know',
-    noResultsMessage: 'No results provided in URL.',
-    changeAudienceTitle: 'Doesn’t apply to you?',
-    changeAudience: 'Get personalized info',
-    audiencePrefix: 'Information below applies to:'
+    headerTitle: 'COVID-19: Was Sie wissen müssen',
+    noResultsMessage: 'Keine Ergebnisse in URL angegeben.',
+    changeAudienceTitle: 'Trifft auf Sie nicht zu?',
+    changeAudience: 'Personalisierte Informationen erhalten',
+    audiencePrefix: 'Die folgenden Informationen gelten für:'
   },
   share: {
     viewResults: 'Informationspaket anzeigen',
-    twitterButton: 'Share on Twitter',
-    facebookButton: 'Share on Facebook',
+    twitterButton: 'Auf Twitter teilen',
+    facebookButton: 'Auf Facebook teilen',
     twitterShareText:
-      'Latest COVID-19 info from Canadian Government %23coronavirus {{url}}'
+      'Neueste COVID-19-Informationen der deutschen Regierung %23coronavirus {{url}}',
+    CTA: 'Verbreiten Sie die Information, nicht den Virus'
   },
   welcomePage: {
     title: 'COVID-19: Was Sie wissen müssen',
@@ -20,37 +21,31 @@ export default {
     button: 'Erste Schritte'
   },
   classes: {
-    common: 'all Canadians',
-    'ca-qc': 'residents of Quebec',
-    'ca-ab': 'residents of Alberta',
-    'ca-on': 'residents of Ontario',
-    'ca-ns': 'residents of Nova Scotia',
-    'ca-nb': 'residents of New Brunswick',
-    'ca-mb': 'residents of Manitoba',
-    'ca-bc': 'residents of British Columbia',
-    'ca-sk': 'residents of Saskatchewan',
-    'ca-pe': 'residents of Prince Edward Island',
-    'ca-yt': 'residents of Yukon',
-    'ca-nt': 'residents of Northern Territories',
-    'ca-nl': 'residents of Newfoundland and Labrador',
-    'ca-nu': 'residents of Nuvavut',
-    'travel-plans': 'people with travel plans',
-    'elevated-medical-risk': 'people with an increased risk of complications',
-    'elevated-covid-risk': 'people with an increased risk of infection'
+    common: 'alle deutschen Einwohner',
+    de: 'Einwohner jeder deutschen Region',
+    'travel-plans': 'Menschen mit Reiseplänen',
+    'elevated-medical-risk': 'Menschen mit einem erhöhten Komplikationsrisiko',
+    'elevated-covid-risk': 'Menschen mit einem erhöhten Infektionsrisiko'
   },
   footer: {
-    about: 'About',
-    aboutThisSite: 'About this site',
-    githubProject: 'GitHub Project',
-    dialogue: 'Dialogue',
-    organizationResources: 'Resources for Canadian Organizations',
-    contactUs: 'Contact Dialogue',
-    forProvince: 'For Provincial Residents',
-    forCanadians: 'For Canadians',
-    generalInfo: 'General information',
-    elevatedInfection: 'People with an increased risk of infection',
-    elevatedMedical: 'People with an increased risk of complications',
-    travelPlans: 'People with travel plans'
+    aboutHeader: 'Über',
+    aboutMenu: [
+      ['Über diese Website', 'https://github.com/dialoguemd/covid-19/wiki'],
+      ['GitHub Project', 'https://github.com/dialoguemd/covid-19'],
+      ['Dialogue', 'https://dialogue.co/en'],
+      ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/']
+    ],
+    adminAreaHeader: 'Regionale Informationen',
+    classHeader: 'Für alle in Deutschland ansässigen Personen',
+    classMenu: [
+      ['Allgemeine Informationen', 'common'],
+      ['Menschen mit einem erhöhten Infektionsrisiko', 'elevated-covid-risk'],
+      [
+        'Menschen mit einem erhöhten Komplikationsrisiko',
+        'elevated-medical-risk'
+      ],
+      ['Menschen mit Reiseplänen', 'travel-plans']
+    ]
   },
   provinces: {
     BW: 'Baden-Württemberg',
