@@ -56,6 +56,21 @@ export default {
       ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/']
     ],
     adminAreaHeader: 'Pour les résidents de provinces',
+    adminAreaMenu: [
+      ['Québec', 'ca-qc'],
+      ['Alberta', 'ca-ab'],
+      ['Ontario', 'ca-on'],
+      ['Nouvelle-Écosse', 'ca-ns'],
+      ['Nouveau-Brunswick', 'ca-nb'],
+      ['Manitoba', 'ca-mb'],
+      ['Colombie-Britannique', 'ca-bc'],
+      ['Saskatchewan', 'ca-sk'],
+      ['Île-du-Prince-Édouard', 'ca-pe'],
+      ['Yukon', 'ca-yt'],
+      ['Territoires du Nord-Ouest', 'ca-nt'],
+      ['Terre-Neuve et Labrador', 'ca-nl'],
+      ['Nuvavut', 'ca-nu']
+    ],
     classHeader: 'Pour les Canadiens',
     classMenu: [
       ['Informations générales', 'common'],
@@ -69,20 +84,5 @@ export default {
       ],
       ['Personnes avec des voyages prévus', 'travel-plans']
     ]
-  },
-  provinces: {
-    QC: 'Québec',
-    AB: 'Alberta',
-    ON: 'Ontario',
-    NS: 'Nouvelle-Écosse',
-    NB: 'Nouveau-Brunswick',
-    MB: 'Manitoba',
-    BC: 'Colombie-Britannique',
-    SK: 'Saskatchewan',
-    PE: 'Île-du-Prince-Édouard',
-    YT: 'Yukon',
-    NT: 'Territoires du Nord-Ouest',
-    NL: 'Terre-Neuve et Labrador',
-    NU: 'Nuvavut'
   }
 }

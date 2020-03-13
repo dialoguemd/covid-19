@@ -5,9 +5,6 @@ import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
 
 import { mobileBreakpoint } from 'theme'
-import { requireRegionFile, getRegionId } from 'services/region-loader'
-const config = requireRegionFile('config.json')
-const regionId = getRegionId()
 
 const FooterContainer = styled.div`
   background-color: ${props => props.theme.colors.backgroundLight};
@@ -72,11 +69,6 @@ const AutoScrollLink: React.FC<any> = props => {
   return <Link onClick={scrollToContent} {...props} />
 }
 
-const classifiedAdminAreas = config.ADMIN_AREAS.map(area => [
-  `${regionId}-${area.toLowerCase()}`,
-  area
-])
-
 export const Footer: React.FC = props => {
   const { t, i18n } = useTranslation()
 
@@ -84,6 +76,15 @@ export const Footer: React.FC = props => {
     returnObjects: true,
     defaultValue: []
   })
+
+  const adminAreaMenu: Array<[string, string]> = i18n.t(
+    'footer.adminAreaMenu',
+    {
+      returnObjects: true,
+      defaultValue: []
+    }
+  )
+
   const classMenu: Array<[string, string]> = i18n.t('footer.classMenu', {
     returnObjects: true,
     defaultValue: []
@@ -92,30 +93,36 @@ export const Footer: React.FC = props => {
   return (
     <FooterContainer {...props}>
       <FooterContent>
-        <FooterColumn>
-          <h3>{t('footer.aboutHeader')}</h3>
-          {aboutMenu.map(([text, url]) => (
-            <a key={text} href={url}>
-              {text}
-            </a>
-          ))}
-        </FooterColumn>
-        <FooterColumn>
-          <h3>{t('footer.adminAreaHeader')}</h3>
-          {classifiedAdminAreas.map(([areaClass, area]) => (
-            <AutoScrollLink key={area} to={`/info?id=${areaClass}`}>
-              {t(`provinces.${area}`)}
-            </AutoScrollLink>
-          ))}
-        </FooterColumn>
-        <FooterColumn>
-          <h3>{t('footer.classHeader')}</h3>
-          {classMenu.map(([text, classes]) => (
-            <AutoScrollLink key={text} to={`/info?id=${classes}`}>
-              {text}
-            </AutoScrollLink>
-          ))}
-        </FooterColumn>
+        {aboutMenu.length > 0 && (
+          <FooterColumn>
+            <h3>{t('footer.aboutHeader')}</h3>
+            {aboutMenu.map(([text, url]) => (
+              <a key={text} href={url}>
+                {text}
+              </a>
+            ))}
+          </FooterColumn>
+        )}
+        {adminAreaMenu.length > 0 && (
+          <FooterColumn>
+            <h3>{t('footer.adminAreaHeader')}</h3>
+            {adminAreaMenu.map(([text, classes]) => (
+              <AutoScrollLink key={text} to={`/info?id=${classes}`}>
+                {text}
+              </AutoScrollLink>
+            ))}
+          </FooterColumn>
+        )}
+        {classMenu.length > 0 && (
+          <FooterColumn>
+            <h3>{t('footer.classHeader')}</h3>
+            {classMenu.map(([text, classes]) => (
+              <AutoScrollLink key={text} to={`/info?id=${classes}`}>
+                {text}
+              </AutoScrollLink>
+            ))}
+          </FooterColumn>
+        )}
       </FooterContent>
       <BottomText>© 2020 Dialogue</BottomText>
     </FooterContainer>

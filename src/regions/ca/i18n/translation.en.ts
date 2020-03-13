@@ -54,6 +54,21 @@ export default {
       ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/']
     ],
     adminAreaHeader: 'For Provincial Residents',
+    adminAreaMenu: [
+      ['Quebec', 'ca-qc'],
+      ['Alberta', 'ca-ab'],
+      ['Ontario', 'ca-on'],
+      ['Nova Scotia', 'ca-ns'],
+      ['New Brunswick', 'ca-nb'],
+      ['Manitoba', 'ca-mb'],
+      ['British Columbia', 'ca-bc'],
+      ['Saskatchewan', 'ca-sk'],
+      ['Prince Edward Island', 'ca-pe'],
+      ['Yukon', 'ca-yt'],
+      ['Northern Territories', 'ca-nt'],
+      ['Newfoundland and Labrador', 'ca-nl'],
+      ['Nuvavut', 'ca-nu']
+    ],
     classHeader: 'For Canadians',
     classMenu: [
       ['General information', 'common'],
@@ -64,20 +79,5 @@ export default {
       ],
       ['People with travel plans', 'travel-plans']
     ]
-  },
-  provinces: {
-    QC: 'Quebec',
-    AB: 'Alberta',
-    ON: 'Ontario',
-    NS: 'Nova Scotia',
-    NB: 'New Brunswick',
-    MB: 'Manitoba',
-    BC: 'British Columbia',
-    SK: 'Saskatchewan',
-    PE: 'Prince Edward Island',
-    YT: 'Yukon',
-    NT: 'Northern Territories',
-    NL: 'Newfoundland and Labrador',
-    NU: 'Nuvavut'
   }
 }

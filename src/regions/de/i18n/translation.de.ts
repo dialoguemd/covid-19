@@ -38,6 +38,24 @@ export default {
       ['Kontakt', 'https://www.argumed.net/kontakt/']
     ],
     adminAreaHeader: 'Regionale Informationen',
+    adminAreaMenu: [
+      ['Baden-Württemberg', 'de'],
+      ['Bayern', 'de'],
+      ['Berlin', 'de'],
+      ['Brandenburg', 'de'],
+      ['Bremen', 'de'],
+      ['Hamburg', 'de'],
+      ['Hessen', 'de'],
+      ['Mecklenburg-Vorpommern', 'de'],
+      ['Niedersachsen', 'de'],
+      ['Nordrhein-Westfalen', 'de'],
+      ['Rheinland-Pfalz', 'de'],
+      ['Saarland', 'de'],
+      ['Sachsen', 'de'],
+      ['Sachsen-Anhalt', 'de'],
+      ['Schleswig-Holstein', 'de'],
+      ['Thüringen', 'de']
+    ],
     classHeader: 'Für alle in Deutschland ansässigen Personen',
     classMenu: [
       ['Allgemeine Informationen', 'common'],
@@ -48,23 +66,5 @@ export default {
       ],
       ['Menschen mit Reiseplänen', 'travel-plans']
     ]
-  },
-  provinces: {
-    BW: 'Baden-Württemberg',
-    BY: 'Bayern',
-    BE: 'Berlin',
-    BB: 'Brandenburg',
-    HB: 'Bremen',
-    HH: 'Hamburg',
-    HE: 'Hessen',
-    MV: 'Mecklenburg-Vorpommern',
-    NI: 'Niedersachsen',
-    NW: 'Nordrhein-Westfalen',
-    RP: 'Rheinland-Pfalz',
-    SL: 'Saarland',
-    SN: 'Sachsen',
-    ST: 'Sachsen-Anhalt',
-    SH: 'Schleswig-Holstein',
-    TH: 'Thüringen'
   }
 }
