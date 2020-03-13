@@ -27,18 +27,24 @@ export default {
     'elevated-covid-risk': 'Menschen mit einem erhöhten Infektionsrisiko'
   },
   footer: {
-    about: 'Über',
-    aboutThisSite: 'Über diese Website',
-    githubProject: 'GitHub Project',
-    dialogue: 'Dialogue',
-    organizationResources: 'Resources for Canadian Organizations',
-    contactUs: 'Kontakt-Dialog',
-    forProvince: 'For Regions',
-    forCanadians: 'For Germany',
-    generalInfo: 'Allgemeine Informationen',
-    elevatedInfection: 'Menschen mit einem erhöhten Infektionsrisiko',
-    elevatedMedical: 'Menschen mit einem erhöhten Komplikationsrisiko',
-    travelPlans: 'Menschen mit Reiseplänen'
+    aboutHeader: 'Über',
+    aboutMenu: [
+      ['Über diese Website', 'https://github.com/dialoguemd/covid-19/wiki'],
+      ['GitHub Project', 'https://github.com/dialoguemd/covid-19'],
+      ['Dialogue', 'https://dialogue.co/en'],
+      ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/']
+    ],
+    adminAreaHeader: 'Regionale Informationen',
+    classHeader: 'Für alle in Deutschland ansässigen Personen',
+    classMenu: [
+      ['Allgemeine Informationen', 'common'],
+      ['Menschen mit einem erhöhten Infektionsrisiko', 'elevated-covid-risk'],
+      [
+        'Menschen mit einem erhöhten Komplikationsrisiko',
+        'elevated-medical-risk'
+      ],
+      ['Menschen mit Reiseplänen', 'travel-plans']
+    ]
   },
   provinces: {
     BW: 'Baden-Württemberg',
