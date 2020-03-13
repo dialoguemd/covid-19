@@ -4,7 +4,9 @@ export default {
     'Ich bin Chloe, eine automatische medizinische Assistentin. Ich bin hier, um Ihnen genaue Informationen über COVID-19 zu geben. Um sie für Ihre Situation relevant zu machen, möchte ich Ihnen ein paar Fragen stellen. Es sollte nicht länger als ein paar Minuten dauern.',
   consent: `Zur Verarbeitung Ihrer personenbezogenen Daten benötige ich Ihre Einwilligung. Wir verarbeiten Ihre Daten lediglich, um für Sie relevante Informationen zu COVID-19 zur Verfügung zu stellen und diese Anwendung weiter zu verbessern. Die Einwilligung kann jederzeit ohne Angabe von Gründen widerrufen werden. Alle Informationen zum Widerruf und zu den Einzelheiten der Datenverarbeitung finden Sie in unserer [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/Datenschutzerkl%C3%A4rung). 
 
-  Mit der Verarbeitung Ihrer personenbezogenen Daten (einschließlich Gesundheitsdaten) durch die Argumed Consulting Group GmbH, Ohmstraße 11, 80802 München, und die Dialogue Technologies Inc., 390 Notre-Dame St W #200 Montreal, QC H2Y 1T9 sind Sie einverstanden?
+  Mit der Verarbeitung Ihrer personenbezogenen Daten (einschließlich Gesundheitsdaten) durch die Argumed Consulting Group GmbH, Ohmstraße 11, 80802 München, und die Dialogue Technologies Inc., 390 Notre-Dame St W #200 Montreal, QC H2Y 1T9
+  
+  **sind Sie einverstanden?**
     `,
   intro3:
     'Bitte beachten Sie, dass es sich bei den Informationen, die Sie erhalten, nicht um eine medizinische Beurteilung handelt. Wenn Sie schwere Symptome haben, suchen Sie einen Arzt auf. Dieser Service ist kein Ersatz für die Beratung durch Ihren Arzt. Die von uns bereitgestellten Informationen stammen aus öffentlich zugänglichen Quellen und unterliegen häufigen Änderungen.',
