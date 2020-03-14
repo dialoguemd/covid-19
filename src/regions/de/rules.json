@@ -1,40 +1,6 @@
 [
   {
     "conditions": {
-      "all": [
-        {
-          "fact": "askForLocationOptions",
-          "operator": "equal",
-          "value": "de"
-        }
-      ]
-    },
-    "event": {
-      "type": "askForLocationOptions",
-      "params": {
-        "classes": ["de"]
-      }
-    }
-  },
-  {
-    "conditions": {
-      "all": [
-        {
-          "fact": "askForLocationOptions",
-          "operator": "equal",
-          "value": "QC"
-        }
-      ]
-    },
-    "event": {
-      "type": "classification",
-      "params": {
-        "classes": ["ca-qc"]
-      }
-    }
-  },
-  {
-    "conditions": {
       "any": [
         {
           "fact": "askHasRangeOptions",
@@ -78,7 +44,7 @@
     "event": {
       "type": "classification",
       "params": {
-        "classes": ["common"]
+        "classes": ["common", "de"]
       }
     }
   },
