@@ -10,8 +10,6 @@ Les résidents du Québec qui développent des symptômes de fièvre, toux ou di
 
 ### Pour les citoyens qui ne reviennent pas de voyage mais qui présentent des symptômes
 
-Toutes les personnes qui présentent, à compter du 12 mars 2020, des symptômes associés à la grippe ou au rhume doivent se placer en [isolement volontaire](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1) tant qu’elles ont des symptômes. L’isolement à la maison n’est pas requis pour les autres membres du ménage qui ne présentent aucun symptôme.
+Selon le [gouvernement du Québec](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/), les personnes qui reviennent d'un voyage peuvent choisir de se mettre en isolement. L'auto-isolement au retour d'un voyage est obligatoire pour tous les employés de la fonction publique et les travailleurs des secteurs de la santé, de l'éducation et des services de garde, tant privés que publics, qui reviennent de l'étranger. Les employés du secteur public poursuivront leur traitement pendant la période d'isolement.
 
 Les personnes qui ont un doute sur leur état de santé doivent composer, sans frais, le 1 877 644-4545.
-
-[Source: Gouvernement du Québec](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
