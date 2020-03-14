@@ -10,4 +10,4 @@ Hier finden Sie eine weitere Auswahl von Hotlines, die bundesweit zum Thema Coro
 - Beratungsservice für Gehörlose und Hörgeschädigte - Fax: 030 / 340 60 66 07, info.deaf@bmg.bund.de / info.gehoerlos@bmg.bund.de
 - [Gebärdentelefon](https://www.gebaerdentelefon.de/bmg/) (Videotelefonie)
 
-[Bundesministerium für Gesundheit](https://www.bundesgesundheitsministerium.de/coronavirus.html) [Robert Koch-Institut](https://tools.rki.de/plztool)
+Quellen: [Bundesministerium für Gesundheit](https://www.bundesgesundheitsministerium.de/coronavirus.html); [Robert Koch-Institut](https://tools.rki.de/plztool)
