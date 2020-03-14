@@ -3,7 +3,7 @@ export default {
     headerTitle: 'COVID-19: Was Sie wissen müssen',
     noResultsMessage: 'Keine Ergebnisse in URL angegeben.',
     changeAudienceTitle: 'Trifft auf Sie nicht zu?',
-    changeAudience: 'Personalisierte Informationen erhalten',
+    changeAudience: 'Chatbot starten',
     audiencePrefix: 'Die folgenden Informationen gelten für:',
     lastModified: 'Aktualisiert {{date}}',
     feedbackLabel: 'War das nützlich?'
@@ -25,9 +25,9 @@ export default {
   classes: {
     common: 'alle deutschen Einwohner',
     de: 'Einwohner jeder deutschen Region',
-    'travel-plans': 'Menschen mit Reiseplänen',
-    'elevated-medical-risk': 'Menschen mit einem erhöhten Komplikationsrisiko',
-    'elevated-covid-risk': 'Menschen mit einem erhöhten Infektionsrisiko'
+    'travel-plans': 'Informationen für Reisende',
+    'elevated-medical-risk': 'Personen die einer Risikogruppe zugehören',
+    'elevated-covid-risk': 'Personen mit einem erhöhten Infektionsrisiko'
   },
   footer: {
     aboutHeader: 'Über',
@@ -59,12 +59,9 @@ export default {
     classHeader: 'Für alle in Deutschland ansässigen Personen',
     classMenu: [
       ['Allgemeine Informationen', 'common'],
-      ['Menschen mit einem erhöhten Infektionsrisiko', 'elevated-covid-risk'],
-      [
-        'Menschen mit einem erhöhten Komplikationsrisiko',
-        'elevated-medical-risk'
-      ],
-      ['Menschen mit Reiseplänen', 'travel-plans']
+      ['Personen mit einem erhöhten Infektionsrisiko', 'elevated-covid-risk'],
+      ['Personen die einer Risikogruppe zugehören', 'elevated-medical-risk'],
+      ['Informationen für Reisende', 'travel-plans']
     ]
   }
 }
