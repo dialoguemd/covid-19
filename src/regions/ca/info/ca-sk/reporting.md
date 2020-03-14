@@ -12,4 +12,6 @@ If you have travelled to a country with a [level three travel advisory](https://
 
 All travellers are advised to monitor themselves for symptoms and to contact the local public health authority in their province or territory if they feel sick.
 
+If you have symptoms and recently traveled outside Canada or were exposed to someone who has COVID-19, stay home and call HealthLine 811 for instructions. Do not go to an ER or clinic. If your symptoms worsen or you need immediate medical attention, call 911.
+
 [Source: Government of Saskatchewan](https://saskatchewan.ca/coronavirus)
