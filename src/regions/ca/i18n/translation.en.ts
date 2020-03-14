@@ -42,6 +42,8 @@ export default {
     'elevated-covid-risk': 'people with an increased risk of infection'
   },
   footer: {
+    bottomText:
+      '© 2020 Dialogue. This site uses cookies for analytics. By continuing to use this site, you agree to this use.',
     aboutHeader: 'About',
     aboutMenu: [
       ['About this site', 'https://github.com/dialoguemd/covid-19/wiki'],

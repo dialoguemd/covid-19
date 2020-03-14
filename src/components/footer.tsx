@@ -124,7 +124,7 @@ export const Footer: React.FC = props => {
           </FooterColumn>
         )}
       </FooterContent>
-      <BottomText>© 2020 Dialogue</BottomText>
+      <BottomText>{t('footer.bottomText')}</BottomText>
     </FooterContainer>
   )
 }

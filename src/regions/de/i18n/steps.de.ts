@@ -3,7 +3,7 @@ export default {
   intro2:
     'Ich bin Chloe, Ihre virtuelle medizinische Assistentin. Ich bin hier, um Ihnen präzise Informationen aus öffentlichen Quellen über die Atemwegserkrankung COVID-19 zu geben. Damit die folgenden Informationen möglichst genau auf Ihre individuelle Situation abgestimmt sind, möchte ich Ihnen vorher ein paar Fragen stellen. Dies wird nicht länger als ein paar Minuten dauern.',
   consent:
-    'Es werden keine Fragen gestellt, die Sie persönlich identifizierbar machen. Bitte stimmen Sie mit Klick auf **Ja** der [Einwilligung zur Datenverarbeitung](https://github.com/dialoguemd/covid-19/wiki/German-Privacy-Page) und der [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/German-Data-Protection-page) zu. Andernfalls klicken Sie **Nein**',
+    'Es werden keine Fragen gestellt, die Sie persönlich identifizierbar machen. Bitte stimmen Sie mit Klick auf **Ja** der [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/Datenschutzerkl%C3%A4rung) zu. Andernfalls klicken Sie **Nein**',
   intro3:
     '**Bitte beachten Sie: Wenn Sie Krankheitssymptome haben, suchen Sie medizinischen Rat. Diese Anwendung stellt keine Diagnose und ersetzt keine Beratung durch einen Arzt.** Die von mir bereitgestellten Informationen stammen aus öffentlich zugänglichen Quellen und unterliegen regelmäßigen Änderungen.',
   'intro-option1': 'Lassen Sie uns starten!',

@@ -44,6 +44,8 @@ export default {
       "aux personnes présentant un risque accru d'infection"
   },
   footer: {
+    bottomText:
+      "© 2020 Dialogue. Ce site utilise des cookies à des fins d'analyse. En continuant à utiliser ce site, vous acceptez cette utilisation.",
     aboutHeader: 'À propos',
     aboutMenu: [
       ['À propos de ce site', 'https://github.com/dialoguemd/covid-19/wiki'],
