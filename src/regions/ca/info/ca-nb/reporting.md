@@ -1,6 +1,6 @@
 ## New Brunswick: Who should I contact if I think I have COVID-19?
 
-Anyone who has traveled internationally in the last 14 days should self-monitor for two weeks from when they arrived back in Canada. Individual risk will vary depending on the destination.
+Anyone who has traveled internationally in the last 14 days should self-isolate for two weeks from when they arrived back in Canada. Individual risk will vary depending on the destination.
 
 People arriving from the Chinese province of Hubei, Iran, and Italy will need to self-isolate when they return to Canada, regardless of symptoms.
 
@@ -18,5 +18,7 @@ Should these symptoms progress to include fever or cough, the individual should:
 These individuals should pay particular attention to taking everyday precautions as well as generally keeping space between themselves and others, such as minimizing attendance at crowded gatherings and mass events or thinking of other ways of participating (virtual attendance). Protect yourself and others.
 
 They should also think about what health and food supplies they need on hand should they have to stay home, and slowly start replenishing their shelves. Make a plan.
+
+If you are unsure if you should be isolating yourself, or if you have questions on how to do it, contact Regional Public Health or call Tele-Care 8-1-1.
 
 [Source: Government of New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
