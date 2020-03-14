@@ -12,4 +12,6 @@ Si vous avez voyagé dans un pays ayant un [avis aux voyageurs de niveau 3](http
 
 Il est conseillé à tous les voyageurs de se surveiller pour détecter les symptômes et de contacter l'autorité locale de santé publique de leur province ou territoire s'ils se sentent malades.
 
+Si vous présentez des symptômes et avez récemment voyagé à l'étranger ou avez été exposé à une personne atteinte de la COVID-19, restez chez vous et appelez la ligne Santé 811 pour obtenir des instructions. Ne vous rendez pas aux urgences ou dans une clinique. Si vos symptômes s'aggravent ou si vous avez besoin de soins médicaux immédiats, appelez le 911.
+
 [Source: Gouvernement de la Saskatchewan](https://www.saskatchewan.ca/bonjour/health-and-healthy-living/2019-novel-coronavirus)
