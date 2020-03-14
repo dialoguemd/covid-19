@@ -30,6 +30,7 @@ export default {
     'elevated-covid-risk': 'Personen mit einem erhöhten Infektionsrisiko'
   },
   footer: {
+    bottomText: "© 2020 Dialogue. Diese Website verwendet Cookies für Analysen. Wenn Sie diese Website weiterhin nutzen, stimmen Sie dieser Nutzung zu.",
     aboutHeader: 'Über',
     aboutMenu: [
       ['Über uns', 'https://www.argumed.net/impressum/'],
