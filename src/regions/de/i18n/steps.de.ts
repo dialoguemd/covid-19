@@ -48,7 +48,7 @@ export default {
   askHasCough: `Haben Sie Husten?`,
   askHasDifficultyBreathing: `Haben Sie Probleme mit der Atmung?`,
   askTraveledAffectedAreas: `
-  Sind Sie in den letzten 14 Tagen in eines der folgenden Gebiete gereist?`,
+  Sind Sie in den letzten 14 Tagen im Ausland gewesen?`,
   askHasImmuneDecreased: `Nun möchte ich Ihnen ein paar Fragen stellen, um herauszufinden, ob Sie ein geschwächtes Immunsystem haben.`,
   askHasImmuneDecreasedInfo: `
   Trifft **eine** der folgenden Fragen auf Sie zu?
