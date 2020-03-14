@@ -1,9 +1,9 @@
 export default {
   resultsPage: {
     headerTitle: 'COVID-19: Was Sie wissen müssen',
-    noResultsMessage: 'Keine Ergebnisse in URL angegeben.',
-    changeAudienceTitle: 'Trifft auf Sie nicht zu?',
-    changeAudience: 'Chatbot starten',
+    noResultsMessage: 'Keine Ergebnisse gefunden.',
+    changeAudienceTitle: 'Treffen die Informationen nicht auf Sie zu?',
+    changeAudience: 'Chatbot erneut starten',
     audiencePrefix: 'Die folgenden Informationen gelten für:',
     lastModified: 'Aktualisiert {{date}}',
     feedbackLabel: 'War das nützlich?'
@@ -23,9 +23,9 @@ export default {
     button: 'Es kann losgehen'
   },
   classes: {
-    common: 'alle deutschen Einwohner',
-    de: 'Einwohner jeder deutschen Region',
-    'travel-plans': 'Informationen für Reisende',
+    common: 'Allgemeine Informationen',
+    de: 'Personen jeder deutschen Region',
+    'travel-plans': 'Personen mit bevorstehender Reise',
     'elevated-medical-risk': 'Personen die einer Risikogruppe zugehören',
     'elevated-covid-risk': 'Personen mit einem erhöhten Infektionsrisiko'
   },
@@ -34,10 +34,10 @@ export default {
       '© 2020 Dialogue. Diese Website verwendet Cookies für Analysen. Wenn Sie diese Website weiterhin nutzen, stimmen Sie dieser Nutzung zu.',
     aboutHeader: 'Über',
     aboutMenu: [
-      ['Über uns', 'https://www.argumed.net/impressum/'],
+      ['Über uns', 'https://github.com/dialoguemd/covid-19/wiki'],
       ['GitHub Project', 'https://github.com/dialoguemd/covid-19'],
-      ['Argumed', 'https://www.argumed.net/'],
-      ['Kontakt', 'https://www.argumed.net/kontakt/']
+      ['Dialogue', 'https://www.dialogue.co/en'],
+      ['Kontakt', 'hhttps://www.dialogue.co/en/contact-us']
     ],
     adminAreaHeader: 'Regionale Informationen',
     adminAreaMenu: [
@@ -63,7 +63,7 @@ export default {
       ['Allgemeine Informationen', 'common'],
       ['Personen mit einem erhöhten Infektionsrisiko', 'elevated-covid-risk'],
       ['Personen die einer Risikogruppe zugehören', 'elevated-medical-risk'],
-      ['Informationen für Reisende', 'travel-plans']
+      ['Personen mit bevorstehender Reise', 'travel-plans']
     ]
   }
 }
