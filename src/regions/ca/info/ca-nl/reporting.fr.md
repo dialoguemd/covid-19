@@ -6,4 +6,10 @@ Toute personne qui s'est rendue dans la province chinoise de Hubei, en Iran ou e
 
 Ces délais s'appliquent aux personnes nouvellement arrivées dans la province et à celles qui sont déjà revenues. Toute personne qui répond à l'un ou l'autre des critères ci-dessus et qui développe de la fièvre, de la toux ou des difficultés respiratoires doit appeler le 811 pour recevoir de plus amples informations.
 
+### Informations pour les voyageurs
+
+Le gouvernement du Canada a conseillé aux Canadiens de limiter les voyages internationaux non essentiels.
+
+Pour obtenir les dernières informations concernant les conseils aux voyageurs, veuillez consulter [ce site]https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html
+
 [Source: Newfoundland and Labrador, Health and Community Services (en anglais)](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)

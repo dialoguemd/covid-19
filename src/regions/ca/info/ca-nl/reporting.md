@@ -6,4 +6,10 @@ Anyone who has been to the Hubei province of China, Iran, or Italy, or has been 
 
 These timelines apply to those newly arrived in the province and those who have already returned. Anyone who meets either of the above criteria who develops a fever, cough or difficulty breathing should call 811 to receive further information.
 
+### Information for travellers
+
+The Government of Canada has advised Canadians to curtail non-essential international travel.
+
+For the latest information related to travel advice, please visit [this site]https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html
+
 [Source: Newfoundland and Labrador, Health and Community Services](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)

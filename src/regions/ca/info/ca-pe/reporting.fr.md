@@ -6,7 +6,7 @@
 
 ### Que dois-je faire si je suis revenu de la province du Hubei, en Chine, ou de l’Iran au cours des 14 derniers jours?
 
-Les provinces et territoires recommandent que les voyageurs qui arrivent de la province du Hubei (y compris Wuhan) ou de l’Iran s’isolent volontairement pendant 14 jours après leur retour chez eux. Ces voyageurs doivent donc rester à la maison et ne pas se rendre à l’école ou au travail. Les voyageurs qui reviennent du Hubei sont encouragés à composer le 8-1-1 pour prendre contact avec les Services infirmiers de santé publique locaux afin d’obtenir des conseils et un soutien supplémentaires. Les Services infirmiers de santé publique peuvent aider les personnes qui ont voyagé à s’assurer qu’elles connaissent les symptômes à surveiller.
+Les provinces et territoires recommandent aux voyageurs qui arrivent de s'isoler à leur retour. Ces voyageurs doivent donc rester à la maison et ne pas se rendre à l’école ou au travail. Les voyageurs qui reviennent du Hubei sont encouragés à composer le 8-1-1 pour prendre contact avec les Services infirmiers de santé publique locaux afin d’obtenir des conseils et un soutien supplémentaires. Les Services infirmiers de santé publique peuvent aider les personnes qui ont voyagé à s’assurer qu’elles connaissent les symptômes à surveiller.
 
 ### Que dois-je faire si je n’ai pas voyagé récemment, mais que je suis tout de même préoccupé par le COVID-19?
 

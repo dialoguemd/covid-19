@@ -6,7 +6,7 @@ At this time, all travellers who have returned from affected areas(link is exter
 
 ### What should I do if I have travelled within the last 14 days from Hubei province in China or Iran?
 
-The provinces and territories are recommending that arriving travellers who have been in Hubei province (including Wuhan) or Iran voluntarily self-isolate for 14 days after arriving home. Self-isolation means these travellers should stay at home and not attend school or work. Returning travellers from Hubei are encouraged to call 811 to connect with local Public Health for further advice and support. Public Health is available to support people who have been travelling to ensure they know the symptoms to monitor themselves.
+The provinces and territories are recommending that arriving travellers must self-isolate upon returning home. Self-isolation means these travellers should stay at home and not attend school or work. Returning travellers from Hubei are encouraged to call 811 to connect with local Public Health for further advice and support. Public Health is available to support people who have been travelling to ensure they know the symptoms to monitor themselves.
 
 ### What should I do if I have not been travelling recently but I am still concerned about COVID-19?
 
@@ -17,5 +17,9 @@ If you have not been travelling recently but are still concerned about coronavir
 
 - If the answer is YES to either question, stay at home and call 811 for further assessment.
 - If the answer is NO to all questions, no special measures are needed. It is also that time of year when respiratory viruses that cause the common cold or other illness, like the flu, are circulating in our communities.
+
+### Should I cancel my travel plans?
+
+Effective March 13, 2020, the Chief Public Health Office advises: Stop all non-essential travel outside of Canada and Self-isolate for 14 days following all international travel, including the US.
 
 [Source: Government of Prince Edward Island](https://www.princeedwardisland.ca/en/information/health-and-wellness/coronavirus-covid-19-infection-frequently-asked-questions)
