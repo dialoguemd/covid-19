@@ -25,7 +25,11 @@ If you do not have a primary care provider, please call 8-1-1 for assessment. Th
 
 Nurses at 8-1-1 have been instructed to complete an exposure risk assessment of callers with compatible symptoms, such as cough or influenza-like symptoms. In some cases, the 8-1-1 nurses may suggest a caller go see a healthcare provider for assessment and testing, and recommend that the caller call ahead to tell the clinicians that they are coming.
 
-## How is the government ensuring that people who are told to self-isolate, actually self-isolate?
+## What should I do if I have been travelling?
+
+The Government now recommends that those returning from travel outside of Canada stay home and self-isolate for 14 days after they return. Monitor yourself daily for symptoms like fever, cough or difficulty breathing for these 14 days. If you develop symptoms, call 8-1-1 or speak with your health care provider to discuss any need for testing and follow up. Learn more about [self-isolation and self-monitoring here](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
+
+### How is the government ensuring that people who are told to self-isolate, actually self-isolate?
 
 Public Health asks three groups of individuals to self-isolate. The first group are confirmed cases of novel coronavirus and a second group are asymptomatic close contacts of a confirmed novel coronavirus case and asymptomatic travelers from areas severely affected by coronavirus. These two groups are asked to self-isolate for 14 days and are called daily by a Public Health nurse who monitors their health, as well as behaviours (if they have been out in public). If individuals in these two groups do not self-isolate, Public Health can use legal powers under the Public Health Act to ensure that self-isolation occurs.
 
