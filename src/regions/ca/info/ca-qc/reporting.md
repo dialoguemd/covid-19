@@ -6,7 +6,24 @@
 
 [Self-isolation](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#si) is mandatory for all public service employees and health care, education and daycare workers, both private and public, returning from abroad. Public sector employees will continue their treatment during the isolation period.
 
-Residents of Quebec who develop symptoms of fever, cough or difficulty breathing when they return from travelling abroad must contact the toll-free line 1 877 644-4545.
+People returning from a trip outside Canada and who are in home isolation must follow the instructions below.
+
+#### Stay at home
+
+- Do not go to school, work, daycare or daycare centres, or any public place.
+- Do not use public transportation.
+- Postpone any non-urgent medical appointments.
+- Do not have visitors in your home.
+
+#### Call 1-877-644-4545 if you have a cough or fever
+
+- Wait for a nurse to answer.
+- Do not go to a medical clinic without first making an appointment.
+- Go to the emergency room only if you are having trouble breathing.
+- Before going to the emergency department, call 1-877-644-4545 if your condition allows, indicating that you have been a returning traveller for less than 14 days. You will be told how to get there and what precautions to take (wearing a mask, using personal transportation or an ambulance, etc.). In addition, the hospital will be notified of your arrival.
+  Residents of Quebec who develop symptoms of fever, cough or difficulty breathing when they return from travelling abroad must contact the toll-free line 1 877 644-4545.
+
+Quebec residents who develop symptoms of fever, cough or breathing difficulties upon return from travel outside Canada should call, toll-free, 1 877 644-4545.
 
 ### For citizens who do not return from a trip but who show symptoms:
 
@@ -29,5 +46,7 @@ Several measures have been taken by the government to limit the spread, includin
 - prevention and control in the health care setting when an infection is suspected or confirmed;
 - the opening of designated clinics to care for people with symptoms;
 - the postponement of the municipal by-elections of March 15, 2020, and the 20 others scheduled by the end of April.
+
+They have also [ordered the closure of some shops and publics spaces](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/) effective until March 30th, 2020.
 
 [Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#app1)

@@ -6,6 +6,22 @@ Un [isolement volontaire](https://www.canada.ca/fr/sante-publique/services/malad
 
 Cet [isolement](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1) est obligatoire pour tous les employés de la fonction publique et pour tout le personnel de la santé, de l’éducation et des services de garde, privés et public, qui reviennent de l’étranger. Pour le secteur public, les employés conserveront leur traitement durant la période d’isolement.
 
+Les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent respecter les consignes décrites ci-dessous.
+
+#### Restez à la maison
+
+- N’allez pas à l’école, au travail, au CPE ou à la garderie, ni dans aucun endroit public.
+- N’empruntez pas les transports publics.
+- Reportez tout rendez-vous médical non urgent.
+- N’accueillez pas de visiteurs à la maison.
+
+#### Appelez au 1 877 644-4545 si vous avez de la toux ou de la fièvre
+
+- Attendez qu’une infirmière vous réponde.
+- Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
+- Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires.
+- Avant de vous rendre à l’urgence, contactez le 1 877 644-4545 si votre condition le permet, en indiquant que vous êtes un voyageur de retour depuis moins de 14 jours. On vous dira comment y aller et quelles précautions prendre (port de masque, utilisation de transport personnel ou d’une ambulance, etc.). De plus, l’hôpital sera avisé de votre arrivée.
+
 Les résidents du Québec qui développent des symptômes de fièvre, toux ou difficultés respiratoires à leur retour de voyage à l’extérieur du Canada doivent composer, sans frais, le 1 877 644-4545.
 
 ### Pour les citoyens qui ne reviennent pas de voyage mais qui présentent des symptômes
@@ -29,5 +45,7 @@ Plusieurs mesures ont été prises par le gouvernement pour limiter la propagati
 - la prévention et le contrôle en milieu de soins lorsqu’une infection est suspectée ou confirmée;
 - l’ouverture de cliniques désignées pour s’occuper des personnes présentant des symptômes;
 - le report des élections municipales partielles du 15 mars 2020 et des 20 autres prévues d’ici fin avril.
+
+Ils ont également [ordonné la fermeture de certains magasins et espaces publics](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/) jusqu'au 30 mars 2020.
 
 [Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1)
