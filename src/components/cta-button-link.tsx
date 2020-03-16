@@ -12,7 +12,7 @@ export const CtaButtonLink = styled(Link)`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   min-width: 6em;
   margin: 3px;
-  color: #fff;
+  color: ${props => props.theme.colors.backgroundLight};
   text-decoration: none;
   background: #079af3;
   display: block;
