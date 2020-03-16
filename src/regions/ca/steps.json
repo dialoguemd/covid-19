@@ -362,6 +362,6 @@
   {
     "id": "outro2",
     "message": "outro2",
-    "trigger": ""
+    "end": true
   }
 ]
