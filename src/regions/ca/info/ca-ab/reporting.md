@@ -1,8 +1,10 @@
 ## Alberta: Who should I contact if I think I have COVID-19?
 
-If you have symptoms and recently travelled outside Canada or were exposed to someone who has COVID-19, stay home and call [Health Link 811](https://www.albertahealthservices.ca/assets/healthinfo/link/index.html) for instructions. Do not go to the ER.
+If you recently returned from travel outside Canada or have symptoms - cough, fever, fatigue or difficulty breathing:
 
-If you need immediate medical attention, call 911 and inform them that you may have COVID-19.
+- stay home - do not go to an ER or clinic
+- take the [COVID-19 self-assessment test](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx)
+- call [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html) for testing and instructions
 
 [Source: Government of Alberta](https://www.alberta.ca/coronavirus-info-for-albertans.aspx)
 

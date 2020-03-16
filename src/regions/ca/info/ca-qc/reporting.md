@@ -38,8 +38,10 @@ Several measures have been taken by the government to limit the spread, includin
 - the adoption, on March 13, 2020, of a decree declaring a state of health emergency throughout Quebec. This exceptional measure allows, for example, the Minister of Health and Social Services and institutions to proceed without delay with the purchase of equipment or to enter into the necessary contracts to protect the health of the population;
 - the 14-day voluntary isolation of all persons returning from abroad on March 12, 2020, or at a later date;
 - compulsory isolation of 14 days for all public service employees and for all health, education and childcare personnel, both private and public, returning from abroad on 12 March 2020 or later;
+- the closing of several businesses and public spaces in the cultural and tourist sectors;
 - a ban on all indoor gatherings of more than 250 people;
 - encouragement to avoid all unnecessary internal gatherings;
+- elderly people 70 years of age and over are urged to stay at home, except in the case of necessity or in exceptional circumstances, such as a medical appointment. Such individuals can also go for a walk and should follow health recommendations;
 - the closure of all childcare services (CPEs, subsidized, non-subsidized, home-based and non-regulated childcare services) and the education system (primary and secondary schools, training centres, private schools, CEGEPs, colleges and universities) from Monday, March 16 to Friday, March 27. However, measures will be put in place to continue to offer childcare services to parents who work in the health and social services network and in essential services (e.g., police officers, firefighters, ambulance attendants, correctional services officers, special constables);
 - prohibiting regular visits to hospitals, CHSLDs and private homes for the elderly throughout Québec;
 - coverage, by the Régie de l'assurance maladie du Québec (RAMQ), of health services related to COVID-19 provided by correspondence or telecommunications;

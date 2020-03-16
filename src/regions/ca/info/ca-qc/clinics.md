@@ -32,15 +32,13 @@ Sainte-Justine Hospital also asks all visitors presenting symptoms associated wi
 
 ### 📍 Quebec area
 
-According to [this source](https://globalnews.ca/news/6654510/quebec-coronavirus-clinics-how-they-work/), another clinic has opened in Quebec City. We will confirm with more information as it becomes available.
-
 If a case is confirmed and requires hospitalization, it will be managed in one of the designated centres of a centre of expertise in infectiology.
 
 In Québec City, the designated centres are the Institut universitaire de cardiologie et de pneumologie de Québec (IUCPQ) for adult patients and the Centre mère-enfant Soleil for pediatric patients.
 
 If the IUCPQ overflows, patients may be referred to the Enfant-Jésus Hospital.
 
-[Source: CHU du Québec - Université Laval](<chudequebec.ca/coronavirus-(covid-19)/trajectoire-regionale.aspx>)
+[Source: CHU du Québec - Université Laval](<https://www.chudequebec.ca/coronavirus-(covid-19)/trajectoire-regionale.aspx>)
 
 ### 📍 Estrie area
 

@@ -2,16 +2,14 @@
 
 Like most respiratory illnesses, most people with common coronavirus illness will recover on their own. There is no specific treatment for disease caused by a novel coronavirus. However, many of the symptoms can and should be treated. If symptoms feel worse than a standard cold, see a health care provider or call Healthline at 811.
 
-If you are planning to see your health care provider or go to the emergency room, please call ahead and explain your symptoms and travel history so they can make appropriate safety accommodations.
+If you are planning to see your health care provider or go to the emergency room, please call ahead and explain your symptoms and travel history so they can make appropriate safety accommodations. If HealthLine 811 recommends you seek acute care, they will provide instruction to call ahead.
+
+If you have symptoms and recently traveled outside Canada or were exposed to someone who has COVID-19, stay home and call HealthLine 811 for instructions. Do not go to an ER or clinic. If your symptoms worsen or you need immediate medical attention, call 911.
+
+Additionally, Saskatchewan has launched its own self-assessment tool [here](https://saskatchewan.ca/coronavirus#utm_campaign=q2_2015&utm_medium=short&utm_source=%2Fcoronavirus).
 
 ### Travel guidance:
 
-All travellers should self-monitor for symptoms of COVID-19 (fever, cough or difficulty breathing) for 14 days after returning to Canada and avoid places where you cannot easily separate yourself from others if you become ill. If you have even mild symptoms, stay home and call HealthLine 811 for advice.
-
-If you have travelled to a country with a [level three travel advisory](https://travel.gc.ca/travelling/health-safety/travel-health-notices), limit your contact with others for a total of 14 days starting the day you began your journey to Canada. This means self-isolate and stay at home. Contact HealthLine 811 within 24 hours of arriving in Canada for direction.
-
-All travellers are advised to monitor themselves for symptoms and to contact the local public health authority in their province or territory if they feel sick.
-
-If you have symptoms and recently traveled outside Canada or were exposed to someone who has COVID-19, stay home and call HealthLine 811 for instructions. Do not go to an ER or clinic. If your symptoms worsen or you need immediate medical attention, call 911.
+The Public Health Agency of Canada is recommending residents postpone or cancel all non-essential travel outside of Canada. All travellers are being asked to self-isolate for 14 days after returning to Canada as a precaution.
 
 [Source: Government of Saskatchewan](https://saskatchewan.ca/coronavirus)

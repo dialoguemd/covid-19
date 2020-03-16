@@ -1,25 +1,21 @@
 ## Prince Edward Island: Who should I contact if I think I have COVID-19?
 
-### What should I do if I have travelled within the last 14 days from areas affected by COVID-19(link is external) (other than Hubei province in China or Iran)?
-
-At this time, all travellers who have returned from affected areas(link is external) (other than Hubei province or Iran) are being asked to monitor themselves and their children closely for 14 days after returning home, and to call 811 if they develop any symptoms (fever, cough, or difficulty breathing).
-
-### What should I do if I have travelled within the last 14 days from Hubei province in China or Iran?
-
-The provinces and territories are recommending that arriving travellers must self-isolate upon returning home. Self-isolation means these travellers should stay at home and not attend school or work. Returning travellers from Hubei are encouraged to call 811 to connect with local Public Health for further advice and support. Public Health is available to support people who have been travelling to ensure they know the symptoms to monitor themselves.
-
-### What should I do if I have not been travelling recently but I am still concerned about COVID-19?
-
-If you have not been travelling recently but are still concerned about coronavirus, please read the following questions carefully:
-
-1. In the past 14 days, have you been in close contact with a confirmed case of novel coronavirus?
-2. In the past 14 days, have you been in close contact with a person with fever or acute respiratory illness (new or worsening cough or difficulty breathing) who has been travelling to an affected area(link is external) within 14 days prior to becoming ill?
-
-- If the answer is YES to either question, stay at home and call 811 for further assessment.
-- If the answer is NO to all questions, no special measures are needed. It is also that time of year when respiratory viruses that cause the common cold or other illness, like the flu, are circulating in our communities.
-
-### Should I cancel my travel plans?
-
 Effective March 13, 2020, the Chief Public Health Office advises: Stop all non-essential travel outside of Canada and Self-isolate for 14 days following all international travel, including the US.
+
+### When should I call 811?
+
+If you have just returned from outside of Canada and have symptoms including a cough, fever or difficulty breathing, call 811 to be screened, and if necessary, directed to a clinic for testing.
+
+811 is experiencing higher than normal call volumes. It will take longer than usual to respond to your call. They are working hard to respond to all calls as quickly as possible. Thank you for your patience.
+
+If you answer YES to any of the questions below, call 811
+
+Within the last 14 days have you:
+
+- travelled outside of Canada and have a fever greater than 38 C AND/OR a cough
+- been in close contact (within 2 meters) with a person with a laboratory confirmed case of COVID-19?
+- you develop a fever or a cough
+
+If you answered NO to all the above questions and you are looking for general information about COVID-19, visit [this site](princeedwardisland.ca/covid19)
 
 [Source: Government of Prince Edward Island](https://www.princeedwardisland.ca/en/information/health-and-wellness/coronavirus-covid-19-infection-frequently-asked-questions)

@@ -2,9 +2,7 @@
 
 If you've travelled outside Canada, you may have come in contact with the novel coronavirus. If you start to feel unwell, you should self isolate – this means staying home, away from the public.
 
-Upon returning to Canada, you will be instructed at border entry points and through public messaging to monitor your health for 14 days from the day you entered Canada and minimize your contact with individuals who are at high risk of severe COVID-19 illness.
-
-If you've travelled to Italy, Iran, and Hubei Province in China, you are asked to self-isolate for 14 days from the day you entered Canada.
+The Province of Nova Scotia, under the authority of the Health Protection Act, is requiring anyone who has travelled outside Canada to self-isolate for 14 days upon return, even if you are symptom-free.
 
 If you develop a fever, with a temperature 38°C or higher, or a cough, you should call 811 for assessment.
 
