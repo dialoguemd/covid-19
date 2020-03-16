@@ -2,6 +2,8 @@
 
 ### 📍 Région de Montréal
 
+#### Cliniques pour adultes
+
 La clinique désignée COVID-19 est accessible sur rendez-vous seulement.
 
 À Montréal, la première clinique désignée COVID-19, site Centre-Sud, vient d'ouvrir ses portes dans l’ancien Hôpital Hôtel-Dieu. Selon cette [source](https://globalnews.ca/news/6654510/quebec-coronavirus-clinics-how-they-work/), une autre clinique de la Montérégie ouvrira ses portes au début de la semaine prochaine. Des démarches sont en cours dans l’est et l’ouest de l’Île pour identifier deux nouveaux lieux.
@@ -13,6 +15,20 @@ Des mesures de prévention rigoureuses sont déployées au sein de la clinique p
 Si vous croyez avoir une infection au COVID-19, vous pouvez contacter, sans frais, le 1 877 644-4545, avant de consulter. Une infirmière évaluera la situation et vous transmettra des recommandations appropriées. Si une consultation médicale est requise dans une clinique désignée COVID-19, l’infirmière d’Info-Santé 811 vous donnera un rendez-vous. Si votre état de santé nécessite une hospitalisation, l’Hôpital général juif (clientèle adulte) et le CHU Sainte-Justine (clientèle pédiatrique) demeurent les centres désignés pour l’hospitalisation des cas confirmés.
 
 [Source: Governement du Québec](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c35268)
+
+#### Cliniques pour enfants
+
+Le CHU Sainte-Justine souhaite informer la population qu’il met en place un formulaire électronique visant à prioriser l’accès à un rendez-vous de sa clinique de dépistage de la COVID-19 aux enfants rentrant de voyage et présentant des symptômes.
+
+Ce formulaire en ligne est uniquement destiné aux familles dont les enfants reviennent de voyage et qui présentent des symptômes pouvant s’apparenter à ceux associés à la COVID-19, soit de la fièvre, des problèmes respiratoires et/ou de la toux.
+
+Pour obtenir un rendez-vous à la clinique de dépistage de la COVID-19 du CHU Sainte-Justine, visitez notre site Web pour [compléter le formulaire en ligne](https://www.chusj.org/fr/soins-services/C/COVID-19/Clinique-COVID-19?prov=news150320).
+
+Pour ceux qui seraient déjà passés par la ligne téléphonique du gouvernement du Québec (1 877 644-4545) ou par le 811, merci de ne pas vous diriger vers ce service en ligne qui se veut complémentaire.
+
+Le CHU Sainte-Justine demande également à tout visiteur présentant des symptômes associés à la COVID-19, ayant voyagé à l’extérieur du pays au cours des 14 derniers jours ou ayant été en contact avec une personne diagnostiquée, d’éviter de se présenter à ses établissements.
+
+[Source](https://www.chusj.org/fr/Calendrier-salle-presse/nouvelles/actualites/2020/outil-en-ligne-despistage-covid19-coronavirus)
 
 ### 📍 Région de Québec
 
