@@ -14,7 +14,7 @@ export const CtaButtonLink = styled(Link)`
   margin: 3px;
   color: ${props => props.theme.colors.backgroundLight};
   text-decoration: none;
-  background: #079af3;
+  background: ${props => props.theme.colors.primary};
   display: block;
   text-align: center;
   flex-shrink: 0;
