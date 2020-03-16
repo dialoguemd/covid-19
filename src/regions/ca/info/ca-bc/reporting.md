@@ -1,21 +1,17 @@
 ## British Columbia: Who should I contact if I think I have COVID-19?
 
-The symptoms of COVID-19 are similar to other respiratory illnesses, including the flu and common cold. They include cough, sneezing, fever, sore throat and difficulty breathing.
+If you have symptoms such as fever, cough or difficulty breathing and have travelled outside of Canada or have been exposed to someone who has COVID-19, avoid contact with others. See a health care provider as soon as possible.
 
-Contact your healthcare provider if you have developed symptoms and have been in close contact with someone known to have COVID-19. Do the same if you develop symptoms and have been in contact with a traveller returning from an affected area with widespread community spread of COVID-19.
+If you are going to visit your health care provider, call them ahead of time so they can arrange for you to be assessed safely. Wear a mask in order to protect others. If you are unsure about what to do or have concerns or questions, contact HealthLinkBC (8-1-1) at any time or speak with your health care provider.
 
-Tell your health-care professional:
+When seeing a health care provider, please tell them:
 
-- your symptoms;
-- where you have been travelling or living;
-- if you had direct contact with animals (for example, if you visited a live animal market); and
-- if you had close contact with a sick person, especially if they had a fever, cough or difficulty breathing.
+- Your symptoms
+- Where you have been travelling or living
+- If you had direct contact with animals (for example, if you visited a live animal market)
+- If you had close contact with a sick person, especially if they had a fever, cough or difficulty breathing.
 
-Call ahead to the health-care facility you are planning to visit so they can be prepared to take precautions. In an emergency, describe your symptoms, travel history and any sick contacts when you first arrive at the facility so that appropriate precautions can be taken.
-
-Until more is understood about the virus, older people and people with a weakened immune system or underlying medical condition are considered at higher risk of severe disease.
-
-### I think that I have COVID-19, should I consult in person?
+### I think that I have COVID-19, can I come in to the emergency department to get tested?
 
 At this time we are asking patients to avoid going to the emergency department for novel coronavirus testing.
 
@@ -31,10 +27,13 @@ The Government now recommends that those returning from travel outside of Canada
 
 ### How is the government ensuring that people who are told to self-isolate, actually self-isolate?
 
-Public Health asks three groups of individuals to self-isolate. The first group are confirmed cases of novel coronavirus and a second group are asymptomatic close contacts of a confirmed novel coronavirus case and asymptomatic travelers from areas severely affected by coronavirus. These two groups are asked to self-isolate for 14 days and are called daily by a Public Health nurse who monitors their health, as well as behaviours (if they have been out in public). If individuals in these two groups do not self-isolate, Public Health can use legal powers under the Public Health Act to ensure that self-isolation occurs.
+The spread of novel coronavirus occurs with sustained close contact with an affected individual, for example, sitting in a car on a long trip, or living in the same household. Grocery stores – which are open and where people tend to walk around – are unlikely places to allow for virus spread
 
-The third group asked to self-isolate are low risk individuals who are tested for novel coronavirus. These individuals are asked to self-isolate for typically 96 hours until they receive their novel coronavirus testing results.
+A number of groups are being asked to self-isolate
 
-The spread of novel coronavirus occurs with sustained close contact with an affected individual, for example, sitting in a car on a long trip, or living in the same household. Grocery stores – which are open and where people tend to walk around – are unlikely places to allow for virus spread.
+- Visitors to Canada and Canadians returning home. [Learn more here](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions).
+- Those with known exposure to COVID-19
+- Those with a confirmed case
+  The second and third groups are monitored by Public Health, both their health and their activities. If people do not voluntarily self-isolate, Public Health can use legal powers under the Public Health Act to ensure that self-isolation occurs.
 
 [Source: BV Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)

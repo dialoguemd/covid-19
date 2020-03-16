@@ -1,15 +1,18 @@
 ## Newfoundland and Labrador: Who should I contact if I think I have COVID-19?
 
-Individuals who have travelled outside of the country or attended a mass gathering event with international attendees in the 14 days prior to their return to Newfoundland and Labrador are asked to closely monitor their health and contact 811 if you develop fever, cough, or difficulty breathing.
+Anyone arriving from outside of Canada is asked to self-isolate and monitor for symptoms. You may also be asked to self-isolate if you have been exposed to someone with COVID-19.
 
-Anyone who has been to the Hubei province of China, Iran, or Italy, or has been in close contact with a confirmed case of COVID-19 or someone that is ill and has travelled to these areas, are asked to self-isolate (away from work and school) for 14 days from their last day in the region or their last contact with the affected person. They are asked to monitor themselves and their household contacts closely. Those in self-isolation should contact 811 to receive supporting health information from Newfoundland and Labrador Public Health.
+Newfoundlanders and Labradorians arriving from outside of Canada are asked to self-isolate, meaning stay home and do not got to work or school, and monitor for symptoms for 14 days after arrival in Canada.
 
-These timelines apply to those newly arrived in the province and those who have already returned. Anyone who meets either of the above criteria who develops a fever, cough or difficulty breathing should call 811 to receive further information.
+If you are not having symptoms, this means the following:
 
-### Information for travellers
+- Stay at home and do not go to work or school for 14 days.
+- Avoid close contact with people with chronic conditions, compromised immune systems and older adults.
+- You do not need COVID-19 testing if you do not have symptoms.
+- Monitor for symptoms (symptoms include: fever or coughing or difficulty breathing).
+- If you start having symptoms, isolate yourself from others as quickly as possible and call 811.
 
-The Government of Canada has advised Canadians to curtail non-essential international travel.
-
-For the latest information related to travel advice, please visit [this site]https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html
+Contact 811 for further direction.
+Additional instructions can be found [here](https://www.gov.nl.ca/covid-19/)
 
 [Source: Newfoundland and Labrador, Health and Community Services](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)

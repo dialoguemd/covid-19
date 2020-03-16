@@ -32,8 +32,6 @@ Le CHU Sainte-Justine demande également à tout visiteur présentant des sympt�
 
 ### 📍 Région de Québec
 
-Selon [cette source](https://globalnews.ca/news/6654510/quebec-coronavirus-clinics-how-they-work/), une autre clinique a ouvert à Québec. Nous confirmerons avec plus d'informations au fur et à mesure qu'elles seront disponibles.
-
 **Hôpitaux désignés**
 
 Si un cas s’avérait confirmé et nécessite une hospitalisation, ce dernier sera pris en charge dans un des centres désignés d’un pôle d’expertise en infectiologie.
@@ -42,7 +40,7 @@ Si un cas s’avérait confirmé et nécessite une hospitalisation, ce dernier s
 
 En cas de débordement de l’IUCPQ, des patients pourraient être dirigés vers l’Hôpital de l’Enfant-Jésus.
 
-[Source: CHU du Québec - Université Laval](<chudequebec.ca/coronavirus-(covid-19)/trajectoire-regionale.aspx>)
+[Source: CHU du Québec - Université Laval](<https://www.chudequebec.ca/coronavirus-(covid-19)/trajectoire-regionale.aspx>)
 
 ### 📍 Région de l'Estrie
 

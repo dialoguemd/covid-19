@@ -1,36 +1,39 @@
 ## 🛫 Travel Advice
 
-All travellers should be aware that there are health risks when you travel. It is important to [check your destination](https://travel.gc.ca/travelling/advisories) before you leave to know the risks and to be prepared.
+If you must travel, take precautions against respiratory illnesses, and seek medical attention if you become sick.
 
-While you are away, and when you return, it is important to monitor your health. If you become sick while travelling, call ahead to a health professional to explain your symptoms. If you become sick upon your return, call your local Public Health Authority for further instructions.
+**During your trip:**
 
-If you have travelled outside Canada, you can reduce the risk of spreading infection by following prevention measures when returning to Canada.
+- Avoid spending time in large crowds or crowded areas.
+- Avoid contact with sick people, especially if they have fever, cough, or difficulty breathing.
+- Be aware of the local situation and follow local public health advice.
 
-People can contract coronaviruses after coming into contact with an infected person. Current evidence suggests person-to-person spread is efficient when there is close contact.
+**All travellers are reminded to follow these health precautions:**
 
-There is no vaccine or treatment to prevent coronaviruses. Most people with common coronavirus illness will recover on their own.
+- Wash your hands:
+  - Wash your hands often with soap under warm running water for at least 20 seconds.
+  - Use alcohol-based hand sanitizer only if soap and water are not available. It's a good idea to always keep some with you when you travel.
+- Practise proper cough and sneeze etiquette:
+  - Cover your mouth and nose with your arm to reduce the spread of germs.
+  - If you use a tissue, dispose of it as soon as possible and wash your hands afterwards.
 
-If you are concerned that you have symptoms of COVID-19 such as fever, cough or difficulty breathing, contact your [local public health authority](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/2019-novel-coronavirus-information-sheet.html#pha) for further instructions.
+**Monitor your health:**
 
-### Safety and security abroad
+If you become sick when you are travelling, avoid contact with others except to see a health care professional.
 
-Travellers should expect increased health screening measures at points of entry for international destinations, including airports. Local authorities may impose control measures suddenly, including movement restrictions such as quarantines.
+If you feel sick during your flight to Canada or upon arrival, inform the flight attendant or a Canadian border services officer.
 
-Some governments have implemented special entry and exit restrictions for their territory. Before travelling, verify with the [foreign diplomatic mission](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng) of your destination to see if its authorities have implemented any specific restrictions related to this situation. These include entry requirements, border closures and flight suspensions.
+If you do not have symptoms but believe you were exposed to someone who was sick with COVID-19, report this information to a Canada border services agent on arrival in Canada. This is required under the Quarantine Act. The Canada border services agent will provide instructions for you to follow.
 
-To ensure you are aware of the latest developments on this evolving situation, we recommend:
+We have put messaging on arrivals screens at international airports that will help guide travellers to inform a border services officer if they are experiencing flu-like symptoms.
 
-- monitoring the news
-- reading all [travel advice and advisories](https://travel.gc.ca/travelling/advisories) for your destination
-
-If you are in an affected destination, we recommend:
-
-- following the instructions of local authorities
-- signing up to our [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive important updates
+In addition, information on what symptoms to identify and how to contact local health authorities will be provided to arriving travellers.
 
 ## 🌍 Avoid all non-essential international travel
 
-According to [this source](https://www.theglobeandmail.com/canada/article-avoid-non-essential-travel-outside-canada-trudeau-urges/), as of March 13, 2020, the government has asked that Canadian avoid all non-essential international travel.
+An official global travel advisory is in effect: **Avoid non-essential travel outside Canada until further notice.**
+
+[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
 
 ## 🚢 Avoid all travel on cruise ships
 

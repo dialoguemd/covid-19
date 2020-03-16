@@ -2,16 +2,14 @@
 
 Comme dans la plupart des cas de maladies respiratoires, la majorité des personnes atteintes d’une maladie courante causée par un coronavirus guériront d’elles-mêmes. Il n’existe aucun traitement spécifique pour une maladie causée par un nouveau coronavirus. Toutefois, bon nombre des symptômes peuvent et doivent être traités. Si les symptômes vous semblent pires que ceux d’un rhume ordinaire, consultez un fournisseur de soins de santé ou appelez la ligne Info-Santé en composant le 811.
 
-Si vous prévoyez de consulter votre fournisseur de soins de santé ou de vous rendre aux urgences, veuillez appeler à l'avance et expliquer vos symptômes et vos antécédents de voyage afin qu'il puisse prendre les mesures de sécurité appropriées.
+Si vous prévoyez de consulter votre fournisseur de soins de santé ou de vous rendre aux urgences, veuillez appeler à l'avance et expliquer vos symptômes et vos antécédents de voyage afin qu'il puisse prendre les mesures de sécurité appropriées.Si la ligne d'assistance médicale 811 vous recommande de vous faire soigner en urgence, elle vous donnera des instructions pour que vous puissiez appeler à l'avance.
+
+Si vous présentez des symptômes et que vous avez récemment voyagé à l'étranger ou que vous avez été exposé à une personne atteinte de la COVID-19, restez chez vous et appelez le HealthLine 811 pour obtenir des instructions. Ne vous rendez pas aux urgences ou dans une clinique. Si vos symptômes s'aggravent ou si vous avez besoin de soins médicaux immédiats, appelez le 911.
+
+En outre, la Saskatchewan a lancé son propre outil d'auto-évaluation [ici](https://saskatchewan.ca/coronavirus#utm_campaign=q2_2015&utm_medium=short&utm_source=%2Fcoro).
 
 ### Conseils aux voyageurs
 
-Tous les voyageurs devraient se surveiller eux-mêmes pour détecter les symptômes de la COVID-19 (fièvre, toux ou difficultés respiratoires) pendant 14 jours après leur retour au Canada et éviter les endroits où vous ne pouvez pas facilement vous séparer des autres si vous tombez malade. Si vous avez des symptômes, même légers, restez chez vous et appelez la ligne d'assistance médicale 811 pour obtenir des conseils.
-
-Si vous avez voyagé dans un pays ayant un [avis aux voyageurs de niveau 3](https://travel.gc.ca/travelling/health-safety/travel-health-notices), limitez vos contacts avec les autres pendant un total de 14 jours à compter du jour où vous avez commencé votre voyage au Canada. Cela signifie que vous devez vous isoler et rester chez vous. Contactez HealthLine 811 dans les 24 heures suivant votre arrivée au Canada pour obtenir des indications.
-
-Il est conseillé à tous les voyageurs de se surveiller pour détecter les symptômes et de contacter l'autorité locale de santé publique de leur province ou territoire s'ils se sentent malades.
-
-Si vous présentez des symptômes et avez récemment voyagé à l'étranger ou avez été exposé à une personne atteinte de la COVID-19, restez chez vous et appelez la ligne Santé 811 pour obtenir des instructions. Ne vous rendez pas aux urgences ou dans une clinique. Si vos symptômes s'aggravent ou si vous avez besoin de soins médicaux immédiats, appelez le 911.
+TL'Agence de la santé publique du Canada recommande aux résidents de reporter ou d'annuler tous les voyages non essentiels à l'extérieur du Canada. Par mesure de précaution, tous les voyageurs sont priés de s'isoler pendant 14 jours après leur retour au Canada.
 
 [Source: Gouvernement de la Saskatchewan](https://www.saskatchewan.ca/bonjour/health-and-healthy-living/2019-novel-coronavirus)

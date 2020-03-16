@@ -36,10 +36,12 @@ Plusieurs mesures ont été prises par le gouvernement pour limiter la propagati
 
 - l’adoption, le 13 mars 2020, d’un décret déclarant l’état d’urgence sanitaire sur tout le territoire québécois. Cette mesure exceptionnelle permet par exemple à la ministre de la Santé et des Services sociaux et aux établissements de procéder sans délai à l’achat d’équipements ou de conclure les contrats nécessaires pour protéger la santé de la population;
 - l’isolement volontaire de 14 jours de toutes les personnes qui reviennent de l’étranger le 12 mars 2020 ou à une date ultérieure;
+- la fermeture de plusieurs entreprises et espaces publics dans les secteurs culturel et touristique;
 - l’isolement obligatoire de 14 jours pour tous les employés de la fonction publique et pour tout le personnel de la santé, de l’éducation et des services de garde, privés et publics, qui reviennent de l’étranger le 12 mars 2020 ou les jours ultérieurs;
 - l’interdiction de tous les rassemblements intérieurs de plus de 250 personnes;
 - l’incitation à éviter tous les rassemblements intérieurs qui ne sont pas nécessaires;
 - la fermeture de l’ensemble des services de garde (CPE, services de garde subventionnés, non-subventionnés, en milieu familial et non-régis) et du réseau de l’éducation (écoles primaires et secondaires, centres de formation, écoles privées, cégeps, collèges et universités), du lundi 16 mars au vendredi 27 mars. Des mesures seront toutefois mises en place pour continuer d’offrir des services de garde aux parents qui travaillent dans le réseau de la santé et des services sociaux et dans les services essentiels (exemples: policiers, pompiers, ambulanciers, agents des services correctionnels, constables spéciaux);
+- Les personnes âgées de 70 ans et plus sont priées de rester à domicile, sauf en cas de nécessité ou dans des circonstances exceptionnelles, comme un rendez-vous médical. Ces personnes peuvent également faire une promenade et doivent suivre les recommandations en matière de santé;
 - l’interdiction des visites ordinaires dans les hôpitaux, les CHSLD et les résidences privées pour aînés sur l’ensemble du territoire québécois;
 - la couverture, par la Régie de l’assurance maladie du Québec (RAMQ), des services de santé liés à la COVID-19 fournis par correspondance ou par voie de télécommunication;
 - la prévention et le contrôle en milieu de soins lorsqu’une infection est suspectée ou confirmée;

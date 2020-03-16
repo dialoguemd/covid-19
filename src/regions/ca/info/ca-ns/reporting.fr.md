@@ -2,9 +2,7 @@
 
 Si vous avez voyagé à l'extérieur du Canada, vous pourriez avoir été en contact avec le nouveau coronavirus. Si vous ne vous sentez pas bien, mettez-vous en auto-isolement. Ceci veut dire que vous devez rester à la maison et éviter le public.
 
-À votre retour au Canada, les services frontaliers et les services de la santé publique vous demanderont de surveiller attentivement votre état de santé pendant 14 jours après votre retour au Canada et de minimiser vos contacts avec des personnes à risque élevé de souffrir de symptômes graves de la maladie COVID-19.
-
-Si vous avez voyagé en Italie, en Iran ou dans la province du Hubei en Chine, on vous demande de rester en auto-isolement pendant 14 jours après votre retour au Canada.
+La province de Nouvelle-Écosse, sous l'autorité de la loi sur la protection de la santé, exige que toute personne ayant voyagé à l'étranger s'isole pendant 14 jours à son retour, même si elle ne présente aucun symptôme.
 
 Si vous présentez une toux ou une fièvre, soit une température de 38 ºC ou plus, communiquez avec le service 811 pour une évaluation.
 

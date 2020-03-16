@@ -9,9 +9,9 @@ If you:
 - have signs of a respiratory infection (fever, cough or shortness of breath)
 
 - **AND** within 14 days have:
-  - travelled to [affected countries](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/covid-19-affected-areas-list.html); **OR**
+  - travelled outside of Canada; **OR**
   - have lived with, or provided direct care to a person who is a probable or confirmed case of coronavirus (COVID-19);**OR**
-  - lived with, or provided direct care to, a person with acute respiratory illness who has recently travelled to [affected countries](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/covid-19-affected-areas-list.html).
+  - lived with, or provided direct care to, a person with acute respiratory illness who has recently travelled outside of Canada
 
 Please stay at home and phone 811 or your health provider.
 

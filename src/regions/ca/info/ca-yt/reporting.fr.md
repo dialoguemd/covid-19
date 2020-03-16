@@ -4,13 +4,12 @@
 
 ### Quand devez-vous rester à la maison et appeler le 811 ou votre fournisseur de soins de santé
 
-Si :
+Si:
 
-- vous présentez des symptômes d’infection respiratoire (fièvre, toux, essoufflement)
-- **ET**, dans les 14 jours précédant l’apparition des symptômes :
-  - vous avez voyagé dans une des [régions touchées](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html); **OU**
-  - vous avez cohabité avec un cas probable ou confirmé d’infection par le coronavirus (COVID-19) ou avez fourni des soins directs à une telle personne; **OU**
-  - vous avez cohabité avec une personne qui présente des troubles respiratoires aigus et qui a récemment séjourné dans une des [régions touchées](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html), ou avez fourni des soins directs à une telle personne.
+- **ET** dans les 14 jours ont :
+  - voyagé en dehors du Canada ; **OU**
+  - avoir vécu avec une personne qui est un cas probable ou confirmé de coronavirus (COVID-19) ou lui avoir fourni des soins directs;** OU**
+  - a vécu avec une personne atteinte d'une maladie respiratoire aiguë qui a récemment voyagé à l'étranger, ou lui a prodigué des soins directs
 
 Veuillez rester à la maison et composer le 811 ou communiquer avec votre fournisseur de soins de santé.
 

@@ -1,36 +1,39 @@
 ## 🛫 Conseils aux voyageurs
 
-Tous les voyageurs doivent être conscients des risques pour leur santé lorsqu'ils voyagent. Il est important de [vérifier votre destination](https://voyage.gc.ca/voyager/avertissements) avant de partir pour connaître les risques et vous préparer en conséquence.
+Si vous devez voyager, prenez des précautions contre les maladies respiratoires et consultez un médecin si vous tombez malade.
 
-Il est important de surveiller votre état de santé pendant votre voyage et à votre retour. Si vous tombez malade en voyage, appelez à l'avance un professionnel de la santé pour lui expliquer vos symptômes. Si vous tombez malade à votre retour, veuillez appeler votre autorité locale de santé publique pour obtenir des directives supplémentaires.
+**Pendant votre voyage:**
 
-Si vous avez voyagé à l'extérieur du Canada, vous pouvez réduire le risque de propagation de l'infection en suivant les mesures de prévention lors de votre retour au Canada.
+- Évitez de passer du temps dans les grandes foules ou dans les endroits les plus fréquentés.
+- Évitez tout contact avec des personnes malades, surtout si elles ont de la fièvre, de la toux ou des difficultés à respirer.
+- Soyez conscient de la situation locale et suivez les conseils de santé publique locaux.
 
-Les gens peuvent contracter des coronavirus après être entrés en contact avec une personne infectée. Les données probantes actuelles indiquent que la maladie se propage de personne à personne lorsqu'il y a un contact étroit entre des sujets.
+**Il est rappelé à tous les voyageurs de suivre les précautions sanitaires suivantes:**
 
-Il n'existe pas de vaccin ou de traitement pour prévenir les coronavirus. La majorité des personnes infectées par un type commun de coronavirus se rétabliront d'elles-mêmes.
+- Lavez-vous les mains :
+  - Lavez-vous les mains souvent avec du savon sous l'eau chaude courante pendant au moins 20 secondes.
+  - Utilisez un désinfectant pour les mains à base d'alcool uniquement si vous n'avez pas accès à de l'eau et du savon. Il est conseillé d'en avoir toujours sur soi lorsque vous voyagez.
+- Respectez l'étiquette en matière de toux et d'éternuements :
+  - Couvrez votre bouche et votre nez avec votre bras pour réduire la propagation des germes.
+  - Si vous utilisez un mouchoir en papier, jetez-le dès que possible et lavez-vous les mains ensuite.
 
-Si vous présentez des symptômes préoccupants du COVID-19 comme la fièvre, la toux ou des difficultés à respirer, communiquez avec [votre autorité locale de santé publique](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/2019-nouveau-coronavirus-fiche-information.html#au) pour obtenir des directives supplémentaires.
+**Surveillez votre santé:**
 
-### Conseils de sécurité à l'étranger
+Si vous tombez malade pendant votre voyage, évitez tout contact avec d'autres personnes, sauf pour consulter un professionnel de la santé.
 
-Les voyageurs doivent s'attendre à des mesures de contrôle sanitaire accrues aux points d'entrée de nombreuses destinations internationales, y compris les aéroports. Les autorités locales peuvent imposer des mesures de contrôle de manière soudaine, y compris des restrictions de mouvement telles que des quarantaines.
+Si vous vous sentez malade pendant votre vol vers le Canada ou à votre arrivée, informez l'agent de bord ou un agent des services frontaliers canadiens.
 
-Certains gouvernements ont mis en place des exigences particulières d'entrée et de sortie pour leur territoire. Avant de voyager, vérifiez auprès de la [mission diplomatique étrangère](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=fra) de votre destination si ses autorités ont mis en place des restrictions spécifiques liées à cette situation. Celles-ci comprennent des exigences d'entrée, des fermetures de frontières et des suspensions de vols.
+Si vous n'avez pas de symptômes mais que vous pensez avoir été exposé à une personne malade avec le COVID-19, signalez cette information à un agent des services frontaliers canadiens à votre arrivée au Canada. Ceci est requis en vertu de la Loi sur la quarantaine. L'agent des services frontaliers du Canada vous donnera des instructions à suivre.
 
-Pour vous assurer d'être au courant des derniers faits nouveaux concernant cette situation en évolution, nous vous recommandons de :
+Nous avons placé des messages sur les écrans des aéroports internationaux à l'arrivée qui aideront à guider les voyageurs à informer un agent des services frontaliers s'ils présentent des symptômes de type grippal.
 
-- suivre l'actualité
-- lire les [conseils aux voyageurs et avertissements](https://voyage.gc.ca/voyager/avertissements) pour votre destination
-
-Si vous êtes dans une destination touchée, nous vous recommandons de :
-
-- suivre les instructions des autorités locales
-- vous inscrire à notre [service d'Inscription des Canadiens à l'étranger](https://voyage.gc.ca/voyager/inscription) pour recevoir des mises à jour importantes.
+De plus, des informations sur les symptômes à identifier et sur la façon de contacter les autorités sanitaires locales seront fournies aux voyageurs à leur arrivée.
 
 ## 🌍 Éviter tout voyage international non essentiel
 
-Selon [cette source](https://www.theglobeandmail.com/canada/article-avoid-non-essential-travel-outside-canada-trudeau-urges/), en date du 13 mars 2020, le gouvernement a demandé que les Canadiens évitent tout voyage international non essentiel.
+Un avis officiel de voyage mondial est en vigueur : **Évitez les voyages non essentiels à l'étranger jusqu'à nouvel ordre.**
+
+[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
 
 ### 🚢 Éviter tout voyage à bord de navires de croisière
 
