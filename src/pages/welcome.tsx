@@ -121,12 +121,12 @@ export const WelcomePage: React.FC = () => {
         <Subtext>
           {previousRunClasses && (
             <p>
-              {!previousRunIsValid ? (
-                t('welcomePage.previousRunExpired')
-              ) : (
+              {previousRunIsValid ? (
                 <Link to={`/info?id=${previousRunClasses}`}>
                   {t('welcomePage.previousRunLink')}
                 </Link>
+              ) : (
+                t('welcomePage.previousRunExpired')
               )}
             </p>
           )}
