@@ -45,7 +45,7 @@
       {
         "label": "askForLocationOptions-ON",
         "value": "ON",
-        "trigger": "askAgeRange"
+        "trigger": "assessment-ON"
       },
       {
         "label": "askForLocationOptions-NS",
@@ -80,7 +80,7 @@
       {
         "label": "askForLocationOptions-AB",
         "value": "AB",
-        "trigger": "askAgeRange"
+        "trigger": "assessment-AB"
       },
       {
         "label": "askForLocationOptions-NL",
@@ -328,5 +328,40 @@
     "id": "outro1",
     "message": "outro1",
     "trigger": "showResults"
+  },
+  {
+    "id": "assessment-ON",
+    "message": "assessment-ON",
+    "trigger": "assessment-continue"
+  },
+  {
+    "id": "assessment-AB",
+    "message": "assessment-AB",
+    "trigger": "assessment-continue"
+  },
+  {
+    "id": "assessment-continue",
+    "message": "assessment-continue",
+    "trigger": "assessmentOptions"
+  },
+  {
+    "id": "assessmentOptions",
+    "options": [
+      {
+        "label": "yes",
+        "value": true,
+        "trigger": "askAgeRange"
+      },
+      {
+        "label": "no",
+        "value": false,
+        "trigger": "outro2"
+      }
+    ]
+  },
+  {
+    "id": "outro2",
+    "message": "outro2",
+    "trigger": ""
   }
 ]

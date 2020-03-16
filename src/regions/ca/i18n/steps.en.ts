@@ -69,5 +69,25 @@ export default {
   Are you planning on travelling outside of Canada in the next month?`,
   outro1: `
   We're done with the questions! Your personal information package is ready.
+  `,
+  'assessment-AB': `
+  Worried about COVID-19 symptoms?
+
+  Use this self-assessment tool developed by the Government of Alberta to help determine whether you should be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else, if they are not able.
+
+  Take the self-assessment tool developed by the Government of Alberta [here.](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)`,
+  'assessment-ON': `
+  Worried about COVID-19 symptoms?
+
+  If you think you have 2019 novel coronavirus (COVID-19) symptoms or have been in close contact with someone who has it, the Government of Ontario has developed a self-assessment tool to help determine if you need to seek further care. 
+  
+  Take the assessment developed by the Government of Ontario [here.](hhttps://www.ontario.ca/fr/page/autoevaluation-de-la-maladie-coronavirus-covid-19)
+  `,
+  'assessment-continue': `
+  I can also provide you helpful and timely information about COVID-19. Would you like to continue?`,
+  outro2: `
+  All good! Thank you for visting this website. 
+  
+  Remember that you can always come back to obtain your personalized information package about COVID-19.
   `
 }
