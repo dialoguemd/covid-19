@@ -11,6 +11,7 @@ import Footer from 'components/footer'
 import Title from 'components/title'
 import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
+import CtaButtonLink from 'components/cta-button-link'
 import { requireRegionFile } from 'services/region-loader'
 
 const config = requireRegionFile('config.json')
@@ -68,28 +69,6 @@ const HeaderLinkContainer = styled.div`
   flex-shrink: 0;
   flex-direction: column;
   margin-top: 16px;
-`
-
-const HeaderLink = styled(Link)`
-  align-items: center;
-  transition: background 200ms linear;
-  font-size: ${props => props.theme.sizes.buttonText};
-  font-family: ${props => props.theme.fontFamily};
-  font-weight: 500;
-  border-radius: 28px;
-  padding: calc(${props => props.theme.sizes.buttonText} * 0.75) 24px;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-  min-width: 6em;
-  margin: 3px;
-  color: #fff;
-  text-decoration: none;
-  background: #079af3;
-  display: block;
-  text-align: center;
-  flex-shrink: 0;
-  &:hover {
-    opacity: 0.7;
-  }
 `
 
 const HeaderLinkSubTitle = styled.div`
@@ -185,9 +164,9 @@ export const InfoPage: React.FC = () => {
               <HeaderLinkSubTitle>
                 {t('resultsPage.changeAudienceTitle')}
               </HeaderLinkSubTitle>
-              <HeaderLink to="/chat/">
+              <CtaButtonLink to="/chat/">
                 {t('resultsPage.changeAudience')}
-              </HeaderLink>
+              </CtaButtonLink>
             </HeaderLinkContainer>
           </Audience>
           <InfoCard>
