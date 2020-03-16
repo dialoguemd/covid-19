@@ -32,6 +32,7 @@ export const ResultsBubble: React.FC = (props: any) => {
   useEffect(() => {
     async function processSteps() {
       const classes = await getChatClassesFromSteps(props.steps)
+      localStorage.setItem('resulting_classes', classes)
       setClasses(classes)
     }
     processSteps()

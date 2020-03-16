@@ -1,6 +1,13 @@
+import _ from 'lodash'
 import i18n from 'services/i18n'
 import { requireRegionFile } from 'services/region-loader'
 const manifest = requireRegionFile('manifest.json')
+
+export const allClasses = _.uniq(manifest.map(file => file.class))
+
+export const checkClassesValidity = classes => {
+  return _.difference(classes, allClasses).length === 0
+}
 
 export const getManifestFilesFromClasses = (classes: string[]) =>
   classes

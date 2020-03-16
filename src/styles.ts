@@ -11,6 +11,18 @@ const GlobalStyles = createGlobalStyle`
     font-weight: 300;
   }
 
+  a {
+    color: ${props => props.theme.colors.primary};
+    text-decoration: none;
+    transition: opacity ease-in-out 0.15s;
+    :hover {
+      opacity: 0.5;
+    }
+    :active {
+      opacity: 0.75;
+    }
+  }
+
   html,
   body,
   #root {
