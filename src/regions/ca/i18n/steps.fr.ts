@@ -90,7 +90,7 @@ export default {
   
   Si vous pensez que vous avez les symptômes de la maladie à coronavirus (COVID-19) ou si vous avez été en contact étroit avec une personne qui en est atteinte, veuillez utiliser cet outil d’évaluation créer par le gouvernement d'Ontario afin de déterminer comment obtenir des soins supplémentaires.
     
-  Passez l'évaluation développée par le gouvernement de l'Ontario [ici.](https://www.ontario.ca/page/2019-novel-coronavirus-covid-19-self-assessment)
+  Passez l'évaluation développée par le gouvernement de l'Ontario [ici.](https://www.ontario.ca/fr/page/autoevaluation-de-la-maladie-coronavirus-covid-19)
   `,
   'assessment-continue': `
   Je peux également vous fournir des informations pertinentes et récentes sur COVID-19. Voulez-vous continuer ?`,

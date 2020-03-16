@@ -81,7 +81,7 @@ export default {
 
   If you think you have 2019 novel coronavirus (COVID-19) symptoms or have been in close contact with someone who has it, the Government of Ontario has developed a self-assessment tool to help determine if you need to seek further care. 
   
-  Take the assessment developed by the Government of Ontario [here.](https://www.ontario.ca/fr/page/autoevaluation-de-la-maladie-coronavirus-covid-19)
+  Take the assessment developed by the Government of Ontario [here.](https://www.ontario.ca/page/2019-novel-coronavirus-covid-19-self-assessment)
   `,
   'assessment-continue': `
   I can also provide you helpful and timely information about COVID-19. Would you like to continue?`,
