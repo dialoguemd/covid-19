@@ -11,7 +11,7 @@ Lorsque vous consultez un prestataire de soins de santé, veuillez le lui dire :
 - Si vous avez eu un contact direct avec des animaux (par exemple, si vous avez visité un marché d'animaux vivants)
 - Si vous avez été en contact étroit avec une personne malade, surtout si elle avait de la fièvre, de la toux ou des difficultés à respirer.
 
-### Je pense que j’ai le COVID-19, dois-je consulter en personne ?
+### Je pense que j’ai le COVID-19, puis-je me rendre au service des urgences pour me faire tester ?
 
 En ce moment, nous demandons aux patients d'éviter de se rendre aux urgences pour des tests de dépistage de coronavirus.
 
