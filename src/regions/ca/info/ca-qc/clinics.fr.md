@@ -22,7 +22,7 @@ Le CHU Sainte-Justine souhaite informer la population qu’il met en place un fo
 
 Ce formulaire en ligne est uniquement destiné aux familles dont les enfants reviennent de voyage et qui présentent des symptômes pouvant s’apparenter à ceux associés à la COVID-19, soit de la fièvre, des problèmes respiratoires et/ou de la toux.
 
-Pour obtenir un rendez-vous à la clinique de dépistage de la COVID-19 du CHU Sainte-Justine, visitez notre site Web pour [compléter le formulaire en ligne](https://www.chusj.org/fr/soins-services/C/COVID-19/Clinique-COVID-19?prov=news150320).
+Pour obtenir un rendez-vous à la clinique de dépistage de la COVID-19 du CHU Sainte-Justine, visitez ce site Web pour [compléter le formulaire en ligne](https://www.chusj.org/fr/soins-services/C/COVID-19/Clinique-COVID-19?prov=news150320).
 
 Pour ceux qui seraient déjà passés par la ligne téléphonique du gouvernement du Québec (1 877 644-4545) ou par le 811, merci de ne pas vous diriger vers ce service en ligne qui se veut complémentaire.
 
