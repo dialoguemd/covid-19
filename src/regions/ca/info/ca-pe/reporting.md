@@ -14,7 +14,7 @@ Within the last 14 days have you:
 
 - travelled outside of Canada and have a fever greater than 38 C AND/OR a cough
 - been in close contact (within 2 meters) with a person with a laboratory confirmed case of COVID-19?
-- Any Islanders who have travelled out of Canada are urged to self-isolate for 14 days following return to Canada. If you do develop a fever or a cough, call 811.
+- you develop a fever or a cough
 
 If you answered NO to all the above questions and you are looking for general information about COVID-19, visit [this site](princeedwardisland.ca/covid19)
 

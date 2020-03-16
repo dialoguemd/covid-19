@@ -10,11 +10,11 @@ Le nombre d'appels au 811 est plus élevé que la normale. Il faudra plus de tem
 
 Si vous répondez OUI à l'une des questions ci-dessous, composez le 811
 
-Au cours des 14 derniers jours, vous avez :
+Au cours des 14 derniers jours, vous avez:
 
 - voyagé à l'étranger et avez une fièvre supérieure à 38°C ET/OU une toux
 - été en contact étroit (à moins de 2 mètres) avec une personne dont le laboratoire a confirmé le cas de COVID-19 ?
-- Les habitants de l'île qui ont voyagé hors du Canada sont priés de s'isoler pendant les 14 jours suivant leur retour au Canada. Si vous avez de la fièvre ou si vous toussez, appelez le 811.
+- vous avez de la fièvre ou si vous toussez
 
 Si vous avez répondu NON à toutes les questions ci-dessus et que vous cherchez des informations générales sur la COVID-19, visitez [ce site](princeedwardisland.ca/covid19)
 
