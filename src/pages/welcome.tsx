@@ -6,7 +6,7 @@ import Footer from 'components/footer'
 import Header from 'components/header'
 import Title from 'components/title'
 import ScrollAnchor from 'components/scroll-anchor'
-import CtaButtonLink from 'components/cta-button-link'
+import { CtaButtonLink } from 'components/buttons'
 
 import { requireRegionFile } from 'services/region-loader'
 import { checkClassesValidity } from 'services/content'

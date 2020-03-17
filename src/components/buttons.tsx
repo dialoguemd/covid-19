@@ -18,9 +18,12 @@ export const CtaButtonLink = styled(Link)`
   display: block;
   text-align: center;
   flex-shrink: 0;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  user-select: none;
   &:hover {
     opacity: 0.7;
   }
+  &:active {
+    opacity: 0.9;
+  }
 `
-
-export default CtaButtonLink

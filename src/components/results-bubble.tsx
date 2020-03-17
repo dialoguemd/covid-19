@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 
-import CtaButtonLink from 'components/cta-button-link'
+import { CtaButtonLink } from 'components/buttons'
 import { getChatClassesFromSteps } from 'services/chat-classifier'
 
 const ViewReportContainer = styled.div`
