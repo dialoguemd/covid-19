@@ -84,7 +84,8 @@ export default {
         'Personnes présentant un risque accru de complications',
         'elevated-medical-risk'
       ],
-      ['Personnes avec des voyages prévus', 'travel-plans']
+      ['Personnes avec des voyages prévus', 'travel-plans'],
+      ['Questions et réponses', 'faq']
     ]
   }
 }

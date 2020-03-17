@@ -79,7 +79,8 @@ export default {
         'People with an increased risk of complications',
         'elevated-medical-risk'
       ],
-      ['People with travel plans', 'travel-plans']
+      ['People with travel plans', 'travel-plans'],
+      ['Frequently Asked Questions', 'faq']
     ]
   }
 }
