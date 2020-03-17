@@ -3,7 +3,7 @@ export default {
   intro2:
     'Ich bin Chloe, Ihre virtuelle medizinische Assistentin. Ich bin hier, um Ihnen präzise Informationen aus öffentlichen Quellen über die Atemwegserkrankung COVID-19 zu geben. Damit die folgenden Informationen möglichst genau auf Ihre individuelle Situation abgestimmt sind, möchte ich Ihnen vorher ein paar Fragen stellen. Dies wird nicht länger als ein paar Minuten dauern.',
   consent:
-    'Zur Verarbeitung Ihrer personenbezogenen Daten benötige ich Ihre Einwilligung. Wir verarbeiten Ihre Daten lediglich, um für Sie relevante Informationen zu COVID-19 zur Verfügung zu stellen und diese Anwendung weiter zu verbessern. Die Einwilligung kann jederzeit ohne Angabe von Gründen widerrufen werden. Alle Informationen zum Widerruf und zu den Einzelheiten der Datenverarbeitung finden Sie in unserer [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/Datenschutzerkl%C3%A4rung). **Mit der Verarbeitung Ihrer personenbezogenen Daten** (einschließlich Gesundheitsdaten) durch die Dialogue Deutschland GmbH, Ohmstraße 11, 80802 München, und die Dialogue Technologies Inc., 390 Notre-Dame St W #200 Montreal, QC H2Y 1T9 **sind Sie einverstanden**:',
+    'Zur Verarbeitung Ihrer personenbezogenen Daten benötige ich Ihre Einwilligung. Wir verarbeiten Ihre Daten lediglich, um für Sie relevante Informationen zu COVID-19 zusammenzustellen und diese Anwendung weiter zu verbessern. Die Einwilligung kann jederzeit ohne Angabe von Gründen widerrufen werden. Alle Informationen zum Widerruf und zur Datenverarbeitung finden Sie in unserer [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/Datenschutzerkl%C3%A4rung). Mit der Verarbeitung Ihrer personenbezogenen Daten (einschließlich Gesundheitsdaten) durch die Dialogue Deutschland GmbH, Ohmstraße 11, 80802 München, und (ausschließlich Analysedaten ohne Personenbezug) durch die Dialogue Technologies Inc., 390 Notre-Dame St W #200 Montreal, QC H2Y 1T9 sind Sie einverstanden:',
   intro3:
     '**Bitte beachten Sie: Wenn Sie Krankheitssymptome haben, suchen Sie medizinischen Rat. Diese Anwendung stellt keine Diagnose und ersetzt keine Beratung durch einen Arzt.** Die von mir bereitgestellten Informationen stammen aus öffentlich zugänglichen Quellen und unterliegen regelmäßigen Änderungen.',
   'intro-option1': 'Lassen Sie uns starten!',
@@ -71,6 +71,6 @@ export default {
   - Chronische Bronchitis
   - Eine chronische Lungenkrankheit, die in dieser Auflistung nicht aufgeführt ist`,
   askHasTravelPlans: `
-  Haben Sie vor, im nächsten Monat außerhalb von Deutschland zu reisen?`,
+  Reisen Sie derzeit oder haben Sie vor, demnächst zu verreisen?`,
   outro1: `Sie haben alle Fragen beantwortet! Auf Basis Ihrer Antworten haben wir Ihnen ein persönliches Informationspaket erstellt.`
 }

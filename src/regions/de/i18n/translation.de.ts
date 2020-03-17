@@ -19,8 +19,8 @@ export default {
   welcomePage: {
     title: 'COVID-19: Was Sie wissen müssen',
     description:
-      'Erhalten Sie genaue Informationen von öffentlichen, vertrauenswürdigen Quellen über die Atemwegserkrankung COVID-19, basierend auf Ihrer individuellen Lebenssituation.',
-    button: 'Es kann losgehen'
+      'Hier erhalten Sie für Sie persönlich relevante Informationen aus öffentlichen, vertrauenswürdigen Quellen über die Atemwegserkrankung COVID-19.',
+    button: 'START'
   },
   classes: {
     common: 'Allgemeine Informationen',
@@ -62,8 +62,8 @@ export default {
     classMenu: [
       ['Allgemeine Informationen', 'common'],
       ['Personen mit einem erhöhten Infektionsrisiko', 'elevated-covid-risk'],
-      ['Personen die einer Risikogruppe zugehören', 'elevated-medical-risk'],
-      ['Personen mit bevorstehender Reise', 'travel-plans']
+      ['Risikogruppen', 'elevated-medical-risk'],
+      ['Reisende und Personen mit Reiseabsichten', 'travel-plans']
     ]
   }
 }
