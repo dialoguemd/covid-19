@@ -1,7 +1,8 @@
-## 🦠 Informationen über Covid-19
+## 🦠 Allgemeine Informationen über COVID-19
 
-Seit Anfang Dezember 2019 sind ausgehend von Wuhan, der Hauptstadt der zentralchinesischen Provinz Hubei, vermehrt Fälle von Atemwegserkrankungen durch ein neuartiges Coronavirus (SARS-CoV-2) vorwiegend in China aufgetreten. Die Krankheit wird von Mensch zu Mensch, primär über Sekrete der Atemwege, übertragen. Nach einer Inkubationszeit von bis zu 14 Tagen können folgende Symptome auftreten: Fieber, Husten, Atemnot.
+Seit Anfang Dezember 2019 sind ausgehend von Wuhan, der Hauptstadt der zentralchinesischen Provinz Hubei, vermehrt Fälle von Atemwegserkrankungen durch ein neuartiges Coronavirus (SARS-CoV-2) zunächst vorwiegend in China aufgetreten. _Die Krankheit wird von Mensch zu Mensch, primär über Sekrete der Atemwege, übertragen._
+Nach einer Inkubationszeit von bis zu 14 Tagen können folgende Symptome auftreten: **Fieber, Husten, Atemnot.**
 
-Weitere Informationen erhalten Sie im Merkblatt [COVID-19](https://www.auswaertiges-amt.de/blob/2294930/107d636c93fabf934ac9fcb528f0d6dd/ncov-data.pdf).
+Detaillierte Informationen über SARS-CoV-2 und COVID-19 erhalten Sie in [diesem Steckbrief](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html) des Robert Koch-Instituts. Informationen über die Verbreitung des Virus erhalten Sie in [dieser interaktiven Karte](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) der John Hopkins University.
 
-Quellen: [Bundesministerium für Gesundheit](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/C/Coronavirus/Info-Handzettel_SARS-CoV-2_040320.pdf); [Auswärtiges Amt](https://www.auswaertiges-amt.de/blob/2294930/107d636c93fabf934ac9fcb528f0d6dd/ncov-data.pdf)
+**Quelle:** [Bundesministerium für Gesundheit](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/C/Coronavirus/Info-Handzettel_SARS-CoV-2_040320.pdf)
