@@ -14,7 +14,7 @@ const GlobalStyles = createGlobalStyle`
   a {
     color: ${props => props.theme.colors.primary};
     text-decoration: none;
-    transition: opacity ease-in-out 0.15s;
+    transition: opacity ease-in-out 150ms;
     :hover {
       opacity: 0.5;
     }
