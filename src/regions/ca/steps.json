@@ -65,7 +65,7 @@
       {
         "label": "askForLocationOptions-BC",
         "value": "BC",
-        "trigger": "askAgeRange"
+        "trigger": "assessment-BC"
       },
       {
         "label": "askForLocationOptions-PE",
@@ -337,6 +337,11 @@
   {
     "id": "assessment-AB",
     "message": "assessment-AB",
+    "trigger": "assessment-continue"
+  },
+  {
+    "id": "assessment-BC",
+    "message": "assessment-BC",
     "trigger": "assessment-continue"
   },
   {

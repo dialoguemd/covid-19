@@ -85,6 +85,13 @@ export default {
   Utilisez cet outil d'auto-évaluation développé par le gouvernement de l'Alberta pour vous aider à déterminer si vous devez être testé pour le COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une autre personne, si elle n'est pas en mesure de le faire.
   
   Passez l'évaluation développée par le gouvernement de l'Ontario [ici (en anglais).](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)`,
+  'assessment-BC': `
+  Les symptômes du COVID-19 vous inquiètent ?
+
+  Utilisez cet outil d'auto-évaluation développé par le ministère de la santé de la Colombie-Britannique pour vous aider à déterminer si vous devez être testé pour le COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une autre personne, si elle n'est pas en mesure de le faire.
+  
+  Passez l'évaluation développée par le ministère de la santé de la Colombie-Britannique [ici (en anglais).](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)
+  `,
   'assessment-ON': `
   Les symptômes du COVID-19 vous inquiètent ?
   

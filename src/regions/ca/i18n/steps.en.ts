@@ -76,6 +76,13 @@ export default {
   Use this self-assessment tool developed by the Government of Alberta to help determine whether you should be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else, if they are not able.
 
   Take the self-assessment tool developed by the Government of Alberta [here.](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)`,
+  'assessment-BC': `
+  Worried about COVID-19 symptoms?
+
+  The BC Ministry of Health developed a self-assessment tool that will help determine whether you may need further assessment or testing for COVID-19. You can complete this assessment for yourself, or on behalf of someone else, if they are unable to.
+
+  Take the assessment developed by the BC Ministry of Health [here.](https://covid19.thrive.health)
+  `,
   'assessment-ON': `
   Worried about COVID-19 symptoms?
 
