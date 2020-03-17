@@ -14,6 +14,4 @@ Si vous développez une fièvre, une toux ou que vous avez de la difficulté à 
 - Suivez attentivement les directives qui vous sont données.
 - Les hôpitaux du Nouveau-Brunswick sont prêts à recevoir des patients pour le diagnostic et le traitement des symptômes, et il existe des protocoles pour s'assurer qu'un cas potentiel ne se propage pas à d'autres utilisateurs du système hospitalier. En communiquant avec TéléSoins 811, ces pratiques seront mises en place avant votre arrivée et pendant votre séjour à l'hôpital.
 
-Les hôpitaux du Nouveau-Brunswick sont prêts à accueillir des patients pour le diagnostic et le traitement des symptômes. Des protocoles sont en place pour garantir qu’un cas potentiel ne se propage pas à d’autres utilisateurs du système hospitalier. En téléphonant Télé-soins (811), ces pratiques seront mises en place avant votre arrivée à l’hôpital et pendant votre séjour.
-
 [Source: Gouvernment du Nouveau Brunswick](https://www2.gnb.ca/content/gnb/fr/ministeres/bmhc/maladies_transmissibles/content/maladies_respiratoires/coronavirus.html)

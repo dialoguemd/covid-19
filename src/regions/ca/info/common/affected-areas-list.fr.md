@@ -6,6 +6,6 @@ Le rapport de situation comporte deux listes : une pour les cas confirmés et so
 
 Nous invitons les professionnels de la santé du Canada qui participent à l’évaluation et à la prise en charge d’éventuels cas de COVID-19 et leurs proches à consulter ces tableaux dans le rapport de situation quotidien de l’OMS pour les aider à prendre des décisions éclairées. La décision de procéder à des analyses de laboratoire doit être fondée sur les orientations fournies par l’autorité de santé publique de la province ou du territoire.
 
-En date du 15 mars 2020, plus de 143 pays sont concernés et l'OMS considère que l'évaluation des risques au niveau mondial est très élevée.
+En date du 16 mars 2020, plus de 150 pays sont concernés et l'OMS considère que l'évaluation des risques au niveau mondial est très élevée.
 
 [Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/liste-regions-touchees-covid-19.html)

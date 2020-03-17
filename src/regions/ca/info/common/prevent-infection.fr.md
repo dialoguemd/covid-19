@@ -1,5 +1,27 @@
 ## 👨‍👩‍👧 Réduire votre risque d'infection ou de propagation à d'autres
 
+### Prévention du coronavirus
+
+Il n'existe pour le moment aucun vaccin contre la COVID-19 et aucun produit de santé naturel autorisé pour se protéger contre cette infection.
+
+##### Si vous avez voyagé à l'extérieur du Canada
+
+Les responsables fédéraux et provinciaux de la santé publique recommandent à tous les voyageurs en provenance de l'étranger de s'isoler pendant 14 jours. Ces efforts contribueront à ralentir l'introduction et la propagation de la COVID-19 au Canada.
+
+##### Si vous êtes atteint de la COVID-19, réduisez vos contacts avec les autres personnes
+
+Si vous êtes malade, les mesures suivantes contribueront à réduire les contacts avec les autres :
+
+- restez à la maison et isolez-vous (sauf pour recevoir des soins médicaux)
+  - si vous devez quitter votre domicile, portez un masque ou couvrez-vous la bouche et le nez avec un papier-mouchoir, et tenez-vous à une distance de 2 mètres des autres personnes
+- évitez de rendre visite aux personnes dans les hôpitaux et dans les centres de soins de longue durée, plus précisément les personnes âgées et celles qui sont atteintes d'une maladie chronique ou dont le système immunitaire est affaibli
+- évitez de recevoir des visiteurs à domicile
+- couvrez-vous la bouche et le nez avec votre bras lorsque vous toussez ou éternuez
+- faites livrer vos provisions à domicile plutôt que de sortir faire vos courses
+  - les provisions doivent être déposées à l'extérieur du domicile pour assurer une distance de 2 mètres
+
+### Hygiène
+
 Une hygiène adéquate peut aider à réduire le risque de contracter ou de transmettre une infection :
 
 - lavez-vous les mains souvent avec de l'eau et du savon pendant au moins 20 secondes, surtout après avoir été aux toilettes et après avoir manipulé des aliments
@@ -16,6 +38,10 @@ Une hygiène adéquate peut aider à réduire le risque de contracter ou de tran
   - poignées de porte
   - tables de chevet
   - télécommandes
+
+### Soyez prêt
+
+Il est important de savoir [comment vous préparer](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html) au cas où vous ou un membre de votre famille tomberiez malade.
 
 ### Port d'un masque
 

@@ -4,15 +4,12 @@ Anyone arriving from outside of Canada is asked to self-isolate and monitor for 
 
 Newfoundlanders and Labradorians arriving from outside of Canada are asked to self-isolate, meaning stay home and do not got to work or school, and monitor for symptoms for 14 days after arrival in Canada.
 
-If you are not having symptoms, this means the following:
+If you are not having symptoms, you should:
 
-- Stay at home and do not go to work or school for 14 days.
-- Avoid close contact with people with chronic conditions, compromised immune systems and older adults.
-- You do not need COVID-19 testing if you do not have symptoms.
-- Monitor for symptoms (symptoms include: fever or coughing or difficulty breathing).
-- If you start having symptoms, isolate yourself from others as quickly as possible and call 811.
+Stay at home and do not go to work or school for 14 days.
+Avoid close contact with people with chronic conditions, compromised immune systems and older adults.
+You do not need COVID-19 testing if you do not have symptoms.
+Monitor for symptoms (symptoms include: fever or coughing or difficulty breathing).
+If you start to have symptoms, you should isolate yourself from others as quickly as possible and contact 811 for further direction.
 
-Contact 811 for further direction.
-Additional instructions can be found [here](https://www.gov.nl.ca/covid-19/)
-
-[Source: Newfoundland and Labrador, Health and Community Services](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)
+[Source: Government of Newfoundland and Labrador](https://www.gov.nl.ca/covid-19/)

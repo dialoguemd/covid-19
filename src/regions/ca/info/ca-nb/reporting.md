@@ -14,6 +14,4 @@ If you develop a fever, cough or difficulty breathing within those 14 days:
 - follow their instructions carefully
 - New Brunswick hospitals are prepared to receive patients for diagnosis and treatment of symptoms, and there are protocols in place to ensure a potential case is not spread to other users of the hospital system. By contacting Telecare 811, these practices will be put in place before your arrival and during your time at the hospital.
 
-New Brunswick hospitals are prepared to receive patients for diagnosis and treatment of symptoms, and there are protocols in place to ensure a potential case is not spread to other users of the hospital system. By contacting Telecare 811, these practices will be put in place before your arrival and during your time at the hospital.
-
 [Source: Government of New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)
