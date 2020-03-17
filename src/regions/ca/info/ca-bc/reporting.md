@@ -25,7 +25,7 @@ Nurses at 8-1-1 have been instructed to complete an exposure risk assessment of 
 
 The Government now recommends that those returning from travel outside of Canada stay home and self-isolate for 14 days after they return. Monitor yourself daily for symptoms like fever, cough or difficulty breathing for these 14 days. If you develop symptoms, call 8-1-1 or speak with your health care provider to discuss any need for testing and follow up. Learn more about [self-isolation and self-monitoring here](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
 
-### How is the government ensuring that people who are told to self-isolate, actually self-isolate?
+### How is the government ensuring that people who are told to self-isolate, actually self-isolate? What if they were to go out in public, like to a local grocery store, would I be at risk?
 
 The spread of novel coronavirus occurs with sustained close contact with an affected individual, for example, sitting in a car on a long trip, or living in the same household. Grocery stores – which are open and where people tend to walk around – are unlikely places to allow for virus spread
 

@@ -16,6 +16,6 @@ Au cours des 14 derniers jours, vous avez:
 - été en contact étroit (à moins de 2 mètres) avec une personne dont le laboratoire a confirmé le cas de COVID-19 ?
 - vous avez de la fièvre ou si vous toussez
 
-Si vous avez répondu NON à toutes les questions ci-dessus et que vous cherchez des informations générales sur la COVID-19, visitez [ce site](princeedwardisland.ca/covid19)
+Les habitants de l'île qui ont voyagé hors du Canada sont priés de s'isoler pendant les 14 jours suivant leur retour au Canada. Si vous avez de la fièvre ou si vous toussez, appelez le 811. Si vous avez répondu NON à toutes les questions ci-dessus et que vous cherchez des informations générales sur COVID-19, visitez le site [princeedwardisland.ca/covid19.](princeedwardisland.ca/covid19)
 
 [Source: Gouvernment de l'Île-du-Prince-Edouard](https://www.princeedwardisland.ca/fr/information/sante-et-mieux-etre/infection-au-coronavirus-foire-aux-questions)

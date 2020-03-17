@@ -4,15 +4,13 @@ Toute personne arrivant de l'étranger est priée de s'isoler et de surveiller l
 
 Les habitants de Terre-Neuve-et-Labrador qui arrivent de l'étranger sont priés de s'isoler, c'est-à-dire de rester à la maison et de ne pas aller au travail ou à l'école, et de surveiller leurs symptômes pendant 14 jours après leur arrivée au Canada.
 
-Si vous ne présentez pas de symptômes, cela signifie ce qui suit :
+Si vous n'avez pas de symptômes, vous devriez le faire :
 
-- Restez à la maison et n'allez pas au travail ou à l'école pendant 14 jours.
-- Évitez tout contact étroit avec des personnes atteintes de maladies chroniques, des personnes dont le système immunitaire est affaibli et des personnes âgées.
-- Vous n'avez pas besoin de passer le test COVID-19 si vous n'avez pas de symptômes.
-- Surveillez les symptômes (les symptômes comprennent : fièvre ou toux ou difficulté à respirer).
-- Si vous commencez à avoir des symptômes, isolez-vous des autres le plus rapidement possible et appelez le 811.
+- rester à la maison et ne pas aller au travail ou à l'école pendant 14 jours
+- Éviter tout contact étroit avec des personnes souffrant de maladies chroniques, des systèmes immunitaires compromis et des personnes âgées
+- Vous n'avez pas besoin du test COVID-19 si vous n'avez pas de symptômes
+- Surveillez les symptômes (les symptômes comprennent : fièvre ou toux ou difficultés respiratoires)
 
-Contactez le 811 pour plus d'informations.
-Vous trouverez des instructions supplémentaires [ici](https://www.gov.nl.ca/covid-19/)
+Si vous commencez à avoir des symptômes, vous devez vous isoler des autres le plus rapidement possible et contacter le 811 pour obtenir des informations complémentaires.
 
-[Source: Newfoundland and Labrador, Health and Community Services (en anglais)](https://www.health.gov.nl.ca/health/publichealth/cdc/coronavirus/)
+[Source: Gouvernement de Terre-Neuve et Labrador (en anglais)](https://www.gov.nl.ca/covid-19/)
