@@ -56,7 +56,7 @@ const Container = styled.div`
 const Subtext = styled.h4`
   color: ${props => props.theme.colors.text};
   font-size: calc(${props => props.theme.sizes.buttonText} * 0.75);
-  padding: 0 calc(${props => props.theme.sizes.buttonText} * 0.75);
+  padding: 0 0.75em;
   font-weight: 200;
   justify-content: center;
   flex-wrap: wrap;
