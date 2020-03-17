@@ -78,5 +78,32 @@ export default {
   Prévoyez-vous voyager à l'étranger au cours du prochain mois?`,
   outro1: `
   Les questions sont terminées ! Votre trousse d'information personnelle est prête.
+  `,
+  'assessment-AB': `
+  Les symptômes du COVID-19 vous inquiètent ?
+  
+  Utilisez cet outil d'auto-évaluation développé par le gouvernement de l'Alberta pour vous aider à déterminer si vous devez être testé pour le COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une autre personne, si elle n'est pas en mesure de le faire.
+  
+  Passez l'évaluation développée par le gouvernement de l'Ontario [ici (en anglais).](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)`,
+  'assessment-BC': `
+  Les symptômes du COVID-19 vous inquiètent ?
+
+  Utilisez cet outil d'auto-évaluation développé par le ministère de la santé de la Colombie-Britannique pour vous aider à déterminer si vous devez être testé pour le COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une autre personne, si elle n'est pas en mesure de le faire.
+  
+  Passez l'évaluation développée par le ministère de la santé de la Colombie-Britannique [ici (en anglais).](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)
+  `,
+  'assessment-ON': `
+  Les symptômes du COVID-19 vous inquiètent ?
+  
+  Si vous pensez que vous avez les symptômes de la maladie à coronavirus (COVID-19) ou si vous avez été en contact étroit avec une personne qui en est atteinte, veuillez utiliser cet outil d’évaluation créer par le gouvernement d'Ontario afin de déterminer comment obtenir des soins supplémentaires.
+    
+  Passez l'évaluation développée par le gouvernement de l'Ontario [ici.](https://www.ontario.ca/fr/page/autoevaluation-de-la-maladie-coronavirus-covid-19)
+  `,
+  'assessment-continue': `
+  Je peux également vous fournir des informations pertinentes et récentes sur le COVID-19. Voulez-vous continuer ?`,
+  outro2: `
+  Très bien ! Merci d'avoir visité ce site. 
+  
+  N'oubliez pas que vous pouvez toujours revenir pour obtenir votre dossier d'information personnalisé sur le COVID-19.
   `
 }
