@@ -1,4 +1,4 @@
-## Notre position sur les billets médicaux
+## La position de Dialogue sur les billets médicaux
 
 Comme prévu, la pandémie COVID-19 crée une demande sans précédent pour nos services cliniques. Malheureusement, une partie importante de cette demande est liée aux demandes de notes médicales pour documenter l'absence, l'isolement ou l'aptitude à retourner au travail.
 

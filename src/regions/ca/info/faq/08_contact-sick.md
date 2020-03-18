@@ -1,4 +1,4 @@
-## “Someone I have direct contact with / I live with is sick”
+## Someone I have direct contact with or I live with is sick
 
 If a person you are in direct contact with is sick, guidelines suggest you should also self-quarantine for a period of 2 weeks in order to avoid spreading the disease.
 

@@ -1,4 +1,4 @@
-## Qui est le plus à risque?
+## Qui sont les personnes les plus à risque?
 
 - Les personnes qui souffrent de maladies chroniques graves comme:
   - les maladies cardiaques
@@ -21,7 +21,7 @@ Plus d'informations ici:
 - à risque en raison de conditions médicales sous-jacentes (par exemple, maladies cardiaques, hypertension, diabète, maladies respiratoires chroniques, cancer)
 - à risque en raison d'un système immunitaire affaibli par une maladie ou un traitement (par exemple, la chimiothérapie)
 
-Tous ceux qui :
+Ainsi que tous ceux qui :
 
 - ont des difficultés à lire, à parler, à comprendre ou à communiquer
 - ont des difficultés d'accès aux soins médicaux ou aux conseils de santé

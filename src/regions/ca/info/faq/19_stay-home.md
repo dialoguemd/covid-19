@@ -20,6 +20,6 @@ If symptoms develop:
 - limit contact with others
 - contact local public health, and follow their instructions
 
-More info here:
+More information here:
 
 - https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p
