@@ -14,6 +14,8 @@ interface Props {
 
 const DISABLE_DELAYS = process.env.NODE_ENV !== 'production'
 
+const INPUT_HEIGHT = 51
+
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   background: colors.background,
   headerBgColor: colors.primary,
@@ -51,10 +53,14 @@ const StyledChatbot = styled(WrappedChatbot)`
 
   .rsc-content {
     padding: 15px;
-    height: calc(100% - ${props => (props.showInput ? 81 : 30)}px);
+    height: calc(
+      100% - ${props => (props.showInput ? INPUT_HEIGHT : 0)}px - 30px
+    );
     @media (max-width: ${mobileBreakpoint}px) {
       padding: 10px;
-      height: calc(100% - ${props => (props.showInput ? 71 : 20)}px);
+      height: calc(
+        100% - ${props => (props.showInput ? INPUT_HEIGHT : 0)}px - 20px
+      );
     }
   }
 
