@@ -1,15 +1,17 @@
 ## Nouvelle-Écosse: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si vous avez voyagé à l'extérieur du Canada, vous pourriez avoir été en contact avec le nouveau coronavirus. Si vous ne vous sentez pas bien, mettez-vous en auto-isolement. Ceci veut dire que vous devez rester à la maison et éviter le public.
+**Si vous avez voyagé**
 
-La province de Nouvelle-Écosse, sous l'autorité de la loi sur la protection de la santé, exige que toute personne ayant voyagé à l'étranger s'isole pendant 14 jours à son retour, même si elle ne présente aucun symptôme.
+La province de Nouvelle-Écosse, en vertu de la loi sur la protection de la santé, exige que toute personne ayant voyagé à l'étranger s'isole pendant 14 jours à compter de son retour au Canada. Vous devez vous isoler même si vous n'avez pas de symptômes.
 
-Si vous présentez une toux ou une fièvre, soit une température de 38 ºC ou plus, communiquez avec le service 811 pour une évaluation.
+Si vous avez voyagé récemment et que vous avez de la fièvre, une température de 38 °C ou plus, ou une toux, vous devez appeler le 811 pour une évaluation.
 
-La Régie de la santé de la Nouvelle-Écosse a mis en place [des centres de dépistage du COVID-19 (en anglais seulement)](http://www.nshealth.ca/coronavirus). Si une évaluation en personne est nécessaire, le service 811 vous demandera de vous rendre à l'un de ces centres. Ne vous présentez pas à un centre de dépistage du COVID-19 sans un renvoi du service 811.
+**Quand appeler le 811 ?**
 
-Pour vous aider à mieux comprendre si vous devez communiquer avec le service 811, répondez à [ces quelques questions](https://811.novascotia.ca/health_topics/covid-19-when-to-call-811/)(en anglais seulement).
+Tous ceux qui ont des inquiétudes concernant COVID-19 n'ont pas besoin d'appeler le 811. Pour savoir si vous devez appeler, utilisez l'auto-évaluation en ligne COVID-19.
 
-Si vous avez été mis en auto-isolement, vous pouvez recevoir des renseignements sur la santé et du soutien en communiquant avec [le bureau des Services de la santé publique de la Régie de la santé de la Nouvelle-Écosse](http://www.nshealth.ca/public-health-offices) de votre région.
+**Dépistage**
+
+L'autorité sanitaire de la Nouvelle-Écosse a créé des centres d'évaluation COVID-19. Si vous avez besoin d'une évaluation en personne, le 811 vous dirigera vers un centre. Ne vous rendez pas dans un centre d'évaluation COVID-19 à moins que le 811 ne vous y ait envoyé.
 
 [Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/fr/)

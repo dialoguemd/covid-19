@@ -20,6 +20,19 @@ Si vous êtes malade, les mesures suivantes contribueront à réduire les contac
 - faites livrer vos provisions à domicile plutôt que de sortir faire vos courses
   - les provisions doivent être déposées à l'extérieur du domicile pour assurer une distance de 2 mètres
 
+#### Distanciation sociale
+
+Ensemble, nous pouvons ralentir la propagation de COVID-19 en faisant un effort conscient pour garder une distance physique entre nous. Il est prouvé que la distance sociale est l'un des moyens les plus efficaces de réduire la propagation de la maladie lors d'une épidémie. Avec de la patience et de la coopération, nous pouvons tous faire notre part.
+
+Cela signifie qu'il faut apporter des changements à vos habitudes quotidiennes pour réduire au minimum les contacts étroits avec les autres, y compris:
+
+- éviter les rencontres non essentielles
+- éviter les salutations communes, telles que les poignées de main
+- éviter les lieux bondés tels que les concerts, les arènes, les conférences et les festivals
+- limiter les contacts avec les personnes à haut risque comme les personnes âgées et les personnes en mauvaise santé
+- garder une distance d'au moins 2 bras (environ 2 mètres) par rapport aux autres, autant que possible
+- garder une distance d'au moins 2 bras (environ 2 mètres) par rapport aux autres
+
 ### Hygiène
 
 Une hygiène adéquate peut aider à réduire le risque de contracter ou de transmettre une infection :

@@ -4,6 +4,8 @@ If you are ill and have recently traveled internationally or, you are ill and ha
 
 Health care providers are strongly discouraging the public from visiting any health-care facility, including long-term care facilities, if they have returned from international travel in the past 14 days, been directed to self-monitor or self-isolate for 14 days, or are experiencing cold and flu symptoms, such as a cough, fever, runny nose, sore throat, headache or weakness.
 
-Call Health Links–Info Santé in Winnipeg at 204-788-8200; toll free elsewhere in Manitoba 1-888-315-9257.
+Contact Health Links-Info Santé at 204-788-8200 or 1-888-315-9257 (toll-free) if you're experiencing symptoms of the 2019 novel coronavirus.
+
+Do not call 911 unless it is an emergency.
 
 [Source: Government of Manitoba](https://www.gov.mb.ca/health/coronavirus/public.html#19)

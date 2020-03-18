@@ -20,6 +20,19 @@ If you are sick, the following steps will help to reduce contact with others:
 - have supplies delivered to your home instead of running errands
   - supplies should be dropped off outside to ensure a 2-metre distance
 
+#### Social distancing
+
+Together, we can slow the spread of COVID-19 by making a conscious effort to keep a physical distance between each other. Social distancing is proven to be one of the most effective ways to reduce the spread of illness during an outbreak. With patience and cooperation, we can all do our part.
+
+This means making changes in your everyday routines to minimize close contact with others, including:
+
+- avoiding non-essential gatherings
+- avoiding common greetings, such as handshakes
+- avoiding crowded places such as concerts, arenas, conferences and festivals
+- limiting contact with people at higher risk like older adults and those in poor health
+- keeping a distance of at least 2 arms lengths (approximately 2 metres) from others, as much as possible
+- keeping a distance of at least 2 arms-length (approximately 2 metres) from others
+
 ### Hygiene
 
 Proper hygiene can help reduce the risk of infection or spreading infection to others:
