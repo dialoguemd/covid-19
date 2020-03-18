@@ -19,5 +19,6 @@
     "TH"
   ],
   "ENABLE_FACEBOOK_SHARE": true,
-  "ENABLE_TWITTER_SHARE": true
+  "ENABLE_TWITTER_SHARE": true,
+  "RASA_API_URL": "https://goes.here/"
 }
