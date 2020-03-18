@@ -1,4 +1,4 @@
-## Dois-je arrêter de prendre le métro?
+## Dois-je arrêter de prendre les transports publics?
 
 Veuillez consulter les directives de votre gouvernement provincial ou de votre ville. Si vous utilisez les transports publics, veillez à prendre des mesures préventives : lavez-vous soigneusement les mains après, évitez de vous toucher le visage, etc.
 
