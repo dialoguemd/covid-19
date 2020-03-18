@@ -41,7 +41,8 @@ export default {
     'elevated-medical-risk':
       'aux personnes présentant un risque accru de complications',
     'elevated-covid-risk':
-      "aux personnes présentant un risque accru d'infection"
+      "aux personnes présentant un risque accru d'infection",
+    faq: 'tous'
   },
   footer: {
     bottomText:
