@@ -3,4 +3,5 @@
 You can call your Public Health Authority line for COVID-19. They will assess the risk and decide if you should get tested. Meanwhile, make sure to self-isolate.
 
 More info here:
-* https://www.cnesst.gouv.qc.ca/salle-de-presse/Pages/coronavirus.aspx
+
+- https://www.cnesst.gouv.qc.ca/salle-de-presse/Pages/coronavirus.aspx

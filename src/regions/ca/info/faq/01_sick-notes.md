@@ -1,9 +1,9 @@
 ## What is Dialogue's position on sick notes?
 
-In the extraordinary circumstances of the COVID-19 pandemic, Dialogue's highest priority is to provide your valuable employees with essential care that avoids the risk of them becoming infected in clinics or emergency rooms. To assure that we can meet that priority and effective immediately, 
+In the extraordinary circumstances of the COVID-19 pandemic, Dialogue's highest priority is to provide your valuable employees with essential care that avoids the risk of them becoming infected in clinics or emergency rooms. To assure that we can meet that priority and effective immediately,
 
 **Dialogue will not issue sick notes for medical absences related to COVID-19 illness or preventive isolation**
- 
+
 Similarly, we are unable to certify that a member, adult or child, is fit to enter a workplace, school or daycare facility.
 
 This measure will allow us to alleviate the administrative burden of our healthcare team and let them focus on those patients who need immediate care.
