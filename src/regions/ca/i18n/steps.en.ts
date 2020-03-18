@@ -86,15 +86,27 @@ export default {
   'assessment-ON': `
   Worried about COVID-19 symptoms?
 
-  If you think you have 2019 novel coronavirus (COVID-19) symptoms or have been in close contact with someone who has it, the Government of Ontario has developed a self-assessment tool to help determine if you need to seek further care. 
-  
+  If you think you have 2019 novel coronavirus (COVID-19) symptoms or have been in close contact with someone who has it, the Government of Ontario has developed a self-assessment tool to help determine if you need to seek further care.
+
   Take the assessment developed by the Government of Ontario [here.](https://www.ontario.ca/page/2019-novel-coronavirus-covid-19-self-assessment)
   `,
   'assessment-continue': `
   I can also provide you helpful and timely information about COVID-19. Would you like to continue?`,
   outro2: `
-  All good! Thank you for visting this website. 
-  
+  All good! Thank you for visting this website.
+
   Remember that you can always come back to obtain your personalized information package about COVID-19.
-  `
+  `,
+  faq: {
+    utterAskHasAdditionalQuestion: `
+    Do you have another question about COVID-19?
+
+    We review each question, and will update the FAQ when answers become available.
+    `,
+    utterAskForQuestion: `What's your question?`,
+    utterQuestionAsked: `
+    Thank you for your feedback! We will review your question, and add it to the FAQ if or when the answers become available.
+    `,
+    utterNoQuestion: `Thank you for the feedback!`
+  }
 }

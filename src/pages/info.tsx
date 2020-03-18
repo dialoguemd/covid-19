@@ -14,6 +14,7 @@ import ScrollAnchor from 'components/scroll-anchor'
 import { requireRegionFile } from 'services/region-loader'
 
 const faqSteps = requireRegionFile('steps.faq.json')
+const config = requireRegionFile('config.json')
 
 const useQuery = () => {
   const location = useLocation()
@@ -178,14 +179,16 @@ export const InfoPage: React.FC = () => {
       </InfoCard>
       <Spacer />
       <ShareResults classes={classes} />
-      <FaqChatbotContainer>
-        <Chatbot
-          steps={faqSteps}
-          handleEnd={onFaqChatbotEnd}
-          placeholder={t('resultsPage.faqInputPlaceholder')}
-          showInput
-        />
-      </FaqChatbotContainer>
+      {config.ENABLE_FAQ_BOT && (
+        <FaqChatbotContainer>
+          <Chatbot
+            steps={faqSteps}
+            handleEnd={onFaqChatbotEnd}
+            placeholder={t('resultsPage.faqInputPlaceholder')}
+            showInput
+          />
+        </FaqChatbotContainer>
+      )}
       <Footer />
     </InfoPageContainer>
   )

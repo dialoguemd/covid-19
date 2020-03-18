@@ -6,7 +6,8 @@ export default {
     changeAudience: 'Get personalized info',
     audiencePrefix: 'Information below applies to:',
     lastModified: 'Updated {{date}}',
-    feedbackLabel: 'Was this useful?'
+    feedbackLabel: 'Was this useful?',
+    faqInputPlaceholder: 'Enter your question'
   },
   share: {
     viewResults: 'View information package',

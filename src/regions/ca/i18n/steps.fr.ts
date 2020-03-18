@@ -54,7 +54,7 @@ export default {
     "Maintenant, j'aimerais vous poser quelques questions pour savoir si votre système d'immunité est affaibli.",
   askHasImmuneDecreasedInfo: `
 	Est-ce que l'un de ces éléments s'applique à vous ?
-   
+
 	- Avez-vous des antécédents de diabète ?
 	- Prenez-vous des médicaments de suppression de l'immunité tels que la Prednisone ou tout autre stéroïde ?
 	- Souffrez-vous d'une maladie auto-immune telle que le lupus, la maladie de Crohn's ou le rhumatisme articulaire aigu ?
@@ -81,29 +81,40 @@ export default {
   `,
   'assessment-AB': `
   Les symptômes du COVID-19 vous inquiètent ?
-  
+
   Utilisez cet outil d'auto-évaluation développé par le gouvernement de l'Alberta pour vous aider à déterminer si vous devez être testé pour le COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une autre personne, si elle n'est pas en mesure de le faire.
-  
+
   Passez l'évaluation développée par le gouvernement de l'Ontario [ici (en anglais).](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)`,
   'assessment-BC': `
   Les symptômes du COVID-19 vous inquiètent ?
 
   Utilisez cet outil d'auto-évaluation développé par le ministère de la santé de la Colombie-Britannique pour vous aider à déterminer si vous devez être testé pour le COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une autre personne, si elle n'est pas en mesure de le faire.
-  
+
   Passez l'évaluation développée par le ministère de la santé de la Colombie-Britannique [ici (en anglais).](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)
   `,
   'assessment-ON': `
   Les symptômes du COVID-19 vous inquiètent ?
-  
+
   Si vous pensez que vous avez les symptômes de la maladie à coronavirus (COVID-19) ou si vous avez été en contact étroit avec une personne qui en est atteinte, veuillez utiliser cet outil d’évaluation créer par le gouvernement d'Ontario afin de déterminer comment obtenir des soins supplémentaires.
-    
+
   Passez l'évaluation développée par le gouvernement de l'Ontario [ici.](https://www.ontario.ca/fr/page/autoevaluation-de-la-maladie-coronavirus-covid-19)
   `,
   'assessment-continue': `
   Je peux également vous fournir des informations pertinentes et récentes sur le COVID-19. Voulez-vous continuer ?`,
   outro2: `
-  Très bien ! Merci d'avoir visité ce site. 
-  
+  Très bien ! Merci d'avoir visité ce site.
+
   N'oubliez pas que vous pouvez toujours revenir pour obtenir votre dossier d'information personnalisé sur le COVID-19.
-  `
+  `,
+  faq: {
+    utterAskHasAdditionalQuestion: `
+    Auriez-vous une autre question sur COVID-19 ?
+
+    Nous revoyons chaque question, et mettrons à jour la FAQ lorsque les réponses seront disponibles.
+    `,
+    utterAskForQuestion: `Quelle est votre question ?`,
+    utterQuestionAsked: `
+    Merci pour votre question ! Nous examinerons votre question et l'ajouterons à la FAQ quand les réponses seront disponibles.    `,
+    utterNoQuestion: `Merci pour votre contribution !`
+  }
 }
