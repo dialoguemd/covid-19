@@ -13,7 +13,7 @@ import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
 import { requireRegionFile } from 'services/region-loader'
 
-const steps = requireRegionFile('steps.faq.json')
+const faqSteps = requireRegionFile('steps.faq.json')
 
 const useQuery = () => {
   const location = useLocation()
@@ -180,7 +180,7 @@ export const InfoPage: React.FC = () => {
       <ShareResults classes={classes} />
       <FaqChatbotContainer>
         <Chatbot
-          steps={steps}
+          steps={faqSteps}
           handleEnd={onFaqChatbotEnd}
           placeholder={t('resultsPage.faqInputPlaceholder')}
           showInput
