@@ -40,24 +40,7 @@ export default {
       ['Kontakt', 'hhttps://www.dialogue.co/en/contact-us']
     ],
     adminAreaHeader: 'Regionale Informationen',
-    adminAreaMenu: [
-      ['Baden-Württemberg', 'de'],
-      ['Bayern', 'de'],
-      ['Berlin', 'de'],
-      ['Brandenburg', 'de'],
-      ['Bremen', 'de'],
-      ['Hamburg', 'de'],
-      ['Hessen', 'de'],
-      ['Mecklenburg-Vorpommern', 'de'],
-      ['Niedersachsen', 'de'],
-      ['Nordrhein-Westfalen', 'de'],
-      ['Rheinland-Pfalz', 'de'],
-      ['Saarland', 'de'],
-      ['Sachsen', 'de'],
-      ['Sachsen-Anhalt', 'de'],
-      ['Schleswig-Holstein', 'de'],
-      ['Thüringen', 'de']
-    ],
+    adminAreaMenu: [],
     classHeader: 'Für alle in Deutschland ansässigen Personen',
     classMenu: [
       ['Allgemeine Informationen', 'common'],
