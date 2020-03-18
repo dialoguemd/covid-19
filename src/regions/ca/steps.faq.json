@@ -1,0 +1,38 @@
+[
+  {
+    "id": "utterAskHasAdditionalQuestion",
+    "message": "faq.askHasAdditionalQuestion",
+    "trigger": "userHasQuestion",
+    "hideInput": true
+  },
+  {
+    "id": "userHasQuestion",
+    "options": [
+      { "value": true, "label": "yes", "trigger": "utterAskForQuestion" },
+      { "value": false, "label": "no", "trigger": "utterNoQuestion" }
+    ],
+    "hideInput": true
+  },
+  {
+    "id": "utterAskForQuestion",
+    "message": "faq.utterAskForQuestion",
+    "trigger": "userQuestion"
+  },
+  {
+    "id": "userQuestion",
+    "user": true,
+    "trigger": "utterQuestionAsked"
+  },
+  {
+    "id": "utterQuestionAsked",
+    "message": "faq.utterQuestionAsked",
+    "hideInput": true,
+    "end": true
+  },
+  {
+    "id": "utterNoQuestion",
+    "message": "faq.utterNoQuestionGoodbye",
+    "hideInput": true,
+    "end": true
+  }
+]
