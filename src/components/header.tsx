@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 
-import { ReactComponent as Logo } from 'images/sun-life-financial-logo-vector.svg'
+import { ReactComponent as Logo } from 'images/sunlife.svg'
 import LanguagePicker from './language-picker'
 import Title from './title'
 import RegionPicker from 'components/region-picker'
