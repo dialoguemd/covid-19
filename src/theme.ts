@@ -1,7 +1,7 @@
 import 'styled-components'
 
 const colors = {
-  primary: '#F7CE47',
+  primary: '#E9AC21',
   primaryLight: '#FEF7DB',
   secondary: '#1E4B69',
   secondaryLight: '#6288CF',
