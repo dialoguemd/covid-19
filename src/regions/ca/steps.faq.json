@@ -1,7 +1,7 @@
 [
   {
     "id": "utterAskHasAdditionalQuestion",
-    "message": "faq.askHasAdditionalQuestion",
+    "message": "faq.utterAskHasAdditionalQuestion",
     "trigger": "userHasQuestion",
     "hideInput": true
   },
@@ -31,7 +31,7 @@
   },
   {
     "id": "utterNoQuestion",
-    "message": "faq.utterNoQuestionGoodbye",
+    "message": "faq.utterNoQuestion",
     "hideInput": true,
     "end": true
   }
