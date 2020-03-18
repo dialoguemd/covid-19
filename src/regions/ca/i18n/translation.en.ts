@@ -39,7 +39,8 @@ export default {
     'ca-nu': 'residents of Nuvavut',
     'travel-plans': 'people with travel plans',
     'elevated-medical-risk': 'people with an increased risk of complications',
-    'elevated-covid-risk': 'people with an increased risk of infection'
+    'elevated-covid-risk': 'people with an increased risk of infection',
+    faq: ' everyone.'
   },
   footer: {
     bottomText:
