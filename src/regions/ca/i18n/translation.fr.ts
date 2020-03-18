@@ -42,7 +42,7 @@ export default {
       'aux personnes présentant un risque accru de complications',
     'elevated-covid-risk':
       "aux personnes présentant un risque accru d'infection",
-    faq: 'tous'
+    faq: 'à tous.'
   },
   footer: {
     bottomText:
