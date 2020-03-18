@@ -1,13 +1,13 @@
 ## What is Dialogue's position on sick notes?
 
-In the extraordinary circumstances of the COVID-19 pandemic, Dialogue's highest priority is to provide your valuable employees with essential care that avoids the risk of them becoming infected in clinics or emergency rooms. To assure that we can meet that priority and effective immediately,
+As expected, the COVID-19 pandemic is creating an unprecedented surge of demand for our clinical services. Frustratingly, a significant part of this demand relates to requests for medical notes to document absence, self isolation or fitness to return to work.
 
-**Dialogue will not issue sick notes for medical absences related to COVID-19 illness or preventive isolation**
+While patients have understandable economic need for this documentation, that need is driven by their employer policies, not illness. And at a time where we are going to be increasingly scarce and in short supply, we simply cannot devote time to administrative tasks that are required for clinical care.
 
-Similarly, we are unable to certify that a member, adult or child, is fit to enter a workplace, school or daycare facility.
+As a result, the message below will be sent to all Dialogue clients by tomorrow morning. Note that because Dialogue eligibility is usually offered to a household, we will encounter adults whose employers are not among Dialogue clients. Regardless, the policy remains the same.
 
-This measure will allow us to alleviate the administrative burden of our healthcare team and let them focus on those patients who need immediate care.
+Also note that it is Dialogue's long-standing policy that we only provide medical notes that form part of the plan of treatment for a medical problem that we have assessed. We have never supported clinicians providing medical notes for patients' medical problems that are managed by a primary care provider or specialist.
 
-We urge all our clients to adapt their medical absence policies to current public health guidance, which includes self-isolation by those who have either traveled outside Canada or have symptoms. It may also extend to self-isolation of close contacts of people who are symptomatic. See our [Coronavirus (COVID-19) Guide for Canadian Organizations](https://www.dialogue.co/coronavirus-guide-for-canadian-organizations) for useful information about all aspects of the COVID-19 outbreak.
+We request your strict adherence to both our long-standing policy and the specific COVID-19-related points outlined below to assure that our patient population is not receiving mixed messages from our provider team.
 
-Dialogue remains deeply committed to our members and their employers and will continue to promote the latest guidance and evidence in the interest of minimizing the health, social and economic impacts of the pandemic.
+Dr Mark Dermer

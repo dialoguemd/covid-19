@@ -1,21 +1,6 @@
-## Who is more at risk ?
+## Which individuals are more at risk?
 
-- People who have serious chronic medical conditions like:
-  - Heart disease
-  - Diabetes
-  - Lung disease
-  - With compromised immune systems
-- Aged 65 and over
-- Pregnant women, breastfeeding women
-- Children
-
-More info here:
-
-- https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html
-- https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html
-- https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/pregnancy-guidance-breastfeeding.html
-
-**Vulnerable populations may include:**
+Vulnerable populations may include:
 
 Anyone who is:
 
@@ -36,6 +21,8 @@ Anyone who has:
 - social or geographic isolation, like in remote and isolated communities
 - insecure, inadequate, or nonexistent housing conditions
 
-More info here:
+More information here:
 
 - https://www.canada.ca/en/public-health/services/publications/diseases-conditions/vulnerable-populations-covid-19.html
+- https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html
+- https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html

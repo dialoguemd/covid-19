@@ -5,4 +5,4 @@ Il est possible que le virus se propage avant l'apparition des symptômes ; des 
 
 Plus d'informations ici:
 
-- https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html (anglais seulement)
+- https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html (Anglais seulement)

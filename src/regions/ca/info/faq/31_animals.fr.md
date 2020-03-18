@@ -25,4 +25,4 @@ Ces recommandations seront mises à jour au fur et à mesure que des information
 Plus d'informations ici:
 
 - https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html
-- https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals (anglais seulement)
+- https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals (Anglais seulement)
