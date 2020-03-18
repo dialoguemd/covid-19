@@ -5,8 +5,8 @@ It depends on each laboratory, we would recommend calling the place before going
 Here is informations on some labs across Québec and Canada :
 Sources : calling directly labs reception or management
 
+### Quebec
 
-### Quebec ###
 **Montreal**
 
 CHUM - Does not take any external requests - _[Updated 2020-03-16]_
@@ -31,13 +31,11 @@ Biron - No influenza, throat analysis or culture or 24h urine collect - _[Update
 
 Media Alpha (greater montreal) - Can send a nurse for 60\$ for throat swab at home ((514) 312-9956) - _[Updated 2020-03-15]_
 
-### Pharmacies ###
+### Pharmacies
 
 It appears that most of them cancelled their nursing services (N95 masks are mandatory to perform throat tests), call beforehand but unlikely to found - - _[Updated 2020-03-16]_
 
-
-
-## ROC ##
+## ROC
 
 Lifelabs - No limitations - _[Updated 2020-03-16]_
 
