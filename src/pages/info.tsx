@@ -31,6 +31,10 @@ const InfoCard = styled.div`
     align-items: center;
     flex-shrink: 0;
   }
+
+  a {
+    word-break: break-all;
+  }
 `
 
 const Audience = styled.div`
