@@ -1,11 +1,11 @@
 import 'styled-components'
 
 const colors = {
-  primary: '#0097F3',
-  primaryLight: '#E5F4FD',
-  secondary: '#534E71',
-  secondaryLight: '#7378A3',
-  text: '#534E71',
+  primary: '#F7CE47',
+  primaryLight: '#FEF7DB',
+  secondary: '#1E4B69',
+  secondaryLight: '#6288CF',
+  text: '#1E4B69',
   disabled: '#EAEDEE',
   background: '#FAFAFB',
   backgroundLight: '#FFFFFF'
