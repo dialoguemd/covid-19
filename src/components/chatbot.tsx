@@ -5,7 +5,7 @@ import styled, { ThemeProvider } from 'styled-components/macro'
 
 import steps from 'steps'
 import { theme, mobileBreakpoint } from 'theme'
-import chloe from 'images/chloe.png'
+import ella from 'images/Ella-avatar.png'
 import { transformStep } from 'services/steps-processor'
 
 const DISABLE_DELAYS = process.env.NODE_ENV !== 'production'
@@ -112,7 +112,7 @@ export const Chatbot: React.FC = props => {
         steps={transformedSteps}
         hideHeader
         hideUserAvatar
-        botAvatar={chloe}
+        botAvatar={ella}
         userDelay={DISABLE_DELAYS ? 0 : 400}
         botDelay={DISABLE_DELAYS ? 0 : 400}
         customDelay={DISABLE_DELAYS ? 0 : 400}
