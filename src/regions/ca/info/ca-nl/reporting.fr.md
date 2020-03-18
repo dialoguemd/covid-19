@@ -4,7 +4,7 @@ Toute personne arrivant de l'étranger est priée de s'isoler et de surveiller l
 
 Les habitants de Terre-Neuve-et-Labrador qui arrivent de l'étranger sont priés de s'isoler, c'est-à-dire de rester à la maison et de ne pas aller au travail ou à l'école, et de surveiller leurs symptômes pendant 14 jours après leur arrivée au Canada.
 
-Si vous n'avez pas de symptômes, vous devriez le faire :
+Si vous n'avez pas de symptômes, vous devriez:
 
 - rester à la maison et ne pas aller au travail ou à l'école pendant 14 jours
 - Éviter tout contact étroit avec des personnes souffrant de maladies chroniques, des systèmes immunitaires compromis et des personnes âgées

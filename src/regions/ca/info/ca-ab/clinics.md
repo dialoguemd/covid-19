@@ -6,4 +6,4 @@ Assessment Centres are being planned across all Zones of Alberta Health Services
 
 ### COVID-19 Self-Assessment
 
-Alberta Health Services has developped [this](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) self-assessment tool to help determine whether you should get tested for COVID-19.
+Alberta Health Services has developed [this](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) self-assessment tool to help determine whether you should get tested for COVID-19.
