@@ -17,14 +17,20 @@ const useQuery = () => {
 }
 
 const InfoCard = styled.div`
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-  background: ${props => props.theme.colors.backgroundLight};
-  border-radius: 12px;
+  max-width: 85vw;
   margin: 12px;
   padding: 16px;
-  max-width: 1000px;
-  align-items: center;
+  background: red;
+  background: ${props => props.theme.colors.backgroundLight};
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   flex-shrink: 0;
+  > div {
+    width: 100%;
+    max-width: 1000px;
+    align-items: center;
+    flex-shrink: 0;
+  }
 `
 
 const Audience = styled.div`
@@ -135,16 +141,18 @@ export const InfoPage: React.FC = () => {
         </HeaderLinkContainer>
       </Audience>
       <InfoCard>
-        {hasClasses ? (
-          <Results classes={classes} />
-        ) : (
-          <div>
-            <h2>{t('resultsPage.noResultsMessage')}</h2>
+        <div>
+          {hasClasses ? (
+            <Results classes={classes} />
+          ) : (
             <div>
-              <Link to="/chat/">{t('resultsPage.changeAudience')}</Link>
+              <h2>{t('resultsPage.noResultsMessage')}</h2>
+              <div>
+                <Link to="/chat/">{t('resultsPage.changeAudience')}</Link>
+              </div>
             </div>
-          </div>
-        )}
+          )}
+        </div>
       </InfoCard>
       <Spacer />
       <ShareResults classes={classes} />
