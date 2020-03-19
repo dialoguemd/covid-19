@@ -17,5 +17,5 @@
   ],
   "ENABLE_FACEBOOK_SHARE": true,
   "ENABLE_TWITTER_SHARE": true,
-  "RASA_API_URL": "https://goes.here/"
+  "RASA_API_URL": "https://covidfaq.dialoguecorp.com/core/webhooks/rest/webhook"
 }
