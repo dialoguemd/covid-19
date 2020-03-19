@@ -1,9 +1,9 @@
-## La recommandation médicale de mise en quarantaine d'un patient est-elle une chose qui peut être faite par Dialogue?
+## Est-ce que Dialogue peut recommander médicalement à un employé de se mettre en quarantaine?
 
-Oui, nous la suggérons à un patient dans les cas suivants:
+Oui nous allons suggérer la quarantaine dans ces différents cas:
 
-1. Si le patient a voyagé à l'extérieur du Canada au cours des 14 derniers jours **ET/OU**
-2. Si le patient a été (au cours des 14 derniers jours) ou est en contact direct avec une personne présentant des symptômes de toux, de fièvre ou de grippe **ET/OU**
-3. Si le patient présente des symptômes de type grippal.
+1. Si le patient à voyager hors du Canada dans les 14 derniers jours **ET/OU**
+2. Si le patient a été en contact dans les 14 derniers jours avec une personne ayant des symptômes de toux / fièvre / syndrome grippal **ET/OU**
+3. Si le patient présente les symptômes de Toux / fièvre / syndrome grippal \*
 
-Toutefois, Dialogue n'émettra un avis de maladie que pour les patients présentant des symptômes qui justifient un avis de maladie (cas 3).
+_\*Dialogue va seulement délivrer une note médicale aux patients présentant des symptômes qui justifient une note médicale._

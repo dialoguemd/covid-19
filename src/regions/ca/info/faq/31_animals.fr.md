@@ -4,7 +4,7 @@ Il n'y a actuellement aucune preuve que ce virus circule chez les animaux au Can
 
 Il est possible que certains types d'animaux puissent être infectés par le COVID-19, mais rien ne prouve que les animaux de compagnie ou d'autres animaux puissent propager le virus. Il y a encore beaucoup d'inconnues sur le COVID-19 et c'est un domaine qui reste à étudier et à comprendre.
 
-Jusqu'à ce que nous en sachions plus, si vous avez été diagnostiqué avec COVID-19 et que vous avez un animal de compagnie ou un autre animal :
+Jusqu'à ce que nous en sachions plus, si vous avez été diagnostiqué avec COVID-19 et que vous avez un animal de compagnie ou un autre animal:
 
 - évitez tout contact étroit avec eux
 - ne les serrez pas dans vos bras, ne l'embrassez pas, ne les laissez pas vous lécher, ne vous asseyez pas sur vos genoux et ne dormez pas dans votre lit

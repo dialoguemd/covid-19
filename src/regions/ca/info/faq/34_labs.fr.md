@@ -2,7 +2,7 @@
 
 Nous recommandons d'appeler le lieu avant de vous y rendre. Si vous présentez des symptômes tels que toux, fièvre, écoulement nasal ou si vous êtes à risque, appelez la ligne désignée de covid-19.
 
-Voici des informations sur certains laboratoires au Québec et au Canada :
+Voici des informations sur certains laboratoires au Québec et au Canada:
 
 ### Quebec
 
