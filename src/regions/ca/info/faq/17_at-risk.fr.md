@@ -11,9 +11,9 @@
 
 Plus d'informations ici:
 
-- https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html
-- https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html (Anglais seulement)
-- https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/pregnancy-guidance-breastfeeding.html (Anglais seulement)
+- [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html) (Anglais seulement)
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/pregnancy-guidance-breastfeeding.html) (Anglais seulement)
 
 **Les populations vulnérables peuvent inclure:**
 
@@ -21,7 +21,7 @@ Plus d'informations ici:
 - à risque en raison de conditions médicales sous-jacentes (par exemple, maladies cardiaques, hypertension, diabète, maladies respiratoires chroniques, cancer)
 - à risque en raison d'un système immunitaire affaibli par une maladie ou un traitement (par exemple, la chimiothérapie)
 
-Ainsi que tous ceux qui :
+Ainsi que tous ceux qui:
 
 - ont des difficultés à lire, à parler, à comprendre ou à communiquer
 - ont des difficultés d'accès aux soins médicaux ou aux conseils de santé
@@ -34,6 +34,4 @@ Ainsi que tous ceux qui :
 - qui sont isolés socialement ou géographiquement, comme dans les communautés éloignées et isolées
 - qui ont des conditions de logement précaires, inadéquates ou inexistantes
 
-Plus d'informations ici:
-
-- https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/populations-vulnerables-covid-19.html
+Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/populations-vulnerables-covid-19.html)

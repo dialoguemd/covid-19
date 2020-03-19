@@ -5,4 +5,4 @@ Some spread might be possible before people show symptoms; there have been repor
 
 More information here:
 
-- https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html)

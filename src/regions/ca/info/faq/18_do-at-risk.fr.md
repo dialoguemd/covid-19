@@ -11,5 +11,5 @@ Si vous êtes plus à risque de tomber très malade à cause de COVID-19, vous d
 
 Plus d'informations:
 
-- https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html (Anglais seulement)
-- https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html) (Anglais seulement)
+- [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html)

@@ -1,4 +1,4 @@
-## Is the medical recommendation for an employee to go into quarantine something that can be done through Dialogue?
+## Is the medical recommendation for a patient to go into quarantine something that can be done through Dialogue?
 
 Yes we will suggest it to a patient in the following cases:
 

@@ -1,4 +1,4 @@
-## Where can employees get tested if they have symptoms?
+## Where can patients get tested if they have symptoms?
 
 Dialogue will perform a thorough medical assessment to any patient presenting symptoms to identify potential risk factors known to be linked to COVID-19 (as specified by Federal and Provincial screening protocols).
 

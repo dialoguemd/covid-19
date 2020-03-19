@@ -7,8 +7,6 @@ Bien que nous soyons conscients que les délais d'attente pour ces lignes télé
 Au Québec, une ligne d'information alternative a été mise en place pour COVID-19 afin de trier les patients :
 
 - 1-877-644-4545
-- https://santemontreal.qc.ca/en/public/coronavirus-covid-19/
+- [Site Web](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
 
-Pour le reste du Canada, ce site web répertorient les liens pertinent pour chaque province:
-
-- https://www.c19.ca/
+Pour le reste du Canada, [ce site web](https://www.c19.ca/) répertorient les liens pertinent pour chaque province.

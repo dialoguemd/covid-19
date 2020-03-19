@@ -5,3 +5,5 @@ We will direct employees to the appropriate resource, as Dialogue is actively mo
 **Most of our 80 employees in the lab have family ties in Asia, Europe and the Middle East and our clients are multinationals therefore we are certainly at risk in the coming months**
 
 All of our treatment protocols include considerations of recent travel and contacts with higher-risk persons, and integrate the latest government precautions on affected areas, which are, and will continue to evolve rapidly.
+
+<!-- Is this section necessary? What 80 employees are we referencing to here? If this is only for Dialogue employees I would suggest making one section that discusses the steps Dialogue is doing to keep its employees safe -->

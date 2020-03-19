@@ -15,14 +15,14 @@ Until we know more, if you have been diagnosed with COVID-19 and have a pet or o
 - limit your animal's contact with other people and animals
   - this may mean keeping them indoors
 
-To date, there have not been any reports of livestock being infected by COVID-19 anywhere. However, livestock producers should follow normal biosecurity measures as always. This includes limiting visitors or workers who may have travelled to, or been in contact with, someone from an affected area. For more information on-farm disease prevention, producers are encouraged to consult the:
+To date, there have not been any reports of livestock being infected by COVID-19 anywhere. However, livestock producers should follow normal biosecurity measures as always. This includes limiting visitors or workers who may have travelled to, or been in contact with, someone from an affected area. For more information on-farm disease prevention, producers are encouraged to consult the following sites:
 
-- https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/eng/1344707905203/1344707981478
-- https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/proactive-management/eng/1374175296768/1374176128059?chap=0
+- [Governement of Canada](https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/eng/1344707905203/1344707981478)
+- [Government of Canada](https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/proactive-management/eng/1374175296768/1374176128059?chap=0)
 
 These recommendations will be updated as more information becomes available.
 
 More information here:
 
-- https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals
-- https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals)
+- [Governement of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
