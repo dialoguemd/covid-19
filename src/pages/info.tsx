@@ -13,8 +13,11 @@ import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
 import { requireRegionFile } from 'services/region-loader'
 
-const faqSteps = requireRegionFile('steps.faq.json')
 const config = requireRegionFile('config.json')
+
+const faqSteps = config.ENABLE_FAQ_BOT
+  ? requireRegionFile('steps.faq.json')
+  : []
 
 const useQuery = () => {
   const location = useLocation()
