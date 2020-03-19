@@ -30,7 +30,7 @@ Voici des informations sur certains laboratoires au Québec et au Canada:
 
 Il semble que la plupart d'entre eux ont annulé leurs services de soins infirmiers (les masques N95 sont obligatoires pour effectuer les examens de la gorge), veuillez téléphoner au préalable, mais risque de ne pas trouver - _Updated 2020-03-16_
 
-## ROC
+## Reste du Canada
 
 - Lifelabs - Pas de limitations - _Updated 2020-03-16_
 - Dynacare - Pas de limitations - _Updated 2020-03-17_
