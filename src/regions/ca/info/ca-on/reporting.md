@@ -1,6 +1,6 @@
 ## Ontario: Who should I contact if I think I have COVID-19?
 
-### Returning from travel
+### Returning from Hawaii
 
 Anyone who has travelled outside of Canada should:
 
