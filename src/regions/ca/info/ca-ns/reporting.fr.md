@@ -8,7 +8,7 @@ Si vous avez voyagé récemment et que vous avez de la fièvre, une température
 
 **Quand appeler le 811 ?**
 
-Tous ceux qui ont des inquiétudes concernant COVID-19 n'ont pas besoin d'appeler le 811. Pour savoir si vous devez appeler, utilisez l'auto-évaluation en ligne COVID-19.
+Tous ceux qui ont des inquiétudes concernant COVID-19 n'ont pas besoin d'appeler le 811. Pour savoir si vous devez appeler, utilisez [l'auto-évaluation en ligne COVID-19](https://when-to-call-about-covid19.novascotia.ca/en).
 
 **Dépistage**
 

@@ -8,7 +8,7 @@ If you’ve travelled recently and you develop a fever, with a temperature 38°C
 
 **When to call 811**
 
-Not everyone who has concerns about COVID-19 needs to call 811. To find out if you need to call, use the COVID-19 online self-assessment.
+Not everyone who has concerns about COVID-19 needs to call 811. To find out if you need to call, use the [COVID-19 online self-assessment](https://when-to-call-about-covid19.novascotia.ca/en).
 
 **Testing**
 

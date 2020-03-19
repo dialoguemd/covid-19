@@ -1,10 +1,10 @@
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si vous êtes inquiet au sujet de COVID-19 ou si vous avez une toux ou de la fièvre, vous pouvez appeler le numéro gratuit 1 877 644-4545.
+Si vous êtes inquiet au sujet de COVID-19 ou si vous présentez des symptômes tels qu'une toux ou de la fièvre, vous pouvez appeler sans frais au 418-644-4545 dans la région de Québec, au 514-644-4545 dans la région de Montréal et au 1-877-644-4545 ailleurs au Québec.
 
 - Ne vous rendez pas dans une clinique médicale sans avoir obtenu au préalable un rendez-vous.
 - Ne vous rendez à l'urgence que si vous avez des difficultés à respirer.
-- Avant de vous rendre à l'urgence, contactez le 1 877 644-4545 si votre état vous le permet et indiquez que vous êtes un voyageur qui est de retour depuis moins de 14 jours. On vous indiquera comment vous y rendre et quelles sont les précautions à prendre (port d'un masque, utilisation d'un moyen de transport personnel ou d'une ambulance, etc.) ). En outre, l'hôpital sera informé de votre arrivée.
+- Avant de vous rendre à l'urgence, vous pouvez appeler sans frais au 418-644-4545 dans la région de Québec, au 514-644-4545 dans la région de Montréal et au 1-877-644-4545 ailleurs au Québec. Si votre état vous le permet et que vous indiquez que vous êtes un voyageur de retour depuis moins de 14 jours. On vous indiquera comment vous y rendre et quelles sont les précautions à prendre (port d'un masque, utilisation d'un moyen de transport personnel ou d'une ambulance, etc.)
 
 ### Pour les citoyens de retour de voyage
 
@@ -40,4 +40,4 @@ Les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui s
   - Jetez le mouchoir en papier dans une poubelle et, ensuite, lavez vos mains avec l’eau et du savon.
   - Si vous n’avez pas de mouchoir en papier, toussez ou éternuez dans le creux de votre coude.
 
-[Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1)
+[Source]https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)

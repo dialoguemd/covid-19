@@ -11,11 +11,11 @@ Lorsque vous consultez un prestataire de soins de santé, veuillez le lui dire :
 - Si vous avez eu un contact direct avec des animaux (par exemple, si vous avez visité un marché d'animaux vivants)
 - Si vous avez été en contact étroit avec une personne malade, surtout si elle avait de la fièvre, de la toux ou des difficultés à respirer.
 
-### Je pense que j’ai le COVID-19, puis-je me rendre au service des urgences pour me faire tester ?
+### Je pense que j’ai peut-être le COVID-19, puis-je me rendre au service des urgences pour me faire tester ?
 
 En ce moment, nous demandons aux patients d'éviter de se rendre aux urgences pour des tests de dépistage de coronavirus.
 
-Si vous pensez que vous pourriez avoir la COVID-19, vous pouvez vous faire tester chez votre médecin traitant (médecin de famille ou infirmière praticienne). Veuillez appeler à l'avance le bureau de votre médecin traitant avant de vous rendre à sa clinique pour une évaluation et un test. Le fait de téléphoner à l'avance à la clinique avant de vous y rendre garantit que la clinique est prête à vous tester et assure la sécurité du personnel de la clinique et des autres visiteurs.
+Si vous pensez que vous pourriez avoir le COVID-19, veuillez appeler à l'avance le bureau de votre prestataire de soins primaires ou le 8-1-1 pour évaluer si vous avez besoin d'un test. Le fait d'appeler la clinique avant votre départ permet de s'assurer que la clinique est prête à vous tester et de protéger le personnel de la clinique et les autres visiteurs.
 
 Si vous n'avez pas de médecin de famille, veuillez appeler le 8-1-1 pour une évaluation. Les infirmières du 8-1-1 peuvent vous donner plus d'informations sur les endroits où vous pouvez vous rendre pour une évaluation et un test, par exemple, un centre de soins primaires d'urgence ou une clinique sans rendez-vous.
 

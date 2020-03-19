@@ -11,11 +11,11 @@ When seeing a health care provider, please tell them:
 - If you had direct contact with animals (for example, if you visited a live animal market)
 - If you had close contact with a sick person, especially if they had a fever, cough or difficulty breathing.
 
-### I think that I have COVID-19, can I come in to the emergency department to get tested?
+### I think I might have COVID-19, can I come in to the emergency department to get tested?
 
 At this time we are asking patients to avoid going to the emergency department for novel coronavirus testing.
 
-If you feel that you might have COVID-19, you can be tested at your primary care provider (family doctor or nurse practitioner's) office. Please call ahead to your primary care provider's office before you go to their clinic for assessment and testing. Calling ahead to the clinic before you go ensures that the clinic is prepared to test you and keeps the clinic’s staff and other visitors safe.
+If you feel that you might have COVID-19, please call ahead to your primary care provider's office or 8-1-1 to assess whether you neded testing. Calling ahead to the clinic before you go ensures that the clinic is prepared to test you and keeps the clinic’s staff and other visitors safe.
 
 If you do not have a primary care provider, please call 8-1-1 for assessment. The nurses at 8-1-1 can give you more information regarding where you can go for assessment and testing, for example, an urgent primary care centre or a walk-in clinic.
 

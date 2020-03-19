@@ -10,29 +10,6 @@ Les personnes dirigées vers un centre d'évaluation par le 811 feront ensuite l
 
 ### Établissements
 
-**📍 Central Nova Scotia (Halifax Regional Municipality, Eastern Shore and West Hants areas)**
-
-- Cobequid Community Health Centre
-- Dartmouth General Hospital
-- Halifax Infirmary
-
-**📍 Eastern Nova Scotia (Cape Breton, Antigonish and Guysborough areas)**
-
-- Cape Breton Regional Hospital
-- St. Martha's Regional Hospital
-
-**📍 Northern Nova Scotia (Colchester, Cumberland, Pictou County, and East Hants areas)**
-
-- Colchester East Hants Health Centre
-- Cumberland Regional Health Care Centre
-- East Side Health Centre, New Glasgow
-
-**📍 Western Nova Scotia (Annapolis Valley, South West and South Shore areas)**
-
-- Valley Regional Hospital
-- South Shore Regional Hospital
-- Yarmouth Regional Hospital
-
-Des centres de dépistage additionnels seront établis au cours des prochains jours.
+Consultez [ce site](http://www.nshealth.ca/coronavirus-assessment) pour obtenir la liste complète des centres d'évaluation COVID-19 de la Nouvelle-Écosse.
 
 [Source: Régie de la santé de la Nouvelle-Écosse](http://www.nshealth.ca/coronavirus)
