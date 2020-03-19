@@ -144,12 +144,16 @@ export const InfoPage: React.FC = () => {
   const query = useQuery()
   const { t } = useTranslation()
 
-  const onFaqChatbotEnd = useCallback(({ steps }) => {
-    if (steps.userQuestion) {
+  const onFaqChatbotEnd = useCallback(({ renderedSteps }) => {
+    const values = renderedSteps
+      .filter(step => step.id === 'userQuestion')
+      .map(step => step.value)
+
+    if (values.length > 0) {
       analytics.track(
-        'user_faq_question',
+        'user_faq_questions',
         {
-          value: steps.userQuestion.value
+          values
         },
         { context: { ip: '0.0.0.0' } }
       )
