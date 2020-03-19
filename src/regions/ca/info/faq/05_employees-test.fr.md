@@ -1,7 +1,9 @@
 ## Où les patients peuvent-ils se faire tester s'ils présentent des symptômes?
 
-Dialogue procédera à une évaluation médicale approfondie de tout patient présentant des symptômes afin d'identifier les facteurs de risque potentiels connus pour être liés à la COVID-19 (comme spécifié par les protocoles de dépistage fédéraux et provinciaux).
+Dialogue permet de passer à travers une évaluation médicale complète pour chaque patient présentant des symptômes, ainsi nous pouvons évaluer de potentiels facteurs de risques connus pour être en lien avec le Covid-19 (comme spécifiés dans les protocoles fédéraux et provinciaux).
 
-Les cas suspects seront dirigés vers l'autorité sanitaire compétente. Notre équipe de soins est équipée pour fournir des informations à nos patients en cas de suspicion d'infection. Le kit d'information comprend le numéro à appeler, les sites de dépistage appropriés, les mesures préventives pour éviter la propagation du virus potentiel).
+Les cas suspectés d’infection vont être redirigés vers la santé publique provinciale appropriée à la situation du patient. Notre équipe de soin est équipée pour répondre aux besoins d’informations d’un cas suspectés d’infection.
 
-Les autorités sanitaires provinciales ont des parcours de soins spécifiques que les patients doivent suivre car elles centralisent tous les cas dans des lieux de dépistage et de traitement spécifiques. Nous surveillons tous les protocoles de dépistage canadiens et provinciaux que nous devons suivre à la lettre pour garantir la sécurité de chacun. Ces protocoles changent tous les jours ou plus souvent ; nous vérifions donc les procédures en temps réel et orientons les patients en fonction des recommandations.
+Le kit d’information inclus les bons numéros à appeler, la liste des centre de tests appropriés, les mesures préventives pour éviter de répandre le virus.
+
+Les autorités de santé publique ont des couloirs de soin spécifiques pour diriger les patients vers des centres de tests et de traitements spécifiques au Covid-19. Nous surveillons de près toutes les mises à jour quotidiennes ou plus fréquentes de ces protocoles qu’ils soient gouvernementaux ou provinciaux pour assurer une protection optimale à tous et se référer à leurs recommandations.

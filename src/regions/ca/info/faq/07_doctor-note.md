@@ -1,4 +1,4 @@
-## Can I get a doctor's note ?
+## Can I get a doctor's note?
 
 No, we will not issue medical notes for COVID-19 unless they are the result of the Dialogue member being assessed for a medical problem that telemedicine can safely manage.
 
