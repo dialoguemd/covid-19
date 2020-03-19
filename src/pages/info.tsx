@@ -145,19 +145,18 @@ export const InfoPage: React.FC = () => {
   const { t } = useTranslation()
 
   const onFaqChatbotEnd = useCallback(({ renderedSteps }) => {
-    const values = renderedSteps
+    renderedSteps
       .filter(step => step.id === 'userQuestion')
       .map(step => step.value)
-
-    if (values.length > 0) {
-      analytics.track(
-        'user_faq_questions',
-        {
-          values
-        },
-        { context: { ip: '0.0.0.0' } }
-      )
-    }
+      .forEach(question => {
+        analytics.track(
+          'user_faq_question',
+          {
+            value: question
+          },
+          { context: { ip: '0.0.0.0' } }
+        )
+      })
   }, [])
 
   // parse /info?id=a,b,c -> [a, b, c]
