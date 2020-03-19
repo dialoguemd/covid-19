@@ -87,7 +87,7 @@ export default {
         'elevated-medical-risk'
       ],
       ['Personnes avec des voyages prévus', 'travel-plans'],
-      ['Questions et réponses', 'faq']
+      ['Foire aux questions', 'faq']
     ]
   }
 }
