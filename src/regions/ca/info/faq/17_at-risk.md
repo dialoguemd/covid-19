@@ -23,6 +23,6 @@ Anyone who has:
 
 More information here:
 
-- https://www.canada.ca/en/public-health/services/publications/diseases-conditions/vulnerable-populations-covid-19.html
-- https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html
-- https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html
+- [Government of Canada](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/vulnerable-populations-covid-19.html)
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)
+- [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)

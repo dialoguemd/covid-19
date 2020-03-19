@@ -15,14 +15,14 @@ Jusqu'à ce que nous en sachions plus, si vous avez été diagnostiqué avec COV
 - limiter les contacts de votre animal avec d'autres personnes et animaux
   Cela peut signifier les garder à l'intérieur.
 
-À ce jour, il n'a été signalé nulle part que du bétail ait été infecté par le COVID-19. Cependant, les éleveurs de bétail doivent suivre les mesures de biosécurité normales comme toujours. Il s'agit notamment de limiter les visiteurs ou les travailleurs qui ont pu se rendre dans une zone touchée ou être en contact avec une personne de cette zone. Pour plus d'informations sur la prévention des maladies agricoles, les producteurs sont encouragés à consulter le :
+À ce jour, il n'a été signalé nulle part que du bétail ait été infecté par le COVID-19. Cependant, les éleveurs de bétail doivent suivre les mesures de biosécurité normales comme toujours. Il s'agit notamment de limiter les visiteurs ou les travailleurs qui ont pu se rendre dans une zone touchée ou être en contact avec une personne de cette zone. Pour plus d'informations sur la prévention des maladies agricoles, les producteurs sont encouragés à consulter le:
 
-- https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/eng/1344707905203/1344707981478
-- https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/proactive-management/eng/1374175296768/1374176128059?chap=0
+- [Gouvernement du Canada](https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/eng/1344707905203/1344707981478)
+- [Gouvernement du Canada](https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/proactive-management/eng/1374175296768/1374176128059?chap=0)
 
 Ces recommandations seront mises à jour au fur et à mesure que des informations supplémentaires seront disponibles.
 
 Plus d'informations ici:
 
-- https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html
-- https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals (Anglais seulement)
+- [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals) (Anglais seulement)
