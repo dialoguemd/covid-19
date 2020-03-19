@@ -1,14 +1,20 @@
 import React, { useMemo } from 'react'
 
-import ReactSimpleChatbot from 'react-simple-chatbot'
-import styled, { ThemeProvider } from 'styled-components/macro'
+import ReactSimpleChatbot, { Step } from 'react-simple-chatbot'
+import styled, { ThemeProvider, css } from 'styled-components/macro'
 
-import steps from 'steps'
 import { theme, mobileBreakpoint } from 'theme'
 import chloe from 'images/chloe.png'
 import { transformStep } from 'services/steps-processor'
 
+interface Props {
+  steps: Step[]
+  showInput?: boolean
+}
+
 const DISABLE_DELAYS = process.env.NODE_ENV !== 'production'
+
+const INPUT_HEIGHT = 51
 
 const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   background: colors.background,
@@ -24,7 +30,14 @@ const makeTheme = ({ colors, sizes, fontFamily }: typeof theme) => ({
   sizes
 })
 
-const StyledChatbot = styled(ReactSimpleChatbot)`
+const WrappedChatbot: React.FC<Props & Record<string, any>> = ({
+  showInput,
+  ...rest
+}) => {
+  return <ReactSimpleChatbot {...rest} />
+}
+
+const StyledChatbot = styled(WrappedChatbot)`
   height: 100%;
   width: 100%;
 
@@ -40,10 +53,14 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
 
   .rsc-content {
     padding: 15px;
-    height: calc(100% - 30px);
+    height: calc(
+      100% - ${props => (props.showInput ? INPUT_HEIGHT : 0)}px - 30px
+    );
     @media (max-width: ${mobileBreakpoint}px) {
       padding: 10px;
-      height: calc(100% - 20px);
+      height: calc(
+        100% - ${props => (props.showInput ? INPUT_HEIGHT : 0)}px - 20px
+      );
     }
   }
 
@@ -93,22 +110,25 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     }
   }
 
-  .rsc-footer {
-    display: none;
-  }
+  ${props =>
+    !props.showInput &&
+    css`
+      .rsc-footer {
+        display: none;
+      }
+    `}
 `
 
-export const Chatbot: React.FC = props => {
-  // steps are cached by chatbot, so we could update on language
-  // change, but that would involve clearing the current in-progress
-  // q'naire. So, memo is enough.
-  // i.e. take i18n language at initial render of chatbot
-  const transformedSteps = useMemo(() => steps.map(transformStep), [])
+export const Chatbot: React.FC<Props & Record<string, any>> = ({
+  steps,
+  ...rest
+}) => {
+  const transformedSteps = useMemo(() => steps.map(transformStep), [steps])
 
   return (
     <ThemeProvider theme={makeTheme}>
       <StyledChatbot
-        {...props}
+        {...rest}
         steps={transformedSteps}
         hideHeader
         hideUserAvatar

@@ -5,7 +5,7 @@ import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
 
 import InfoPage from './pages/info'
 import WelcomePage from './pages/welcome'
-import Chatbot from './components/chatbot'
+import QuestionnairePage from './pages/questionnaire'
 import { theme } from './theme'
 import GlobalStyles from './styles'
 
@@ -31,7 +31,7 @@ function App() {
               <InfoPage />
             </Route>
             <Route path="/chat/">
-              <Chatbot />
+              <QuestionnairePage />
             </Route>
             <Route path="*">
               <Redirect to="/" />

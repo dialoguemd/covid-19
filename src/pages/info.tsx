@@ -1,15 +1,23 @@
-import React from 'react'
+import React, { useCallback } from 'react'
 
 import { useLocation, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 
+import Chatbot from 'components/chatbot'
 import Results from 'components/results'
 import Header from 'components/header'
 import Footer from 'components/footer'
 import Title from 'components/title'
 import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
+import { requireRegionFile } from 'services/region-loader'
+
+const config = requireRegionFile('config.json')
+
+const faqSteps = config.ENABLE_FAQ_BOT
+  ? requireRegionFile('steps.faq.json')
+  : []
 
 const useQuery = () => {
   const location = useLocation()
@@ -113,9 +121,35 @@ const Spacer = styled.div`
   flex-grow: 1;
 `
 
+const FaqChatbotContainer = styled.div`
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  background: ${props => props.theme.colors.backgroundLight};
+  border-radius: 12px;
+  height: 400px;
+  width: calc(100% - 24px);
+  max-width: 1032px;
+  margin: 12px;
+
+  .rsc-container {
+    background: transparent;
+  }
+`
+
 export const InfoPage: React.FC = () => {
   const query = useQuery()
   const { t } = useTranslation()
+
+  const onFaqChatbotEnd = useCallback(({ steps }) => {
+    if (steps.userQuestion) {
+      analytics.track(
+        'user_faq_question',
+        {
+          value: steps.userQuestion.value
+        },
+        { context: { ip: '0.0.0.0' } }
+      )
+    }
+  }, [])
 
   // parse /info?id=a,b,c -> [a, b, c]
   const queryClasses = query.get('id')
@@ -160,6 +194,16 @@ export const InfoPage: React.FC = () => {
       </InfoCard>
       <Spacer />
       <ShareResults classes={classes} />
+      {config.ENABLE_FAQ_BOT && (
+        <FaqChatbotContainer>
+          <Chatbot
+            steps={faqSteps}
+            handleEnd={onFaqChatbotEnd}
+            placeholder={t('resultsPage.faqInputPlaceholder')}
+            showInput
+          />
+        </FaqChatbotContainer>
+      )}
       <Footer />
     </InfoPageContainer>
   )

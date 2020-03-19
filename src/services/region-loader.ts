@@ -9,8 +9,8 @@ export const getRegionId = () =>
   regionsIndex.DOMAINS[window.location.hostname] ||
   regionsIndex.REGIONS[0]
 
-export const requireRegionFile = file =>
+export const requireRegionFile = (file: string) =>
   require(`regions/${getRegionId()}/${file}`)
 
-export const importRegionFile = file =>
+export const importRegionFile = (file: string) =>
   import(`regions/${getRegionId()}/${file}`)
