@@ -2,3 +2,4 @@
 *.jpeg
 *.png
 *.svg
+src/regions/**/manifest.json
