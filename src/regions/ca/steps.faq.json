@@ -27,7 +27,7 @@
     "id": "utterQuestionAsked",
     "message": "faq.utterQuestionAsked",
     "hideInput": true,
-    "end": true
+    "trigger": "userHasQuestion"
   },
   {
     "id": "utterNoQuestion",

@@ -106,6 +106,8 @@ export default {
     utterAskForQuestion: `What's your question?`,
     utterQuestionAsked: `
     Thank you for your feedback! We will review your question, and add it to the FAQ if or when the answers become available.
+
+    Do you have another question?
     `,
     utterNoQuestion: `Thank you for the feedback!`
   }

@@ -114,7 +114,10 @@ export default {
     `,
     utterAskForQuestion: `Quelle est votre question ?`,
     utterQuestionAsked: `
-    Merci pour votre question ! Nous examinerons votre question et l'ajouterons à la FAQ quand les réponses seront disponibles.    `,
+    Merci pour votre question ! Nous examinerons votre question et l'ajouterons à la FAQ quand les réponses seront disponibles.
+
+    Avez-vous une autre question ?
+    `,
     utterNoQuestion: `Merci pour votre contribution !`
   }
 }
