@@ -116,7 +116,7 @@ const FaqChatbotContainer = styled.div`
   background: ${props => props.theme.colors.backgroundLight};
   border-radius: 12px;
   height: 400px;
-  width: 100%;
+  width: calc(100% - 24px);
   max-width: 1032px;
   margin: 12px;
 
