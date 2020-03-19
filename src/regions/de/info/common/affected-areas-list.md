@@ -19,4 +19,4 @@ Als besonders betroffene Gebiete in Deutschland gelten derzeit (Stand: 6.3.2020 
 [Überblick über bestätigte Covid-19 Fälle weltweit (WHO)](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 [Fallzahlen in Deutschland (RKI)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
 
-**Quellen:** [Robert Koch-Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html); [Bundesministerium für Gesundheit](https://www.bundesgesundheitsministerium.de/coronavirus.html)
+**Quellen:** Robert Koch-Institut
