@@ -54,7 +54,7 @@ Proper hygiene can help reduce the risk of infection or spreading infection to o
 
 ### Being prepared
 
-It is important to know how [you can prepare](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html) in case you or a family member become ill.
+It is important to know how [you can prepare](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html) in case you or a family member become ill. TESTING 1 2 3
 
 ### Wearing masks
 
