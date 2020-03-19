@@ -33,6 +33,9 @@ const InfoCard = styled.div`
   border-radius: 12px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   flex-shrink: 0;
+  /* so that it doesn't look too flickly on initial load */
+  width: calc(100% - 32px);
+  min-height: 500px;
   > div {
     width: 100%;
     max-width: 1000px;
@@ -129,6 +132,8 @@ const FaqChatbotContainer = styled.div`
   width: calc(100% - 24px);
   max-width: 1032px;
   margin: 12px;
+
+  z-index: 0;
 
   .rsc-container {
     background: transparent;
