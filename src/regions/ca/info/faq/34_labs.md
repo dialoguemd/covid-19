@@ -30,7 +30,7 @@ Here is informations on some labs across Québec and Canada (Sources: calling di
 
 It appears that most of them cancelled their nursing services (N95 masks are mandatory to perform throat tests), call beforehand but unlikely to found - - _(Updated 2020-03-16)_
 
-## Canada
+## Rest of Canada
 
 - Lifelabs - No limitations - _(Updated 2020-03-16)_
 - Dynacare - No limitations - _(Updated 2020-03-17)_
