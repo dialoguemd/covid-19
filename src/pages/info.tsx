@@ -34,7 +34,7 @@ const InfoCard = styled.div`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   flex-shrink: 0;
   /* so that it doesn't look too flickly on initial load */
-  width: calc(100% - 32px);
+  min-width: 200px;
   min-height: 500px;
   > div {
     width: 100%;
