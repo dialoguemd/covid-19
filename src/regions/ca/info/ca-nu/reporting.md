@@ -1,5 +1,7 @@
 ## Nuvavut: Who should I contact if I think I have COVID-19?
 
+As of March 15, 2020 the Chief Public Health Officer of Nunavut is advising travellers arriving in Nunavut from any destination to self-isolate for 14 days after your return.
+
 If you develop symptoms and have travelled to a region with known cases of COVID-19
 occurring in the community or have been in contact with someone who has:
 
