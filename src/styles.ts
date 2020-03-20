@@ -9,6 +9,7 @@ const GlobalStyles = createGlobalStyle`
     margin: 0;
     background-color: ${props => props.theme.colors.background};
     font-weight: 300;
+    color: ${props => props.theme.colors.text};
   }
 
   a {

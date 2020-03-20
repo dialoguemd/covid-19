@@ -175,34 +175,31 @@ export const InfoPage: React.FC = () => {
       <ScrollAnchor />
       <Header />
       <Title>{t('resultsPage.headerTitle')}</Title>
-      <Audience>
-        <ClassList>
-          {t('resultsPage.audiencePrefix')} {classString}
-        </ClassList>
-        <HeaderLinkContainer>
-          <HeaderLinkSubTitle>
-            {t('resultsPage.changeAudienceTitle')}
-          </HeaderLinkSubTitle>
-          <HeaderLink to="/chat/">{t('resultsPage.changeAudience')}</HeaderLink>
-        </HeaderLinkContainer>
-      </Audience>
-      <InfoCard>
-        <div>
-          {hasClasses ? (
-            <Results classes={classes} />
-          ) : (
+      {hasClasses && (
+        <>
+          <Audience>
+            <ClassList>
+              {t('resultsPage.audiencePrefix')} {classString}
+            </ClassList>
+            <HeaderLinkContainer>
+              <HeaderLinkSubTitle>
+                {t('resultsPage.changeAudienceTitle')}
+              </HeaderLinkSubTitle>
+              <HeaderLink to="/chat/">
+                {t('resultsPage.changeAudience')}
+              </HeaderLink>
+            </HeaderLinkContainer>
+          </Audience>
+          <InfoCard>
             <div>
-              <h2>{t('resultsPage.noResultsMessage')}</h2>
-              <div>
-                <Link to="/chat/">{t('resultsPage.changeAudience')}</Link>
-              </div>
+              <Results classes={classes} />
             </div>
-          )}
-        </div>
-      </InfoCard>
-      <Spacer />
-      <ShareResults classes={classes} />
-      {config.ENABLE_FAQ_BOT && (
+          </InfoCard>
+          <Spacer />
+          <ShareResults classes={classes} />
+        </>
+      )}
+      {config.ENABLE_FAQ_BOT ? (
         <FaqChatbotContainer>
           <Chatbot
             steps={faqSteps}
@@ -211,6 +208,15 @@ export const InfoPage: React.FC = () => {
             showInput
           />
         </FaqChatbotContainer>
+      ) : (
+        <InfoCard
+          css={`
+            min-height: 0;
+            max-width: 1000px;
+          `}
+        >
+          <p>{t('resultsPage.noResultsMessage')}</p>
+        </InfoCard>
       )}
       <Footer />
     </InfoPageContainer>
