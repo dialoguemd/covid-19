@@ -10,7 +10,7 @@ If you have symptoms such as a cough or fever:
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
 - Visit the emergency room only if you have difficulty breathing (difficulty breathing at rest or unable to breathe while lying down).
-- Before you go to the emergency room, you can call toll free 418-644-4545 in the Québec City region, 514-644-4545 in the Montréal area, 450-644-4545 in the Montérégie region, 819-644-4545 in the Outaouais region and 1-877-644-4545 elsewhere in Québec. If your condition allows you to do so and indicate that you are a traveller who has been back for less than 14 days. You will be told how to go there and what precautions to take (wearing a mask, using personal transportation or an ambulance, and so on). 
+- Before you go to the emergency room, you can call toll free 418-644-4545 in the Québec City region, 514-644-4545 in the Montréal area, 450-644-4545 in the Montérégie region, 819-644-4545 in the Outaouais region and 1-877-644-4545 elsewhere in Québec. If your condition allows you to do so and indicate that you are a traveller who has been back for less than 14 days. You will be told how to go there and what precautions to take (wearing a mask, using personal transportation or an ambulance, and so on).
 
 ### For citizens returning from travel:
 
