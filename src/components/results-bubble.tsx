@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 
-import { CtaButtonLink } from 'components/buttons'
+import { CtaButton } from 'components/buttons'
 import { getChatClassesFromSteps } from 'services/chat-classifier'
 
 const ViewReportContainer = styled.div`
@@ -27,7 +28,9 @@ export const ResultsBubble: React.FC = (props: any) => {
 
   return (
     <ViewReportContainer>
-      <CtaButtonLink to={resultsLink}>{t('share.viewResults')}</CtaButtonLink>
+      <CtaButton as={Link} to={resultsLink}>
+        {t('share.viewResults')}
+      </CtaButton>
     </ViewReportContainer>
   )
 }

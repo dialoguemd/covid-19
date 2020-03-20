@@ -11,7 +11,7 @@ import Footer from 'components/footer'
 import Title from 'components/title'
 import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
-import { CtaButtonLink } from 'components/buttons'
+import { CtaButton } from 'components/buttons'
 import { requireRegionFile } from 'services/region-loader'
 
 const config = requireRegionFile('config.json')
@@ -164,9 +164,9 @@ export const InfoPage: React.FC = () => {
               <HeaderLinkSubTitle>
                 {t('resultsPage.changeAudienceTitle')}
               </HeaderLinkSubTitle>
-              <CtaButtonLink to="/chat/">
+              <CtaButton as={Link} to="/chat/">
                 {t('resultsPage.changeAudience')}
-              </CtaButtonLink>
+              </CtaButton>
             </HeaderLinkContainer>
           </Audience>
           <InfoCard>

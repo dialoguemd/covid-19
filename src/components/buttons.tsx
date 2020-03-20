@@ -1,9 +1,8 @@
-import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 
-export const CtaButtonLink = styled(Link)`
+export const CtaButton = styled.button`
   align-items: center;
-  transition: background 200ms linear;
+  transition: background 200ms linear, opacity 200ms linear;
   font-size: ${props => props.theme.sizes.buttonText};
   font-family: ${props => props.theme.fontFamily};
   font-weight: 500;

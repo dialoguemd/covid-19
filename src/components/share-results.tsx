@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 import { mobileBreakpoint } from 'theme'
 import { requireRegionFile } from 'services/region-loader'
-
+import { CtaButton } from 'components/buttons'
 const config = requireRegionFile('config.json')
 
 const ShareContainer = styled.div`
@@ -17,19 +17,7 @@ const ShareContainer = styled.div`
   }
 `
 
-const ShareButton = styled.a.attrs({ target: '_blank' })`
-  font-size: ${props => props.theme.sizes.buttonText};
-  font-family: ${props => props.theme.fontFamily};
-  font-weight: 500;
-  border-radius: 28px;
-  padding: calc(${props => props.theme.sizes.buttonText} * 0.75) 24px;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-  min-width: 6em;
-  margin: 6px;
-  color: #fff;
-  text-decoration: none;
-  display: block;
-  text-align: center;
+const ShareButton = styled(CtaButton)`
   @media (max-width: ${mobileBreakpoint}px) {
     width: 70vw;
     max-width: 320px;
@@ -76,12 +64,12 @@ export const ShareResults: React.FC<Props> = ({ classes, ...rest }) => {
         <CtaText>{t('share.CTA')}</CtaText>
         <ShareContainer>
           {config.ENABLE_FACEBOOK_SHARE && (
-            <FacebookShareButton href={facebookHref}>
+            <FacebookShareButton as="a" href={facebookHref} target="_blank">
               {t('share.facebookButton')}
             </FacebookShareButton>
           )}
           {config.ENABLE_TWITTER_SHARE && (
-            <TwitterSharebutton href={twitterHref}>
+            <TwitterSharebutton as="a" href={twitterHref} target="_blank">
               {t('share.twitterButton')}
             </TwitterSharebutton>
           )}
