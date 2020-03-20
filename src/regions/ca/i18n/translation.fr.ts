@@ -25,7 +25,7 @@ export default {
     previousRunLink:
       'Voir les informations les plus récentes pour votre dernière session',
     previousRunExpired:
-      'Les réponses de la dernière session ont expiré. Veuillez lancer un nouveau chat pour obtenir les informations les plus récentes.'
+      'Les réponses de votre dernière session ont expiré. Veuillez lancer une nouvelle conversation pour obtenir les informations les plus récentes.'
   },
   classes: {
     common: 'à tous les Canadiens',
