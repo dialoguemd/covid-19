@@ -10,7 +10,7 @@ De plus, si vous avez de la toux ou de la fièvre :
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
-- Avant de vous rendre à l’urgence, si votre condition le permet, contactez le 418 644-4545 pour la région de Québec, le 514 644-4545 pour la région de Montréal, le 450 644-4545 pour la région de la Montérégie, le 819 644-4545 pour la région de l’Outaouais ou le 1 877 644-4545 ailleurs au Québec. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le. On vous dira comment vous rendre et quelles précautions prendre (port de masque, utilisation de transport personnel ou d’une ambulance, etc.). 
+- Avant de vous rendre à l’urgence, si votre condition le permet, contactez le 418 644-4545 pour la région de Québec, le 514 644-4545 pour la région de Montréal, le 450 644-4545 pour la région de la Montérégie, le 819 644-4545 pour la région de l’Outaouais ou le 1 877 644-4545 ailleurs au Québec. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le. On vous dira comment vous rendre et quelles précautions prendre (port de masque, utilisation de transport personnel ou d’une ambulance, etc.).
 
 ### Pour les citoyens de retour de voyage
 
@@ -33,7 +33,7 @@ Les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui s
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires.
-- Avant de vous rendre à l’urgence, contactez le 1 877 644-4545 si votre condition le permet. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le. On vous dira comment vous rendre et quelles précautions prendre (port de masque, utilisation de transport personnel ou d’une ambulance, etc.). 
+- Avant de vous rendre à l’urgence, contactez le 1 877 644-4545 si votre condition le permet. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le. On vous dira comment vous rendre et quelles précautions prendre (port de masque, utilisation de transport personnel ou d’une ambulance, etc.).
 
 ### Si vous vivez avec d’autres personnes qui n’ont pas voyagé :
 
