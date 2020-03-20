@@ -15,7 +15,7 @@ When seeing a health care provider, please tell them:
 
 At this time we are asking patients to avoid going to the emergency department for novel coronavirus testing.
 
-If you feel that you might have COVID-19, please call ahead to your primary care provider's office or 8-1-1 to assess whether you neded testing. Calling ahead to the clinic before you go ensures that the clinic is prepared to test you and keeps the clinic’s staff and other visitors safe.
+If you feel that you might have COVID-19, please call ahead to your primary care provider's office or 8-1-1 to assess whether you need testing. Calling ahead to the clinic before you go ensures that the clinic is prepared to test you and keeps the clinic’s staff and other visitors safe.
 
 If you do not have a primary care provider, please call 8-1-1 for assessment. The nurses at 8-1-1 can give you more information regarding where you can go for assessment and testing, for example, an urgent primary care centre or a walk-in clinic.
 
