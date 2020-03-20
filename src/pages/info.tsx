@@ -175,7 +175,7 @@ export const InfoPage: React.FC = () => {
       <ScrollAnchor />
       <Header />
       <Title>{t('resultsPage.headerTitle')}</Title>
-      {hasClasses ? (
+      {hasClasses && (
         <>
           <Audience>
             <ClassList>
@@ -192,21 +192,22 @@ export const InfoPage: React.FC = () => {
           </Audience>
           <InfoCard>
             <div>
-              {hasClasses ? (
-                <Results classes={classes} />
-              ) : (
-                <div>
-                  <h2>{t('resultsPage.noResultsMessage')}</h2>
-                  <div>
-                    <Link to="/chat/">{t('resultsPage.changeAudience')}</Link>
-                  </div>
-                </div>
-              )}
+              <Results classes={classes} />
             </div>
           </InfoCard>
           <Spacer />
           <ShareResults classes={classes} />
         </>
+      )}
+      {config.ENABLE_FAQ_BOT ? (
+        <FaqChatbotContainer>
+          <Chatbot
+            steps={faqSteps}
+            handleEnd={onFaqChatbotEnd}
+            placeholder={t('resultsPage.faqInputPlaceholder')}
+            showInput
+          />
+        </FaqChatbotContainer>
       ) : (
         <InfoCard
           css={`
@@ -216,17 +217,6 @@ export const InfoPage: React.FC = () => {
         >
           <p>{t('resultsPage.noResultsMessage')}</p>
         </InfoCard>
-      )}
-
-      {config.ENABLE_FAQ_BOT && (
-        <FaqChatbotContainer>
-          <Chatbot
-            steps={faqSteps}
-            handleEnd={onFaqChatbotEnd}
-            placeholder={t('resultsPage.faqInputPlaceholder')}
-            showInput
-          />
-        </FaqChatbotContainer>
       )}
       <Footer />
     </InfoPageContainer>
