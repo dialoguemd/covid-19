@@ -18,7 +18,7 @@
     "SH",
     "TH"
   ],
-  "ENABLE_PREVIOUS_RESULTS_LINK": false,
+  "ENABLE_PREVIOUS_RESULTS_LINK": true,
   "ENABLE_FACEBOOK_SHARE": true,
   "ENABLE_TWITTER_SHARE": true,
   "ENABLE_FAQ_BOT": false

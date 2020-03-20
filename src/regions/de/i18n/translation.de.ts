@@ -23,7 +23,7 @@ export default {
     button: 'START',
     previousRunLink: 'Neueste Informationen für Ihre letzte Sitzung anzeigen',
     previousRunExpired:
-      'Die Antworten aus der letzten Sitzung sind abgelaufen. Bitte starten Sie einen neuen Chat, um aktuelle Informationen zu erhalten.'
+      'Ihre Eingaben aus der letzten Sitzung sind abgelaufen. Bitte starten Sie einen neuen Chat, um aktuelle Informationen zu erhalten.'
   },
   classes: {
     common: 'Allgemeine Informationen',
