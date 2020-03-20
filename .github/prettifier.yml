@@ -1,0 +1,2 @@
+commitMessage: 'chore: lint {{commitSha}}'
+pullsOnly: true
