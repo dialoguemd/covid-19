@@ -1,23 +1,30 @@
 ## Alberta: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si vous êtes récemment revenu d'un voyage à l'étranger ou si vous présentez des symptômes - toux, fièvre, fatigue ou difficultés respiratoires:
+Vous devez être évalué pour COVID-19 si :
 
-- restez chez vous - ne vous rendez pas aux urgences ou dans une clinique
-- passer le [test d'auto-évaluation COVID-19](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx)
-- appeler [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html) pour obtenir des tests et des instructions
+#### Vous êtes retourné en Alberta le ou après le 12 mars :
 
-[Source: Gouvernement de l'Alberta (en anglais)](https://www.alberta.ca/coronavirus-info-for-albertans.aspx)
+- TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger le ou après le 12 mars doivent s'isoler immédiatement, pendant 14 jours, et surveiller les symptômes.
+- Si des symptômes apparaissent, restez chez vous et appelez immédiatement [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html).
 
-## Que dois-je faire si je viens de rentrer d'un voyage à l'étranger ?
+#### Vous êtes rentré en Alberta avant le 12 mars :
 
-#### Retourné avant le 12 mars
+- Les voyageurs qui sont rentrés en Alberta en provenance d'Italie, d'Iran, de la province chinoise de Hubei ou de la Grande Princesse
+  Les navires de croisière, avant le 12 mars, doivent également s'isoler et se surveiller pour détecter les symptômes pendant 14
+  jours après le retour. Si des symptômes apparaissent, restez chez vous et appelez immédiatement [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html).
+- Les voyageurs qui sont rentrés en Alberta en provenance d'autres destinations avant le 12 mars doivent se surveiller
+  pour les symptômes.
+- Les tests sont actuellement axés sur les personnes qui ont voyagé à l'étranger ou qui ont été en contact avec des
+  une personne diagnostiquée comme ayant la COVID-19, ou ayant développé des symptômes de la COVID-19.
 
-Les voyageurs qui reviennent d'Italie, d'Iran, de la province chinoise de Hubei et du bateau de croisière Grand Princess doivent s'isoler pendant 14 jours et surveiller les symptômes
-Les voyageurs qui reviennent d'un autre pays à l'extérieur du Canada doivent surveiller les symptômes pendant 14 jours
+#### Vous avez des symptômes :
 
-#### Retour après le 12 mars
+- Toute personne qui présente des symptômes semblables à ceux du rhume ou de la grippe doit s'isoler et réduire au minimum les contacts avec les autres pendant 14
+  jours. Cela inclut des symptômes tels que la toux, l'écoulement nasal et le mal de gorge. Consultez les sites [www.ahs.ca/covid](www.ahs.ca/covid) et
+  remplir l'outil d'auto-évaluation en ligne pour déterminer si vous devez passer le test COVID-19
+- Si le test COVID-19 n'est pas recommandé, il est tout de même essentiel que vous mainteniez votre auto-isolement.
+- Veuillez ne pas vous rendre dans un hôpital, un cabinet médical, un laboratoire ou un établissement de soins de santé sans avoir consulté au préalable [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html).
 
-Tous les voyageurs revenant de l'étranger doivent s'isoler pendant 14 jours et surveiller les symptômes
-Si vous présentez des symptômes - toux, fièvre ou difficultés respiratoires - restez chez vous et remplissez l'auto-évaluation COVID-19 en ligne. Ne vous rendez pas aux urgences ou au cabinet médical.
+Si vous avez besoin de soins médicaux immédiats, appelez le 911 et informez-les que vous êtes peut-être porteur du test COVID-19.
 
 [Source](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-ncov-2019-public-faq.pdf)

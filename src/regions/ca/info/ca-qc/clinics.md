@@ -32,6 +32,8 @@ Sainte-Justine Hospital also asks all visitors presenting symptoms associated wi
 
 ### 📍 Quebec area
 
+Quebec residents who develop symptoms of fever, cough or breathing difficulties within 14 days of traveling outside of Canada should call 1 877 644-4545.
+
 If a case is confirmed and requires hospitalization, it will be managed in one of the designated centres of a centre of expertise in infectiology.
 
 In Québec City, the designated centres are the Institut universitaire de cardiologie et de pneumologie de Québec (IUCPQ) for adult patients and the Centre mère-enfant Soleil for pediatric patients.

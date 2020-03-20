@@ -1,10 +1,10 @@
 ## Quebec: Who should I contact if I think I have COVID-19?
 
-If you are worried about COVID-19 or if you have a cough or fever, you can call the toll-free number 1 877 644-4545.
+If you are worried about COVID‑19 or display symptoms such as a cough or fever, you can call toll free 418-644-4545 in the Québec City region, 514-644-4545 in the Montréal area and 1-877-644-4545 elsewhere in Québec.
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
 - Visit the emergency room only if you have difficulty breathing.
-- Before you go to the emergency room, contact 1 877 644-4545 if your condition allows you to do so and indicate that you are a traveller who has been back for less than 14 days. You will be told how to go there and what precautions to take (wearing a mask, using personal transportation or an ambulance, and so on). Furthermore, the hospital will be notified of your arrival.
+- Before you go to the emergency room, you can call toll free 418-644-4545 in the Québec City region, 514-644-4545 in the Montréal area and 1-877-644-4545 elsewhere in Québec. If your condition allows you to do so and indicate that you are a traveller who has been back for less than 14 days. You will be told how to go there and what precautions to take (wearing a mask, using personal transportation or an ambulance, and so on).
 
 ### For citizens returning from travel:
 
@@ -40,4 +40,4 @@ Individuals who are returning from outside Canada and are in self-isolation at h
   - discard the tissues in the garbage and wash your hands with soap and water;
   - if you do not have disposable tissues, cough or sneeze in the crook of your arm.
 
-[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#app1)
+[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)

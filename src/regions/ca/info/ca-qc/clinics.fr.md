@@ -32,7 +32,7 @@ Le CHU Sainte-Justine demande également à tout visiteur présentant des sympt�
 
 ### 📍 Région de Québec
 
-**Hôpitaux désignés**
+Les résidents du Québec qui présentent des symptômes de fièvre, de toux ou de difficultés respiratoires dans les 14 jours suivant un voyage à l'étranger doivent appeler le 1 877 644-4545.
 
 Si un cas s’avérait confirmé et nécessite une hospitalisation, ce dernier sera pris en charge dans un des centres désignés d’un pôle d’expertise en infectiologie.
 

@@ -2,11 +2,11 @@
 
 ### Retour de voyage
 
-Toute personne ayant voyagé à l'extérieur du Canada devrait::
+Toute personne ayant voyagé à l'extérieur du Canada devrait:
 
 - s'isoler pendant 14 jours à son retour. Les personnes qui s'isolent ne doivent pas aller travailler
-  se surveiller eux-mêmes pour détecter les symptômes du nouveau coronavirus 2019 pendant 14 jours après leur retour au Canada
-  contacter Telehealth Ontario au 1-866-797-0000 ou leur unité locale de santé publique s'ils présentent des symptômes du nouveau coronavirus 2019
+- se surveiller eux-mêmes pour détecter les symptômes du nouveau coronavirus 2019 pendant 14 jours après leur retour au Canada
+- contacter Telehealth Ontario au 1-866-797-0000 ou leur unité locale de santé publique s'ils présentent des symptômes du nouveau coronavirus 2019
 
 En outre:
 

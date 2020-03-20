@@ -1,23 +1,30 @@
 ## Alberta: Who should I contact if I think I have COVID-19?
 
-If you recently returned from travel outside Canada or have symptoms - cough, fever, fatigue or difficulty breathing:
+You should be assessed for COVID-19 if:
 
-- stay home - do not go to an ER or clinic
-- take the [COVID-19 self-assessment test](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx)
-- call [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html) for testing and instructions
+#### You returned to Alberta on or after March 12th:
 
-[Source: Government of Alberta](https://www.alberta.ca/coronavirus-info-for-albertans.aspx)
+- ALL travelers who returned to Alberta from outside Canada on or after March 12th are required to selfisolate immediately, for 14 days, and monitor for symptoms.
+- If symptoms develop, remain at home and call [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html) immediately.
 
-## What should I do if I have recently returned from travelling outside of Canada?
+#### You returned to Alberta before March 12th:
 
-#### Returned before March 12
+- Travelers who returned to Alberta from Italy, Iran, the Hubei Province of China or the Grande Princess
+  Cruise ship, before March 12th, must also self-isolate, and must monitor themselves for symptoms for 14
+  days after return. If symptoms do develop, stay home and call [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html) immediately.
+- Travelers who returned to Alberta from other destinations, before March 12th, must monitor themselves
+  for symptoms.
+- Testing is currently focused on individuals who have traveled outside Canada or had contact with
+  someone diagnosed as having COVID-19, or have developed symptoms of COVID-19.
 
-Travellers returning from Italy, Iran, China’s Hubei province and the Grand Princess cruise ship should self-isolate for 14 days and monitor for symptoms
-Travellers returning from other countries outside Canada should monitor for symptoms for 14 days
+#### You have symptoms:
 
-#### Returning after March 12
+- Anyone who has cold or flu like symptoms should self-isolate and minimize contact with others for 14
+  days. This includes symptoms such as cough, runny nose, and sore throat. Visit [www.ahs.ca/covid](www.ahs.ca/covid) and
+  complete the online self-assessment tool to determine if you should receive testing for COVID-19
+- If COVID-19 testing as not being recommended, it is still essential that you maintain self-isolation.
+- Please do not visit a hospital, physician’s office, lab or healthcare facility without consulting [Health Link 811](http://www.albertahealthservices.ca/assets/healthinfo/link/index.html) first.
 
-All travellers returning from outside Canada should self-isolate for 14 days and monitor for symptoms
-If you develop symptoms – cough, fever or difficulty breathing – stay home and complete the online COVID-19 self-assessment. Do not go to the ER or doctor's office.
+If you need immediate medical attention, call 911 and advise them that you may have COVID-19.
 
 [Source](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-ncov-2019-public-faq.pdf)
