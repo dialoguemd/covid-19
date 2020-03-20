@@ -1,5 +1,7 @@
 ## Nuvavut: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
+À partir du 15 mars 2020, l'Administrateur en chef de la santé publique du Nunavut conseille aux voyageurs arrivant au Nunavut, quelle que soit leur destination, de s'isoler pendant 14 jours après leur retour.
+
 Si vous présentez des symptômes et avez voyagé dans une région où des cas connus du COVID-19 se sont produits dans la communauté ou qui ont été en contact avec une personne qui l'a fait:
 
 - rester à la maison et éviter tout contact avec les autres
