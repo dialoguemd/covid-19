@@ -5,4 +5,3 @@ Assessment Centres are being rolled out across AHS Zones. Centre operations will
 Online assessment tool: https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx
 
 [Source: Government of Alberta](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-covid-19-primary-care-faq.pdf)
-
