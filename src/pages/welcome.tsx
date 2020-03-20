@@ -11,7 +11,11 @@ import ScrollAnchor from 'components/scroll-anchor'
 
 import { requireRegionFile } from 'services/region-loader'
 import { checkClassesValidity } from 'services/content'
+
+const config = requireRegionFile('config.json')
 const flagImage = requireRegionFile('images/flag.jpg')
+
+const SHOW_PREVIOUS_RESULTS_LINK = config.ENABLE_PREVIOUS_RESULTS_LINK
 
 const Description = styled.h3`
   color: ${props => props.theme.colors.text};
@@ -119,7 +123,7 @@ export const WelcomePage: React.FC = () => {
           </GetStartedButton>
         </div>
         <Subtext>
-          {previousRunClasses && (
+          {SHOW_PREVIOUS_RESULTS_LINK && previousRunClasses && (
             <p>
               {previousRunIsValid ? (
                 <Link to={`/info?id=${previousRunClasses}`}>
