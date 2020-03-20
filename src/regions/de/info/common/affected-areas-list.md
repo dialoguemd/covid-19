@@ -1,6 +1,6 @@
 ## 🌍Internationale Risikogebiete und besonders betroffene Gebiete in Deutschland
 
-Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationale Risikogebiete** definiert (Stand: 15.3.2020 um 14:00 Uhr):
+Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationale Risikogebiete** definiert (letzte Aktualisierung des RKI am 15.3.2020 um 14:00 Uhr):
 
 - 🇮🇹 Italien
 - 🇮🇷 Iran
@@ -12,11 +12,11 @@ Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationa
 - 🇺🇸 In USA: Bundesstaaten Kalifornien, Washington und New York
 
 🇩🇪
-Als besonders betroffene Gebiete in Deutschland gelten derzeit (Stand: 6.3.2020 um 19:00 Uhr):
+Als besonders betroffene Gebiete in Deutschland gelten derzeit (letzte Aktualisierung des RKI am 6.3.2020 um 19:00 Uhr):
 
 - Landkreis Heinsberg (Nordrhein-Westfalen)
 
 [Überblick über bestätigte Covid-19 Fälle weltweit (WHO)](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 [Fallzahlen in Deutschland (RKI)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
 
-**Quellen:** Robert Koch-Institut
+**Quelle:** Robert Koch-Institut
