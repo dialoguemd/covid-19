@@ -2,9 +2,19 @@
 
 **If you’ve travelled**
 
-The Province of Nova Scotia, under the authority of the Health Protection Act, is requiring anyone who has travelled outside Canada to self-isolate for 14 days from the day they get back to Canada. You must self-isolate even if you don’t have symptoms.
+The Government of Canada has issued an official travel advisory asking Canadians to avoid non-essential travel outside Canada until further notice.
 
-If you’ve travelled recently and you develop a fever, with a temperature 38°C or higher, or a cough, you should call 811 for assessment.
+The Province of Nova Scotia, under the authority of the Health Protection Act, is requiring anyone who has travelled outside Canada to self-isolate for 14 days upon return, even if you are symptom-free.
+
+Anyone who travels outside Canada may come in contact with the novel coronavirus. Travellers are reminded to follow health precautions like washing their hands often, avoiding contact with persons who are sick, and practicing proper cough and sneeze etiquette.
+
+If you or a family member chooses to travel outside Canada with these restrictions in place, please consider if:
+
+- the Government of Canada has issued a travel health notice for the country or region you plan to visit
+- you or a family member have a compromised immune system
+- you have, or can get, appropriate travel insurance in case you become sick while away
+
+The Public Health Agency of Canada is recommending that Canadians avoid all cruise ship travel due to COVID-19 because the virus can spread quickly on ships due to the close contact between passengers.
 
 **When to call 811**
 
