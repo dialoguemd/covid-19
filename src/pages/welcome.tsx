@@ -1,5 +1,4 @@
 import React from 'react'
-
 import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
@@ -8,6 +7,7 @@ import Footer from 'components/footer'
 import Header from 'components/header'
 import Title from 'components/title'
 import ScrollAnchor from 'components/scroll-anchor'
+import { CtaButton } from 'components/buttons'
 
 import { requireRegionFile } from 'services/region-loader'
 import { checkClassesValidity } from 'services/content'
@@ -25,26 +25,6 @@ const Description = styled.h3`
   justify-content: center;
   flex-wrap: wrap;
   text-align: center;
-`
-
-const GetStartedButton = styled(Link)`
-  color: #fff;
-  font-size: calc(${props => props.theme.sizes.buttonText} * 1.25);
-  font-family: ${props => props.theme.fontFamily};
-  font-weight: 500;
-  padding: 0.75em 1.25em;
-  font-weight: 800;
-  justify-content: center;
-  flex-wrap: wrap;
-  display: flex;
-  text-decoration: none;
-  border-radius: 30px;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-  transition: opacity 300ms ease-in-out;
-  background-color: ${props => props.theme.colors.primary};
-  &:hover {
-    opacity: 0.7;
-  }
 `
 
 const Container = styled.div`
@@ -117,11 +97,9 @@ export const WelcomePage: React.FC = () => {
       <Body>
         <Title>{t('welcomePage.title')}</Title>
         <Description>{t('welcomePage.description')}</Description>
-        <div>
-          <GetStartedButton to="/chat/">
-            {t('welcomePage.button')}
-          </GetStartedButton>
-        </div>
+        <CtaButton as={Link} to="/chat/">
+          {t('welcomePage.button')}
+        </CtaButton>
         <Subtext>
           {SHOW_PREVIOUS_RESULTS_LINK && previousRunClasses && (
             <p>
