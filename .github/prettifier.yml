@@ -1,2 +1,2 @@
-commitMessage: 'chore: lint {{commitSha}}'
+commitMessage: "chore: lint {{commitSha}}"
 pullsOnly: true
