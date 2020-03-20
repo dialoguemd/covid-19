@@ -1,7 +1,11 @@
 export default {
   resultsPage: {
     headerTitle: 'COVID-19: What you need to know',
-    noResultsMessage: 'No results provided in URL.',
+    noResultsMessage: `
+    We are soliciting questions from Quebec's population related to the COVID-19 pandemic.
+    Those questions will be used to help the Government of Québec refine and augment their FAQ related to the pandemic.
+    Please type all questions that you have. Your help is needed and greatly appreciated.
+    `,
     changeAudienceTitle: 'Doesn’t apply to you?',
     changeAudience: 'Get personalized info',
     audiencePrefix: 'Information below applies to:',

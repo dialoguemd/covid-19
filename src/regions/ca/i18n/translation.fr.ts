@@ -1,7 +1,11 @@
 export default {
   resultsPage: {
     headerTitle: 'COVID-19: Ce que vous devez savoir',
-    noResultsMessage: 'Aucun résultat trouvé pour cet URL',
+    noResultsMessage: `
+    Nous sollicitons les questions de la population québécoise en lien avec la pandémie COVID-19.
+    Ces questions serviront à aider le gouvernement du Québec à améliorer et enrichir son système de questions/réponses relié à la pandémie.
+    Veuillez écrire toutes les questions que vous avez. Votre aide est nécessaire et grandement appréciée.
+    `,
     changeAudienceTitle: "Cela ne s'applique pas à vous ? ",
     changeAudience: 'Obtenez vos informations personnalisées',
     audiencePrefix: "Les informations ci-dessous s'appliquent ",
