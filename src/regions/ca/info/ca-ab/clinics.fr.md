@@ -1,8 +1,8 @@
 ## Alberta: Cliniques désignées COVID-19
 
-Assessment Centres are being rolled out across AHS Zones. Centre operations will be based on local need, resources and the evolving situation. Staffing considerations are part of the planning. Anyone concerned about travel or symptoms should complete the online assessment tool to be triaged appropriately.
+Des centres d'évaluation sont en cours de déploiement dans les zones AHS. Le fonctionnement des centres sera basé sur les besoins locaux, les ressources et l'évolution de la situation. Les considérations relatives à la dotation en personnel font partie de la planification. Toute personne préoccupée par les voyages ou les symptômes doit remplir l'outil d'évaluation en ligne pour être triée de manière appropriée.
 
-Online assessment tool: https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx
+Outil d'évaluation en ligne: https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx
 
 [Source: Government of Alberta](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-covid-19-primary-care-faq.pdf)
 
