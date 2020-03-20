@@ -10,7 +10,12 @@ import Title from 'components/title'
 import ScrollAnchor from 'components/scroll-anchor'
 
 import { requireRegionFile } from 'services/region-loader'
+import { checkClassesValidity } from 'services/content'
+
+const config = requireRegionFile('config.json')
 const flagImage = requireRegionFile('images/flag.jpg')
+
+const SHOW_PREVIOUS_RESULTS_LINK = config.ENABLE_PREVIOUS_RESULTS_LINK
 
 const Description = styled.h3`
   color: ${props => props.theme.colors.text};
@@ -52,6 +57,16 @@ const Container = styled.div`
   background-color: ${props => props.theme.colors.background};
 `
 
+const Subtext = styled.h4`
+  color: ${props => props.theme.colors.text};
+  font-size: calc(${props => props.theme.sizes.buttonText} * 0.75);
+  padding: 0 0.75em;
+  font-weight: 200;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+`
+
 const Body = styled.div`
   flex: 1 0 auto;
   display: flex;
@@ -86,6 +101,10 @@ const Flag = styled.div`
 export const WelcomePage: React.FC = () => {
   const { t } = useTranslation()
 
+  const previousRunClasses = localStorage.getItem('resulting_classes')
+  const previousRunIsValid =
+    previousRunClasses && checkClassesValidity(previousRunClasses.split(','))
+
   return (
     <Container>
       <ScrollAnchor />
@@ -103,6 +122,19 @@ export const WelcomePage: React.FC = () => {
             {t('welcomePage.button')}
           </GetStartedButton>
         </div>
+        <Subtext>
+          {SHOW_PREVIOUS_RESULTS_LINK && previousRunClasses && (
+            <p>
+              {previousRunIsValid ? (
+                <Link to={`/info?id=${previousRunClasses}`}>
+                  {t('welcomePage.previousRunLink')}
+                </Link>
+              ) : (
+                t('welcomePage.previousRunExpired')
+              )}
+            </p>
+          )}
+        </Subtext>
       </Body>
       <FooterContainer>
         <Flag />

@@ -20,7 +20,10 @@ export default {
     title: 'COVID-19: Was Sie wissen müssen',
     description:
       'Hier erhalten Sie für Sie persönlich relevante Informationen aus öffentlichen, vertrauenswürdigen Quellen über die Atemwegserkrankung COVID-19.',
-    button: 'START'
+    button: 'START',
+    previousRunLink: 'Neueste Informationen für Ihre letzte Sitzung anzeigen',
+    previousRunExpired:
+      'Die Antworten aus der letzten Sitzung sind abgelaufen. Bitte starten Sie einen neuen Chat, um aktuelle Informationen zu erhalten.'
   },
   classes: {
     common: 'Allgemeine Informationen',

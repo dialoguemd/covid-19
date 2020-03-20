@@ -21,7 +21,11 @@ export default {
     title: 'COVID-19: Ce que vous devez savoir',
     description:
       'Obtenez des informations fiables et personnalisées auprès de sources médicales canadiennes crédibles concernant le COVID-19.',
-    button: 'Démarrer'
+    button: 'Démarrer',
+    previousRunLink:
+      'Voir les informations les plus récentes pour votre dernière session',
+    previousRunExpired:
+      'Les réponses de votre dernière session ont expiré. Veuillez lancer une nouvelle conversation pour obtenir les informations les plus récentes.'
   },
   classes: {
     common: 'à tous les Canadiens',

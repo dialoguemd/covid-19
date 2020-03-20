@@ -21,6 +21,9 @@ export default {
     title: 'COVID-19: What you need to know',
     description:
       'Get accurate and personalized information from trusted Canadian medical sources regarding COVID-19.',
+    previousRunLink: 'View latest info for your last session',
+    previousRunExpired:
+      'Answers from last session have expired. Please start new chat to get latest information.',
     button: 'Get Started'
   },
   classes: {
