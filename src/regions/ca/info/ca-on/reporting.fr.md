@@ -8,7 +8,7 @@ Quiconque a voyagé à l’extérieur du Canada doit :
 
 - se surveiller pour détecter tout symptôme du nouveau coronavirus 2019 pendant 14 jours après son retour au Canada;
 
-- communiquer avec Télésanté Ontario au  1 866 797-0000 ou le [bureau de santé publique de leur région] (http://www.health.gov.on.ca/fr/common/system/services/phu/locations.aspx) s’ils présentent des symptômes du nouveau coronavirus de 2019.
+- communiquer avec Télésanté Ontario au 1 866 797-0000 ou le [bureau de santé publique de leur région](http://www.health.gov.on.ca/fr/common/system/services/phu/locations.aspx) s’ils présentent des symptômes du nouveau coronavirus de 2019.
 
 De plus :
 
@@ -18,7 +18,7 @@ Les enfants de moins de 16 ans qui ont voyagé à l'extérieur du Canada doivent
 
 ### Devrais-je consulter en personne ?
 
-Contactez Télésanté Ontario au 1 866 797-0000, votre [bureau de santé publique local] (https://www.phdapps.health.gov.on.ca/PHULocator/fr/Default.aspx) ou votre fournisseur de soins primaires si vous éprouvez des symptômes du nouveau coronavirus 2019.
+Contactez Télésanté Ontario au 1 866 797-0000, votre [bureau de santé publique local](https://www.phdapps.health.gov.on.ca/PHULocator/fr/Default.aspx) ou votre fournisseur de soins primaires si vous éprouvez des symptômes du nouveau coronavirus 2019.
 
 Veuillez ne pas vous rendre dans un centre d’évaluation, à moins d’avoir été référé par un professionnel de la santé.
 
