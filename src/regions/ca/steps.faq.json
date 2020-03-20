@@ -2,7 +2,14 @@
   {
     "id": "utterAskHasAdditionalQuestion",
     "message": "faq.utterAskHasAdditionalQuestion",
-    "trigger": "userHasQuestion",
+    "trigger": "startQuestionCollection",
+    "hideInput": true
+  },
+  {
+    "id": "startQuestionCollection",
+    "options": [
+      { "value": true, "label": "continue", "trigger": "utterAskForQuestion" }
+    ],
     "hideInput": true
   },
   {

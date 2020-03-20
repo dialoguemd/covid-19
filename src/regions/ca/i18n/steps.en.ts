@@ -97,15 +97,18 @@ export default {
 
   Remember that you can always come back to obtain your personalized information package about COVID-19.
   `,
+  continue: 'Continue',
   faq: {
     utterAskHasAdditionalQuestion: `
-    Do you have another question about COVID-19?
+    We are soliciting questions related to the COVID-19 pandemic.
+    Those questions will be used to help us refine and augment the FAQ to the pandemic.
+    Please type all questions that you have.
 
-    We review each question, and will update the FAQ when answers become available.
+    Your help is needed and greatly appreciated.
     `,
-    utterAskForQuestion: `What's your question?`,
+    utterAskForQuestion: `Please enter a question`,
     utterQuestionAsked: `
-    Thank you for your feedback! We will review your question, and add it to the FAQ if or when the answers become available.
+    Thank you for your question!
 
     Do you have another question?
     `,

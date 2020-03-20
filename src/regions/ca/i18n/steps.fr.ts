@@ -106,15 +106,18 @@ export default {
 
   N'oubliez pas que vous pouvez toujours revenir pour obtenir votre dossier d'information personnalisé sur le COVID-19.
   `,
+  continue: 'Continuer',
   faq: {
     utterAskHasAdditionalQuestion: `
-    Auriez-vous une autre question sur COVID-19 ?
+    Nous sollicitons des questions relatives à la pandémie COVID-19.
+    Ces questions seront utilisées pour nous aider à affiner et à compléter la FAQ sur la pandémie.
+    Veuillez taper toutes les questions que vous avez.
 
-    Nous revoyons chaque question, et mettrons à jour la FAQ lorsque les réponses seront disponibles.
+    Votre aide est nécessaire et grandement appréciée.
     `,
-    utterAskForQuestion: `Quelle est votre question ?`,
+    utterAskForQuestion: `Svp, écrivez une question`,
     utterQuestionAsked: `
-    Merci pour votre question ! Nous examinerons votre question et l'ajouterons à la FAQ quand les réponses seront disponibles.
+    Merci pour votre question !
 
     Avez-vous une autre question ?
     `,
