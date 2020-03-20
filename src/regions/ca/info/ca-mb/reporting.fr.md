@@ -1,11 +1,23 @@
 ## Manitoba: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si vous êtes malade et avez récemment voyagé dans une zone touchée ou si vous êtes malade et avez été en contact rapproché (moins de 2 mètres ou 6 pieds) avec une personne malade en lien avec l'éclosion actuelle, vous devez communiquer avec Health Links–Info Santé qui vous donnera des conseils sur l'endroit où aller pour vous faire évaluer. En cas d'urgence, composez le 911.
+Afin de déterminer si vous devez composer le numéro de Health Links–Info Santé (204-788-8200 ou 1-888-315-9257 sans frais) ou consulter un autre service médical, utilisez [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/).
 
-Les professionnels de la santé découragent fortement le public de se rendre dans un établissement de soins, y compris les établissements de soins de longue durée, si ce dernier est revenu d'un voyage international au cours des 14 derniers jours, s'il a été invité à se surveiller ou à s'isoler pendant 14 jours, ou s'il présente des symptômes de rhume et de grippe, tels que toux, fièvre, écoulement nasal, mal de gorge, maux de tête ou faiblesse.
+Veuillez noter ce qui suit:
 
-Contactez Health Links-Info Santé au 204-788-8200 ou au 1-888-315-9257 (sans frais) si vous présentez des symptômes du nouveau coronavirus 2019.
+Les responsables de la santé publique demandent à tous les Manitobains, y compris aux prestataires de soins de santé, d’annuler ou de reporter tout voyage à l’étranger non essentiel. En outre, les responsables de la santé publique recommandent à tous les voyageurs de s’isoler volontairement et de surveiller leurs symptômes durant 14 jours après leur retour au Canada.
 
-N'appelez pas le 911, sauf en cas d'urgence.
+Les responsables de la santé publique insistent pour que toute personne ayant des symptômes de la grippe ou du rhume (toux, fièvre, nez qui coule, mal de gorge, faiblesse ou mal de tête) s’isole volontairement pendant 14 jours.
+
+La distanciation sociale sert à réduire intentionnellement les contacts étroits entre les gens, dans l’espoir de mettre fin à la propagation de tout virus dans la collectivité. Voici comment appliquer la distanciation sociale par tous les Manitobains :
+
+Annuler ou reporter toute activité réunissant plus de 50 participants.
+Réduire au minimum les contacts prolongés (plus de 10 minutes) rapprochés (moins de deux mètres) avec d’autres personnes en public.
+Éviter de fraterniser en se touchant (p. ex., poignées de mains).
+Désinfecter les surfaces souvent utilisées.
+Suivre les conseils du service de santé publique concernant la surveillance des symptômes et l’isolement volontaire après un voyage à l’étranger ou l’exposition à une personne atteinte de la COVID-19.
+Renoncer à voyager, à se rendre à des endroits très fréquentés et à assister à des rassemblements, surtout si votre risque en matière de santé est élevé.
+Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vous laver les mains souvent, et maintenir une distance d’environ 2 mètres entre chaque personne.
+
+Composez le numéro de Health Links-Info Santé 204-788-8200 ou sans frais 1-888-315-9257 si vous avez des symptômes de COVID-19. S’il s’agit d’une situation d’urgence mettant la vie en danger, composez le 911.
 
 [Source: Gouvernment du Manitoba](https://www.gov.mb.ca/health/coronavirus/public.fr.html)
