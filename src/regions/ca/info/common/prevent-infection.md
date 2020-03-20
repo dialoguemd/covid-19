@@ -4,6 +4,8 @@
 
 At this time, there is no vaccine for COVID-19 or any natural health products that are authorized to protect against it.
 
+If you have received a flu vaccine, it will not protect against coronaviruses.
+
 ##### If you have travelled outside of Canada
 
 Federal and provincial public health leaders have recommended that all travellers from outside of Canada self-isolate for 14 days. These efforts will contribute to slow the introduction and spread of COVID-19 in Canada.
@@ -31,7 +33,6 @@ This means making changes in your everyday routines to minimize close contact wi
 - avoiding crowded places such as concerts, arenas, conferences and festivals
 - limiting contact with people at higher risk like older adults and those in poor health
 - keeping a distance of at least 2 arms lengths (approximately 2 metres) from others, as much as possible
-- keeping a distance of at least 2 arms-length (approximately 2 metres) from others
 
 ### Hygiene
 
