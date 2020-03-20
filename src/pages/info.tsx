@@ -29,7 +29,6 @@ const InfoCard = styled.div`
   max-width: 85vw;
   margin: 12px;
   padding: 16px;
-  background: red;
   background: ${props => props.theme.colors.backgroundLight};
   border-radius: 12px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
