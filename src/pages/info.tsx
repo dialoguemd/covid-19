@@ -174,9 +174,9 @@ export const InfoPage: React.FC = () => {
     <InfoPageContainer>
       <ScrollAnchor />
       <Header />
-      <Title>{t('resultsPage.headerTitle')}</Title>
       {hasClasses && (
         <>
+          <Title>{t('resultsPage.headerTitle')}</Title>
           <Audience>
             <ClassList>
               {t('resultsPage.audiencePrefix')} {classString}
