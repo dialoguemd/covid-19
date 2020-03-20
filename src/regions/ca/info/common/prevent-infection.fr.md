@@ -2,7 +2,7 @@
 
 ### Prévention du coronavirus
 
-Il n'existe pour le moment aucun vaccin contre la COVID-19 et aucun produit de santé naturel autorisé pour se protéger contre cette infection.
+Il n'existe pour le moment aucun vaccin contre la COVID-19 et aucun produit de santé naturel autorisé pour se protéger contre cette infection. Si vous avez reçu un vaccin antigrippal, il ne vous protégera pas contre les coronavirus.
 
 ##### Si vous avez voyagé à l'extérieur du Canada
 
@@ -31,7 +31,6 @@ Cela signifie qu'il faut apporter des changements à vos habitudes quotidiennes 
 - éviter les lieux bondés tels que les concerts, les arènes, les conférences et les festivals
 - limiter les contacts avec les personnes à haut risque comme les personnes âgées et les personnes en mauvaise santé
 - garder une distance d'au moins 2 bras (environ 2 mètres) par rapport aux autres, autant que possible
-- garder une distance d'au moins 2 bras (environ 2 mètres) par rapport aux autres
 
 ### Hygiène
 
