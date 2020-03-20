@@ -144,8 +144,6 @@ export const InfoPage: React.FC = () => {
   const query = useQuery()
   const { t, i18n } = useTranslation()
 
-  console.log(i18n.languages)
-
   const onFaqChatbotEnd = useCallback(({ renderedSteps }) => {
     renderedSteps
       .filter(step => step.id === 'userQuestion')
