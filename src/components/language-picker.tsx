@@ -1,9 +1,9 @@
-import React, { useCallback } from "react";
+import React, { useCallback } from 'react'
 
-import styled from "styled-components/macro";
-import { useTranslation } from "react-i18next";
+import styled from 'styled-components/macro'
+import { useTranslation } from 'react-i18next'
 
-import { getNextLanguage } from "services/i18n";
+import { getNextLanguage } from 'services/i18n'
 
 const LanguagePickerButton = styled.button`
   color: ${props => props.theme.colors.text};
@@ -23,26 +23,26 @@ const LanguagePickerButton = styled.button`
   &:hover {
     background-color: ${props => props.theme.colors.primaryLight};
   }
-`;
+`
 
 export const LanguagePicker: React.FC = props => {
-  const { i18n } = useTranslation();
+  const { i18n } = useTranslation()
 
-  const nextLanguage = getNextLanguage();
+  const nextLanguage = getNextLanguage()
 
   const cycleLanguage = useCallback(() => {
-    i18n.changeLanguage(nextLanguage);
-  }, [nextLanguage, i18n]);
+    i18n.changeLanguage(nextLanguage)
+  }, [nextLanguage, i18n])
 
   if (i18n.languages.length === 1) {
-    return null;
+    return null
   }
 
   return (
     <LanguagePickerButton {...props} onClick={cycleLanguage}>
       {nextLanguage}
     </LanguagePickerButton>
-  );
-};
+  )
+}
 
-export default LanguagePicker;
+export default LanguagePicker
