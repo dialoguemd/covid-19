@@ -20,7 +20,7 @@ interface Props {
 
 const LogoContainer = styled.div`
   position: absolute;
-  z-index: 1000001;
+  z-index: 1000002;
   top: 0;
   left: 0;
   background-color: ${props => props.theme.colors.primaryLight};
