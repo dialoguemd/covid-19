@@ -6,7 +6,7 @@ Pour des questions de santé générales sur COVID-19, **appeler le 1-800-958-64
 
 ### Quand dois-je appeler le 811 ?
 
-Si vous venez de rentrer de l'étranger et que vous présentez des symptômes tels qu'une toux, de la fièvre ou des difficultés respiratoires, appelez le 811 pour subir un dépistage et, si nécessaire, être dirigé vers une clinique pour y subir un test.
+Si vous venez de rentrer d'un voyage à l'extérieur de l'Île-du-Prince-Édouard et que vous présentez des symptômes tels qu'une toux, de la fièvre ou des difficultés respiratoires, appelez le 811 pour subir un dépistage et, si nécessaire, être dirigé vers une clinique pour y subir un test.
 
 Le nombre d'appels au 811 est plus élevé que la normale. Il faudra plus de temps que d'habitude pour répondre à votre appel. Ils s'efforcent de répondre à tous les appels le plus rapidement possible. Nous vous remercions de votre patience.
 
@@ -14,10 +14,10 @@ Si vous répondez OUI à l'une des questions ci-dessous, composez le 811
 
 Au cours des 14 derniers jours, vous avez:
 
-- voyagé à l'étranger et avez une fièvre supérieure à 38°C ET/OU une toux
+- voyagé à l'extérieur de l'Île-du-Prince-Édouard et avez une fièvre supérieure à 38°C ET/OU une toux
 - été en contact étroit (à moins de 2 mètres) avec une personne dont le laboratoire a confirmé le cas de COVID-19 ?
 - vous avez de la fièvre ou si vous toussez
 
-Les habitants de l'île qui ont voyagé hors du Canada sont priés de s'isoler pendant les 14 jours suivant leur retour au Canada. Si vous avez de la fièvre ou si vous toussez, appelez le 811. Si vous avez répondu NON à toutes les questions ci-dessus et que vous cherchez des informations générales sur COVID-19, visitez le site [princeedwardisland.ca/covid19.](princeedwardisland.ca/covid19)
+Les habitants de l'île qui ont voyagé hors de l'Île-du-Prince-Édouard sont priés de s'isoler pendant les 14 jours suivant leur retour au Canada. Si vous avez de la fièvre ou si vous toussez, appelez le 811. Si vous avez répondu NON à toutes les questions ci-dessus et que vous cherchez des informations générales sur COVID-19, visitez le site [princeedwardisland.ca/covid19.](princeedwardisland.ca/covid19)
 
 [Source: Gouvernment de l'Île-du-Prince-Edouard](https://www.princeedwardisland.ca/fr/information/sante-et-mieux-etre/infection-au-coronavirus-foire-aux-questions)
