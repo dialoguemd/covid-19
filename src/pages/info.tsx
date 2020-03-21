@@ -120,7 +120,7 @@ const FaqChatbotContainer = styled.div`
 
 export const InfoPage: React.FC = () => {
   const query = useQuery()
-  const { t, i18n } = useTranslation()
+  const { t } = useTranslation()
 
   const onFaqChatbotEnd = useCallback(({ renderedSteps }) => {
     renderedSteps
@@ -180,7 +180,6 @@ export const InfoPage: React.FC = () => {
       {config.ENABLE_FAQ_BOT ? (
         <FaqChatbotContainer>
           <Chatbot
-            key={i18n.languages[0]}
             steps={faqSteps}
             handleEnd={onFaqChatbotEnd}
             placeholder={t('resultsPage.faqInputPlaceholder')}

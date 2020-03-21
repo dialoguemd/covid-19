@@ -3,6 +3,8 @@ import React, { useCallback } from 'react'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 
+import { getNextLanguage } from 'services/i18n'
+
 const LanguagePickerButton = styled.button`
   color: ${props => props.theme.colors.text};
   font-size: ${props => props.theme.sizes.buttonText};
@@ -26,7 +28,7 @@ const LanguagePickerButton = styled.button`
 export const LanguagePicker: React.FC = props => {
   const { i18n } = useTranslation()
 
-  const nextLanguage = i18n.languages[1]
+  const nextLanguage = getNextLanguage()
 
   const cycleLanguage = useCallback(() => {
     i18n.changeLanguage(nextLanguage)
