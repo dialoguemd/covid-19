@@ -34,12 +34,12 @@ commands:
             - ~/.npm
 
 jobs:
-  # lint:
-  #   executor: debian
-  #   steps:
-  #     - checkout
-  #     - install-deps
-  #     - run: npm run lint
+  lint:
+    executor: debian
+    steps:
+      - checkout
+      - install-deps
+      - run: npm run lint
 
   test:
     executor: debian
