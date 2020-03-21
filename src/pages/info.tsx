@@ -112,8 +112,10 @@ const FaqChatbotContainer = styled.div`
   margin: 12px;
 
   display: block;
-  z-index: 1000;
-
+  z-index: 1000000;
+  -webkit-transform: translateZ(0px);
+  -webkit-transform: translate3d(0, 0, 0);
+  -webkit-perspective: 1000;
   .rsc-container {
     background: transparent;
   }
