@@ -111,7 +111,8 @@ const FaqChatbotContainer = styled.div`
   max-width: 1032px;
   margin: 12px;
 
-  z-index: 0;
+  display: block;
+  z-index: 1000000;
 
   .rsc-container {
     background: transparent;
