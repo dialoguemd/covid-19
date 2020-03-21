@@ -1,6 +1,8 @@
 ## Île-du-Prince-Edouard: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-A partir du 13 mars 2020, le Bureau principal de la santé publique donne ses conseils : Cesser tout voyage non essentiel à l'extérieur du Canada et s'isoler pendant 14 jours après tout voyage international, y compris aux États-Unis.
+Si vous êtes revenu de voyage, y compris du Canada, et que vous présentez des symptômes, notamment une toux, de la fièvre ou des difficultés respiratoires, **appellez le 811**.
+
+Pour des questions de santé générales sur COVID-19, **appeler le 1-800-958-6400**.
 
 ### Quand dois-je appeler le 811 ?
 

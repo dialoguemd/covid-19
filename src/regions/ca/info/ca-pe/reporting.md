@@ -1,6 +1,8 @@
 ## Prince Edward Island: Who should I contact if I think I have COVID-19?
 
-Effective March 13, 2020, the Chief Public Health Office advises: Stop all non-essential travel outside of Canada and Self-isolate for 14 days following all international travel, including the US.
+If you have returned from travel, including from within Canada, and have symptoms, including a cough, fever or difficulty breathing, **call 811**.
+
+For general health questions about COVID-19, **call 1-800-958-6400**
 
 ### When should I call 811?
 
