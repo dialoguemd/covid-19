@@ -1,6 +1,8 @@
 ## Prince Edward Island: Who should I contact if I think I have COVID-19?
 
-Effective as of March 21st 2020, the Government of Prince Edward Island is urging all islanders to stop all non-essential travel outside of Prince Edward Island and self-isolate for 14 days following all travel out of province.
+If you have returned from travel, including from within Canada, and have symptoms, including a cough, fever or difficulty breathing, **call 811**.
+
+For general health questions about COVID-19, **call 1-800-958-6400**
 
 ### When should I call 811?
 
