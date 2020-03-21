@@ -33,11 +33,4 @@ i18n
     }
   })
 
-const { languages } = i18n
-export const getNextLanguage = () => {
-  const langIndex = languages.indexOf(i18n.language)
-  const returnToZero = langIndex === languages.length - 1
-  return languages[returnToZero ? 0 : langIndex + 1]
-}
-
 export default i18n
