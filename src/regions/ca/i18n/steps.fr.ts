@@ -1,5 +1,5 @@
 export default {
-  intro1: 'Bonjour!',
+  intro1: "Bonjour!",
   intro2:
     "Je suis Chloe, une assistante virtuelle médicale automatisée. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
   intro3: `
@@ -7,30 +7,30 @@ export default {
 
 	Les informations que nous fournissons proviennent de sources officielles.
 	`,
-  'intro-option1': 'Ok, allons-y!',
-  'askForLocationOptions-QC': 'Québec',
-  'askForLocationOptions-AB': 'Alberta',
-  'askForLocationOptions-ON': 'Ontario',
-  'askForLocationOptions-NS': 'Nouvelle-Écosse',
-  'askForLocationOptions-NB': 'Nouveau-Brunswick',
-  'askForLocationOptions-MB': 'Manitoba',
-  'askForLocationOptions-BC': 'Colombie-Britannique',
-  'askForLocationOptions-SK': 'Saskatchewan',
-  'askForLocationOptions-PE': 'Île-du-Prince-Édouard',
-  'askForLocationOptions-YT': 'Yukon',
-  'askForLocationOptions-NT': 'Territoires du Nord-Ouest',
-  'askForLocationOptions-NL': 'Terre-Neuve et Labrador',
-  'askForLocationOptions-NU': 'Nuvavut',
-  'askHasHadContactOptions-Option1':
+  "intro-option1": "Ok, allons-y!",
+  "askForLocationOptions-QC": "Québec",
+  "askForLocationOptions-AB": "Alberta",
+  "askForLocationOptions-ON": "Ontario",
+  "askForLocationOptions-NS": "Nouvelle-Écosse",
+  "askForLocationOptions-NB": "Nouveau-Brunswick",
+  "askForLocationOptions-MB": "Manitoba",
+  "askForLocationOptions-BC": "Colombie-Britannique",
+  "askForLocationOptions-SK": "Saskatchewan",
+  "askForLocationOptions-PE": "Île-du-Prince-Édouard",
+  "askForLocationOptions-YT": "Yukon",
+  "askForLocationOptions-NT": "Territoires du Nord-Ouest",
+  "askForLocationOptions-NL": "Terre-Neuve et Labrador",
+  "askForLocationOptions-NU": "Nuvavut",
+  "askHasHadContactOptions-Option1":
     "Oui, certaines de ces situations s'appliquent à moi",
-  'askHasImmuneDecreasedOptions-Option1':
+  "askHasImmuneDecreasedOptions-Option1":
     "Oui, certaines de ces situations s'appliquent à moi",
-  'askHasImmuneDecreased2Options-Option1': 'Oui, j’en prends',
-  'askHasImmuneDecreasedOptions-Option2': "Non, rien ne s'applique à moi",
-  yes: 'Oui',
-  no: 'Non',
+  "askHasImmuneDecreased2Options-Option1": "Oui, j’en prends",
+  "askHasImmuneDecreasedOptions-Option2": "Non, rien ne s'applique à moi",
+  yes: "Oui",
+  no: "Non",
   askForLocation:
-    'Dans quelle province ou territoire êtes-vous actuellement situé?',
+    "Dans quelle province ou territoire êtes-vous actuellement situé?",
   askForLocationInfo:
     "Je pourrai adapter les informations pour qu'elles s'appliquent à votre région.",
   askHasHadContact: `
@@ -64,9 +64,9 @@ export default {
 	- Prenez-vous des médicaments après une transplantation d'organe ?
 	- Votre médecin vous a-t-il dit que votre système immunitaire est affaibli ?`,
   askHasImmuneDecreased2:
-    'Prenez-vous des médicaments qui, selon votre médecin, peuvent entraîner une diminution de votre système immunitaire?',
+    "Prenez-vous des médicaments qui, selon votre médecin, peuvent entraîner une diminution de votre système immunitaire?",
   askHasChronicLungDisease:
-    'Avez-vous des antécédents de maladie pulmonaire chronique?',
+    "Avez-vous des antécédents de maladie pulmonaire chronique?",
   askHasChronicLungDiseaseInfo: `
 	Vous n'êtes pas sûr ? Répondez oui si vous avez des antécédents de **n'importe lequel** des éléments suivants :
 
@@ -79,34 +79,34 @@ export default {
   outro1: `
   Les questions sont terminées ! Votre trousse d'information personnelle est prête.
   `,
-  'assessment-AB': `
+  "assessment-AB": `
   Les symptômes du COVID-19 vous inquiètent ?
 
   Utilisez cet outil d'auto-évaluation développé par le gouvernement de l'Alberta pour vous aider à déterminer si vous devez être testé pour le COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une autre personne, si elle n'est pas en mesure de le faire.
 
   Passez l'évaluation développée par le gouvernement de l'Ontario [ici (en anglais).](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)`,
-  'assessment-BC': `
+  "assessment-BC": `
   Les symptômes du COVID-19 vous inquiètent ?
 
   Utilisez cet outil d'auto-évaluation développé par le ministère de la santé de la Colombie-Britannique pour vous aider à déterminer si vous devez être testé pour le COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une autre personne, si elle n'est pas en mesure de le faire.
 
   Passez l'évaluation développée par le ministère de la santé de la Colombie-Britannique [ici (en anglais).](https://myhealth.alberta.ca/journey/covid-19/Pages/COVID-Self-Assessment.aspx)
   `,
-  'assessment-ON': `
+  "assessment-ON": `
   Les symptômes du COVID-19 vous inquiètent ?
 
   Si vous pensez que vous avez les symptômes de la maladie à coronavirus (COVID-19) ou si vous avez été en contact étroit avec une personne qui en est atteinte, veuillez utiliser cet outil d’évaluation créer par le gouvernement d'Ontario afin de déterminer comment obtenir des soins supplémentaires.
 
   Passez l'évaluation développée par le gouvernement de l'Ontario [ici.](https://www.ontario.ca/fr/page/autoevaluation-de-la-maladie-coronavirus-covid-19)
   `,
-  'assessment-continue': `
+  "assessment-continue": `
   Je peux également vous fournir des informations pertinentes et récentes sur le COVID-19. Voulez-vous continuer ?`,
   outro2: `
   Très bien ! Merci d'avoir visité ce site.
 
   N'oubliez pas que vous pouvez toujours revenir pour obtenir votre dossier d'information personnalisé sur le COVID-19.
   `,
-  continue: 'Continuer',
+  continue: "Continuer",
   faq: {
     utterAskHasAdditionalQuestion: `
     Nous sollicitons des questions relatives à la pandémie COVID-19.
@@ -123,4 +123,4 @@ export default {
     `,
     utterNoQuestion: `Merci pour votre contribution !`
   }
-}
+};
