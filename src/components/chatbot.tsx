@@ -94,6 +94,10 @@ const StyledChatbot = styled(WrappedChatbot)`
   }
 
   .rsc-os-option-element {
+    z-index: 1000001;
+    -webkit-transform: translateZ(0px);
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-perspective: 1000;
     color: ${props => props.theme.colors.primary};
     font-size: ${props => props.theme.sizes.buttonText};
     font-family: ${props => props.theme.fontFamily};
