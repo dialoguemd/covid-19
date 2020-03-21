@@ -61,7 +61,11 @@ export default {
         'Ressources pour organisations canadiennes',
         'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747'
       ],
-      ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/']
+      ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/'],
+      [
+        "Aidez à construire l'IA. Posez une question COVID-19.",
+        'https://covid19.dialogue.co/#/info'
+      ]
     ],
     adminAreaHeader: 'Pour les résidents de provinces',
     adminAreaMenu: [

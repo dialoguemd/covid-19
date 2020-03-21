@@ -109,9 +109,9 @@ export default {
   continue: 'Continuer',
   faq: {
     utterAskHasAdditionalQuestion: `
-    Nous sollicitons des questions relatives à la pandémie COVID-19.
-    Ces questions seront utilisées pour nous aider à raffiner et à compléter la FAQ sur la pandémie.
-    Veuillez taper toutes les questions que vous avez.
+    Nous sollicitons des questions relatives à la COVID-19.
+    Ces questions seront utilisées pour nous aider à raffiner et à compléter l'information sur la pandémie.
+    Écrivez une question que vous avez.
 
     Votre aide est nécessaire et grandement appréciée.
     `,
