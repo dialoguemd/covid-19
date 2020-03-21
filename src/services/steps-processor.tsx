@@ -70,6 +70,7 @@ const addI18n = (step: Step): Step => {
       ...option,
       label: stepsT(option.label)
     }))
+    console.log(optionsI18n)
     return { ...step, options: optionsI18n }
   }
 

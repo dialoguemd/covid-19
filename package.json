@@ -68,6 +68,10 @@
       "last 1 safari version"
     ]
   },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
   "husky": {
     "hooks": {
       "pre-commit": "npm run lint"
