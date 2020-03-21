@@ -1,29 +1,29 @@
-import React, { useCallback } from "react";
+import React, { useCallback } from 'react'
 
-import { useLocation, Link } from "react-router-dom";
-import { useTranslation } from "react-i18next";
-import styled from "styled-components/macro";
+import { useLocation, Link } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
+import styled from 'styled-components/macro'
 
-import Chatbot from "components/chatbot";
-import Results from "components/results";
-import Header from "components/header";
-import Footer from "components/footer";
-import Title from "components/title";
-import ShareResults from "components/share-results";
-import ScrollAnchor from "components/scroll-anchor";
-import { CtaButton } from "components/buttons";
-import { requireRegionFile } from "services/region-loader";
+import Chatbot from 'components/chatbot'
+import Results from 'components/results'
+import Header from 'components/header'
+import Footer from 'components/footer'
+import Title from 'components/title'
+import ShareResults from 'components/share-results'
+import ScrollAnchor from 'components/scroll-anchor'
+import { CtaButton } from 'components/buttons'
+import { requireRegionFile } from 'services/region-loader'
 
-const config = requireRegionFile("config.json");
+const config = requireRegionFile('config.json')
 
 const faqSteps = config.ENABLE_FAQ_BOT
-  ? requireRegionFile("steps.faq.json")
-  : [];
+  ? requireRegionFile('steps.faq.json')
+  : []
 
 const useQuery = () => {
-  const location = useLocation();
-  return new URLSearchParams(location.search);
-};
+  const location = useLocation()
+  return new URLSearchParams(location.search)
+}
 
 const InfoCard = styled.div`
   max-width: 85vw;
@@ -46,7 +46,7 @@ const InfoCard = styled.div`
   a {
     word-break: break-all;
   }
-`;
+`
 
 const Audience = styled.div`
   color: ${props => props.theme.colors.text};
@@ -58,7 +58,7 @@ const Audience = styled.div`
   flex-shrink: 0;
   flex-direction: column;
   justify-content: center;
-`;
+`
 
 const HeaderLinkContainer = styled.div`
   width: 100%;
@@ -68,7 +68,7 @@ const HeaderLinkContainer = styled.div`
   flex-shrink: 0;
   flex-direction: column;
   margin-top: 16px;
-`;
+`
 
 const HeaderLinkSubTitle = styled.div`
   color: ${props => props.theme.colors.text};
@@ -81,13 +81,13 @@ const HeaderLinkSubTitle = styled.div`
   font-weight: normal;
   flex-shrink: 0;
   text-align: center;
-`;
+`
 
 const ClassList = styled.h4`
   margin: 0 8px 0 12px;
   font-size: 18px;
   font-weight: normal;
-`;
+`
 
 const InfoPageContainer = styled.div`
   overflow-y: auto;
@@ -96,11 +96,11 @@ const InfoPageContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-`;
+`
 
 const Spacer = styled.div`
   flex-grow: 1;
-`;
+`
 
 const FaqChatbotContainer = styled.div`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
@@ -116,37 +116,37 @@ const FaqChatbotContainer = styled.div`
   .rsc-container {
     background: transparent;
   }
-`;
+`
 
 export const InfoPage: React.FC = () => {
-  const query = useQuery();
-  const { t } = useTranslation();
+  const query = useQuery()
+  const { t } = useTranslation()
 
   const onFaqChatbotEnd = useCallback(({ renderedSteps }) => {
     renderedSteps
-      .filter(step => step.id === "userQuestion")
+      .filter(step => step.id === 'userQuestion')
       .map(step => step.value)
       .forEach(question => {
         analytics.track(
-          "user_faq_question",
+          'user_faq_question',
           {
             value: question
           },
-          { context: { ip: "0.0.0.0" } }
-        );
-      });
-  }, []);
+          { context: { ip: '0.0.0.0' } }
+        )
+      })
+  }, [])
 
   // parse /info?id=a,b,c -> [a, b, c]
-  const queryClasses = query.get("id");
-  const classes = queryClasses ? queryClasses.split(",") : [];
+  const queryClasses = query.get('id')
+  const classes = queryClasses ? queryClasses.split(',') : []
 
   // build a comma separated, readable list of classes
   const classString = classes
     .map(className => t(`classes.${className}`))
-    .join(", ");
+    .join(', ')
 
-  const hasClasses = classes.length > 0;
+  const hasClasses = classes.length > 0
 
   return (
     <InfoPageContainer>
@@ -154,17 +154,17 @@ export const InfoPage: React.FC = () => {
       <Header />
       {hasClasses && (
         <>
-          <Title>{t("resultsPage.headerTitle")}</Title>
+          <Title>{t('resultsPage.headerTitle')}</Title>
           <Audience>
             <ClassList>
-              {t("resultsPage.audiencePrefix")} {classString}
+              {t('resultsPage.audiencePrefix')} {classString}
             </ClassList>
             <HeaderLinkContainer>
               <HeaderLinkSubTitle>
-                {t("resultsPage.changeAudienceTitle")}
+                {t('resultsPage.changeAudienceTitle')}
               </HeaderLinkSubTitle>
               <CtaButton as={Link} to="/chat/">
-                {t("resultsPage.changeAudience")}
+                {t('resultsPage.changeAudience')}
               </CtaButton>
             </HeaderLinkContainer>
           </Audience>
@@ -182,7 +182,7 @@ export const InfoPage: React.FC = () => {
           <Chatbot
             steps={faqSteps}
             handleEnd={onFaqChatbotEnd}
-            placeholder={t("resultsPage.faqInputPlaceholder")}
+            placeholder={t('resultsPage.faqInputPlaceholder')}
             showInput
           />
         </FaqChatbotContainer>
@@ -193,12 +193,12 @@ export const InfoPage: React.FC = () => {
             max-width: 1000px;
           `}
         >
-          <p>{t("resultsPage.noResultsMessage")}</p>
+          <p>{t('resultsPage.noResultsMessage')}</p>
         </InfoCard>
       )}
       <Footer />
     </InfoPageContainer>
-  );
-};
+  )
+}
 
-export default InfoPage;
+export default InfoPage
