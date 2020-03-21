@@ -101,8 +101,8 @@ export default {
   faq: {
     utterAskHasAdditionalQuestion: `
     We are soliciting questions related to the COVID-19 pandemic.
-    Those questions will be used to help us refine and augment the FAQ to the pandemic.
-    Please type all questions that you have.
+    Those questions will be used to help us refine and augment the information on the pandemic.
+    Please type your question.
 
     Your help is needed and greatly appreciated.
     `,
