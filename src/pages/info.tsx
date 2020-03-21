@@ -111,8 +111,11 @@ const FaqChatbotContainer = styled.div`
   max-width: 1032px;
   margin: 12px;
 
-  z-index: 0;
-
+  display: block;
+  z-index: 1000000;
+  -webkit-transform: translateZ(0px);
+  -webkit-transform: translate3d(0, 0, 0);
+  -webkit-perspective: 1000;
   .rsc-container {
     background: transparent;
   }
@@ -120,7 +123,7 @@ const FaqChatbotContainer = styled.div`
 
 export const InfoPage: React.FC = () => {
   const query = useQuery()
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
 
   const onFaqChatbotEnd = useCallback(({ renderedSteps }) => {
     renderedSteps
@@ -180,6 +183,7 @@ export const InfoPage: React.FC = () => {
       {config.ENABLE_FAQ_BOT ? (
         <FaqChatbotContainer>
           <Chatbot
+            key={i18n.languages[0]}
             steps={faqSteps}
             handleEnd={onFaqChatbotEnd}
             placeholder={t('resultsPage.faqInputPlaceholder')}

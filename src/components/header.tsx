@@ -20,8 +20,9 @@ interface Props {
 
 const LogoContainer = styled.div`
   position: absolute;
-  z-index: 2;
+  z-index: 1000001;
   top: 0;
+  left: 0;
   background-color: ${props => props.theme.colors.primaryLight};
   padding: 24px 42px 21px 18px;
   border-bottom-right-radius: 100px;
@@ -40,6 +41,7 @@ const LanguagePickerContainer = styled.div`
 `
 
 const HeaderContainer = styled.div`
+  position: relative;
   display: flex;
   align-items: flex-start;
   width: 100%;
@@ -48,17 +50,6 @@ const HeaderContainer = styled.div`
   flex-shrink: 0;
   margin: 10px;
   min-height: 60px;
-  @media (max-width: ${mobileBreakpoint}px) {
-    flex-wrap: wrap;
-    min-height: 40px;
-    ${Title} {
-      order: 3;
-    }
-    ${LanguagePickerContainer} {
-      order: 2;
-      flex-basis: 0;
-    }
-  }
 `
 
 export const Header: React.FC<Props> = ({
@@ -66,24 +57,25 @@ export const Header: React.FC<Props> = ({
   title,
   ...rest
 }) => (
-  <HeaderContainer {...rest}>
-    <Link to="/">
-      <LogoContainer>
+  <>
+    <LogoContainer>
+      <Link to="/">
         <Logo />
-      </LogoContainer>
-    </Link>
-
-    {title && <Title>{title}</Title>}
-
-    <LanguagePickerContainer>
-      <LanguagePicker
-        css={`
-          margin-left: 2px;
-        `}
-      />
-      {ENABLE_REGION_SWITCHING && showRegionPicker && <RegionPicker />}
-    </LanguagePickerContainer>
-  </HeaderContainer>
+      </Link>
+    </LogoContainer>
+    <HeaderContainer {...rest}>
+      <div></div>
+      {title && <Title>{title}</Title>}
+      <LanguagePickerContainer>
+        <LanguagePicker
+          css={`
+            margin-left: 2px;
+          `}
+        />
+        {ENABLE_REGION_SWITCHING && showRegionPicker && <RegionPicker />}
+      </LanguagePickerContainer>
+    </HeaderContainer>
+  </>
 )
 
 export default Header

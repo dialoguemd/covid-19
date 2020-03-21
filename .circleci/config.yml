@@ -1,12 +1,12 @@
 version: 2.1
 
 regions: &regions
-  - "ca-central-1"
-  - "eu-central-1"
-  - "us-east-1"
+  - 'ca-central-1'
+  - 'eu-central-1'
+  - 'us-east-1'
 
 buckets: &buckets
-  - "covid19.dialogue.co"
+  - 'covid19.dialogue.co'
 
 executors:
   debian:
