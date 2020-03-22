@@ -1,7 +1,8 @@
 ## 🌍Internationale Risikogebiete und besonders betroffene Gebiete in Deutschland
 
-Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationale Risikogebiete** definiert (letzte Aktualisierung des RKI am 15.3.2020 um 14:00 Uhr):
+Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationale Risikogebiete** definiert (letzte Aktualisierung des RKI am 21.3.2020 um 12:10 Uhr):
 
+- EG Ägypten
 - 🇮🇹 Italien
 - 🇮🇷 Iran
 - 🇨🇳 In China: Provinz Hubei (inkl. Stadt Wuhan)
