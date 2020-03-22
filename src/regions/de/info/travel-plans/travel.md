@@ -6,6 +6,6 @@ Informationen zu den eingeführten vorübergehenden Grenzkontrollen an den Binne
 
 Sollten Sie dennoch reisen, beachten Sie bitte, dass einige Länder Einreisesperren oder Sonderkontrollen für bestimmte Personengruppen oder Flüge aus bestimmten Regionen erlassen haben. Personen mit Reiseabsichten sollten sich daher vor Reiseantritt bei [der Botschaft oder dem Konsulat Ihres Reiselandes in Deutschland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) informieren.
 
-**Konzertierte Rückholaktion für gestrandete Deutsche:** Die Bundesregierung will allen Deutschen, die durch die zahlreichen Verschärfungen von Ein- und Ausreisebestimmungen weltweit im Ausland gestrandet sind, eine Rückkehr nach Deutschland ermöglichen. Reisende sollten sich zunächst über die Reise- und Sicherheitshinweise informieren, Kontakt zu ihrem Reiseveranstalter oder ihrer Fluggesellschaft aufnehmen und sich in die [Krisenvorsorgeliste eintragen](http://www.diplo.de/elefand).
+**Konzertierte Rückholaktion für gestrandete Deutsche:** Die Bundesregierung will allen Deutschen, die durch die zahlreichen Verschärfungen von Ein- und Ausreisebestimmungen weltweit im Ausland gestrandet sind, eine Rückkehr nach Deutschland ermöglichen. Weitere Informationen finden Betroffene [hier](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/reisewarnungen/faq-reisewarnung).
 
 **Quellen:** Auswärtiges Amt; Bundesministerium des Inneren für Bau und Heimat
