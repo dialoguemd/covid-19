@@ -8,7 +8,7 @@ Die Verhaltensweisen sind mit denen zum Schutz vor Grippeviren identisch:
 - Händeschütteln generell unterlassen
 - Hände vom Gesicht fernhalten (Schleimhäute in Mund und Nase sowie Augen)
 
-Wenn die Möglichkeit besteht, sollte auf Reisen verzichtet, öffentliche Verkehrsmittel gemieden und von zu Hause aus gearbeitet werden. Im Allgemeinen sollten jegliche Kontakte auf das Notwendigste reduziert werden.
+Beschränken Sie Ihre Sozialkontakte soweit wie möglich. Halten Sie im Idealfall nur Kontakt zu den Menschen, mit denen Sie zusammen wohnen. Verzichten Sie auf engere Kontakte mit Freunden und Nachbarn. Wenn die Möglichkeit besteht, sollten öffentliche Verkehrsmittel gemieden und von zu Hause aus gearbeitet werden.
 
 Weitere Verhaltensempfehlungen zum Schutz vor dem Coronavirus im Alltag finden Sie zum Download [hier](https://www.infektionsschutz.de/fileadmin/infektionsschutz.de/Downloads/Merkblatt-Verhaltensempfehlungen-Coronavirus.pdf).
 
