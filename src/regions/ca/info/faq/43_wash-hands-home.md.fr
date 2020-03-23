@@ -9,4 +9,4 @@ Si vous êtes chez vous, il faut vous laver les mains :
 
 Ceci permet la prévention de tout type de contamination.
 
-Plus d'informations disponibles [ici](https://github.com/dialoguemd/covid-19/blob/master/src/regions/ca/info/faq/01_sick-notes.fr.md).
+Plus d'informations disponibles [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html#pm).
