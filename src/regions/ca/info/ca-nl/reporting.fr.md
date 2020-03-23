@@ -1,16 +1,9 @@
 ## Terre-Neuve et Labrador: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Toute personne arrivant de l'étranger est priée de s'isoler et de surveiller les symptômes. On peut également vous demander de vous isoler si vous avez été exposé à une personne atteinte de COVID-19.
+Contactez le 811 si vous avez de la fièvre, de la toux ou des difficultés à respirer.
 
-Les habitants de Terre-Neuve-et-Labrador qui arrivent de l'étranger sont priés de s'isoler, c'est-à-dire de rester à la maison et de ne pas aller au travail ou à l'école, et de surveiller leurs symptômes pendant 14 jours après leur arrivée au Canada.
+Les personnes qui sont arrivées à Terre-Neuve-et-Labrador en provenance de l'étranger le 14 mars 2020 ou après cette date, à 19 heures (heure de Terre-Neuve), doivent s'isoler pendant 14 jours après leur arrivée au Canada. Si elles présentent des symptômes, elles doivent utiliser l'outil d'auto-évaluation disponible sur le site web de la HealthLine 811 pour déterminer si elles doivent appeler le 811 : www.811healthline.ca. Si les personnes ne peuvent pas accéder à l'outil d'auto-évaluation, il leur est conseillé d'appeler le 811.
 
-Si vous n'avez pas de symptômes, vous devriez:
-
-- rester à la maison et ne pas aller au travail ou à l'école pendant 14 jours
-- Éviter tout contact étroit avec des personnes souffrant de maladies chroniques, des systèmes immunitaires compromis et des personnes âgées
-- Vous n'avez pas besoin du test COVID-19 si vous n'avez pas de symptômes
-- Surveillez les symptômes (les symptômes comprennent : fièvre ou toux ou difficultés respiratoires)
-
-Si vous commencez à avoir des symptômes, vous devez vous isoler des autres le plus rapidement possible et contacter le 811 pour obtenir des informations complémentaires.
+Les personnes qui sont arrivées dans la province en provenance de l'extérieur de Terre-Neuve-et-Labrador le 20 mars 2020 ou après cette date doivent s'isoler pendant 14 jours après leur arrivée dans la province.
 
 [Source: Gouvernement de Terre-Neuve et Labrador (en anglais)](https://www.gov.nl.ca/covid-19/)
