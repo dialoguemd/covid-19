@@ -1,6 +1,6 @@
- ## If I stay home, should I wash my hands on a regular basis?
- 
- If you're at home, you need to wash your hands:
+## If I stay home, should I wash my hands on a regular basis?
+
+If you're at home, you need to wash your hands:
 
 - After coughing, sneezing, blowing your nose or touching the inside of your mouth.
 - After going to the bathroom
