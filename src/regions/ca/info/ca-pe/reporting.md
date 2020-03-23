@@ -15,6 +15,6 @@ Within the last 14 days have you:
 - travelled outside of Prince Edward Island and have a fever greater than 38 C AND/OR a cough
 - been in close contact (within 2 meters) with a person with a laboratory confirmed case of COVID-19?
 
-Anyone who has travelled outside of Prince Edward Island must  are urged to self-isolate for 14 days following return to Canada. If you do develop a fever or a cough, call 811. If you answered NO to all the above questions and you are looking for general information about COVID-19, visit [princeedwardisland.ca/covid19](https://www.princeedwardisland.ca/en/topic/covid-19).
+Anyone who has travelled outside of Prince Edward Island must are urged to self-isolate for 14 days following return to Canada. If you do develop a fever or a cough, call 811. If you answered NO to all the above questions and you are looking for general information about COVID-19, visit [princeedwardisland.ca/covid19](https://www.princeedwardisland.ca/en/topic/covid-19).
 
 [Source: Government of Prince Edward Island](https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-when-should-i-call-811)
