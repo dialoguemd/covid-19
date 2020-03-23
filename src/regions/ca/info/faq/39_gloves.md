@@ -8,6 +8,6 @@ Wearing gloves is not a substitute for hand hygiene, and if used, gloves should 
 
 The integrity of gloves is sensitive to the use of products, time, moisture in your hands. If you wear gloves because you are caring for someone who is infected, you should wash your hands before and after use.
 
-This is how to care for a person with covid-19 : https://www.canada.ca/en/public-health/services/publications/diseases-conditions/how-to-care-for-person-with-covid-19-at-home-advice-for-caregivers.html
+[This](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/how-to-care-for-person-with-covid-19-at-home-advice-for-caregivers.html) is how to care for a person with covid-19.
 
 More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/public-health-measures-mitigate-covid-19.html).
