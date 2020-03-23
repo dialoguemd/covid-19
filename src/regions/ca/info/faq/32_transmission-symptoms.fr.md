@@ -6,5 +6,4 @@ Les experts sont en train d’étudier plus en profondeur la transmission du vir
 
 Plus d'informations ici:
 
--[CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html) (Anglais seulement) 
--[Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html)
+-[CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html) (Anglais seulement) -[Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html)
