@@ -1,4 +1,4 @@
-## New Brunswick: Online self-assessment tool 
+## New Brunswick: Online self-assessment tool
 
 The regional health authorities will be opening community assessment centres to allow those who have been identified as high risk to be tested, without going to an Emergency Department.
 
