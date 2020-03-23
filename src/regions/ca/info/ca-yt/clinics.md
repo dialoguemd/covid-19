@@ -1,4 +1,4 @@
-## Yukon: Online self-assessment tool 
+## Yukon: Online self-assessment tool
 
 Use this [self-assessment tool](https://service.yukon.ca/en/covid-19-self-assessment/) to help determine whether you should be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else, if they are not able.
 
