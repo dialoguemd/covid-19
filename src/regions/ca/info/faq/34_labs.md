@@ -5,4 +5,4 @@ More and more hospitals are no longer accepting external requests, and only proc
 
 Some laboratories have reduced their opening hours or limited the samples taken to urgent tests only, and have cancelled some samples collections.
 
-We therefore recommend that you call the place before you go there. 
+We therefore recommend that you call the place before you go there.
