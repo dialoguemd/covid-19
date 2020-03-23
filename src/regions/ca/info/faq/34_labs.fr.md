@@ -5,4 +5,4 @@ De plus en plus d’hôpitaux n’acceptent plus de requêtes externes, et ne tr
 
 Enfin, certains laboratoires ont des horaires réduites ou limitent le nombre de prélèvements fait aux prélèvements urgents, et ont annulés certains prélèvements
 
-Nous recommandons donc d'appeler le lieu avant de vous y rendre. 
+Nous recommandons donc d'appeler le lieu avant de vous y rendre.
