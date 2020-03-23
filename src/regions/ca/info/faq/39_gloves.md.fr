@@ -6,6 +6,6 @@ Elle est réservée à un usage par des professionnels de la santé ou de l’en
 
 Le port des gants ne remplace en aucun cas l’hygiène des mains, et en cas d’utilisation, les gants doivent être utilisés le moins longtemps possible. L’intégrité des gant est sensible à l’utilisation de produits, au temps, à l’humidité de vos mains… Si vous portez des gants car vous vous occupez de quelqu’un d’infecté, il faut également vous lavez les mains avant et après les avoir utilisés.
 
-Voici comment prendre soin de quelqu’un d’infecté au COVID : https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/comment-prendre-soin-personne-atteinte-covid-19-maison-conseils-soignants.html
+[Voici](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/comment-prendre-soin-personne-atteinte-covid-19-maison-conseils-soignants.html) comment prendre soin de quelqu’un d’infecté au COVID.
 
 Plus d'informations diponibles [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/mesures-sante-publique-utilisees-reduire-covid-19.html).
