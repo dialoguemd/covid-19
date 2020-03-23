@@ -2,7 +2,6 @@
 
 Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/) a pour but d'aider chaque personne à prendre les meilleures décisions possible pour sa santé et celle de ses proches durant la pandémie de COVID-19. Il permet plus spécifiquement de connaître les meilleurs moyens de se protéger de la COVID-19, de prendre soin de soi ou de donner les soins de base à son entourage et de savoir où et quand consulter si l'on a besoin de soins de services.
 
-
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
 De plus, si la COVID‑19 vous inquiète ou que vous avez de la toux ou de la fièvre :
