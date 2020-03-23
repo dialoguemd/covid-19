@@ -1,4 +1,4 @@
-## Île-du-Prince-Edouard: Outil d’autoévaluation
+## Île-du-Prince-Edouard: Outil d’auto-évaluation
 
 Cet [outil d’autoévaluation](https://www.princeedwardisland.ca/fr/service/autoevaluation-covid-19) vous aidera à déterminer si vous devriez subir un test de dépistage de la COVID-19. Vous pouvez réaliser l’évaluation pour vous-même ou pour une autre personne qui est incapable de le faire.
 
