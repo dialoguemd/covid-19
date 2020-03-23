@@ -1,6 +1,6 @@
 ## Saskatchewan: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Remarque : vous n'avez pas besoin de subir le test COVID-19 si, au cours des 14 derniers jours, vous n'avez pas voyagé à l'étranger ou été en contact avec une personne diagnostiquée comme ayant la COVID-19.
+Remarque : vous n'avez pas besoin d'être testés pour le COVID-19 si, au cours des 14 derniers jours, vous n'avez pas voyagé à l'étranger ou été en contact avec une personne diagnostiquée comme ayant la COVID-19.
 
 Si vous présentez des symptômes de la COVID-19, faites-vous tester. Les symptômes de COVID-19 sont la fièvre, la toux, le mal de gorge, l'essoufflement et un malaise général. Utilisez cet outil d'auto-évaluation pour déterminer si vous devez subir un test de dépistage de COVID-19.
 
