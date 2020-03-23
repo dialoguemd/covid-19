@@ -15,7 +15,7 @@ Lorsque vous consultez un prestataire de soins de santé, veuillez le lui dire :
 
 Les personnes qui reviennent d'un voyage à l'étranger doivent rester chez elles et s'isoler pendant 14 jours après leur retour. Pendant ces 14 jours, surveillez vos symptômes de fièvre, de toux ou de difficultés respiratoires. Si vous présentez des symptômes, appelez le 8-1-1 ou parlez à votre prestataire de soins de santé pour discuter de la nécessité éventuelle d'un test et d'un suivi.
 
-Les personnes qui se sont isolées peuvent reprendre leurs activités normales après 14 jours si elles n'ont pas développé de symptômes. 
+Les personnes qui se sont isolées peuvent reprendre leurs activités normales après 14 jours si elles n'ont pas développé de symptômes.
 
 Des informations plus détaillées sur [l'auto-isolement et l'autosurveillance sont disponibles ici](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
 
