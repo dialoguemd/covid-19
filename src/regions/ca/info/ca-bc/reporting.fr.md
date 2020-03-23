@@ -11,14 +11,12 @@ Lorsque vous consultez un prestataire de soins de santé, veuillez le lui dire :
 - Si vous avez eu un contact direct avec des animaux (par exemple, si vous avez visité un marché d'animaux vivants)
 - Si vous avez été en contact étroit avec une personne malade, surtout si elle avait de la fièvre, de la toux ou des difficultés à respirer.
 
-### Je pense que j’ai peut-être le COVID-19, puis-je me rendre au service des urgences pour me faire tester ?
+### Je suis un voyageur de retour, dois-je m'isoler ou rester à la maison loin des espaces publics ?
 
-En ce moment, nous demandons aux patients d'éviter de se rendre aux urgences pour des tests de dépistage de coronavirus.
+Les personnes qui reviennent d'un voyage à l'étranger doivent rester chez elles et s'isoler pendant 14 jours après leur retour. Pendant ces 14 jours, surveillez vos symptômes de fièvre, de toux ou de difficultés respiratoires. Si vous présentez des symptômes, appelez le 8-1-1 ou parlez à votre prestataire de soins de santé pour discuter de la nécessité éventuelle d'un test et d'un suivi.
 
-Si vous pensez que vous pourriez avoir le COVID-19, veuillez appeler à l'avance le bureau de votre prestataire de soins primaires ou le 8-1-1 pour évaluer si vous avez besoin d'un test. Le fait d'appeler la clinique avant votre départ permet de s'assurer que la clinique est prête à vous tester et de protéger le personnel de la clinique et les autres visiteurs.
+Les personnes qui se sont isolées peuvent reprendre leurs activités normales après 14 jours si elles n'ont pas développé de symptômes. 
 
-Si vous n'avez pas de médecin de famille, veuillez appeler le 8-1-1 pour une évaluation. Les infirmières du 8-1-1 peuvent vous donner plus d'informations sur les endroits où vous pouvez vous rendre pour une évaluation et un test, par exemple, un centre de soins primaires d'urgence ou une clinique sans rendez-vous.
-
-Les infirmières du 8-1-1 ont reçu pour instruction de procéder à une évaluation du risque d'exposition des personnes qui appellent et qui présentent des symptômes compatibles, tels que la toux ou des symptômes de type grippal. Dans certains cas, les infirmières du 8-1-1 peuvent suggérer à un appelant d'aller voir un prestataire de soins de santé pour une évaluation et des tests, et lui recommander d'appeler à l'avance pour prévenir les cliniciens de sa venue.
+Des informations plus détaillées sur [l'auto-isolement et l'autosurveillance sont disponibles ici](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
 
 [Source: BC Centre for Disease Control (en anglais)](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)
