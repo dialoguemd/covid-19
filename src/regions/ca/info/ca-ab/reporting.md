@@ -21,4 +21,4 @@ If you develop symptoms – cough, fever or difficulty breathing – stay home a
 - If your symptoms worsen, call 811. We are experiencing heavy call volumes and will get to your call as quickly as we can.
 - Call 911 if you are seriously ill and need immediate medical attention. Inform them that you may have COVID-19.
 
-[Source](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-ncov-2019-public-faq.pdf)
+[Source](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-ncov-2019-public-faq.pdf) 
