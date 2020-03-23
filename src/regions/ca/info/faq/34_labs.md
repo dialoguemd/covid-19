@@ -1,36 +1,8 @@
 ## I need to get labs taken. Which labs are still open to non-COVID19 tests?
 
-It depends on each laboratory, we would recommend calling the place before going. If you have symptoms such as cough, fever, runny nose or if you’re at risk, call the designated line of covid-19.
+If you experience symptoms such as cough, fever, runny nose or if you are at risk, call the designated covid-19 line.
+More and more hospitals are no longer accepting external requests, and only process tests ordered by their own departments. It is therefore possible that they will redirect you to other resources.
 
-Here is informations on some labs across Québec and Canada (Sources: calling directly labs reception or management)
+Some laboratories have reduced their opening hours or limited the samples taken to urgent tests only, and have cancelled some samples collections.
 
-### Quebec
-
-**Montreal**
-
-- CHUM - Does not take any external requests - _(Updated 2020-03-16)_
-- Verdun Hospital - Closed until further Notice - _(Updated 2020-03-16)_
-- CUSM Glen - All routine tests will not be accepted, acute testing is accepted - _(Updated 2020-03-16)_
-- CIUSSS NORD de MTL - Centres de prélèvement hospitalier fermés, il faut se rendre aux CLSC (7-11h) - _(Updated 2020-03-16)_
-
-**Laval**
-
-- Cité de la santé - No limitations - _(Updated 2020-03-16)_
-
-**Quebec**
-
-- CHUL - No limitations - _(Updated 2020-03-16)_
-
-**Private**
-
-- Biron - No influenza, throat analysis or culture or 24h urine collect - _(Updated 2020-03-15)_
-- Media Alpha (greater montreal) - Can send a nurse for 60\$ for throat swab at home ((514) 312-9956) - _(Updated 2020-03-15)_
-
-### Pharmacies
-
-It appears that most of them cancelled their nursing services (N95 masks are mandatory to perform throat tests), call beforehand but unlikely to found - - _(Updated 2020-03-16)_
-
-## Rest of Canada
-
-- Lifelabs - No limitations - _(Updated 2020-03-16)_
-- Dynacare - No limitations - _(Updated 2020-03-17)_
+We therefore recommend that you call the place before you go there.
