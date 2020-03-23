@@ -3,6 +3,7 @@
 Wearing a mask, outside of places with special instructions (hospitals, clinics, etc.), is not recommended for healthy people.
 
 Indeed, there are several risks associated with wearing a mask:
+
 - A false sense of security, which reduces your vigilance in not touching multiple surfaces, not washing your hands or avoiding touching your face.
 - A risk of contamination when you put on, adjust or remove and discard your mask.
 
