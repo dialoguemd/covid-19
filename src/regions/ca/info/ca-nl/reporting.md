@@ -1,15 +1,9 @@
 ## Newfoundland and Labrador: Who should I contact if I think I have COVID-19?
 
-Anyone arriving from outside of Canada is asked to self-isolate and monitor for symptoms. You may also be asked to self-isolate if you have been exposed to someone with COVID-19.
+Contact 811 if you develop a fever, cough or have difficulty breathing.
 
-Newfoundlanders and Labradorians arriving from outside of Canada are asked to self-isolate, meaning stay home and do not got to work or school, and monitor for symptoms for 14 days after arrival in Canada.
+Individuals that have arrived to Newfoundland and Labrador from outside of Canada on or after March 14, 2020 at 7:00pm NDT are required to self-isolate for 14 days after their arrival in Canada. If they become symptomatic, individuals should use the self-assessment tool on the HealthLine 811 website to determine if they need to call 811: www.811healthline.ca. If individuals are not able to access the self-assessment tool, they are advised to call 811.
 
-If you are not having symptoms, you should:
-
-Stay at home and do not go to work or school for 14 days.
-Avoid close contact with people with chronic conditions, compromised immune systems and older adults.
-You do not need COVID-19 testing if you do not have symptoms.
-Monitor for symptoms (symptoms include: fever or coughing or difficulty breathing).
-If you start to have symptoms, you should isolate yourself from others as quickly as possible and contact 811 for further direction.
+Individuals that have arrived to the province from outside of Newfoundland and Labrador on or after March 20, 2020 are required to self-isolate for 14 days after their arrival to the province.
 
 [Source: Government of Newfoundland and Labrador](https://www.gov.nl.ca/covid-19/)
