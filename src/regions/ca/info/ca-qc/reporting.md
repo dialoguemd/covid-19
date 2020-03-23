@@ -2,7 +2,6 @@
 
 The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to help each individual make the best possible decisions regarding their own health and that of their families during the coronavirus COVID-19 pandemic. Specifically, it sets down the best means for protection against the coronavirus disease (COVID-19) and provides information about self-care, basic care for family members, and information about when and where to consult a doctor, if medical care is required.
 
-
 ## Quebec: Who should I contact if I think I have COVID-19?
 
 If you are worried about COVID‑19 or have symptoms such as a cough or fever:
