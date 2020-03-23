@@ -1,18 +1,11 @@
 ## Yukon: Who should I contact if I think I have COVID-19?
 
-The Public Health Agency is monitoring the situation carefully. Currently, the risk within Canada and Yukon is low. Current information suggests that limited human-to-human transmission of coronavirus may have occurred in some reported instances where individuals were in close contact with people who had symptoms.
+ALL travellers coming into Yukon from any other location on or after March 18 and ALL international travellers who returned to Yukon from outside Canada on or after March 13 , are required to self-isolate immediately, for 14 days, and monitor for symptoms.
 
-### When to stay at home and phone 811 or your health provider
+- Anyone who has symptoms, including cough, fever or difficulty breathing, must also self-isolate.
+- Do not go to an emergency department, family doctor, walk-in clinic or your local health centre without calling 811 first.
+- If you need immediate medical attention, call 911 and advise them that you may have COVID-19.
 
-If you:
+If you have no symptoms or exposure concerns, but have questions about COVID-19 or novel coronavirus, visit this website.
 
-- have signs of a respiratory infection (fever, cough or shortness of breath)
-
-- **AND** within 14 days have:
-  - travelled outside of Canada; **OR**
-  - have lived with, or provided direct care to a person who is a probable or confirmed case of coronavirus (COVID-19);**OR**
-  - lived with, or provided direct care to, a person with acute respiratory illness who has recently travelled outside of Canada
-
-Please stay at home and phone 811 or your health provider.
-
-[Source: Government of Yukon](https://yukon.ca/en/information-about-novel-coronavirus-yukoners)
+[Source: Government of Yukon](https://yukon.ca/covid-19)
