@@ -15,7 +15,7 @@ When seeing a health care provider, please tell them:
 
 Those returning from travel outside of Canada should stay at home and self-isolate for 14 days after they have returned. Monitor yourself daily for symptoms like fever, cough or difficulty breathing for these 14 days. If you develop symptoms, call 8-1-1 or speak with your health care provider to discuss any need for testing and follow up.
 
-People who have self-isolated can return to normal activities after 14 days if they have not developed any symptoms. 
+People who have self-isolated can return to normal activities after 14 days if they have not developed any symptoms.
 
 More detailed information about [self-isolation and self-monitoring are available here](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
 
