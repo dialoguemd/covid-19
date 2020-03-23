@@ -1,5 +1,7 @@
-## Prince Edward Island: Specialized COVID-19 Clinics
+## Prince Edward Island: Online self-assessment tool 
 
-PEI opened its first clinic for the COVID-19 test in Charlottetown on March 11, and a second clinic opened in Summerside on March 12. Islanders can access the clinic by calling 811. They will be assessed over the phone to determine if they need to be tested.
+Use this [self-assessment tool](https://www.google.com/url?q=https://www.princeedwardisland.ca/en/service/self-assessment-for-covid-19&sa=D&ust=1584998310442000&usg=AFQjCNEW9HFOgqY9hFh9nXeLDM7qDdNozA) to help determine whether you should be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else, if they are not able.
+Testing is currently focused on individuals who have returned from travel, including from within Canada and the US, or had contact with someone diagnosed as having COVID-19, or have developed symptoms of COVID-19.
+For health related general questions about COVID-19, call 1-800-958-6400.
 
-[Source: CBC](https://www.cbc.ca/news/canada/prince-edward-island/pei-heather-morrison-covid-19-questions-1.5493436)
+[Source](https://www.google.com/url?q=https://www.princeedwardisland.ca/en/service/self-assessment-for-covid-19&sa=D&ust=1584998310442000&usg=AFQjCNEW9HFOgqY9hFh9nXeLDM7qDdNozA)
