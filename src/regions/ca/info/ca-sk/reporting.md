@@ -16,7 +16,7 @@ All residents should be familiar with self-monitoring and self-isolation precaut
 
 If you have no symptoms or exposure concerns, but have questions about COVID-19, you can:
 
-- Access the most up-to-date news and information on www.saskatchewan.ca/COVID19
+- Access the most up-to-date news and information on [this website](www.saskatchewan.ca/COVID19)
 - Email COVID19@health.gov.sk.ca
 
 [Source: Government of Saskatchewan](https://www.saskatchewan.ca/COVID19#utm_campaign=q2_2015&utm_medium=short&utm_source=%2FCOVID19)

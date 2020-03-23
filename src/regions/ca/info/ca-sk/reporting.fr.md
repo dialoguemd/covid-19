@@ -18,7 +18,7 @@ Tous les résidents doivent se familiariser avec l'auto-surveillance et précaut
 
 Si vous ne présentent aucun symptôme ou des préoccupations d'exposition, mais ont des questions sur Covid-19, vous pouvez:
 
-- L'accès les plus nouvelles et des informations à jour sur www.saskatchewan.ca/COVID19
+- L'accès les plus nouvelles et des informations à jour sur [ce site](www.saskatchewan.ca/COVID19)
 - Email COVID19@health.gov.sk.ca
 
 [Source: Gouvernement de la Saskatchewan](https://www.saskatchewan.ca/COVID19#utm_campaign=q2_2015&utm_medium=short&utm_source=%2FCOVID19)
