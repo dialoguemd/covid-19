@@ -1,4 +1,4 @@
-## Nouveau-Brunswick: Clinique désignée COVID-19
+## Nouveau-Brunswick: outil d'auto-evaluation
 
 Les régies régionales de la santé ouvriront des centres d’évaluation communautaires pour permettre aux personnes qui ont été identifiées comme étant à haut risque d’être évaluées dans devoir se rendre dans une salle d’urgence.
 
