@@ -11,14 +11,12 @@ When seeing a health care provider, please tell them:
 - If you had direct contact with animals (for example, if you visited a live animal market)
 - If you had close contact with a sick person, especially if they had a fever, cough or difficulty breathing.
 
-### I think I might have COVID-19, can I come in to the emergency department to get tested?
+### I am a returning traveller, should I self-isolate or stay home from public spaces?
 
-At this time we are asking patients to avoid going to the emergency department for novel coronavirus testing.
+Those returning from travel outside of Canada should stay at home and self-isolate for 14 days after they have returned. Monitor yourself daily for symptoms like fever, cough or difficulty breathing for these 14 days. If you develop symptoms, call 8-1-1 or speak with your health care provider to discuss any need for testing and follow up.
 
-If you feel that you might have COVID-19, please call ahead to your primary care provider's office or 8-1-1 to assess whether you need testing. Calling ahead to the clinic before you go ensures that the clinic is prepared to test you and keeps the clinic’s staff and other visitors safe.
+People who have self-isolated can return to normal activities after 14 days if they have not developed any symptoms. 
 
-If you do not have a primary care provider, please call 8-1-1 for assessment. The nurses at 8-1-1 can give you more information regarding where you can go for assessment and testing, for example, an urgent primary care centre or a walk-in clinic.
-
-Nurses at 8-1-1 have been instructed to complete an exposure risk assessment of callers with compatible symptoms, such as cough or influenza-like symptoms. In some cases, the 8-1-1 nurses may suggest a caller go see a healthcare provider for assessment and testing, and recommend that the caller call ahead to tell the clinicians that they are coming.
+More detailed information about [self-isolation and self-monitoring are available here](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
 
 [Source: BV Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
