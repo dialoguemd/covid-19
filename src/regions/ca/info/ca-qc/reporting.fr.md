@@ -10,6 +10,10 @@ Si la COVID‑19 vous inquiète ou que vous avez de la toux ou de la fièvre :
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
 - Avant de vous rendre à l’urgence, si votre condition le permet, contactez le 1-877-644-4545, ou le 418 644-4545 pour la région de Québec, le 514 644-4545 pour la région de Montréal, le 450 644-4545 pour la région de la Montérégie, le 819 644-4545 pour la région de l’Outaouais ou le 1 877 644-4545 ailleurs au Québec. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le. On vous dira comment vous rendre et quelles précautions prendre (port de masque, utilisation de transport personnel ou d’une ambulance, etc.).
 
+De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudmtl.gouv.qc.ca/actualite/covid-19-ouverture-dune-clinique-de-depistage-sans-rendez-vous-pour-augmenter-le-nombre-de-depistages) à la CIUSSS du Centre-Sud-de-l'Île-de-Montréal s'ouvre pour augmenter le nombre de tests de dépistage.
+
+[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
+
 ### Pour les citoyens de retour de voyage
 
 Un [isolement volontaire](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1) de 14 jours est recommandé à toutes les personnes qui reviennent de l’étranger le 12 mars 2020 ou à une date ultérieure. Ces personnes doivent faire preuve de vigilance et surveiller leurs symptômes.

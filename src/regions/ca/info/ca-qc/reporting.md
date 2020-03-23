@@ -10,6 +10,10 @@ If you are worried about COVID‑19 or have symptoms such as a cough or fever:
 - Visit the emergency room only if you have difficulty breathing (difficulty breathing at rest or unable to breathe while lying down).
 - Before you go to the emergency room, you can call toll free 1-877-644-4545, or 418-644-4545 in the Québec City region, 514-644-4545 in the Montréal area, 450-644-4545 in the Montérégie region, 819-644-4545 in the Outaouais region and 1-877-644-4545 elsewhere in Québec. If your condition allows you to do so and indicate that you are a traveller who has been back for less than 14 days. You will be told how to go there and what precautions to take (wearing a mask, using personal transportation or an ambulance, and so on).
 
+Also, a [walk-in screening clinic](https://ciusss-centresudmtl.gouv.qc.ca/actualite/covid-19-ouverture-dune-clinique-de-depistage-sans-rendez-vous-pour-augmenter-le-nombre-de-depistages) at the CIUSSS du Centre-Sud-de-l'Île-de-Montréal openws to increase the number of screening tests.
+
+[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
+
 ### For citizens returning from travel:
 
 [Self-isolation](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#si) for 14 days is recommended for anyone returning from abroad on or after March 12, 2020. Returning travellers must be vigilant and monitor themselves for symptoms.
