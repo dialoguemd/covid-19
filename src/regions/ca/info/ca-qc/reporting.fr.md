@@ -4,7 +4,7 @@ Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/)
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-De plus, si la COVID‑19 vous inquiète ou que vous avez de la toux ou de la fièvre :
+Si la COVID‑19 vous inquiète ou que vous avez de la toux ou de la fièvre :
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
