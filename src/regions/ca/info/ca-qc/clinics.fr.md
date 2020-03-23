@@ -9,15 +9,16 @@ Note : le personnel infirmier effectue un triage selon les critères afin de sé
 Critères
 
 Toute personne qui a voyagé à l’extérieur du Canada
+
 - qui est de retour au pays depuis le 1er mars
 - qui a des symptômes depuis 14 jours et moins
-Toute personne qui est en contact étroit avec un cas confirmé
-Toute personne qui est en contact étroit avec un voyageur qui a un ou plusieurs des symptômes.
-Toute personne qui a un ou plusieurs des symptômes suivants : fièvre ou frissons, toux, ifficultés respiratoires
+  Toute personne qui est en contact étroit avec un cas confirmé
+  Toute personne qui est en contact étroit avec un voyageur qui a un ou plusieurs des symptômes.
+  Toute personne qui a un ou plusieurs des symptômes suivants : fièvre ou frissons, toux, ifficultés respiratoires
 
 Heures d’ouverture
 7 jours sur 7, de 8 h à 20 h
- 
+
 Lieu  
 Place des festivals (Quartier des spectacles)
 Entrée au coin de la rue St-Urbain et boul. de Maisonneuve
