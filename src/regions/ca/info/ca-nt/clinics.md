@@ -1,3 +1,3 @@
-## Northwest Territories: Specialized COVID-19 Clinics
+## Northwest Territories: Self-assessment tool
 
-No specialized COVID-19 clinics available as of March 13 2020. We will add details as soon as they become available.
+The Government of the Northwest Territories has developped the [NWT Online COVID-19 Self-Assessment Tool](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/nwt-online-covid-19-self-assessment-tool).
