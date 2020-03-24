@@ -2,9 +2,7 @@
 
 Utilisez l'[outil d'auto-évaluation](https://covid19.thrive.health/) pour savoir si vous avez besoin d'être testé.
 
-
-
-Si vous présentez des symptômes tels que fièvre, toux, mal de gorge ou éternuements, évitez tout contact avec les autres et isolez-vous chez vous pendant au moins 10 jours.  Pendant que vous êtes chez vous, prenez soin de vous en buvant beaucoup d'eau et en vous reposant beaucoup. Au bout de 10 jours, si votre température est normale et que vous vous sentez mieux, vous pouvez reprendre vos activités habituelles. La toux peut persister pendant plusieurs semaines, de sorte qu'une toux seule ne signifie pas que vous devez continuer à vous isoler pendant plus de 10 jours.
+Si vous présentez des symptômes tels que fièvre, toux, mal de gorge ou éternuements, évitez tout contact avec les autres et isolez-vous chez vous pendant au moins 10 jours. Pendant que vous êtes chez vous, prenez soin de vous en buvant beaucoup d'eau et en vous reposant beaucoup. Au bout de 10 jours, si votre température est normale et que vous vous sentez mieux, vous pouvez reprendre vos activités habituelles. La toux peut persister pendant plusieurs semaines, de sorte qu'une toux seule ne signifie pas que vous devez continuer à vous isoler pendant plus de 10 jours.
 
 Si vos symptômes s'aggravent, par exemple si vous avez un léger essoufflement, contactez votre prestataire de soins de santé ou HealthLinkBC (8-1-1) à tout moment. Si vous devez consulter votre prestataire de soins de santé, appelez-le à l'avance afin qu'il puisse prendre les dispositions nécessaires pour que vous soyez évalué en toute sécurité. Portez un masque afin de protéger les autres.
 
