@@ -1,6 +1,5 @@
 ## Dois-je désinfecter toute ma maison?
 
-
 Non, mais vous devez nettoyer quotidiennement les surfaces fréquemment touchées (poignées de porte, lavabos, toilettes, téléphones, clés, interrupteurs, claviers, télécommandes, jouets, appareils électroniques…) avec un produit adapté (Alcool à 70%, produit javelisé, désinfectant domestique)
 
 Si la surface est sale, nettoyez la d’abord avec du savon et de l’eau avant de la désinfecté.
