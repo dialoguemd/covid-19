@@ -1,10 +1,9 @@
-import React, { useCallback } from 'react'
+import React from 'react'
 
 import { useLocation, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 
-import Chatbot from 'components/chatbot'
 import Results from 'components/results'
 import Header from 'components/header'
 import Footer from 'components/footer'
@@ -13,12 +12,9 @@ import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
 import { CtaButton } from 'components/buttons'
 import { requireRegionFile } from 'services/region-loader'
+import FaqChatbot from 'components/faq-chatbot'
 
 const config = requireRegionFile('config.json')
-
-const faqSteps = config.ENABLE_FAQ_BOT
-  ? requireRegionFile('steps.faq.json')
-  : []
 
 const useQuery = () => {
   const location = useLocation()
@@ -123,22 +119,7 @@ const FaqChatbotContainer = styled.div`
 
 export const InfoPage: React.FC = () => {
   const query = useQuery()
-  const { t, i18n } = useTranslation()
-
-  const onFaqChatbotEnd = useCallback(({ renderedSteps }) => {
-    renderedSteps
-      .filter(step => step.id === 'userQuestion')
-      .map(step => step.value)
-      .forEach(question => {
-        analytics.track(
-          'user_faq_question',
-          {
-            value: question
-          },
-          { context: { ip: '0.0.0.0' } }
-        )
-      })
-  }, [])
+  const { t } = useTranslation()
 
   // parse /info?id=a,b,c -> [a, b, c]
   const queryClasses = query.get('id')
@@ -182,13 +163,7 @@ export const InfoPage: React.FC = () => {
       )}
       {config.ENABLE_FAQ_BOT ? (
         <FaqChatbotContainer>
-          <Chatbot
-            key={i18n.languages[0]}
-            steps={faqSteps}
-            handleEnd={onFaqChatbotEnd}
-            placeholder={t('resultsPage.faqInputPlaceholder')}
-            showInput
-          />
+          <FaqChatbot />
         </FaqChatbotContainer>
       ) : (
         <InfoCard

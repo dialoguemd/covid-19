@@ -1,7 +1,13 @@
 import React from 'react'
 
 import stripIndent from 'strip-indent'
-import { Step, TextStep, OptionStep, StepTrigger } from 'react-simple-chatbot'
+import {
+  Step,
+  TextStep,
+  OptionStep,
+  StepTrigger,
+  UserStep
+} from 'react-simple-chatbot'
 
 import i18n from './i18n'
 import MarkdownBubble from 'components/markdown-bubble'
@@ -15,6 +21,10 @@ const isTextStep = (step: Step): step is TextStep => {
 
 const isOptionStep = (step: Step): step is OptionStep => {
   return Array.isArray((step as OptionStep).options)
+}
+
+const isUserStep = (step: Step): step is UserStep => {
+  return (step as UserStep).user
 }
 
 const addMarkdownToTextStep = (step: Step): Step => {
@@ -60,6 +70,31 @@ const addAnalyticsToOptionStep = (step: Step): Step => {
   return { ...step, options: wrappedOptions }
 }
 
+const addAnalyticsToInputStep = (step: Step): Step => {
+  if (!isUserStep(step)) {
+    return step
+  }
+
+  const triggerWrapper: StepTrigger = data => {
+    const triggerId =
+      typeof step.trigger === 'function' ? step.trigger(data) : step.trigger
+
+    analytics.track(
+      'answered_question',
+      {
+        question_id: step.id,
+        value: data.value,
+        next_step: triggerId
+      },
+      { context: { ip: '0.0.0.0' } }
+    )
+
+    return triggerId
+  }
+
+  return { ...step, trigger: triggerWrapper }
+}
+
 const addI18n = (step: Step): Step => {
   if (isTextStep(step) && typeof step.message === 'string') {
     return { ...step, message: stepsT(step.message) }
@@ -76,7 +111,12 @@ const addI18n = (step: Step): Step => {
   return step
 }
 
-const TRANSFORMS = [addI18n, addMarkdownToTextStep, addAnalyticsToOptionStep]
+const TRANSFORMS = [
+  addI18n,
+  addMarkdownToTextStep,
+  addAnalyticsToOptionStep,
+  addAnalyticsToInputStep
+]
 
 // sequentially apply transforms to a step
 export const transformStep = (step: Step): Step => {

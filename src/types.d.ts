@@ -59,7 +59,7 @@ declare module 'react-simple-chatbot' {
     previousStep: Record<string, any>
     step: Record<string, any>
     steps: Record<string, any>
-    triggerNextStep(nextStep: StepId | { value: any; trigger: StepId })
+    triggerNextStep(nextStep?: StepId | { value: any; trigger: StepId })
   }
 
   export interface CustomStep {

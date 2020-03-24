@@ -28,7 +28,19 @@
   {
     "id": "userQuestion",
     "user": true,
-    "trigger": "utterQuestionAsked"
+    "trigger": "showAnswers"
+  },
+  {
+    "id": "utterAskForAnswerFeedback",
+    "message": "faq.utterAskForAnswerFeedback",
+    "trigger": "askForAnswerFeedback"
+  },
+  {
+    "id": "askForAnswerFeedback",
+    "options": [
+      { "value": true, "label": "yes", "trigger": "utterQuestionAsked" },
+      { "value": false, "label": "no", "trigger": "utterQuestionAsked" }
+    ]
   },
   {
     "id": "utterQuestionAsked",
