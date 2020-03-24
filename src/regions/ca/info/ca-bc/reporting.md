@@ -2,7 +2,7 @@
 
 Use the [self-assessment tool](https://bc.thrive.health/) to see if you need testing.
 
-If you have symptoms such as fever, cough, sore throat or sneezing, avoid contact with others and self-isolate at home for at least 10 days.  While at home, take care of yourself by drinking lots of water and getting plenty of rest. After 10 days, if your temperature is normal and you feel better, you can return to your routine activities. Coughing may persist for several weeks, so a cough alone does not mean you need to continue to self-isolate for more than 10 days.
+If you have symptoms such as fever, cough, sore throat or sneezing, avoid contact with others and self-isolate at home for at least 10 days. While at home, take care of yourself by drinking lots of water and getting plenty of rest. After 10 days, if your temperature is normal and you feel better, you can return to your routine activities. Coughing may persist for several weeks, so a cough alone does not mean you need to continue to self-isolate for more than 10 days.
 
 If your symptoms worsen, for example you have mild shortness of breath, contact your health care provider or HealthLinkBC (8-1-1) at any time. If you are going to visit your health care provider, call them ahead of time so they can arrange for you to be assessed safely. Wear a mask in order to protect others.
 
