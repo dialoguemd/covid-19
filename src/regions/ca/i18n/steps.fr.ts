@@ -132,14 +132,14 @@ export default {
     Une erreur inconnue s'est produite et je n'ai pas pu charger les réponses, mais la question va quand même nous aider à raffiner notre base de connaissances.
     `,
     utterAskForAnswerFeedback: `
-    Pour l'instant, ce sont les meilleures réponses que je puisse vous donner. Je suis encore en train d'apprendre et j'ai besoin de votre aide.
+    Pour l'instant, c'est la meilleure réponse que je puisse vous donner. Je suis encore en train d'apprendre et j'ai besoin de votre aide.
 
-    Comment étaient ces réponses ?
+    Comment était la réponse ?
     `,
     rating: {
-      good: 'Très bonnes!',
+      good: 'Très bonne !',
       average: `Ce n'est pas tout à fait ce que je cherchais`,
-      poor: 'Très mauvaises'
+      poor: 'Très mauvaise'
     }
   }
 }
