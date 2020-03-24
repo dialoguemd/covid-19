@@ -1,15 +1,12 @@
-## British Columbia: Who should I contact if I think I have COVID-19?
+## British Columbia: What should I do if I think I have COVID-19?
 
-If you have symptoms such as fever, cough or difficulty breathing and have travelled outside of Canada or have been exposed to someone who has COVID-19, avoid contact with others. See a health care provider as soon as possible.
+Use the [self-assessment tool](https://bc.thrive.health/) to see if you need testing.
 
-If you are going to visit your health care provider, call them ahead of time so they can arrange for you to be assessed safely. Wear a mask in order to protect others. If you are unsure about what to do or have concerns or questions, contact HealthLinkBC (8-1-1) at any time or speak with your health care provider.
+If you have symptoms such as fever, cough, sore throat or sneezing, avoid contact with others and self-isolate at home for at least 10 days. While at home, take care of yourself by drinking lots of water and getting plenty of rest. After 10 days, if your temperature is normal and you feel better, you can return to your routine activities. Coughing may persist for several weeks, so a cough alone does not mean you need to continue to self-isolate for more than 10 days.
 
-When seeing a health care provider, please tell them:
+If your symptoms worsen, for example you have mild shortness of breath, contact your health care provider or HealthLinkBC (8-1-1) at any time. If you are going to visit your health care provider, call them ahead of time so they can arrange for you to be assessed safely. Wear a mask in order to protect others.
 
-- Your symptoms
-- Where you have been travelling or living
-- If you had direct contact with animals (for example, if you visited a live animal market)
-- If you had close contact with a sick person, especially if they had a fever, cough or difficulty breathing.
+If your symptoms are severe, such as difficulty breathing (e.g. struggling to breathe or speaking in single words) or chest pain, call 9-1-1 or go to your nearest Emergency Department.
 
 ### I am a returning traveller, should I self-isolate or stay home from public spaces?
 
