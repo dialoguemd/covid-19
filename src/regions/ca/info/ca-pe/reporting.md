@@ -1,6 +1,6 @@
 ## Prince Edward Island: Who should I contact if I think I have COVID-19?
 
-If you have returned from travel outside of Prince Edward Island , and have symptoms, including a cough, fever or difficulty breathing, **call 811**  to be screened, and if necessary, directed to a clinic for testing.
+If you have returned from travel outside of Prince Edward Island , and have symptoms, including a cough, fever or difficulty breathing, **call 811** to be screened, and if necessary, directed to a clinic for testing.
 
 ### When should I call 811?
 
