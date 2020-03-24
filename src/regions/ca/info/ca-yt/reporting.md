@@ -1,6 +1,6 @@
 ## Yukon: Who should I contact if I think I have COVID-19?
 
-ALL travellers coming into Yukon from any other location on or after March 18 and ALL international travellers who returned to Yukon from outside Canada on or after March 13 , are required to self-isolate immediately, for 14 days, and monitor for symptoms.
+ALL travellers coming into Yukon from any other location on or after March 22 and ALL international travellers who returned to Yukon from outside Canada on or after March 13 , are required to self-isolate immediately, for 14 days, and monitor for symptoms.
 
 - Anyone who has symptoms, including cough, fever or difficulty breathing, must also self-isolate.
 - Do not go to an emergency department, family doctor, walk-in clinic or your local health centre without calling 811 first.
