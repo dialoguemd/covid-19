@@ -4,7 +4,7 @@ Afin de déterminer si vous devez composer le numéro de Health Links–Info San
 
 Veuillez noter ce qui suit:
 
-Les responsables de la santé publique demandent à tous les Manitobains, y compris aux prestataires de soins de santé, d’annuler ou de reporter tout voyage à l’étranger non essentiel. En outre, les responsables de la santé publique recommandent à tous les voyageurs de s’isoler volontairement et de surveiller leurs symptômes durant 14 jours après leur retour au Canada.
+Les responsables de la santé publique demandent à tous les Manitobains, y compris aux prestataires de soins de santé, d’annuler ou de reporter tout voyage à l’étranger non essentiel. En outre, les responsables de la santé publique recommandent à tous les voyageurs de retour, y compris ceux qui ont voyagé à l'intérieur du Canada, de s'isoler et de surveiller eux-mêmes leurs symptômes pendant 14 jours après leur retour au Manitoba.
 
 Les responsables de la santé publique insistent pour que toute personne ayant des symptômes de la grippe ou du rhume (toux, fièvre, nez qui coule, mal de gorge, faiblesse ou mal de tête) s’isole volontairement pendant 14 jours.
 
