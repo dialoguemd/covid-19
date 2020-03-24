@@ -37,7 +37,7 @@ const FaqAnswerBubble: React.FC<Partial<Props>> = ({
         triggerNextStep()
       } catch (e) {
         setContent(t('steps:faq.utterGetAnswersError'))
-        triggerNextStep('utterQuestionAsked')
+        triggerNextStep({ trigger: 'utterQuestionAsked', value: null })
       }
     }
 
