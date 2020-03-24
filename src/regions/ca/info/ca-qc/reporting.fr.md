@@ -24,11 +24,11 @@ OU
 
 - Vous êtes en isolement obligatoire parce que vous êtes employé de la fonction publique ou membre du personnel de la santé, de l’éducation et des services de garde, privés et publics, qui, à compter du 12 mars 2020, revenez de l’étranger.
 
-Suivre ces consignes et vous isoler à la maison pendant 14 jours après votre retour de voyage à l’étranger peut faire toute la différence et ralentir la transmission de la COVID-19. C’est sûr qu’il s’agit de consignes inhabituelles et contraignantes, surtout si vous avez de jeunes enfants ou si vous êtes un  proche aidant.
+Suivre ces consignes et vous isoler à la maison pendant 14 jours après votre retour de voyage à l’étranger peut faire toute la différence et ralentir la transmission de la COVID-19. C’est sûr qu’il s’agit de consignes inhabituelles et contraignantes, surtout si vous avez de jeunes enfants ou si vous êtes un proche aidant.
 
-Suivre ces consignes peut, également, réellement éviter que les personnes qui vous entourent n’attrapent la COVID-19, si jamais vous êtes porteur du virus et que vous développez des symptômes. 
+Suivre ces consignes peut, également, réellement éviter que les personnes qui vous entourent n’attrapent la COVID-19, si jamais vous êtes porteur du virus et que vous développez des symptômes.
 
-Utilisez la [grille de surveillance des symptômes (PDF)](https://santemontreal.qc.ca/fileadmin/fichiers/Campagnes/coronavirus/COVID-19_Fiches-Voyageurs.pdf) 
+Utilisez la [grille de surveillance des symptômes (PDF)](https://santemontreal.qc.ca/fileadmin/fichiers/Campagnes/coronavirus/COVID-19_Fiches-Voyageurs.pdf)
 
 Plus d'informations disponibles [ici](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680) pour les voyageurs de retour.
 
