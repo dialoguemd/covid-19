@@ -2,7 +2,7 @@
 
 The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to help each individual make the best possible decisions regarding their own health and that of their families during the coronavirus COVID-19 pandemic. Specifically, it sets down the best means for protection against the coronavirus disease (COVID-19) and provides information about self-care, basic care for family members, and information about when and where to consult a doctor, if medical care is required.
 
-## Quebec: What should I do id I'm just back from travelling abroad?
+## Quebec: What should I do if I'm just back from travelling abroad?
 
 - You are in self-isolation because you returned from travelling abroad on or after March 12, 2020.
 
