@@ -30,10 +30,12 @@ const FaqAnswerBubble: React.FC<Partial<Props>> = ({
     const loadAnswer = async () => {
       try {
         const answers = await getAnswers(question, i18n.languages[0])
+
         const content =
           answers.length === 0
             ? t('steps:faq.utterHasNoAnswers')
             : `${t('steps:faq.utterHasAnswers')}\n${answers.join('\n\n')}`
+
         setContent(content)
         triggerNextStep()
       } catch (e) {
