@@ -13,6 +13,7 @@ import ScrollAnchor from 'components/scroll-anchor'
 import { CtaButton } from 'components/buttons'
 import { requireRegionFile } from 'services/region-loader'
 import FaqChatbot from 'components/faq-chatbot'
+import { mobileBreakpoint } from 'theme'
 
 const config = requireRegionFile('config.json')
 
@@ -102,7 +103,7 @@ const FaqChatbotContainer = styled.div`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   background: ${props => props.theme.colors.backgroundLight};
   border-radius: 12px;
-  height: 400px;
+  height: 600px;
   width: calc(100% - 24px);
   max-width: 1032px;
   margin: 12px;
@@ -114,6 +115,10 @@ const FaqChatbotContainer = styled.div`
   -webkit-perspective: 1000;
   .rsc-container {
     background: transparent;
+  }
+
+  @media (max-width: ${mobileBreakpoint}px) {
+    height: 400px;
   }
 `
 
