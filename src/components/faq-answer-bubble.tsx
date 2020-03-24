@@ -21,14 +21,14 @@ const FaqAnswerBubble: React.FC<Partial<Props>> = ({
   triggerNextStep
 }) => {
   const [content, setContent] = useState<string>(null)
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
 
   useEffect(() => {
     const question = previousStep.value
 
     const loadAnswer = async () => {
       try {
-        const answers = await getAnswers(question)
+        const answers = await getAnswers(question, i18n.languages[0])
         const content =
           answers.length === 0
             ? t('steps:faq.utterHasNoAnswers')
@@ -42,7 +42,7 @@ const FaqAnswerBubble: React.FC<Partial<Props>> = ({
     }
 
     loadAnswer()
-  }, [previousStep, triggerNextStep, t])
+  }, [previousStep, triggerNextStep, t, i18n])
 
   if (!content) {
     return null
