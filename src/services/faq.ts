@@ -16,7 +16,7 @@ export const getAnswers = async (question: string, language?: string) => {
   }
 
   const res = await faqApi.get<GetAnswersResponse>(
-    '/answers',
+    '/answers/',
     { question },
     { headers }
   )
