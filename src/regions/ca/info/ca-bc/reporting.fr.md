@@ -1,15 +1,14 @@
-## Colombie-Britannique: Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Colombie-Britannique: Que dois-je faire si je pense que j'ai COVID-19 ?
 
-Si vous présentez des symptômes tels que fièvre, toux ou difficultés respiratoires et que vous avez voyagé à l'étranger ou avez été exposé à une personne atteinte de COVID-19, évitez tout contact avec d'autres personnes. Consultez un prestataire de soins de santé dès que possible.
+Utilisez l'[outil d'auto-évaluation](https://covid19.thrive.health/) pour savoir si vous avez besoin d'être testé.
 
-Si vous devez consulter votre prestataire de soins de santé, appelez-les à l'avance afin qu'ils puissent prendre les dispositions nécessaires pour que vous soyez évalué en toute sécurité. Portez un masque afin de protéger les autres. Si vous ne savez pas quoi faire ou si vous avez des préoccupations ou des questions, contactez HealthLinkBC (8-1-1) à tout moment ou parlez à votre fournisseur de soins de santé.
 
-Lorsque vous consultez un prestataire de soins de santé, veuillez le lui dire :
 
-- Vos symptômes
-- Où vous avez voyagé ou vécu
-- Si vous avez eu un contact direct avec des animaux (par exemple, si vous avez visité un marché d'animaux vivants)
-- Si vous avez été en contact étroit avec une personne malade, surtout si elle avait de la fièvre, de la toux ou des difficultés à respirer.
+Si vous présentez des symptômes tels que fièvre, toux, mal de gorge ou éternuements, évitez tout contact avec les autres et isolez-vous chez vous pendant au moins 10 jours.  Pendant que vous êtes chez vous, prenez soin de vous en buvant beaucoup d'eau et en vous reposant beaucoup. Au bout de 10 jours, si votre température est normale et que vous vous sentez mieux, vous pouvez reprendre vos activités habituelles. La toux peut persister pendant plusieurs semaines, de sorte qu'une toux seule ne signifie pas que vous devez continuer à vous isoler pendant plus de 10 jours.
+
+Si vos symptômes s'aggravent, par exemple si vous avez un léger essoufflement, contactez votre prestataire de soins de santé ou HealthLinkBC (8-1-1) à tout moment. Si vous devez consulter votre prestataire de soins de santé, appelez-le à l'avance afin qu'il puisse prendre les dispositions nécessaires pour que vous soyez évalué en toute sécurité. Portez un masque afin de protéger les autres.
+
+Si vos symptômes sont graves, tels que des difficultés respiratoires (par exemple, difficulté à respirer ou à parler en un seul mot) ou des douleurs thoraciques, appelez le 9-1-1 ou rendez-vous au service d'urgence le plus proche.
 
 ### Je suis un voyageur de retour, dois-je m'isoler ou rester à la maison loin des espaces publics ?
 
