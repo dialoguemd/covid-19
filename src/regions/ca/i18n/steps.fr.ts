@@ -120,6 +120,7 @@ export default {
     Avez-vous une autre question ?
     `,
     utterNoQuestion: `Merci pour votre contribution !`,
+    utterHasAnswers: `Merci pour votre question ! Voici quelques réponses que j'ai pu trouver :\n`,
     utterHasNoAnswers: `
     Merci pour votre question !
 

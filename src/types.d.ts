@@ -11,6 +11,8 @@ declare module 'react-simple-chatbot' {
     [key: string]: any
   }>
 
+  export let Loading: React.FC
+
   type StepId = string | number
   export type StepTrigger =
     | StepId

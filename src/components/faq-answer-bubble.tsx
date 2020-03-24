@@ -3,7 +3,8 @@ import React, { useState, useEffect } from 'react'
 import {
   CustomComponentProps,
   UserStep,
-  CustomStep
+  CustomStep,
+  Loading
 } from 'react-simple-chatbot'
 import { useTranslation } from 'react-i18next'
 import stripIndent from 'strip-indent'
@@ -45,7 +46,7 @@ const FaqAnswerBubble: React.FC<Partial<Props>> = ({
   }, [previousStep, triggerNextStep, t, i18n])
 
   if (!content) {
-    return null
+    return <Loading />
   }
 
   return <Markdown>{stripIndent(content)}</Markdown>
