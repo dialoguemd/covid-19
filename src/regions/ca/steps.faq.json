@@ -38,8 +38,21 @@
   {
     "id": "askForAnswerFeedback",
     "options": [
-      { "value": true, "label": "yes", "trigger": "utterQuestionAsked" },
-      { "value": false, "label": "no", "trigger": "utterQuestionAsked" }
+      {
+        "value": "poor",
+        "label": "faq.rating.poor",
+        "trigger": "utterQuestionAsked"
+      },
+      {
+        "value": "average",
+        "label": "faq.rating.average",
+        "trigger": "utterQuestionAsked"
+      },
+      {
+        "value": "good",
+        "label": "faq.rating.good",
+        "trigger": "utterQuestionAsked"
+      }
     ]
   },
   {

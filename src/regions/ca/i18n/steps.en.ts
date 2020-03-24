@@ -124,7 +124,14 @@ export default {
     but the question will still help us refine our knowledge base.
     `,
     utterAskForAnswerFeedback: `
-    Did you find that the above answered your question?
-    `
+    At the moment, this is the best answer I can give. I'm still learning, and I need your help.
+
+    How was this answer?
+    `,
+    rating: {
+      good: 'Very good!',
+      average: 'Not quite what I was looking for',
+      poor: 'Completely off'
+    }
   }
 }

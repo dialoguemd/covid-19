@@ -132,7 +132,14 @@ export default {
     Une erreur inconnue s'est produite et je n'ai pas pu charger les réponses, mais la question va quand même nous aider à raffiner notre base de connaissances.
     `,
     utterAskForAnswerFeedback: `
-    Avez-vous trouvé que cela répond à votre question ?
-    `
+    Pour l'instant, ce sont les meilleures réponses que je puisse vous donner. Je suis encore en train d'apprendre et j'ai besoin de votre aide.
+
+    Comment étaient ces réponses ?
+    `,
+    rating: {
+      good: 'Très bonnes!',
+      average: `Ce n'est pas tout à fait ce que je cherchais`,
+      poor: 'Très mauvaises'
+    }
   }
 }
