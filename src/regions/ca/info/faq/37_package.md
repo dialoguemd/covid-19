@@ -1,4 +1,4 @@
-##Is it safe to receive a package?
+## Is it safe to receive a package?
 
 Yes, according to the [World Health Organization](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses), the chance that the package has been contaminated by someone carrying Covid is low, as is the chance that the virus survived the journey.
 
