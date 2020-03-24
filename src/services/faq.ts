@@ -1,6 +1,6 @@
 import api from 'apisauce'
 
-const URL = 'https://covidfaq.apps.dev.ca-central-1.dialoguecorp.com'
+const URL = 'https://covidfaq.apps.dev.ca-central-1.dialoguecorp.com' // FIXME: through config?
 
 const faqApi = api.create({ baseURL: URL })
 
