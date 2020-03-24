@@ -12,7 +12,7 @@ OR
 
 Following these instructions and self-isolating for 14 days after returning from travelling abroad can make all the difference to slow transmission of COVID-19. These instructions are unusual and restrictive, especially if you have young children or are a caregiver.
 
-However, by following these instructions, people around you can avoid getting COVID-19, if ever you are carrying the virus and develop symptoms. 
+However, by following these instructions, people around you can avoid getting COVID-19, if ever you are carrying the virus and develop symptoms.
 
 Use the [Symptoms monitoring chart (PDF)](https://santemontreal.qc.ca/fileadmin/fichiers/Campagnes/coronavirus/COVID-19_Fiches-Voyageurs_ANG.pdf)
 
