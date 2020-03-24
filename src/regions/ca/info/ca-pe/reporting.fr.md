@@ -15,6 +15,6 @@ Au cours des 14 derniers jours, avez-vous :
 
 Tous les Insulaires qui ont voyagé sont priés de s’auto-isoler pendant 14 jours à leur retour chez vous. Si une fièvre ou une toux apparaissent, composez le 811. Si vous avez répondu NON à toutes les questions ci-dessus et que vous êtes à la recherche de renseignements généraux sur la COVID-19, visitez princeedwardisland.ca/covid19.
 
-Isolez-vous pendant 14 jours après tout voyage, y compris le Canada ou les États-Unis. 
+Isolez-vous pendant 14 jours après tout voyage, y compris le Canada ou les États-Unis.
 
 [Source: Gouvernment de l'Île-du-Prince-Edouard](https://www.princeedwardisland.ca/fr/information/sante-et-mieux-etre/covid-19-quand-devrais-je-composer-le-811)
