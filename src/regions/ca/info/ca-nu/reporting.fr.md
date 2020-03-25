@@ -1,4 +1,4 @@
-## Nuvavut: Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Nunavut: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
 Besoin de parler à quelqu’un concernant les symptômes de la COVID-19? Vous avez récemment voyagé dans une zone affectée, ou vous en revenez? Appelez le 975-8601 ou le 1 888 975-8601 entre 7 h 30 et 19 h 30 pour en discuter. Rappelez-vous : cette ligne est réservée à ceux qui en ont vraiment besoin, et ne doit pas être utilisée pour des informations d’ordre général!
 
