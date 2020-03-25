@@ -8,16 +8,9 @@
 
 #### Info for Travellers
 
-Returning to Alberta on or after March 12th:
+Returning to Alberta:
 
-- ALL travellers who returned to Alberta from outside Canada on or after March 12th are required to self-isolate immediately, for 14 days, and monitor for symptoms.
-
-Returned to Alberta before March 12th:
-
-- Travellers who returned to Alberta from Italy, Iran, the Hubei Province of China or the Grande Princess Cruise ship, before March 12th, must also self-isolate, and must monitor themselves for symptoms for 14 days after return. If symptoms do develop, stay home and call 811 immediately.
-- Travellers who returned to Alberta from other destinations, before March 12th, are encouraged to self-isolate, and monitor themselves for symptoms.
-
-Testing is currently focused on individuals who have traveled outside Canada or had contact with someone diagnosed as having COVID-19, or have developed symptoms of COVID-19.
+ALL travellers who returned to Alberta from outside Canada in the last 14 days are required to self-isolate immediately for 14 days after the date of return and monitor for symptoms.
 
 Albertans are NOT recommended to travel outside of the country at this time.
 
