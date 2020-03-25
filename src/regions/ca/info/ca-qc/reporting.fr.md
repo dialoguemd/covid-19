@@ -14,9 +14,9 @@ De plus, si vous avez de la toux ou de la fièvre :
 
 De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudmtl.gouv.qc.ca/actualite/covid-19-ouverture-dune-clinique-de-depistage-sans-rendez-vous-pour-augmenter-le-nombre-de-depistages) à la CIUSSS du Centre-Sud-de-l'Île-de-Montréal s'ouvre pour augmenter le nombre de tests de dépistage.
 
-[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
+[Source](ttps://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
-### Que faire si je reviens de voyage à l'étranger?
+## Que faire si je reviens de voyage à l'étranger?
 
 - Vous êtes en isolement volontaire parce que vous êtes revenu d’un voyage à l’étranger le 12 mars 2020 ou après.
 
@@ -32,4 +32,4 @@ Utilisez la [grille de surveillance des symptômes (PDF)](https://santemontreal.
 
 Plus d'informations disponibles [ici](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680) pour les voyageurs de retour.
 
-[Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/)
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
