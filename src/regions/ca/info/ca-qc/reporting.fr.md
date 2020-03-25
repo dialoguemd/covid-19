@@ -14,7 +14,7 @@ De plus, si vous avez de la toux ou de la fièvre :
 
 De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudmtl.gouv.qc.ca/actualite/covid-19-ouverture-dune-clinique-de-depistage-sans-rendez-vous-pour-augmenter-le-nombre-de-depistages) à la CIUSSS du Centre-Sud-de-l'Île-de-Montréal s'ouvre pour augmenter le nombre de tests de dépistage.
 
-[Source](ttps://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
+[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
 ## Que faire si je reviens de voyage à l'étranger?
 
