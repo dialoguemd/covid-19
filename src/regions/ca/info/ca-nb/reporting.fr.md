@@ -1,6 +1,6 @@
 ## Nouveau-Brunswick: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Veuillez utiliser cet [outil d’autoévaluation](https://www2.gnb.ca/content/gnb/fr/ministeres/bmhc/maladies_transmissibles/content/maladies_respiratoires/coronavirus/evaluation.html#/app/symptom-checker/guides/399/) afin de déterminer si vous devez être testé pour la COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour une autre personne qui n’est pas en mesure de le faire elle-même.
+Veuillez utiliser cet [outil d’autoévaluation](https://www2.gnb.ca/content/gnb/fr/ministeres/bmhc/maladies_transmissibles/content/maladies_respiratoires/coronavirus.html) afin de déterminer si vous devez être testé pour la COVID-19. Vous pouvez effectuer cette évaluation pour vous-même ou pour une autre personne qui n’est pas en mesure de le faire elle-même.
 
 Si vous avez des symptômes :
 
