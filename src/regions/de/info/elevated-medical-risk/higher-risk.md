@@ -5,7 +5,7 @@ Obwohl schwere Verläufe häufig auch bei Personen ohne Vorerkrankung auftreten,
 - Ältere Personen (mit stetig steigendem Risiko für schweren Verlauf ab etwa 50–60 Jahren)
 - Raucher
 - Personen mit bestimmten Vorerkrankungen:
-  - des Herzens (z.B. koronare Herzerkrankung)
+  - des Herz-Kreislauf-Systems (z.B. koronare Herzerkrankung und Bluthochdruck)
   - der Lunge (z.B. Asthma, chronische Bronchitis)
   - Patienten mit chronischen Lebererkrankungen
   - Patienten mit Diabetes mellitus (Zuckerkrankheit)
