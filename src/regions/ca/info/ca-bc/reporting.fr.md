@@ -10,9 +10,15 @@ Si vos symptômes sont graves, tels que des difficultés respiratoires (par exem
 
 ### Je suis un voyageur de retour, dois-je m'isoler ou rester à la maison loin des espaces publics ?
 
-Les personnes qui reviennent d'un voyage à l'étranger doivent rester chez elles et s'isoler pendant 14 jours après leur retour. Pendant ces 14 jours, surveillez vos symptômes de fièvre, de toux ou de difficultés respiratoires. Si vous présentez des symptômes, appelez le 8-1-1 ou parlez à votre prestataire de soins de santé pour discuter de la nécessité éventuelle d'un test et d'un suivi.
+Toute personne arrivant en Colombie-Britannique en provenance de l'étranger devra s'isoler et surveiller les symptômes pendant 14 jours à son arrivée. Les voyageurs de retour qui développent des symptômes respiratoires doivent également s'isoler pendant une période de 10 jours après l'apparition des symptômes, chaque fois qu'ils se manifestent. 
 
-Les personnes qui se sont isolées peuvent reprendre leurs activités normales après 14 jours si elles n'ont pas développé de symptômes.
+- Exemple 1 : Les symptômes respiratoires apparaissent cinq jours après le retour au Canada. S'isoler pendant 10 jours supplémentaires pour un total de 15 jours. 
+
+- Exemple 2 : Les symptômes respiratoires apparaissent deux jours après le retour au Canada. S'isoler pendant 10 jours supplémentaires pour un total de 12 jours.
+
+Les personnes qui se sont auto-isolées peuvent reprendre leurs activités normales après 14 jours si elles n'ont pas développé de symptômes. 
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
 
 Des informations plus détaillées sur [l'auto-isolement et l'autosurveillance sont disponibles ici](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
 
