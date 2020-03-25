@@ -3,7 +3,7 @@
 If you are experiencing milder symptoms such as fever, cough or flu-like, take the [NWT Online COVID-19 Self-Assessment Tool](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/nwt-online-covid-19-self-assessment-tool), or call:
 
 - Yellowknife: 867-767-9120 or book online at www.nthssa.ca/appointments
-- Inuvik: 867-490 –2225 
+- Inuvik: 867-490 –2225
 - Fort Smith: 867-621-2233 or 867-872-0562
 - Hay River: 867-874-7201 (between 08:30-16.30). After hours call Emergency Department at (867) 874-8050
 - Other Communities can call their local health centres, [www.hss.gov.nt.ca/health-centres](www.hss.gov.nt.ca/health-centres)
