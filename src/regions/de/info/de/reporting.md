@@ -8,6 +8,6 @@ Für Reisende, die aus Risikogebieten zurückkehren sowie Reisende mit typischen
 - Suchen Sie nach telefonischer Anmeldung und unter Hinweis auf Ihre Reise einen Arzt auf
 - Halten Sie sich an die [allgemeinen Hygiene-Empfehlungen](https://www.kbv.de/media/sp/Poster_10_Hygienetipps.pdf)
 
-Weitere Informationen erhalten Sie beim Bürgertelefon unter **030 346 465 100**, bei der unabhängigen Patientenberatung Deutschland unter **0800 011 77 22**, beim ärztlichen Bereitschaftsdienst unter **116117** oder unter der Behördenummer [115](www.115.de). Für Gehörlose, Hörgeschädigte oder Gebärdentelefonie siehe [hier](https://www.bundesgesundheitsministerium.de/coronavirus.html) (unter _Hotlines zum Coronavirus_).
+Weitere Informationen erhalten Sie beim Bürgertelefon unter **030 346 465 100**, bei der unabhängigen Patientenberatung Deutschland unter **0800 011 77 22**, beim ärztlichen Bereitschaftsdienst unter **116117** oder unter der Behördennummer [115](www.115.de). Für Gehörlose, Hörgeschädigte oder Gebärdentelefonie siehe [hier](https://www.bundesgesundheitsministerium.de/coronavirus.html) (unter _Hotlines zum Coronavirus_).
 
 **Quellen:** Bundesministerium für Gesundheit; Robert Koch-Institut
