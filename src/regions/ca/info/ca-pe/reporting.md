@@ -5,6 +5,7 @@
 Call 8-1-1 for screening if you answer 'yes' to any of the scenarios below:
 
 1 - Travel outside of Canada or travel outside of PEI in the past 14 days AND any of the following:
+
 - Fever greater than 38°C
 - cough (new or worsening of a chronic cough)
 - sore throat
@@ -12,6 +13,7 @@ Call 8-1-1 for screening if you answer 'yes' to any of the scenarios below:
 - marked fatigue
 
 2 - Close contact with a confirmed case OR a person with symptoms and travel history AND any of the following:
+
 - Fever greater than 38°C
 - cough (new or worsening of a chronic cough)
 - sore throat
@@ -19,6 +21,7 @@ Call 8-1-1 for screening if you answer 'yes' to any of the scenarios below:
 - marked fatigue
 
 3 - Health care worker with any of the following:
+
 - Fever greater than 38°C
 - cough (new or worsening of a chronic cough)
 
