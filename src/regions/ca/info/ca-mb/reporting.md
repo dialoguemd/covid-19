@@ -4,7 +4,7 @@ In order to determine if you should contact Health Links – Info Santé (204-78
 
 Please note:
 
-Public health officials are strongly advising all Manitobans, including health-care providers, to cancel or postpone any non-essential international travel. In addition, public health officials are recommending all international travellers self-isolate and self-monitor for symptoms for 14 days after returning to Canada.
+Public health officials are strongly advising all Manitobans, including health-care providers, to cancel or postpone any non-essential international travel. In addition, public health officials are recommending all returning travellers, including those who have travelled within Canada, to self-isolate and self-monitor for symptoms for 14 days after returning to Manitoba.
 
 Public health officials also strongly urge anyone who has cold or flu-like symptoms, such as a cough, fever, runny nose, sore throat, weakness or headache, to self-isolate for 14 days.
 
