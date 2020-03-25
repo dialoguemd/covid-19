@@ -1,4 +1,4 @@
-## Nuvavut: Who should I contact if I think I have COVID-19?
+## Nunavut: Who should I contact if I think I have COVID-19?
 
 Need to talk to someone if you have COVID-19 symptoms, or have recently travelled to or from an affected area? Please call 975-8601 or 1-888-975-8601 from 7:30 a.m. to 7:30 p.m.to speak with someone. Please remember this line is for those who need it – and should not be used for general inquiries.
 
