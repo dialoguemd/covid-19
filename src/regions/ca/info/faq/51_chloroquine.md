@@ -1,4 +1,4 @@
-##  What are potential impacts of COVID-19 on pregnant women and adverse effects on the fetus?
+## What are potential impacts of COVID-19 on pregnant women and adverse effects on the fetus?
 
 Throughout pregnancy, women experience changes in their bodies that may increase the risk of some illnesses, including viral respiratory infections, such as the flu.
 At this time, [there is insufficient evidence](https://www.sogc.org/en/content/featured-news/SOGC-Statement-Pregnant-Health-Care-Professionals-and-COVID-19.aspx) to suggest that pregnant women are at a greater risk for more serious outcomes related to COVID-19.
