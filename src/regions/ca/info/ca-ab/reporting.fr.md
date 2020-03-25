@@ -8,16 +8,9 @@
 
 ## Informations pour les voyageurs
 
-Retour en Alberta le ou après le 12 mars :
+Retour en Alberta :
 
-- TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger le 12 mars ou après cette date sont tenus de s'isoler immédiatement, pendant 14 jours, et de surveiller les symptômes.
-
-Retour en Alberta avant le 12 mars :
-
-- Les voyageurs qui sont rentrés en Alberta d'Italie, d'Iran, de la province chinoise de Hubei ou du navire de croisière Grande Princess avant le 12 mars doivent également s'isoler et surveiller les symptômes pendant 14 jours après leur retour. Si des symptômes apparaissent, restez chez vous et appelez immédiatement le 811.
-- Les voyageurs qui sont rentrés en Alberta avant le 12 mars sont encouragés à s'isoler et à se surveiller pour détecter les symptômes.
-
-Les tests sont actuellement axés sur les personnes qui ont voyagé à l'extérieur du Canada ou qui ont été en contact avec une personne diagnostiquée comme ayant la COVID-19, ou qui ont développé des symptômes de la COVID-19.
+TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 14 derniers jours sont tenus de s'isoler immédiatement pendant 14 jours après la date de retour et de surveiller les symptômes.
 
 Il n'est PAS recommandé aux Albertains de voyager à l'extérieur du pays pour le moment.
 
