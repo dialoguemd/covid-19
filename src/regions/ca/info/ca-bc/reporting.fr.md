@@ -18,8 +18,6 @@ Toute personne arrivant en Colombie-Britannique en provenance de l'étranger dev
 
 Les personnes qui se sont auto-isolées peuvent reprendre leurs activités normales après 14 jours si elles n'ont pas développé de symptômes.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
-
 Des informations plus détaillées sur [l'auto-isolement et l'autosurveillance sont disponibles ici](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
 
 [Source: BC Centre for Disease Control (en anglais)](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)
