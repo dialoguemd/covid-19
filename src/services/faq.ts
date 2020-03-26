@@ -1,8 +1,6 @@
 import api from 'apisauce'
 
-const URL = 'https://covidfaq.apps.dev.ca-central-1.dialoguecorp.com' // FIXME: through config?
-
-const faqApi = api.create({ baseURL: URL })
+const faqApi = api.create({ baseURL: process.env.REACT_APP_FAQ_ENDPOINT })
 
 interface GetAnswersResponse {
   answers: string[]
