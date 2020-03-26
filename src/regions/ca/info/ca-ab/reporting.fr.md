@@ -10,6 +10,8 @@
 
 Retour en Alberta :
 
+Depuis le 25 mars, le gouvernement du Canada a mis en place une quarantaine obligatoire de 14 jours, en vertu de la Loi sur la Quarantaine, pour les voyageurs qui reviennent au Canada.
+
 TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 14 derniers jours sont tenus de s'isoler immédiatement pendant 14 jours après la date de retour et de surveiller les symptômes.
 
 Il n'est PAS recommandé aux Albertains de voyager à l'extérieur du pays pour le moment.
