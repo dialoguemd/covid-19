@@ -19,4 +19,4 @@ If you have no symptoms or exposure concerns, but have questions about COVID-19,
 - Access the most up-to-date news and information on [this website](www.saskatchewan.ca/COVID19)
 - Email COVID19@health.gov.sk.ca
 
-[Source: Government of Saskatchewan](https://www.saskatchewan.ca/COVID19#utm_campaign=q2_2015&utm_medium=short&utm_source=%2FCOVID19)
+[Source: Government of Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information#when-to-get-tested)
