@@ -1,5 +1,11 @@
 ## Québec: Self-Care Guide - COVID-19
 
+Quebec has developed a preliminary coronavirus [(COVID-19) evaluation tool](https://covid19.quebec.ca/evaluation/)
+.
+You must complete the questionnaire, indicating your personal information, including your address and your Health Insurance Card number. This information will allow us to carry out a personalized follow-up of your situation. It is necessary to fill out a form for each person.
+
+You must have an email address and a Quebec Health Insurance Card to use this service. Otherwise, call 1-877-644-4545.
+
 The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to help each individual make the best possible decisions regarding their own health and that of their families during the coronavirus COVID-19 pandemic. Specifically, it sets down the best means for protection against the coronavirus disease (COVID-19) and provides information about self-care, basic care for family members, and information about when and where to consult a doctor, if medical care is required.
 
 ## Quebec: Who should I contact if I think I have COVID-19?
@@ -32,4 +38,4 @@ Use the [Symptoms monitoring chart (PDF)](https://santemontreal.qc.ca/fileadmin/
 
 More information for returning travelers is available [here](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-directives/).
 
-[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
+[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
