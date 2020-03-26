@@ -10,6 +10,8 @@
 
 Returning to Alberta:
 
+Effective March 25, the Government of Canada has implemented a mandatory 14-day quarantine, under the Quarantine Act, for travellers returning to Canada.
+
 ALL travellers who returned to Alberta from outside Canada in the last 14 days are required to self-isolate immediately for 14 days after the date of return and monitor for symptoms.
 
 Albertans are NOT recommended to travel outside of the country at this time.
