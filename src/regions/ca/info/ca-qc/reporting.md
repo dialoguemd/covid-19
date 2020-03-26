@@ -1,6 +1,6 @@
-## Québec: Self-Care Guide - COVID-19
+## Québec: COVID-19 Online Evaluation Questionnaire and Self-Care Guide - COVID-19
 
-Quebec has developed a preliminary coronavirus [(COVID-19) evaluation tool](https://covid19.quebec.ca/evaluation/)
+Quebec has developed a preliminary coronavirus [COVID-19 Online Evaluation Questionnaire](https://covid19.quebec.ca/evaluation/)
 .
 You must complete the questionnaire, indicating your personal information, including your address and your Health Insurance Card number. This information will allow us to carry out a personalized follow-up of your situation. It is necessary to fill out a form for each person.
 
