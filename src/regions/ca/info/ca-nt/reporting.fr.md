@@ -5,7 +5,7 @@ Si vous présentez des symptômes plus légers, comme la fièvre et la toux ou d
 - Yellowknife: 867-767-9120, ou prenez rendez-vous en ligne à l’adresse www.nthssa.ca/appointments
 - Inuvik: 867-490 –2225
 - Fort Smith: 867-621-2233 ou 867-872-0562
-- Hay River : 867-874-7201: Appelez au Service de santé publique au 867-874-7201 entre 8 h 30 et 16 h 30. Après les heures normales de bureau, communiquez avec notre Service des urgences au 867-874-8050
+- Hay River : 867-874-7201 (entre 8 h 30 et 16 h 30). Après les heures normales de bureau, communiquez avec notre Service des urgences au 867-874-8050
 - Les autres collectivités peuvent communiquer avec leur centre de santé local à l’aide des coordonnées suivantes : [www.hss.gov.nt.ca/fr/hôpitaux-et-centres-de-santé](www.hss.gov.nt.ca/fr/hôpitaux-et-centres-de-santé)
 
 **Si vous ressentez des symptômes graves (comme l’essoufflement), appelez le 9-1-1.**
