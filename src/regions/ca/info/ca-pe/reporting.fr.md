@@ -5,6 +5,7 @@ Le 8-1-1 reçoit un volume d’appel supérieur à la normale. Cela pourrait pre
 Composez le 8-1-1 pour un dépistage si vous êtes dans l'une des situations suivantes :
 
 1 - Vous avez voyagé à l'extérieur du Canada ou à l'extérieur de l'Île-du-Prince-Édouard au cours des 14 derniers jours ET vous avez l'un ou l'autre des symptômes suivants :
+
 - Fièvre supérieure à 38 °C
 - Toux (nouvelle ou toux chronique qui empire)
 - Mal de gorge
@@ -12,6 +13,7 @@ Composez le 8-1-1 pour un dépistage si vous êtes dans l'une des situations sui
 - Fatigue marquée
 
 2 - Vous avez eu un contact étroit avec un cas confirmé OU avec une personne avec des symptômes et des antécédents de voyage ET vous avez l'un ou l'autre des symptômes suivants :
+
 - Fièvre supérieure à 38 °C
 - Toux (nouvelle ou toux chronique qui empire)
 - Mal de gorge
@@ -19,6 +21,7 @@ Composez le 8-1-1 pour un dépistage si vous êtes dans l'une des situations sui
 - Fatigue marquée
 
 3 - Vous êtes un travailleur ou une travailleuse de la santé et vous avez l'un ou l'autre des symptômes suivants :
+
 - Fièvre supérieure à 38 °C
 - Toux (nouvelle ou toux chronique qui empire)
 
