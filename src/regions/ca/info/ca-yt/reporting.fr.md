@@ -1,6 +1,6 @@
 ## Yukon: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-TOUS les voyageurs qui étaient à l’extérieur du territoire et sont rentrés le 18 mars ou après sont tenus de se mettre immédiatement en en auto-isolement pour une durée de 14 jours et de surveiller l’apparition de symptômes.
+TOUS les voyageurs qui étaient à l’extérieur du territoire et sont rentrés le 22 mars ou après sont tenus de se mettre immédiatement en en auto-isolement pour une durée de 14 jours et de surveiller l’apparition de symptômes.
 
 TOUS les voyageurs qui sont rentrés au Yukon le 13 mars ou après sont tenus de se mettre immédiatement en auto-isolement pour une durée de 14 jours et de surveiller l’apparition de symptômes.
 

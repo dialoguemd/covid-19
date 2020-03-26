@@ -1,21 +1,30 @@
 ## Île-du-Prince-Edouard: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si vous êtes revenu de voyage, y compris du Canada, et que vous présentez des symptômes, notamment une toux, de la fièvre ou des difficultés respiratoires, **appellez le 811**.
+Le 8-1-1 reçoit un volume d’appel supérieur à la normale. Cela pourrait prendre plus longtemps que d’habitude pour répondre à votre appel. Nous travaillons fort pour répondre à tous les appels aussi rapidement que possible. Merci de votre patience.
 
-Pour des questions de santé générales sur COVID-19, **appeler le 1-800-958-6400**.
+Composez le 8-1-1 pour un dépistage si vous êtes dans l'une des situations suivantes :
 
-### Quand dois-je appeler le 811 ?
+1 - Vous avez voyagé à l'extérieur du Canada ou à l'extérieur de l'Île-du-Prince-Édouard au cours des 14 derniers jours ET vous avez l'un ou l'autre des symptômes suivants :
 
-Le nombre d'appels au 811 est plus élevé que la normale. Il faudra plus de temps que d'habitude pour répondre à votre appel. Ils s'efforcent de répondre à tous les appels le plus rapidement possible. Nous vous remercions de votre patience.
+- Fièvre supérieure à 38 °C
+- Toux (nouvelle ou toux chronique qui empire)
+- Mal de gorge
+- Écoulement nasal
+- Fatigue marquée
 
-Si vous répondez OUI à l'une des questions ci-dessous, composez le 811
+2 - Vous avez eu un contact étroit avec un cas confirmé OU avec une personne avec des symptômes et des antécédents de voyage ET vous avez l'un ou l'autre des symptômes suivants :
 
-Au cours des 14 derniers jours, vous avez:
+- Fièvre supérieure à 38 °C
+- Toux (nouvelle ou toux chronique qui empire)
+- Mal de gorge
+- Écoulement nasal
+- Fatigue marquée
 
-- voyagé à l'extérieur de l'Île-du-Prince-Édouard et avez une fièvre supérieure à 38°C ET/OU une toux
-- été en contact étroit (à moins de 2 mètres) avec une personne dont le laboratoire a confirmé le cas de COVID-19 ?
-- vous avez de la fièvre ou si vous toussez
+3 - Vous êtes un travailleur ou une travailleuse de la santé et vous avez l'un ou l'autre des symptômes suivants :
 
-Les habitants de l'île qui ont voyagé hors de l'Île-du-Prince-Édouard doivent s'isoler pendant les 14 jours suivant leur retour au Canada. Si vous avez de la fièvre ou si vous toussez, appelez le 811. Si vous avez répondu NON à toutes les questions ci-dessus et que vous cherchez des informations générales sur COVID-19, visitez le site [princeedwardisland.ca/covid19](https://www.princeedwardisland.ca/fr/sujet/covid-19).
+- Fièvre supérieure à 38 °C
+- Toux (nouvelle ou toux chronique qui empire)
 
-[Source: Gouvernment de l'Île-du-Prince-Edouard](https://www.princeedwardisland.ca/fr/information/sante-et-mieux-etre/covid-19-quand-devrais-je-composer-le-811)
+Cessez tous les voyages non essentiels à l'extérieur de l'Île-du-Prince-Édouard. Toute personne qui a voyagé à l'extérieur de l'Île-du-Prince-Édouard doit s'isoler pendant 14 jours.
+
+[Source: Gouvernment de l'Île-du-Prince-Edouard](https://www.princeedwardisland.ca/fr/information/sante-et-mieux-etre/covid-19-quand-devrais-je-composer-811)

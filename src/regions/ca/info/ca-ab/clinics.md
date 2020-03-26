@@ -1,7 +1,5 @@
-## Alberta: Specialized COVID-19 Clinics
+## Alberta: Online asessment tool
 
-Assessment Centres are being rolled out across AHS Zones. Centre operations will be based on local need, resources and the evolving situation. Staffing considerations are part of the planning. Anyone concerned about travel or symptoms should complete the online assessment tool to be triaged appropriately.
+Use this [self-assessment tool](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) to help determine whether you need be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else, if they are not able.
 
-[Online assessment tool](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx)
-
-[Source: Government of Alberta](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-covid-19-primary-care-faq.pdf)
+[Source: Government of Alberta](https://www.albertahealthservices.ca/)

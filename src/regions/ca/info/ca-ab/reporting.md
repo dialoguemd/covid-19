@@ -1,24 +1,19 @@
-## Alberta: Who should I contact if I think I have COVID-19?
+## Alberta: What Should I Do If I Think I Have COVID-19?
 
-You should be assessed for COVID-19 if:
-
-#### Returning travellers:
-
-You returned to Alberta before March 12th:
-
-- Travelers who returned to Alberta from Italy, Iran, the Hubei Province of China or the Grande Princess Cruise ship should self-isolate for 14 days and monitor for symptoms.
-- Travellers returning from other countries outside Canada should monitor for symptoms for 14 days.
-
-Returning after March 12 :
-
-All travellers returning from outside Canada should self-isolate for 14 days and monitor for symptoms.
-If you develop symptoms – cough, fever or difficulty breathing – stay home and complete the online COVID-19 self-assessment. Do not go to the ER or doctor's office.
-
-#### If you are sick or think you may have been exposed to COVID-19:
-
-- You MUST self-isolate and visit www.ahs.ca/covid and complete the online self-assessment tool to determine if you need testing for COVID-19.
-- Please do not visit a hospital, physician’s office, lab or healthcare facility without consulting Health Link (811) first.
+- If you have symptoms including fever, cough, shortness of breath, difficulty breathing, sore throat, runny nose or nasal congestion or have been exposed to someone who has COVID-19, you MUST self-isolate for 14 days.
+- Complete the [COVID-19 online self-assessment](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) to determine if you should receive testing for COVID-19
+- Please do not visit a hospital, physician’s office, lab or healthcare facility without consulting Health Link 811 first.
 - If your symptoms worsen, call 811. We are experiencing heavy call volumes and will get to your call as quickly as we can.
-- Call 911 if you are seriously ill and need immediate medical attention. Inform them that you may have COVID-19.
+- Call 911 if you are seriously ill and need immediate medical attention. Inform them that you may have COVID-19.Do not go to the ER or doctor's office.
 
-[Source](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-ncov-2019-public-faq.pdf)
+#### Info for Travellers
+
+Returning to Alberta:
+
+Effective March 25, the Government of Canada has implemented a mandatory 14-day quarantine, under the Quarantine Act, for travellers returning to Canada.
+
+ALL travellers who returned to Alberta from outside Canada in the last 14 days are required to self-isolate immediately for 14 days after the date of return and monitor for symptoms.
+
+Albertans are NOT recommended to travel outside of the country at this time.
+
+[Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)

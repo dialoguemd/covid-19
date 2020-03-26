@@ -1,24 +1,19 @@
-## Alberta: Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Alberta: Que dois-je faire si je pense avoir le COVID-19 ?
 
-Vous devez être évalué pour COVID-19 si:
+- Si vous présentez des symptômes tels que fièvre, toux, essoufflement, difficulté à respirer, mal de gorge, écoulement nasal ou congestion nasale ou si vous avez été exposé à une personne atteinte de COVID-19, vous DEVEZ vous isoler pendant 14 jours.
+- Remplissez l'[auto-évaluation COVID-19 en ligne](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) pour déterminer si vous devez subir un test COVID-19
+- Veuillez ne pas vous rendre dans un hôpital, un cabinet de médecin, un laboratoire ou un établissement de soins de santé sans avoir consulté au préalable Health Link 811.
+- Si vos symptômes s'aggravent, appelez le 811. Nous recevons un grand nombre d'appels et nous répondrons à votre appel aussi rapidement que possible.
+- Appelez le 911 si vous êtes gravement malade et que vous avez besoin de soins médicaux immédiats. Informez-les que vous avez peut-être le COVID-19.
 
-#### Voyageurs de retour:
+## Informations pour les voyageurs
 
-Vous êtes rentré en Alberta avant le 12 mars :
+Retour en Alberta :
 
-Les voyageurs qui sont rentrés en Alberta depuis l'Italie, l'Iran, la province chinoise de Hubei ou le navire de croisière Grande Princess doivent s'isoler pendant 14 jours et surveiller les symptômes.
-Les voyageurs qui reviennent d'autres pays à l'extérieur du Canada doivent surveiller les symptômes pendant 14 jours.
+Depuis le 25 mars, le gouvernement du Canada a mis en place une quarantaine obligatoire de 14 jours, en vertu de la Loi sur la Quarantaine, pour les voyageurs qui reviennent au Canada.
 
-Retour après le 12 mars :
+TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 14 derniers jours sont tenus de s'isoler immédiatement pendant 14 jours après la date de retour et de surveiller les symptômes.
 
-Tous les voyageurs revenant de l'étranger doivent s'isoler pendant 14 jours et surveiller l'apparition de symptômes.
-Si vous présentez des symptômes - toux, fièvre ou difficulté à respirer - restez chez vous et remplissez l'auto-évaluation COVID-19 en ligne. Ne vous rendez pas aux urgences ou au cabinet médical.
+Il n'est PAS recommandé aux Albertains de voyager à l'extérieur du pays pour le moment.
 
-#### Si vous êtes malade ou pensez avoir été exposé à la COVID-19 :
-
-Vous DEVEZ vous isoler et visiter www.ahs.ca/covid et remplir l'outil d'auto-évaluation en ligne pour déterminer si vous avez besoin d'un test COVID-19.
-Veuillez ne pas vous rendre dans un hôpital, un cabinet médical, un laboratoire ou un établissement de soins de santé sans avoir consulté au préalable Health Link (811).
-Si vos symptômes s'aggravent, appelez le 811. Nous recevons un grand nombre d'appels et nous répondrons à votre appel aussi rapidement que possible.
-Appelez le 911 si vous êtes gravement malade et que vous avez besoin de soins médicaux immédiats. Informez-les que vous avez peut-être le COVID-19.
-
-[Source](https://www.albertahealthservices.ca/assets/info/ppih/if-ppih-ncov-2019-public-faq.pdf)
+[Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)

@@ -1,46 +1,41 @@
-## Guide autosoins - COVID-19
+## Quebec: Questionnaire en ligne de triage de la COVID-19 et Guide autosoins - COVID-19
+
+Le québec a développé un [Questionnaire en ligne de triage de la COVID-19](https://covid19.quebec.ca/evaluation/) lié à la maladie à coronavirus COVID-19.
+
+Vous devez remplir le questionnaire en y indiquant vos renseignements personnels dont votre adresse et votre numéro d’assurance maladie. Ces informations leur permettront d’effectuer un suivi personnalisé de votre situation. Il est nécessaire de remplir un formulaire pour chaque personne.
+
+Notez que vous devez posséder une adresse courriel et une carte d’assurance maladie du Québec pour utiliser ce service. Si vous n’en avez pas, veuillez composer le 1-877-644-4545.
 
 Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/) a pour but d'aider chaque personne à prendre les meilleures décisions possible pour sa santé et celle de ses proches durant la pandémie de COVID-19. Il permet plus spécifiquement de connaître les meilleurs moyens de se protéger de la COVID-19, de prendre soin de soi ou de donner les soins de base à son entourage et de savoir où et quand consulter si l'on a besoin de soins de services.
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si la COVID‑19 vous inquiète ou que vous avez de la toux ou de la fièvre :
+Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme de la toux ou de la fièvre, vous pouvez contacter le 418 644-4545 pour la région de Québec, le 514 644-4545 pour la région de Montréal, le 450 644-4545 pour la région de Montérégie, le 819 644-4545 pour la région l’Outaouais ou le 1 877 644-4545 (sans frais) ailleurs au Québec.
+
+De plus, si vous avez de la toux ou de la fièvre :
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
+- Si votre condition le permet, contactez le 1 877 644-4545. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
-- Avant de vous rendre à l’urgence, si votre condition le permet, contactez le 1-877-644-4545, ou le 418 644-4545 pour la région de Québec, le 514 644-4545 pour la région de Montréal, le 450 644-4545 pour la région de la Montérégie, le 819 644-4545 pour la région de l’Outaouais ou le 1 877 644-4545 ailleurs au Québec. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le. On vous dira comment vous rendre et quelles précautions prendre (port de masque, utilisation de transport personnel ou d’une ambulance, etc.).
 
 De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudmtl.gouv.qc.ca/actualite/covid-19-ouverture-dune-clinique-de-depistage-sans-rendez-vous-pour-augmenter-le-nombre-de-depistages) à la CIUSSS du Centre-Sud-de-l'Île-de-Montréal s'ouvre pour augmenter le nombre de tests de dépistage.
 
-[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
+[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
-### Pour les citoyens de retour de voyage
+## Que faire si je reviens de voyage à l'étranger?
 
-Un [isolement volontaire](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1) de 14 jours est recommandé à toutes les personnes qui reviennent de l’étranger le 12 mars 2020 ou à une date ultérieure. Ces personnes doivent faire preuve de vigilance et surveiller leurs symptômes.
+- Vous êtes en isolement volontaire parce que vous êtes revenu d’un voyage à l’étranger le 12 mars 2020 ou après.
 
-Les entreprises qui livrent des marchandises au Québec en provenance de l’étranger n’ont pas à demander à leurs employés de se placer en isolement temporaire.
+OU
 
-Cet [isolement](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html#ann1) est obligatoire pour tous les employés de la fonction publique et pour tout le personnel de la santé, de l’éducation et des services de garde, privés et public, qui reviennent de l’étranger. Pour le secteur public, les employés conserveront leur traitement durant la période d’isolement.
+- Vous êtes en isolement obligatoire parce que vous êtes employé de la fonction publique ou membre du personnel de la santé, de l’éducation et des services de garde, privés et publics, qui, à compter du 12 mars 2020, revenez de l’étranger.
 
-Les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent respecter les consignes décrites ci-dessous.
+Suivre ces consignes et vous isoler à la maison pendant 14 jours après votre retour de voyage à l’étranger peut faire toute la différence et ralentir la transmission de la COVID-19. C’est sûr qu’il s’agit de consignes inhabituelles et contraignantes, surtout si vous avez de jeunes enfants ou si vous êtes un proche aidant.
 
-#### Appelez au 1 877 644-4545 si vous avez de la toux ou de la fièvre
+Suivre ces consignes peut, également, réellement éviter que les personnes qui vous entourent n’attrapent la COVID-19, si jamais vous êtes porteur du virus et que vous développez des symptômes.
 
-- Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
-- Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires.
-- Avant de vous rendre à l’urgence, contactez le 1 877 644-4545 si votre condition le permet. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le. On vous dira comment vous rendre et quelles précautions prendre (port de masque, utilisation de transport personnel ou d’une ambulance, etc.).
+Utilisez la [grille de surveillance des symptômes (PDF)](https://santemontreal.qc.ca/fileadmin/fichiers/Campagnes/coronavirus/COVID-19_Fiches-Voyageurs.pdf)
 
-### Si vous vivez avec d’autres personnes qui n’ont pas voyagé :
+Plus d'informations disponibles [ici](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680) pour les voyageurs de retour.
 
-- Si vous n’avez pas de toux ou de fièvre, il n’y a aucune mesure particulière à prendre. Lavez vos mains régulièrement et évitez de partager vos objets personnels tels que : assiettes, ustensiles, verres.
-- Si vous avez de la toux ou de la fièvre, contactez le 1 877 644-4545 et en attendant les consignes :
-  - N’accueillez pas de visiteurs à la maison.
-  - Demeurez seul dans une pièce de la maison le plus souvent possible et fermez la porte.
-  - Mangez et dormez seul dans une pièce de la maison.
-  - Si possible, utilisez une salle de bain qui vous est uniquement réservée. Sinon, désinfectez-la après chaque utilisation.
-  - Évitez le plus possible d’être en contact avec les autres personnes de la maison. Si c’est impossible, portez un masque. Si un masque n’est pas disponible, gardez une distance d’au moins 2 mètres (longueur d’une grande table à manger) entre vous et les autres.
-  - Utilisez un mouchoir en papier pour tousser, vous moucher ou éternuer.
-  - Jetez le mouchoir en papier dans une poubelle et, ensuite, lavez vos mains avec l’eau et du savon.
-  - Si vous n’avez pas de mouchoir en papier, toussez ou éternuez dans le creux de votre coude.
-
-[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
+[Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/)
