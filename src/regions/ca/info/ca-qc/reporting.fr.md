@@ -1,4 +1,10 @@
-## Guide autosoins - COVID-19
+## Quebec: Questionnaire en ligne de triage de la COVID-19 et Guide autosoins - COVID-19
+
+Le québec a développé un [Questionnaire en ligne de triage de la COVID-19](https://covid19.quebec.ca/evaluation/) lié à la maladie à coronavirus COVID-19.
+
+Vous devez remplir le questionnaire en y indiquant vos renseignements personnels dont votre adresse et votre numéro d’assurance maladie. Ces informations leur permettront d’effectuer un suivi personnalisé de votre situation. Il est nécessaire de remplir un formulaire pour chaque personne.
+
+Notez que vous devez posséder une adresse courriel et une carte d’assurance maladie du Québec pour utiliser ce service. Si vous n’en avez pas, veuillez composer le 1-877-644-4545.
 
 Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/) a pour but d'aider chaque personne à prendre les meilleures décisions possible pour sa santé et celle de ses proches durant la pandémie de COVID-19. Il permet plus spécifiquement de connaître les meilleurs moyens de se protéger de la COVID-19, de prendre soin de soi ou de donner les soins de base à son entourage et de savoir où et quand consulter si l'on a besoin de soins de services.
 
@@ -32,4 +38,4 @@ Utilisez la [grille de surveillance des symptômes (PDF)](https://santemontreal.
 
 Plus d'informations disponibles [ici](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680) pour les voyageurs de retour.
 
-[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
+[Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/)
