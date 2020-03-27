@@ -2,23 +2,39 @@
 
 ### Prévention du coronavirus
 
-Il n'existe pour le moment aucun vaccin contre la COVID-19 et aucun produit de santé naturel autorisé pour se protéger contre cette infection. Si vous avez reçu un vaccin antigrippal, il ne vous protégera pas contre les coronavirus.
+Les Canadiens doivent continuer à réfléchir aux mesures qu'ils peuvent prendre pour rester en bonne santé et prévenir la propagation de la COVID-19 au Canada, notamment :
 
-##### Si vous avez voyagé à l'extérieur du Canada
+- [se préparer](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html) au cas où un membre de la famille ou eux-mêmes tomberaient malades
+- suivre les plus récents conseils aux voyageurs formulés par les responsables fédéraux et provinciaux de la santé publique :
+    - éviter tout voyage non essentiel, entre autres à bord de navires de croisière
+    - s'auto-isoler et surveiller l'apparition de symptômes (toux, fièvre ou difficulté à respirer) pendant 14 jours s'ils ont voyagé à l'extérieur du Canada
+- réduire les contacts avec les autres en suivant les conseils d'auto-surveillance, d'auto-isolement ou d’isolement
+- prendre des mesures de distanciation sociale et d'hygiène
+- porter un masque, si nécessaire
 
-Les responsables fédéraux et provinciaux de la santé publique recommandent à tous les voyageurs en provenance de l'étranger de s'isoler pendant 14 jours. Ces efforts contribueront à ralentir l'introduction et la propagation de la COVID-19 au Canada.
+Pensez-vous avoir la COVID-19 ? [Faites une auto-évaluation](https://ca.thrive.health/covid19/fr)
 
-##### Si vous êtes atteint de la COVID-19, réduisez vos contacts avec les autres personnes
+##### Voyageurs
 
-Si vous êtes malade, les mesures suivantes contribueront à réduire les contacts avec les autres :
+Les voyageurs peuvent être plus exposés au risque d'attraper la COVID-19. Il est conseillé aux Canadiens d'éviter tout voyage non essentiel. Si vous devez voyager, consultez les plus récents conseils aux voyageurs avant votre départ.
 
-- restez à la maison et isolez-vous (sauf pour recevoir des soins médicaux)
-  - si vous devez quitter votre domicile, portez un masque ou couvrez-vous la bouche et le nez avec un papier-mouchoir, et tenez-vous à une distance de 2 mètres des autres personnes
-- évitez de rendre visite aux personnes dans les hôpitaux et dans les centres de soins de longue durée, plus précisément les personnes âgées et celles qui sont atteintes d'une maladie chronique ou dont le système immunitaire est affaibli
-- évitez de recevoir des visiteurs à domicile
-- couvrez-vous la bouche et le nez avec votre bras lorsque vous toussez ou éternuez
-- faites livrer vos provisions à domicile plutôt que de sortir faire vos courses
-  - les provisions doivent être déposées à l'extérieur du domicile pour assurer une distance de 2 mètres
+Nous continuerons de modifier nos évaluations des risques en fonction des plus récentes données.
+
+##### Si vous tombez malade
+
+Si vous avez des symptômes de la COVID-19 :
+
+- restez chez vous pour une période de 14 jours afin d’éviter d'infecter d'autres personnes :
+    - si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
+-rendez-vous chez un professionnel de la santé ou votre autorité de santé publique locale :
+    - appelez à l’avance pour informez de vos symptômes la personne à qui vous parlerez, puis suivez ses instructions
+
+Si vous vous sentez malade pendant votre voyage à destination du Canada ou à votre arrivée :
+
+- informez l'agent de bord ou un agent des services frontaliers canadiens
+- veuillez signaler à un agent des services frontaliers du Canada à votre arrivée au Canada si vous pensez avoir été exposé à une source de COVID-19, même si vous ne présentez pas de symptômes
+    - la Loi sur la quarantaine l'exige
+    - l'agent des services frontaliers du Canada vous donnera des instructions à suivre
 
 #### Distanciation sociale
 
@@ -26,11 +42,10 @@ Ensemble, nous pouvons ralentir la propagation de COVID-19 en faisant un effort 
 
 Cela signifie qu'il faut apporter des changements à vos habitudes quotidiennes pour réduire au minimum les contacts étroits avec les autres, y compris:
 
-- éviter les rencontres non essentielles
-- éviter les salutations communes, telles que les poignées de main
-- éviter les lieux bondés tels que les concerts, les arènes, les conférences et les festivals
-- limiter les contacts avec les personnes à haut risque comme les personnes âgées et les personnes en mauvaise santé
-- garder une distance d'au moins 2 bras (environ 2 mètres) par rapport aux autres, autant que possible
+- éviter les endroits achalandés et les rassemblements non essentiels
+- éviter les salutations d'usage, comme les poignées de main
+- limiter les contacts avec les personnes présentant un risque plus élevé comme les aînés et les personnes en mauvaise santé
+- maintenir autant que possible une distance d'au moins 2 longueurs de bras (environ 2 mètres) avec les autres
 
 ### Hygiène
 
@@ -42,18 +57,20 @@ Une hygiène adéquate peut aider à réduire le risque de contracter ou de tran
   - toussez ou éternuez dans un papier-mouchoir ou dans le creux de votre bras, et non dans votre main
   - jetez immédiatement les papiers-mouchoirs utilisés dans une poubelle doublée de plastique et lavez-vous ensuite les mains
 - évitez de vous toucher les yeux, le nez ou la bouche sans vous être d'abord lavé les mains
-- nettoyez souvent les surfaces suivantes fréquemment touchées avec des nettoyants ménagers ordinaires ou de l'eau de javel diluée (une partie d'eau de Javel pour neuf parties d'eau) :
-  - jouets
-  - toilettes
-  - téléphones
-  - appareils électroniques
-  - poignées de porte
-  - tables de chevet
-  - télécommandes
 
-### Soyez prêt
+### Nettoyage
 
-Il est important de savoir [comment vous préparer](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html) au cas où vous ou un membre de votre famille tomberiez malade.
+Santé Canada a publié une liste de désinfectants pour surfaces dures susceptibles d'être efficaces contre les coronavirus (COVID-19).
+
+Bien qu'ils ne prétendent pas tuer des virus tels que la COVID-19, les nettoyants peuvent jouer un rôle en aidant à limiter le transfert des micro-organismes. Santé Canada recommande d’utiliser du nettoyant ou de l’eau de Javel dilué (1 partie d’eau de Javel pour 9 parties d’eau) sur les surfaces à fortes sollicitation comme les :
+
+- jouets
+- toilettes
+- téléphones
+- appareils électroniques
+- poignées de porte
+- tables de chevet
+- télécommandes
 
 ### Port d'un masque
 
