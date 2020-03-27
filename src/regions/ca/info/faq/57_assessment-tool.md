@@ -2,6 +2,7 @@
 
 Most provinces have developed an online self-assessment tool that you can use to determine if you should call 811. Here are the provinces that have a self-assessment tool available:
 
+- [Government of Canada](https://ca.thrive.health/covid19/en)
 - [Alberta](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx)
 - [British Columbia](https://bc.thrive.health/)
 - [Manitoba](https://sharedhealthmb.ca/covid19/screening-tool/)
