@@ -14,7 +14,7 @@ It is mandatory that anyone arriving in British Columbia from outside of Canada 
 
 - Example 1: Respiratory symptoms appear five days after returning to Canada. Self-isolate for 10 additional days for a total of 15 days.
 
--Example 2: Respiratory symptoms appear two days after returning to Canada. Self-isolate for 10 additional days for a total of 12 days.
+- Example 2: Respiratory symptoms appear two days after returning to Canada. Self-isolate for 10 additional days for a total of 12 days.
 
 People who have self-isolated can return to normal activities after 14 days if they have not developed any symptoms.
 
