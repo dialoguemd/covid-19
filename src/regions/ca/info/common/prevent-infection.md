@@ -9,7 +9,7 @@ Canadians should continue to think ahead about the actions that they can take to
 - avoiding all non-essential travel, including cruise ships
 - self-isolating, and monitoring for symptoms (cough, fever or difficulty breathing) for 14 days if you have travelled outside of Canada
 - reducing contact with others by following the guidance for self-monitoring, self-isolating, or isolating
-- practicing social distancing and proper hygiene 
+- practicing social distancing and proper hygiene
 - wearing masks, if necessary
 
 Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health/covid19/en)
@@ -25,16 +25,16 @@ We will continue to adapt our risk assessment based on the latest data available
 If you are showing symptoms of COVID-19, reduce your contact with others:
 
 - isolate yourself at home for 14 days to avoid spreading it to others
-    - if you live with others, stay in a separate room or keep a 2-metre distance
+  - if you live with others, stay in a separate room or keep a 2-metre distance
 - visit a health care professional or call your local public health authority
-    - call ahead to tell them your symptoms and follow their instructions
-    
+  - call ahead to tell them your symptoms and follow their instructions
+
 If you become sick while travelling back to Canada:
 
 - inform the flight attendant or a Canadian border services officer
 - advise a Canada border services agent on arrival in Canada if you believe you were exposed to someone who was sick with COVID-19, even if you do not have symptoms
-    - this is required under the Quarantine Act
-    - the Canada border services agent will provide instructions for you to follow
+  - this is required under the Quarantine Act
+  - the Canada border services agent will provide instructions for you to follow
 
 #### Social distancing
 
