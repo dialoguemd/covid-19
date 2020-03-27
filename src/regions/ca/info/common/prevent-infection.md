@@ -2,25 +2,39 @@
 
 ### Preventing coronavirus
 
-At this time, there is no vaccine for COVID-19 or any natural health products that are authorized to protect against it.
+Canadians should continue to think ahead about the actions that they can take to stay healthy and prevent the spread of COVID-19 in Canada, including:
 
-If you have received a flu vaccine, it will not protect against coronaviruses.
+- [being prepared](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html) in case you or a family member become ill
+- following the latest travel advice from federal and provincial public health leaders:
+- avoiding all non-essential travel, including cruise ships
+- self-isolating, and monitoring for symptoms (cough, fever or difficulty breathing) for 14 days if you have travelled outside of Canada
+- reducing contact with others by following the guidance for self-monitoring, self-isolating, or isolating
+- practicing social distancing and proper hygiene 
+- wearing masks, if necessary
 
-##### If you have travelled outside of Canada
+Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health/covid19/en)
 
-Federal and provincial public health leaders have recommended that all travellers from outside of Canada self-isolate for 14 days. These efforts will contribute to slow the introduction and spread of COVID-19 in Canada.
+##### Travellers
 
-##### If you have COVID-19, reduce contact with others
+The risk for getting COVID-19 may be increased for travellers. Canadians are advised to avoid all non-essential travel. If you must travel, check the latest travel advice before you leave.
 
-If you are sick, the following steps will help to reduce contact with others:
+We will continue to adapt our risk assessment based on the latest data available.
 
-- stay at home and self-isolate (unless directed to seek medical care)
-  - if you must leave your home, wear a mask or cover your mouth and nose with tissues, and maintain a 2-metre distance from others
-- avoid individuals in hospitals and long-term care centres, especially older adults and those with chronic conditions or compromised immune systems
-- avoid having visitors to your home
-- cover your mouth and nose with your arm when coughing and sneezing
-- have supplies delivered to your home instead of running errands
-  - supplies should be dropped off outside to ensure a 2-metre distance
+##### If you become ill
+
+If you are showing symptoms of COVID-19, reduce your contact with others:
+
+- isolate yourself at home for 14 days to avoid spreading it to others
+    - if you live with others, stay in a separate room or keep a 2-metre distance
+- visit a health care professional or call your local public health authority
+    - call ahead to tell them your symptoms and follow their instructions
+    
+If you become sick while travelling back to Canada:
+
+- inform the flight attendant or a Canadian border services officer
+- advise a Canada border services agent on arrival in Canada if you believe you were exposed to someone who was sick with COVID-19, even if you do not have symptoms
+    - this is required under the Quarantine Act
+    - the Canada border services agent will provide instructions for you to follow
 
 #### Social distancing
 
@@ -28,9 +42,8 @@ Together, we can slow the spread of COVID-19 by making a conscious effort to kee
 
 This means making changes in your everyday routines to minimize close contact with others, including:
 
-- avoiding non-essential gatherings
+- avoiding crowded places and non-essential gatherings
 - avoiding common greetings, such as handshakes
-- avoiding crowded places such as concerts, arenas, conferences and festivals
 - limiting contact with people at higher risk like older adults and those in poor health
 - keeping a distance of at least 2 arms lengths (approximately 2 metres) from others, as much as possible
 
@@ -44,18 +57,20 @@ Proper hygiene can help reduce the risk of infection or spreading infection to o
   - cough or sneeze into a tissue or the bend of your arm, not your hand
   - dispose of any tissues you have used as soon as possible in a lined waste basket and wash your hands afterwards
 - avoid touching your eyes, nose, or mouth with unwashed hands
-- clean the following high-touch surfaces frequently with regular household cleaners or diluted bleach (1 part bleach to 9 parts water):
-  - toys
-  - toilets
-  - phones
-  - electronics
-  - door handles
-  - bedside tables
-  - television remotes
 
-### Being prepared
+### Cleaning
 
-It is important to know how [you can prepare](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html) in case you or a family member become ill.
+Health Canada has published a list of hard surface disinfectants that are likely to be effective for use against coronavirus (COVID-19).
+
+Although they do not claim to kill viruses such as COVID-19, cleaners can play a role in helping limit the transfer of microorganisms. Health Canada recommends cleaning often, using either regular household cleaners or diluted bleach (1 part bleach to 9 parts water) the following high-touch surfaces:
+
+- toys
+- toilets
+- phones
+- electronics
+- door handles
+- bedside tables
+- television remotes
 
 ### Wearing masks
 
