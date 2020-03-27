@@ -6,8 +6,8 @@ Les Canadiens doivent continuer à réfléchir aux mesures qu'ils peuvent prendr
 
 - [se préparer](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html) au cas où un membre de la famille ou eux-mêmes tomberaient malades
 - suivre les plus récents conseils aux voyageurs formulés par les responsables fédéraux et provinciaux de la santé publique :
-    - éviter tout voyage non essentiel, entre autres à bord de navires de croisière
-    - s'auto-isoler et surveiller l'apparition de symptômes (toux, fièvre ou difficulté à respirer) pendant 14 jours s'ils ont voyagé à l'extérieur du Canada
+  - éviter tout voyage non essentiel, entre autres à bord de navires de croisière
+  - s'auto-isoler et surveiller l'apparition de symptômes (toux, fièvre ou difficulté à respirer) pendant 14 jours s'ils ont voyagé à l'extérieur du Canada
 - réduire les contacts avec les autres en suivant les conseils d'auto-surveillance, d'auto-isolement ou d’isolement
 - prendre des mesures de distanciation sociale et d'hygiène
 - porter un masque, si nécessaire
@@ -24,17 +24,15 @@ Nous continuerons de modifier nos évaluations des risques en fonction des plus 
 
 Si vous avez des symptômes de la COVID-19 :
 
-- restez chez vous pour une période de 14 jours afin d’éviter d'infecter d'autres personnes :
-    - si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
--rendez-vous chez un professionnel de la santé ou votre autorité de santé publique locale :
-    - appelez à l’avance pour informez de vos symptômes la personne à qui vous parlerez, puis suivez ses instructions
+- restez chez vous pour une période de 14 jours afin d’éviter d'infecter d'autres personnes : - si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
+  -rendez-vous chez un professionnel de la santé ou votre autorité de santé publique locale : - appelez à l’avance pour informez de vos symptômes la personne à qui vous parlerez, puis suivez ses instructions
 
 Si vous vous sentez malade pendant votre voyage à destination du Canada ou à votre arrivée :
 
 - informez l'agent de bord ou un agent des services frontaliers canadiens
 - veuillez signaler à un agent des services frontaliers du Canada à votre arrivée au Canada si vous pensez avoir été exposé à une source de COVID-19, même si vous ne présentez pas de symptômes
-    - la Loi sur la quarantaine l'exige
-    - l'agent des services frontaliers du Canada vous donnera des instructions à suivre
+  - la Loi sur la quarantaine l'exige
+  - l'agent des services frontaliers du Canada vous donnera des instructions à suivre
 
 #### Distanciation sociale
 
