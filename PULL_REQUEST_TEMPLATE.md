@@ -18,7 +18,5 @@
 
 ## Checklist
 
-- [ ] PR title follows [Conventional Commits][conventiona-commits] guidelines <!-- `feat(lang): add German language` -->
+- [ ] PR title follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) guidelines <!-- `fix(content): typo in travel-restrictions` -->
 - [ ] All relevant PR sections are populated, irrelevant ones are removed <!-- Those sections help reviewers better understand what the PR is about. -->
-
-[conventiona-commits]: https://www.conventionalcommits.org
