@@ -1,16 +1,16 @@
 ## 🌍Internationale Risikogebiete und besonders betroffene Gebiete in Deutschland
 
-Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationale Risikogebiete** definiert (letzte Aktualisierung des RKI am 25.3.2020 um 15:50 Uhr):
+Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationale Risikogebiete** definiert (letzte Aktualisierung des RKI am 27.3.2020 um 20:50 Uhr):
 
 - 🇪🇬 Ägypten: ganzes Land
-- 🇫🇷 Frankreich: Region Grand Est (diese Region enthält Elsass, Lothringen und Champagne-Ardenne)
+- 🇫🇷 Frankreich: Île-de-France und Region Grand Est (diese Region enthält Elsass, Lothringen und Champagne-Ardenne)
 - 🇮🇷 Iran: ganzes Land
 - 🇮🇹 Italien: ganzes Land
-- 🇦🇹 Österreich: Bundesland Tirol
+- 🇦🇹 Österreich: ganzes Land
 - 🇨🇭 Schweiz: Kantone Tessin, Waadt und Genf
 - 🇪🇸 Spanien: Regionen Madrid, Navarra, La Rioja und Paìs Vasco
 - 🇰🇷 Südkorea: Daegue und die Provinz Gyeongsangbuk-do (Nord-Gyeongsang)
-- 🇺🇸 USA: Bundesstaaten Kalifornien, Washington und New York
+- 🇺🇸 USA: Bundesstaaten Kalifornien, Washington, New York und New Jersey
 
 🇩🇪
 Als besonders betroffene Gebiete in Deutschland gelten derzeit (letzte Aktualisierung des RKI am 6.3.2020 um 19:00 Uhr):
