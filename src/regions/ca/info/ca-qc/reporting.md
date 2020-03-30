@@ -30,6 +30,6 @@ To remind people who are returning to the country of these obligations, police c
 
 It should be noted that businesses that deliver goods from abroad in Québec do not have to ask their employees to temporarily self-isolate.
 
-Individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated below.
+Individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-directives/).
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-directives/#c47680)
