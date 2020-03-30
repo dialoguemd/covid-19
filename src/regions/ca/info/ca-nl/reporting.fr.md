@@ -7,7 +7,7 @@ Notez qu'une personne atteinte de COVID-19 peut ne pas présenter tous ces sympt
 Si vous commencez à présenter des symptômes de COVID-19 :
 
 - Restez chez vous et remplissez l'outil d'auto-évaluation 811 COVID-19. Si vous ne pouvez pas accéder à l'outil d'auto-évaluation, veuillez appeler le 811.
-- Ne vous rendez pas au cabinet de votre médecin de famille et, à moins qu'il ne s'agisse d'une urgence médicale, n'allez pas au service des urgences. 
+- Ne vous rendez pas au cabinet de votre médecin de famille et, à moins qu'il ne s'agisse d'une urgence médicale, n'allez pas au service des urgences.
 - Si vous vous isolez, vous devrez continuer à vous isoler jusqu'à ce que la santé publique vous en avise autrement.
 - Si vous ne vous isoliez pas vous-même, vous serez mis en isolement et le test COVID-19 sera organisé par la Santé publique.
 
