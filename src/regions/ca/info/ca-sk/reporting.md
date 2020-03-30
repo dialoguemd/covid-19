@@ -5,6 +5,7 @@ If you develop symptoms of COVID-19, get tested. Symptoms of COVID-19 are fever,
 If you fit the criteria of potential exposure, are exhibiting mild symptoms and suspect you may have COVID-19, you can obtain a referral to a community testing centre by phoning:
 
 HealthLine 811.
+
 - Your local Public Health Communicable Disease Control office.
 - Your family physician.
 - Your nurse practitioner.
