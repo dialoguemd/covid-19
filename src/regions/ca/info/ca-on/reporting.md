@@ -1,6 +1,6 @@
 ## Ontario: Who should I contact if I think I have COVID-19?
 
-Contact your primary care provider or Telehealth Ontario at  1-866-797-0000 if you’re experiencing symptoms of the 2019 novel coronavirus.
+Contact your primary care provider or Telehealth Ontario at 1-866-797-0000 if you’re experiencing symptoms of the 2019 novel coronavirus.
 
 Please do not visit an assessment centre unless you have been referred by a health care professional.
 
