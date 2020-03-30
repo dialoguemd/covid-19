@@ -7,7 +7,7 @@ You should get tested if you are experiencing symptoms of COVID-19:
 - you have been in close contact with a person who has been diagnosed with or is under investigation for COVID-19, OR
 - lab exposure to biological material if you feel you meet this criteria, please contact your public health unit or health centre for further information as described under “How do I get tested for COVID-19”
 
-[Source[https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/getting-tested-covid-19#who-should-get-tested-for-covid-19-)
+[Source](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/getting-tested-covid-19#who-should-get-tested-for-covid-19-)
 
 If you are experiencing milder symptoms such as fever, cough or flu-like, take the [NWT Online COVID-19 Self-Assessment Tool](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/nwt-online-covid-19-self-assessment-tool), or call:
 
