@@ -1,11 +1,12 @@
 ## Saskatchewan: Who should I contact if I think I have COVID-19?
 
-Please note: You do not need to be tested for COVID-19 if in the past 14 days you have not travelled outside Canada or had contact with someone diagnosed as having COVID-19.
+If you develop symptoms of COVID-19, get tested. Symptoms of COVID-19 are fever, cough, sore throat, shortness of breath and generally feeling unwell. Use this self-assessment tool to determine if you should be tested for COVID-19.
 
-As with most respiratory illnesses, most people with COVID-19 illness will recover on their own. There is no specific treatment for disease caused by COVID-19. Severe or worsening symptoms may require supportive treatment in hospital.
+If you fit the criteria of potential exposure, are exhibiting mild symptoms and suspect you may have COVID-19, you can obtain a referral to a community testing centre by phoning:
 
-If symptoms feel worse than a standard cold, see a health care provider or call HealthLine at 811. If HealthLine 811 recommends you seek acute care, they will provide instruction to call ahead.
+HealthLine 811.
+- Your local Public Health Communicable Disease Control office.
+- Your family physician.
+- Your nurse practitioner.
 
-Currently, there is no approved vaccine that protects against coronaviruses, including COVID-19.
-
-[Source: Government of Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/about-covid-19)
+[Source: Government of Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information)
