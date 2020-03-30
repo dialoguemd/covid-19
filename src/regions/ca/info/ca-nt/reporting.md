@@ -3,7 +3,7 @@
 You should get tested if you are experiencing symptoms of COVID-19:
 
 - and you have travelled outside of the NWT; OR
-- you have been in close contact  with someone who is symptomatic and has travelled; OR
+- you have been in close contact with someone who is symptomatic and has travelled; OR
 - you have been in close contact with a person who has been diagnosed with or is under investigation for COVID-19, OR
 - lab exposure to biological material if you feel you meet this criteria, please contact your public health unit or health centre for further information as described under “How do I get tested for COVID-19”
 
