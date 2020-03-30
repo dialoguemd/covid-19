@@ -5,6 +5,7 @@ Si vous présentez des symptômes de la COVID-19, faites-vous tester. Les sympt�
 Si vous répondez aux critères d'exposition potentielle, que vous présentez des symptômes légers et que vous pensez être atteint de COVID-19, vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
 
 HealthLine 811.
+
 - Votre bureau local de contrôle des maladies transmissibles de la santé publique.
 - Votre médecin de famille.
 - Votre infirmière praticienne.
