@@ -19,6 +19,4 @@ La distanciation sociale sert à réduire intentionnellement les contacts étroi
 
 Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vous laver les mains souvent, et maintenir une distance d’environ 2 mètres entre chaque personne.
 
-Composez le numéro de Health Links-Info Santé 204-788-8200 ou sans frais 1-888-315-9257 si vous avez des symptômes de COVID-19. S’il s’agit d’une situation d’urgence mettant la vie en danger, composez le 911.
-
 [Source: Gouvernment du Manitoba](https://www.gov.mb.ca/health/coronavirus/public.fr.html)
