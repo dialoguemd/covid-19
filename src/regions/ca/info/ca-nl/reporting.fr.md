@@ -12,3 +12,13 @@ Si vous commencez à présenter des symptômes de COVID-19 :
 - Si vous ne vous isoliez pas vous-même, vous serez mis en isolement et le test COVID-19 sera organisé par la Santé publique.
 
 [Source: Gouvernement de Terre-Neuve et Labrador (en anglais)](https://www.gov.nl.ca/covid-19/about-covid-19/)
+
+## Au cours des 14 derniers jours, je suis retourné à Terre-Neuve-et-Labrador. Suis-je obligé de m'isoler ?
+
+Toute personne arrivant à Terre-Neuve-et-Labrador en provenance de l'extérieur de la province est tenue de s'isoler pendant 14 jours après son arrivée.
+
+Pour savoir comment s'isoler, veuillez consulter la section Ressources.
+
+Il existe des exemptions à ces exigences. Veuillez consulter les ordonnances de santé publique pour plus de détails.
+
+[Source: Gouvernement de Terre-Labrador et Labrador](https://www.gov.nl.ca/covid-19/faqs/)
