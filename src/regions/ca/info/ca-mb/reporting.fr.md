@@ -10,7 +10,7 @@ Les responsables de la santé publique insistent pour que toute personne ayant d
 
 La distanciation sociale sert à réduire intentionnellement les contacts étroits entre les gens, dans l’espoir de mettre fin à la propagation de tout virus dans la collectivité. Voici comment appliquer la distanciation sociale par tous les Manitobains :
 
-- Annuler ou reporter toute activité réunissant plus de 50 participants.
+- Annuler ou reporter toute activité réunissant plus de 10 participants.
 - Réduire au minimum les contacts prolongés (plus de 10 minutes) rapprochés (moins de deux mètres) avec d’autres personnes en public.
 - Éviter de fraterniser en se touchant (p. ex., poignées de mains).
 - Désinfecter les surfaces souvent utilisées.
