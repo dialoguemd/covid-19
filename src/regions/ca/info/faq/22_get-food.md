@@ -4,5 +4,4 @@ If you are at risk (older adult, underlying medical conditions (e.g. heart disea
 
 Additionally, most authorities are closing ALL NONESSENTIAL businesses. If you shop at a grocery or pharmacy, please follow all instructions carefully and respectfully in this time of crisis.
 
-
 More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html#a2)
