@@ -6,8 +6,8 @@ Canadians should continue to think ahead about the actions that they can take to
 
 - [being prepared](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html) in case you or a family member become ill
 - following the latest travel advice from federal and provincial public health leaders:
-    - avoiding all non-essential travel, including cruise ships
-    - self-isolating, and monitoring for symptoms (cough, fever or difficulty breathing) for 14 days if you have travelled outside of Canada
+  - avoiding all non-essential travel, including cruise ships
+  - self-isolating, and monitoring for symptoms (cough, fever or difficulty breathing) for 14 days if you have travelled outside of Canada
 - reducing contact with others by following the guidance for self-monitoring, self-isolating, or isolating
 - practicing social distancing and proper hygiene
 - wearing masks, if necessary
@@ -27,8 +27,9 @@ If you are showing symptoms of COVID-19, reduce your contact with others:
 - isolate yourself at home for 14 days to avoid spreading it to others
   - if you live with others, stay in a separate room or keep a 2-metre distance
 - visit a health care professional or call your local public health authority
+
   - call ahead to tell them your symptoms and follow their instructions
-  
+
 Children who have mild COVID-19 symptoms are able to stay at home with a caregiver throughout their recovery without needing hospitalization. If you are caring for a child who has suspected or probable COVID-19, it is important to follow the advice for caregivers. This advice will help you protect yourself, others in your home, as well as others in the community.
 
 If you become sick while travelling back to Canada:
