@@ -1,8 +1,8 @@
 ## Saskatchewan: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si vous présentez des symptômes de la COVID-19, faites-vous tester. Les symptômes de COVID-19 sont la fièvre, la toux, le mal de gorge, l'essoufflement et un malaise général. Utilisez cet outil d'auto-évaluation pour déterminer si vous devez vous faire tester pour COVID-19.
+Les symptômes de la COVID-19 comprennent la fièvre, la toux, le mal de gorge, l'essoufflement ou la difficulté à respirer. Tous les résidents doivent être familiarisés avec les précautions d'autosurveillance et d'auto-isolement afin de vous protéger, vous et votre entourage.
 
-Si vous répondez aux critères d'exposition potentielle, que vous présentez des symptômes légers et que vous pensez être atteint de COVID-19, vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
+Il est nécessaire d'être référé pour se faire dépister. Il n'est pas nécessaire d'avoir voyagé à l'étranger pour obtenir une recommandation pour un test de dépistage. Si vous ne présentez pas de symptômes, vous n'avez pas besoin de vous faire dépister. Vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
 
 HealthLine 811.
 
