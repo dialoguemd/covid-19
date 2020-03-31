@@ -24,10 +24,10 @@ Nous continuerons de modifier nos évaluations des risques en fonction des plus 
 
 Si vous avez des symptômes de la COVID-19 :
 
-- restez chez vous pour une période de 14 jours afin d’éviter d'infecter d'autres personnes : 
-    - si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
-  -rendez-vous chez un professionnel de la santé ou votre autorité de santé publique locale : 
-    - appelez à l’avance pour informez de vos symptômes la personne à qui vous parlerez, puis suivez ses instructions
+- restez chez vous pour une période de 14 jours afin d’éviter d'infecter d'autres personnes :
+  - si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
+    -rendez-vous chez un professionnel de la santé ou votre autorité de santé publique locale :
+  - appelez à l’avance pour informez de vos symptômes la personne à qui vous parlerez, puis suivez ses instructions
 
 Les enfants qui présentent des symptômes légers de la COVID-19 peuvent rester à la maison avec une personne qui s'occupe d'eux pendant toute la durée de leur rétablissement sans devoir être hospitalisés. Si vous prenez soin d'un enfant chez qui la COVID-19 est soupçonnée ou probable, il est important de suive les conseils pour les soignants. Ces conseils vous aideront à vous protéger et protéger les autres qui vivent dans la maison, ainsi que les personnes de votre communauté.
 
