@@ -20,12 +20,16 @@ Les voyageurs peuvent être plus exposés au risque d'attraper la COVID-19. Il e
 
 Nous continuerons de modifier nos évaluations des risques en fonction des plus récentes données.
 
-##### Si vous tombez malade
+##### Si vous ou votre enfant tombez malade
 
 Si vous avez des symptômes de la COVID-19 :
 
-- restez chez vous pour une période de 14 jours afin d’éviter d'infecter d'autres personnes : - si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
-  -rendez-vous chez un professionnel de la santé ou votre autorité de santé publique locale : - appelez à l’avance pour informez de vos symptômes la personne à qui vous parlerez, puis suivez ses instructions
+- restez chez vous pour une période de 14 jours afin d’éviter d'infecter d'autres personnes : 
+    - si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
+  -rendez-vous chez un professionnel de la santé ou votre autorité de santé publique locale : 
+    - appelez à l’avance pour informez de vos symptômes la personne à qui vous parlerez, puis suivez ses instructions
+
+Les enfants qui présentent des symptômes légers de la COVID-19 peuvent rester à la maison avec une personne qui s'occupe d'eux pendant toute la durée de leur rétablissement sans devoir être hospitalisés. Si vous prenez soin d'un enfant chez qui la COVID-19 est soupçonnée ou probable, il est important de suive les conseils pour les soignants. Ces conseils vous aideront à vous protéger et protéger les autres qui vivent dans la maison, ainsi que les personnes de votre communauté.
 
 Si vous vous sentez malade pendant votre voyage à destination du Canada ou à votre arrivée :
 
@@ -34,9 +38,9 @@ Si vous vous sentez malade pendant votre voyage à destination du Canada ou à v
   - la Loi sur la quarantaine l'exige
   - l'agent des services frontaliers du Canada vous donnera des instructions à suivre
 
-#### Distanciation sociale
+#### D'éloignement physique (distanciation sociale)
 
-Ensemble, nous pouvons ralentir la propagation de COVID-19 en faisant un effort conscient pour garder une distance physique entre nous. Il est prouvé que la distance sociale est l'un des moyens les plus efficaces de réduire la propagation de la maladie lors d'une épidémie. Avec de la patience et de la coopération, nous pouvons tous faire notre part.
+Ensemble, nous pouvons ralentir la propagation de la COVID-19 en faisant vraiment un effort pour maintenir une certaine distance physique entre nous et les autres. Il est prouvé que l'éloignement physique est l'un des moyens les plus efficaces de réduire la propagation de la maladie pendant une épidémie.
 
 Cela signifie qu'il faut apporter des changements à vos habitudes quotidiennes pour réduire au minimum les contacts étroits avec les autres, y compris:
 
