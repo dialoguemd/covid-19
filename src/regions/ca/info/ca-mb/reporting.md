@@ -10,7 +10,7 @@ Public health officials also strongly urge anyone who has cold or flu-like sympt
 
 Social distancing is used to intentionally reduce close contact between people to try to stop the progression of community transmission of any virus. Social distancing strategies for all Manitobans include:
 
-- Cancelling or postponing any large-scale events with more than 50 attendees;
+- Cancelling or postponing any large-scale events with more than 10 attendees;
 - Minimizing prolonged (more than 10 minutes), close (less than two metres) contact between other individuals in public;
 - Avoiding greetings that involve touching such as handshakes;
 - Disinfecting frequently used surfaces;
