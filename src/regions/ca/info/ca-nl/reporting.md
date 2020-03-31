@@ -15,7 +15,7 @@ If you start to have symptoms of COVID-19:
 
 [Source: Government of Newfoundland and Labrador](https://www.gov.nl.ca/covid-19/about-covid-19/)
 
-##  In the last 14 days I have returned to Newfoundland and Labrador. Am I required to self-isolate?
+## In the last 14 days I have returned to Newfoundland and Labrador. Am I required to self-isolate?
 
 Anyone arriving to Newfoundland and Labrador from outside the province is required to self-isolate for 14 days after their arrival.
 For guidance on how to self-isolate, please see Resources.
