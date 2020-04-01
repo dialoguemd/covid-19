@@ -10,7 +10,7 @@ Si vos symptômes sont graves, tels que des difficultés respiratoires (par exem
 
 ### Je suis un voyageur de retour, dois-je m'isoler ou rester à la maison loin des espaces publics ?
 
-Il est obligatoire que toute personne arrivant en Colombie-Britannique en provenance de l'étranger s'isole et surveille ses symptômes pendant 14 jours à son arrivée. Les voyageurs de retour qui développent des symptômes respiratoires doivent également s'isoler pendant une période de 10 jours après l'apparition des symptômes, chaque fois qu'ils se manifestent.
+Il est obligatoire que toute personne arrivant en Colombie-Britannique en provenance de l'étranger s'isole et surveille ses symptômes pendant 14 jours à son arrivée. Les voyageurs de retour qui présentent des symptômes respiratoires doivent également s'isoler pendant au moins 10 jours après l'apparition des symptômes ou lorsque ceux-ci disparaissent, selon la dernière de ces deux éventualités.
 
 - Exemple 1 : Les symptômes respiratoires apparaissent cinq jours après le retour au Canada. S'isoler pendant 10 jours supplémentaires pour un total de 15 jours.
 
