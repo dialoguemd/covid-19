@@ -10,7 +10,7 @@ If your symptoms are severe, such as difficulty breathing (e.g. struggling to br
 
 ### I am a returning traveller, should I self-isolate or stay home from public spaces?
 
-It is mandatory that anyone arriving in British Columbia from outside of Canada self-isolate and monitor for symptoms for 14 days upon their arrival. Returning travellers that develop respiratory symptoms are also required to self-isolate for a period 10 days after the onset of symptoms, whenever they occur.
+It is mandatory that anyone arriving in British Columbia from outside of Canada self-isolate and monitor for symptoms for 14 days upon their arrival. Returning travellers that develop respiratory symptoms are also required to self-isolate for a minimum of 10 days after the onset of symptoms, or when the symptoms resolve, whichever is later. 
 
 - Example 1: Respiratory symptoms appear five days after returning to Canada. Self-isolate for 10 additional days for a total of 15 days.
 
