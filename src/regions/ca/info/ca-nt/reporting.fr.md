@@ -9,6 +9,8 @@ Vous devriez passer le test si vous avez des symptômes de la COVID-19 et :
 
 Si vous pensez répondre aux critères, veuillez communiquer avec votre service de santé publique ou votre centre de santé.
 
+[Source](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/test-de-d%C3%A9pistage-de-la-covid-19)
+
 Si vous présentez des symptômes plus légers, comme la fièvre et la toux ou des symptômes semblables à ceux de la grippe, utilisez [l'outil d'auto-évaluation COVID-19 en ligne](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/outil-d%E2%80%99auto-%C3%A9valuation-en-ligne-pour-la-covid-19-aux-tno) ou téléphonez-nous à l’aide des coordonnées suivantes :
 
 - Yellowknife: 867-767-9120, ou prenez rendez-vous en ligne à l’adresse www.nthssa.ca/appointments
