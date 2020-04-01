@@ -1,6 +1,6 @@
 ## I want to cancel my flight, what should I do?
 
-As per Canadian government, avoid all non-essential travel outside of Canada until further notice. You should contact your flight company or your travel agency. [Source](https://travel.gc.ca/travelling/advisories)
+As per Canadian government, avoid all non-essential travel outside of Canada until further notice. You should contact your flight company or your travel agency. If you travel anyway, you may not be allowed to return to Canada and you may not be insured for illness (coronavirus is now considered a known pre-existing risk) and you will need to follow all quarantine instructions upon your eventual return. [Source](https://travel.gc.ca/travelling/advisories)
 
 Note that the waiting time to get hold of an agent can exceed 3-4 hours. If you booked before a certain date, some companies offer to file a form online instead of spending time with the hotline. Visit their website before calling.
 
