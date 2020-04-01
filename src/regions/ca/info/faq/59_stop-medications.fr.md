@@ -1,6 +1,6 @@
 ## Dois-je arrêter de prendre des médicaments qui affaiblissent mon système immunitaire ?
 
-L'arrêt des traitements actifs peut avoir des effets négatifs graves et immédiats sur votre santé. Malgré ce que vous avez pu entendre, il n'existe actuellement aucun médicament pour lequel une recommandation d'arrêt définitif a été formulée. Certains médicaments comme l'ibuprofène sont à l'étude, mais il n'y a pas de preuve évidente qu'ils puissent aggraver la maladie.
+L'arrêt de tout traitement actif peut avoir des effets immédiats et négatifs sur votre santé et vous ne devez pas le faire sans en parler à votre médecin. Malgré ce que vous avez pu entendre, il n'existe actuellement aucun médicament pour lequel une recommandation d'arrêt définitif a été formulée. Certains médicaments comme l'ibuprofène sont à l'étude, mais il n'y a pas de preuve évidente qu'ils puissent aggraver la maladie.
 
 Votre pharmacien et votre médecin sont d'excellentes sources d'information sur les recommandations de médicaments que vous pouvez utiliser. Il est fortement conseillé de demander des instructions à votre pharmacien avant de prendre des médicaments en vente libre lorsque vous avez des symptômes.
 

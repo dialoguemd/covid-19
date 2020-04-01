@@ -1,4 +1,4 @@
-## Est-ce qu’un practicien de Dialogue peut référer pour un test du Coronavirus? Est-ce qu’une référence peut-être donnée via la plateforme ou est-ce que le practicien doit évaluer physiquement le patient?
+## Est-ce qu’un praticien de Dialogue peut référer pour un test du Coronavirus? Est-ce qu’une référence peut-être donnée via la plateforme ou est-ce que le praticien doit évaluer physiquement le patient?
 
 Pour se soumettre aux exigences des gouvernements fédéraux et provinciaux, chaque cas suspect doit obligatoirement passer par la santé publique de sa province.
 

@@ -1,6 +1,6 @@
 ## Should I stop taking medications that suppress my immune system?
 
-Stopping active treatments can have serious and immediate negative effects on your health. Despite what you may have heard, at present there are no medications for which a definite recommendation to stop has been made. Some medications like Ibuprofen are being studied, but there is no clear evidence that it can worsen illness.
+Stopping any active treatments can have immediate and negative effects on your health and you should not do so without speaking with your doctor. Despite what you may have heard, at present there are no medications for which a definite recommendation to stop has been made. Some medications like Ibuprofen are being studied, but there is no clear evidence that it can worsen illness.
 
 Your pharmacist and doctor are excellent sources of information on recommendations for medicines you can use. It is strongly suggested to ask your pharmacist for instructions before taking over-the-counter medication when you have symptoms.
 

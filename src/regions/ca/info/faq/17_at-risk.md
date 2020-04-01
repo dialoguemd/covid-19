@@ -20,6 +20,7 @@ Anyone who has:
 - unstable employment or inflexible working conditions
 - social or geographic isolation, like in remote and isolated communities
 - insecure, inadequate, or nonexistent housing conditions
+- who suffer from any medical or social condition that might limit their ability to cope with such a situation
 
 More information here:
 

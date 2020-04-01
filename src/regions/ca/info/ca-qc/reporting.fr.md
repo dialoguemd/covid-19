@@ -10,9 +10,9 @@ Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/)
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme de la toux ou de la fièvre, vous pouvez contacter le 418 644-4545 pour la région de Québec, le 514 644-4545 pour la région de Montréal, le 450 644-4545 pour la région de Montérégie, le 819 644-4545 pour la région l’Outaouais ou le 1 877 644-4545 (sans frais) ailleurs au Québec.
+Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme de la toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec.
 
-De plus, si vous avez de la toux ou de la fièvre :
+De plus, si vous avez de la toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasale :
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Si votre condition le permet, contactez le 1 877 644-4545. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le.
@@ -22,20 +22,14 @@ De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudm
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
-## Que faire si je reviens de voyage à l'étranger?
+## Pour les citoyens de retour de voyage?
 
-- Vous êtes en isolement volontaire parce que vous êtes revenu d’un voyage à l’étranger le 12 mars 2020 ou après.
+Les personnes qui reviennent d’un séjour à l’extérieur du pays ont l’obligation de s’isoler pour une période de 14 jours. Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. En aucun temps, ces personnes ne doivent sortir à l’extérieur, et ce, même pour prendre une marche.
 
-OU
+Afin de rappeler ces obligations à ceux et celles qui reviennent au pays, des points de contrôle policiers seront réalisés à proximité de la frontière américaine.
 
-- Vous êtes en isolement obligatoire parce que vous êtes employé de la fonction publique ou membre du personnel de la santé, de l’éducation et des services de garde, privés et publics, qui, à compter du 12 mars 2020, revenez de l’étranger.
+Notez que les entreprises qui livrent des marchandises au Québec en provenance de l’étranger n’ont pas à demander à leurs employés de se placer en isolement temporaire.
 
-Suivre ces consignes et vous isoler à la maison pendant 14 jours après votre retour de voyage à l’étranger peut faire toute la différence et ralentir la transmission de la COVID-19. C’est sûr qu’il s’agit de consignes inhabituelles et contraignantes, surtout si vous avez de jeunes enfants ou si vous êtes un proche aidant.
+Les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent respecter les consignes décrites [ici](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680).
 
-Suivre ces consignes peut, également, réellement éviter que les personnes qui vous entourent n’attrapent la COVID-19, si jamais vous êtes porteur du virus et que vous développez des symptômes.
-
-Utilisez la [grille de surveillance des symptômes (PDF)](https://santemontreal.qc.ca/fileadmin/fichiers/Campagnes/coronavirus/COVID-19_Fiches-Voyageurs.pdf)
-
-Plus d'informations disponibles [ici](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680) pour les voyageurs de retour.
-
-[Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/)
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680)
