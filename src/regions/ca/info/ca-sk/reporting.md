@@ -4,8 +4,7 @@ Symptoms of COVID-19 include fever, cough, sore throat, shortness of breath or d
 
 A referral is required to get tested. You do not need to have travelled internationally to get a referral for testing. If you are not exhibiting symptoms, you do not need to be tested. You can obtain a referral to a community testing centre by phoning:
 
-HealthLine 811.
-
+- HealthLine 811.
 - Your local Public Health Communicable Disease Control office.
 - Your family physician.
 - Your nurse practitioner.
