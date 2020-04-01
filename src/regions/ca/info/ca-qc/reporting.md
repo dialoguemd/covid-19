@@ -6,7 +6,7 @@ You must complete the questionnaire, indicating your personal information, inclu
 
 You must have an email address and a Quebec Health Insurance Card to use this service. Otherwise, call 1-877-644-4545.
 
-The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to enable Quebecers to make the best possible decisions to protect their health and the health of their loved ones during the COVID-19 pandemic. More specifically, it indicates to them how best to protect themselves against COVID-19, take care of themselves and provide basic care to their family circle, and know where and when to consult if the need arises for care services.
+The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to help each individual make the best possible decisions regarding their own health and that of their families during the coronavirus COVID-19 pandemic. Specifically, it sets down the best means for protection against the coronavirus disease (COVID-19) and provides information about self-care, basic care for family members, and information about when and where to consult a doctor, if medical care is required.
 
 ## Quebec: Who should I contact if I think I have COVID-19?
 
