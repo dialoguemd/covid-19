@@ -16,9 +16,7 @@ Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health
 
 ##### Travellers
 
-The risk for getting COVID-19 may be increased for travellers. Canadians are advised to avoid all non-essential travel. If you must travel, check the latest travel advice before you leave.
-
-We will continue to adapt our risk assessment based on the latest data available.
+Consult this [page](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) for all information concerning travellers.
 
 ##### If you or your child become ill
 
