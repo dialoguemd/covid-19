@@ -13,4 +13,4 @@ Il est nécessaire d'être référé pour se faire dépister. Il n'est pas néce
 
 Le gouvernement fédéral et le médecin hygiéniste en chef de la Saskatchewan recommandent aux voyageurs canadiens de revenir au Canada et d’éviter, jusqu’à nouvel ordre, tout voyage non essentiel. Toutes les personnes qui ont voyagé à l’échelle internationale devront s'isoler obligatoirement pendant 14 jours à compter de la date de leur retour au Canada.
 
-[Source: Gouvernement de la Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information)
+[Source: Gouvernement de la Saskatchewan (en anglais seulement)](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/travel-information)
