@@ -3,7 +3,7 @@
 Die Verhaltensweisen sind mit denen zum Schutz vor Grippeviren identisch:
 
 - [Regelmäßiges und gründliches Händewaschen](https://www.infektionsschutz.de/haendewaschen/) (mindestens 20 Sekunden unter laufendem Wasser mit Seife)
-- [richtiges Husten und Niesen](https://www.infektionsschutz.de/haendewaschen/) in ein Einwegtaschentuch oder in die Armbeuge
+- [Richtiges Husten und Niesen](https://www.infektionsschutz.de/haendewaschen/) in ein Einwegtaschentuch oder in die Armbeuge
 - 1,5 Meter Mindestabstand zu anderen
 - Händeschütteln generell unterlassen
 - Hände vom Gesicht fernhalten (Schleimhäute in Mund und Nase sowie Augen)
