@@ -1,12 +1,8 @@
 ## Québec: COVID-19 Online Evaluation Questionnaire and Self-Care Guide - COVID-19
 
-Quebec has developed a preliminary coronavirus [COVID-19 Online Evaluation Questionnaire](https://covid19.quebec.ca/evaluation/).
+Anyone, registered or not registered with a family doctor, who has symptoms and who has, or thinks they have, a need for family medicine consultation in order to obtain a clinical evaluation by a nurse and be referred as necessary to the appropriate resource should telephone 1 877 644-4545. As a result, screening and assessment forms are no longer accessible. However, follow-up will be done for all requests being processed. For Service Quebec workers, please refer to your supervisor for more information.
 
-You must complete the questionnaire, indicating your personal information, including your address and your Health Insurance Card number. This information will allow us to carry out a personalized follow-up of your situation. It is necessary to fill out a form for each person.
-
-You must have an email address and a Quebec Health Insurance Card to use this service. Otherwise, call 1-877-644-4545.
-
-The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to help each individual make the best possible decisions regarding their own health and that of their families during the coronavirus COVID-19 pandemic. Specifically, it sets down the best means for protection against the coronavirus disease (COVID-19) and provides information about self-care, basic care for family members, and information about when and where to consult a doctor, if medical care is required.
+The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to enable Quebecers to make the best possible decisions to protect their health and the health of their loved ones during the COVID-19 pandemic. More specifically, it indicates to them how best to protect themselves against COVID-19, take care of themselves and provide basic care to their family circle, and know where and when to consult if the need arises for care services.
 
 ## Quebec: Who should I contact if I think I have COVID-19?
 
@@ -25,6 +21,8 @@ In addition, a walk-in screening clinic at the [CIUSSS du Centre-Sud-de-l'Île-d
 ## For citizens returning from travelling
 
 Anyone returning from a stay outside Canada must self-isolate for 14 days. Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. Such individuals must not at any time go outside, even for a walk.
+
+Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 
 To remind people who are returning to the country of these obligations, police checkpoints will be established near the US border.
 
