@@ -25,8 +25,6 @@ Call 8-1-1 for screening if you answer 'yes' to any of the scenarios below:
 - Fever greater than 38°C
 - cough (new or worsening of a chronic cough)
 
-Anyone who has travelled outside of Prince Edward Island must self-isolate for 14 days.
-
-For general health-related questions, call 1-800-958-6400.
+Anyone who has travelled outside of Prince Edward Island must self-isolate for 14 days. Stop all non-essential travel outside of Prince Edward Island.
 
 [Source: Government of Prince Edward Island](https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-when-should-i-call-811)
