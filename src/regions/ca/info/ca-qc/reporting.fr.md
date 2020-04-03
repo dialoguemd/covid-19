@@ -1,12 +1,8 @@
 ## Quebec: Questionnaire en ligne de triage de la COVID-19 et Guide autosoins - COVID-19
 
-Le québec a développé un [Questionnaire en ligne de triage de la COVID-19](https://covid19.quebec.ca/evaluation/) lié à la maladie à coronavirus COVID-19.
+Toute personne, inscrite ou non-inscrite à un médecin de famille, qui a des symptômes et qui a, ou pense avoir, un besoin de consultation en médecine de famille afin d’obtenir une évaluation clinique par une infirmière et être dirigée au besoin vers la ressource adéquate devra téléphoner au 1 877 644-4545. Ainsi, les formulaires de dépistage et d’évaluation ne sont dorénavant plus accessibles. Toutefois, un suivi sera effectué pour toutes les demandes en cours de traitement. Pour les intervenants de Service Québec, svp vous référer à votre supérieur pour plus d’information.
 
-Vous devez remplir le questionnaire en y indiquant vos renseignements personnels dont votre adresse et votre numéro d’assurance maladie. Ces informations leur permettront d’effectuer un suivi personnalisé de votre situation. Il est nécessaire de remplir un formulaire pour chaque personne.
-
-Notez que vous devez posséder une adresse courriel et une carte d’assurance maladie du Québec pour utiliser ce service. Si vous n’en avez pas, veuillez composer le 1-877-644-4545.
-
-Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/) a pour but d'aider chaque personne à prendre les meilleures décisions possible pour sa santé et celle de ses proches durant la pandémie de COVID-19. Il permet plus spécifiquement de connaître les meilleurs moyens de se protéger de la COVID-19, de prendre soin de soi ou de donner les soins de base à son entourage et de savoir où et quand consulter si l'on a besoin de soins de services.
+Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/) est conçu pour aider les gens à prendre les meilleures décisions possibles pour leur santé et celle de leurs proches durant la pandémie de la COVID-19. Il permet plus précisément de connaître les meilleurs moyens de se protéger de la COVID-19, de prendre soin de soi, de donner les soins de base à son entourage et de savoir où et quand consulter si l'on a besoin de soins ou de services.
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
@@ -20,11 +16,13 @@ De plus, si vous avez de la toux ou de la fièvre ou une perte soudaine de l’o
 
 De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudmtl.gouv.qc.ca/actualite/covid-19-ouverture-dune-clinique-de-depistage-sans-rendez-vous-pour-augmenter-le-nombre-de-depistages) à la CIUSSS du Centre-Sud-de-l'Île-de-Montréal s'ouvre pour augmenter le nombre de tests de dépistage.
 
-[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
 
 ## Pour les citoyens de retour de voyage?
 
-Les personnes qui reviennent d’un séjour à l’extérieur du pays ont l’obligation de s’isoler pour une période de 14 jours. Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. En aucun temps, ces personnes ne doivent sortir à l’extérieur, et ce, même pour prendre une marche.
+Les personnes qui reviennent d’un séjour à l’extérieur du pays ont l’obligation, en vertu de l’application de la Loi sur la mise en quarantaine par le gouvernement du Canada, de s’isoler pour une période de 14 jours. Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. En aucun temps, ces personnes ne doivent sortir à l’extérieur, et ce, même pour prendre une marche.
+
+Une personne qui ne respecte pas ces consignes commet une infraction à la loi fédérale et s’expose à des [sanctions](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#a2).
 
 Afin de rappeler ces obligations à ceux et celles qui reviennent au pays, des points de contrôle policiers seront réalisés à proximité de la frontière américaine.
 
