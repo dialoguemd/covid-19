@@ -10,7 +10,7 @@ The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-0024
 
 ## Quebec: Who should I contact if I think I have COVID-19?
 
-If you are worried about COVID‑19 or display symptoms such as a cough or fever or sudden loss of sense of smell and taste without nasal congestion, you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec.
+If you are worried about COVID‑19 or display symptoms such as a cough or fever or sudden loss of sense of smell and taste without nasal congestion, you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec. For the hearing impaired (TTY), call 1-800-361-9596 (toll free).
 
 If you have symptoms such as a cough or fever or sudden loss of sense of smell and taste without nasal congestion:
 
