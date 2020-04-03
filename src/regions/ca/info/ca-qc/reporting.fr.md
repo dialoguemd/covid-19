@@ -10,7 +10,7 @@ Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/)
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme de la toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec.
+Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme de la toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), le 1 800 361-9596 (sans frais).
 
 De plus, si vous avez de la toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasale :
 
