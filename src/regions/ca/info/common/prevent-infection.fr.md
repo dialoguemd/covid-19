@@ -16,9 +16,7 @@ Pensez-vous avoir la COVID-19 ? [Faites une auto-évaluation](https://ca.thrive.
 
 ##### Voyageurs
 
-Les voyageurs peuvent être plus exposés au risque d'attraper la COVID-19. Il est conseillé aux Canadiens d'éviter tout voyage non essentiel. Si vous devez voyager, consultez les plus récents conseils aux voyageurs avant votre départ.
-
-Nous continuerons de modifier nos évaluations des risques en fonction des plus récentes données.
+Consultez cette [page](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html) pour toutes les informations concernant les voyageurs.
 
 ##### Si vous ou votre enfant tombez malade
 
@@ -62,24 +60,28 @@ Une hygiène adéquate peut aider à réduire le risque de contracter ou de tran
 
 ### Nettoyage
 
-Santé Canada a publié une liste de désinfectants pour surfaces dures susceptibles d'être efficaces contre les coronavirus (COVID-19).
+Les coronavirus sont parmi les types de virus les plus faciles à tuer avec un produit désinfectant approprié, lorsqu'ils sont utilisés conformément au mode d'emploi figurant sur l'étiquette. Santé Canada a publié une [liste de désinfectants pour surfaces dures](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/desinfectants/covid-19/liste.html) susceptibles d'être efficaces contre la COVID-19.
 
-Bien qu'ils ne prétendent pas tuer des virus tels que la COVID-19, les nettoyants peuvent jouer un rôle en aidant à limiter le transfert des micro-organismes. Santé Canada recommande d’utiliser du nettoyant ou de l’eau de Javel dilué (1 partie d’eau de Javel pour 9 parties d’eau) sur les surfaces à fortes sollicitation comme les :
+Bien qu'ils ne prétendent pas tuer la COVID-19, les nettoyants peuvent jouer un rôle en aidant à limiter le transfert des micro-organismes. Pour les surfaces à forte sollicitation, Santé Canada recommande d'utiliser du nettoyant ou de l'eau de javel diluée. Cette solution d'eau de javel doit être préparée selon le mode l'emploi sur l'étiquette ou dans une proportion de 1 c. thé (5 mL) par tasse (250 mL). Les instructions sont basées sur de l'eau de javel à 5% d'hypochlorite de sodium, pour donner une solution d'hypochlorite de sodium de 0,1 %.
+
+Ces surfaces comprennent les :
 
 - jouets
 - toilettes
 - téléphones
-- appareils électroniques
-- poignées de porte
-- tables de chevet
 - télécommandes
+- tables de chevet
+- poignées de porte
+- appareils électroniques
+
+Pour plus d'informations, consultez les [lignes directrices sur le nettoyage et la désinfection des espaces publics](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/nettoyage-desinfection-espaces-publics.html).
 
 ### Port d'un masque
 
-Si vous êtes en santé, l'utilisation d'un masque n'est pas recommandée pour prévenir la propagation du COVID-19.
+Si vous êtes en santé, l'utilisation d'un masque n'est pas recommandée pour prévenir la propagation de la COVID-19.
 
 Le port d'un masque lorsque vous n'êtes pas malade peut vous donner une fausse impression de sécurité. Il existe un risque potentiel d'infection associée à l'utilisation et à l'élimination inappropriées du masque. Il faut également le changer fréquemment.
 
-Votre fournisseur de soins de santé peut toutefois vous recommander de porter un masque si vous ressentez les symptômes du COVID-19 pendant que vous cherchez à obtenir des soins ou que vous attendez d'en recevoir. Dans ces cas précis, le masque est une mesure adéquate de prévention et de contrôle des infections. Le masque est comme un obstacle qui vous empêche de propager les gouttelettes que vous projetez quand vous éternuez ou toussez.
+Votre fournisseur de soins de santé peut toutefois vous recommander de porter un masque si vous ressentez les symptômes de la COVID-19 pendant que vous cherchez à obtenir des soins ou que vous attendez d'en recevoir. Dans ces cas précis, le masque est une mesure adéquate de prévention et de contrôle des infections. Le masque agit comme barrière et aide à empêcher les minuscules gouttelettes de se propager lorsque vous toussez ou éternuez.
 
-[Source: Gouvernement du Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
+[Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
