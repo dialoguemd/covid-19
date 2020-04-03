@@ -16,9 +16,7 @@ Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health
 
 ##### Travellers
 
-The risk for getting COVID-19 may be increased for travellers. Canadians are advised to avoid all non-essential travel. If you must travel, check the latest travel advice before you leave.
-
-We will continue to adapt our risk assessment based on the latest data available.
+Consult this [page](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) for all information concerning travellers.
 
 ##### If you or your child become ill
 
@@ -63,9 +61,11 @@ Proper hygiene can help reduce the risk of infection or spreading infection to o
 
 ### Cleaning
 
-Health Canada has published a list of hard surface disinfectants that are likely to be effective for use against coronavirus (COVID-19).
+Coronaviruses are one of the easiest types of viruses to kill with the appropriate disinfectant product when used according to the label directions. Health Canada has published a [list of hard surface disinfectants](https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/list.html) that are likely to be effective for use against COVID-19.
 
-Although they do not claim to kill viruses such as COVID-19, cleaners can play a role in helping limit the transfer of microorganisms. Health Canada recommends cleaning often, using either regular household cleaners or diluted bleach (1 part bleach to 9 parts water) the following high-touch surfaces:
+Although they do not claim to kill COVID-19, cleaners can play a role in limiting the transfer of microorganisms. Health Canada recommends cleaning high-touch surfaces often, using either regular household cleaners or diluted bleach. This bleach solution should be prepared according to the instructions on the label or in a ratio of 1 teaspoon (5 mL) per cup (250 mL). Directions are based on bleach that is 5% sodium hypochlorite, to give a 0.1% sodium hypochlorite solution.
+
+These surfaces include:
 
 - toys
 - toilets
@@ -74,6 +74,8 @@ Although they do not claim to kill viruses such as COVID-19, cleaners can play a
 - door handles
 - bedside tables
 - television remotes
+
+Refer to the [guidance on cleaning and disinfecting public spaces](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/cleaning-disinfecting-public-spaces.html) for more information.
 
 ### Wearing masks
 
