@@ -20,4 +20,4 @@ Les personnes qui se sont auto-isolées peuvent reprendre leurs activités norma
 
 Des informations plus détaillées sur [l'auto-isolement et l'autosurveillance sont disponibles ici](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
 
-[Source: BC Centre for Disease Control (en anglais)](<http://www.bccdc.ca/health-info/diseases-conditions/coronavirus-(novel)#Information--about--the--virus>)
+[Source: BC Centre for Disease Control (en anglais)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
