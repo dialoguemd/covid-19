@@ -2,17 +2,30 @@
 
 ### Preventing coronavirus
 
-Canadians should continue to think ahead about the actions that they can take to stay healthy and prevent the spread of COVID-19 in Canada, including:
+Canadians should continue to think ahead about the actions that they can take to stay healthy and prevent the spread of COVID-19 in Canada. This includes staying at home as much as possible and being prepared in case you or a family member becomes ill. Everyone should be practising physical (social) distancing. Even if you do not have symptoms of COVID-19, you could become infected by others.
 
-- [being prepared](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html) in case you or a family member become ill
-- following the latest travel advice from federal and provincial public health leaders:
-  - avoiding all non-essential travel, including cruise ships
-  - self-isolating, and monitoring for symptoms (cough, fever or difficulty breathing) for 14 days if you have travelled outside of Canada
-- reducing contact with others by following the guidance for self-monitoring, self-isolating, or isolating
-- practicing social distancing and proper hygiene
-- wearing masks, if necessary
+As we continue to see transmission of the virus within different communities, we know that everyone must take precautions, even those who have not travelled outside of Canada.
 
-Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health/covid19/en)
+In an effort to prevent the spread of COVID-19 within communities and across the country, all Canadians are advised to:
+
+- stay at home unless you have to go to work
+  - talk to your employer about working at home if possible
+- avoid all non-essential trips in your community
+- do not gather in groups
+- limit contact with people at higher risk, such as older adults and those in poor health
+- go outside to exercise but stay close to home
+- if you leave your home, always keep a distance of at least 2 arms lengths (approximately 2 metres) from others
+  - household contacts (people you live with) do not need to distance from each other unless they are sick or have travelled in the last 14 days
+  
+You can go for a walk if you:
+
+- have not been diagnosed with COVID-19
+- do not have symptoms of COVID-19
+- have not travelled outside of Canada in the past 14 days
+
+If you go out for a walk, do not congregate and always practise physical (social) distancing by keeping at least 2 metres apart from others at all times.
+
+Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health/)
 
 ##### Travellers
 
@@ -25,7 +38,6 @@ If you are showing symptoms of COVID-19, reduce your contact with others:
 - isolate yourself at home for 14 days to avoid spreading it to others
   - if you live with others, stay in a separate room or keep a 2-metre distance
 - visit a health care professional or call your local public health authority
-
   - call ahead to tell them your symptoms and follow their instructions
 
 Children who have mild COVID-19 symptoms are able to stay at home with a caregiver throughout their recovery without needing hospitalization. If you are caring for a child who has suspected or probable COVID-19, it is important to follow the advice for caregivers. This advice will help you protect yourself, others in your home, as well as others in the community.
@@ -46,7 +58,7 @@ This means making changes in your everyday routines to minimize close contact wi
 - avoiding crowded places and non-essential gatherings
 - avoiding common greetings, such as handshakes
 - limiting contact with people at higher risk like older adults and those in poor health
-- keeping a distance of at least 2 arms lengths (approximately 2 metres) from others, as much as possible
+- keeping a distance of at least 2 arms lengths (approximately 2 metres) from others
 
 ### Hygiene
 
@@ -79,10 +91,34 @@ Refer to the [guidance on cleaning and disinfecting public spaces](https://www.c
 
 ### Wearing masks
 
-If you are a healthy individual, the use of a mask is not recommended for preventing the spread of COVID-19.
+Medical masks, including surgical, medical procedure face masks and respirators (like N95 masks), must be kept for healthcare workers and others providing direct care to COVID-19 patients.
 
-Wearing a mask when you are not ill may give a false sense of security. There is a potential risk of infection with improper mask use and disposal. They also need to be changed frequently.
+Wearing a non-medical mask (for example a homemade cloth mask) in the community has not been proven to protect the person wearing it. Strict hygiene and public health measures, including frequent hand washing and physical (social) distancing, will reduce your chance of being exposed to the virus.
 
-However, your health care provider may recommend you wear a mask if you are experiencing symptoms of COVID-19 while you are seeking or waiting for care. In this instance, masks are an appropriate part of infection prevention and control measures. The mask acts as a barrier and helps stop the tiny droplets from spreading when you cough or sneeze.
+Wearing a non-medical mask is an additional measure you can take to protect others around you.
+
+Wearing a non-medical mask is another way to cover your mouth and nose to prevent your respiratory droplets from contaminating others or landing on surfaces. Just like our recommendation not to cough into your hands (instead, cover your cough with tissues or your sleeve) a mask can reduce the chance that others are coming into contact with your respiratory droplets. 
+
+If wearing a non-medical mask makes you feel safer and stops you from touching your nose and mouth, that is also good. But remember not to touch or rub your eyes.
+
+It is important to understand that non-medical masks have limitations and need to be used safely.
+
+If you choose to use a non-medical face mask:
+
+- you must wash your hands immediately before putting it on and immediately after taking it off (in addition to practicing good hand hygiene while wearing it)
+- it should fit well (non-gaping)
+- you should not share it with others
+
+Face masks can become contaminated on the outside, or when touched by your hands. When wearing a mask, take the following precautions to protect yourself:
+
+- avoid touching your face mask while using it
+- change a cloth mask as soon as it gets damp or soiled
+  - put it directly into the washing machine or a bag that can be emptied into the washing machine and then disposed of
+  - cloth masks can be laundered with other items using a hot cycle, and then dried thoroughly.
+- non-medical masks that cannot be washed should be discarded and replaced as soon as they get damp, soiled or crumpled
+  - dispose of masks properly in a lined garbage bin
+  - don’t leave discarded masks in shopping carts, on the ground, etc.
+
+Non-medical masks alone will not prevent the spread of COVID-19. You must consistently and strictly adhere to good hygiene and public health measures, including frequent hand washing and physical (social) distancing.
 
 [Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
