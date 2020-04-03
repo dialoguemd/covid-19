@@ -9,7 +9,7 @@ You should get tested if you are experiencing symptoms of COVID-19:
 
 [Source](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/getting-tested-covid-19#who-should-get-tested-for-covid-19-)
 
-If you are experiencing milder symptoms such as fever, cough or flu-like, take the [NWT Online COVID-19 Self-Assessment Tool](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/nwt-online-covid-19-self-assessment-tool), or call:
+If you or someone in your household is experiencing symptoms of COVID-19, take the [NWT Online COVID-19 Self-Assessment Tool](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/nwt-online-covid-19-self-assessment-tool), or call:
 
 - Yellowknife: 867-767-9120 or book online at www.nthssa.ca/appointments
 - Inuvik: 867-490 –2225
@@ -17,8 +17,6 @@ If you are experiencing milder symptoms such as fever, cough or flu-like, take t
 - Hay River: 867-874-7201 (between 08:30-16.30). After hours call Emergency Department at (867) 874-8050
 - Other Communities can call their local health centres, [www.hss.gov.nt.ca/health-centres](www.hss.gov.nt.ca/health-centres)
 
-If your symptoms are severe (i.e. shortness of breath) call 9-1-1.
-
-Please describe your symptoms over the phone before your appointment so the clinic can arrange to see you without exposing others. Let them know if you have travelled or have been exposed to someone with COVID-19 in the last 14 days.
+A health care provider will provide guidance on testing. Anyone who is experiencing severe symptoms is advised to call 9-1-1.
 
 [Source: Government of Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/advice-nwt-residents)
