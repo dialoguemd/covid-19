@@ -1,4 +1,4 @@
-## 🌍Internationale Risikogebiete
+## 🌍 Internationale Risikogebiete
 
 Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationale Risikogebiete** definiert (letzte Aktualisierung des RKI am 2.4.2020 um 19:50 Uhr):
 
