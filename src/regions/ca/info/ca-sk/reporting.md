@@ -23,4 +23,4 @@ When you return to the province after a period of time in another country, inclu
 
 For general questions on travel recommendations and prevention measures, email COVID19@health.gov.sk.ca.
 
-[Source: Government of Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/testing-information)
+[Source: Government of Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/travel-information)
