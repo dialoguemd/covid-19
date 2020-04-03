@@ -13,10 +13,11 @@ Afin de prévenir la propagation du COVID-19 dans les collectivités et à trave
 - évitez tous les déplacements non essentiels dans la communauté
 - ne participez pas à des rassemblements de groupe
 - limitez les contacts avec les personnes présentant un risque plus élevé (comme les aînés et les personnes en mauvaise santé)
-sortez pour faire de l'exercice, mais demeurez près de votre domicile
+  sortez pour faire de l'exercice, mais demeurez près de votre domicile
 - si vous sortez de chez vous, gardez toujours une distance d'au moins 2 longueurs de bras (environ 2 mètres) entre vous et les autres
+
   - les membres du ménage (les personnes avec lesquelles vous vivez) n'ont pas besoin de s'éloigner les uns des autres, sauf s'ils sont malades ou s'ils ont voyagé au cours des 14 derniers jours
-  
+
 Vous pouvez aller faire une promenade dans les cas suivants :
 
 - vous n'avez pas reçu de diagnostic de la COVID-19
@@ -97,7 +98,7 @@ Rien ne prouve que le port d’un masque non médical (par exemple un masque en 
 
 Porter un masque non médical est une mesure supplémentaire que vous pouvez prendre pour protéger les personnes qui vous entourent.
 
-Le port d’un masque non médical est une autre façon de couvrir votre bouche et votre nez pour éviter que vos gouttelettes respiratoires ne contaminent les autres ou n’atterrissent sur des surfaces. Tout comme notre recommandation de ne pas tousser dans vos mains (toussez plutôt dans un mouchoir ou sur votre manche), un masque peut réduire le risque que d’autres personnes soient exposées à vos gouttelettes respiratoires. 
+Le port d’un masque non médical est une autre façon de couvrir votre bouche et votre nez pour éviter que vos gouttelettes respiratoires ne contaminent les autres ou n’atterrissent sur des surfaces. Tout comme notre recommandation de ne pas tousser dans vos mains (toussez plutôt dans un mouchoir ou sur votre manche), un masque peut réduire le risque que d’autres personnes soient exposées à vos gouttelettes respiratoires.
 
 Si le port d’un masque non médical vous sécurise et vous empêche de toucher votre nez et votre bouche, c’est également une bonne chose. Mais n’oubliez pas d'éviter de vous toucher ou frotter les yeux.
 
