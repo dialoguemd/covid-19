@@ -15,8 +15,9 @@ In an effort to prevent the spread of COVID-19 within communities and across the
 - limit contact with people at higher risk, such as older adults and those in poor health
 - go outside to exercise but stay close to home
 - if you leave your home, always keep a distance of at least 2 arms lengths (approximately 2 metres) from others
+
   - household contacts (people you live with) do not need to distance from each other unless they are sick or have travelled in the last 14 days
-  
+
 You can go for a walk if you:
 
 - have not been diagnosed with COVID-19
@@ -97,7 +98,7 @@ Wearing a non-medical mask (for example a homemade cloth mask) in the community 
 
 Wearing a non-medical mask is an additional measure you can take to protect others around you.
 
-Wearing a non-medical mask is another way to cover your mouth and nose to prevent your respiratory droplets from contaminating others or landing on surfaces. Just like our recommendation not to cough into your hands (instead, cover your cough with tissues or your sleeve) a mask can reduce the chance that others are coming into contact with your respiratory droplets. 
+Wearing a non-medical mask is another way to cover your mouth and nose to prevent your respiratory droplets from contaminating others or landing on surfaces. Just like our recommendation not to cough into your hands (instead, cover your cough with tissues or your sleeve) a mask can reduce the chance that others are coming into contact with your respiratory droplets.
 
 If wearing a non-medical mask makes you feel safer and stops you from touching your nose and mouth, that is also good. But remember not to touch or rub your eyes.
 
