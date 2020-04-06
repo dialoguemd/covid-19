@@ -3,8 +3,8 @@
 If you start to feel symptoms of COVID-19
 
 - Anyone who begins to feel unwell (fever, new cough or difficulty breathing) should return home and self-isolate immediately.
-- People who are self-isolating should seek clinical assessment over the phone - either by calling their primary care provider's office or Telehealth Ontario 1-866-797-0000. If you need additional assessment, your primary care provider or 
-Telehealth Ontario will direct you to in-person care options.
+- People who are self-isolating should seek clinical assessment over the phone - either by calling their primary care provider's office or Telehealth Ontario 1-866-797-0000. If you need additional assessment, your primary care provider or
+  Telehealth Ontario will direct you to in-person care options.
 
 If you need immediate medical attention you should call 911 and mention your travel history and symptoms.
 
