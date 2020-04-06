@@ -2,6 +2,8 @@
 
 Toute personne, inscrite ou non-inscrite à un médecin de famille, qui a des symptômes et qui a, ou pense avoir, un besoin de consultation en médecine de famille afin d’obtenir une évaluation clinique par une infirmière et être dirigée au besoin vers la ressource adéquate devra téléphoner au 1 877 644-4545. Ainsi, les formulaires de dépistage et d’évaluation ne sont dorénavant plus accessibles. Toutefois, un suivi sera effectué pour toutes les demandes en cours de traitement. Pour les intervenants de Service Québec, svp vous référer à votre supérieur pour plus d’information.
 
+[Source](https://covid19.quebec.ca/evaluation/)
+
 Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/) est conçu pour aider les gens à prendre les meilleures décisions possibles pour leur santé et celle de leurs proches durant la pandémie de la COVID-19. Il permet plus précisément de connaître les meilleurs moyens de se protéger de la COVID-19, de prendre soin de soi, de donner les soins de base à son entourage et de savoir où et quand consulter si l'on a besoin de soins ou de services.
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
