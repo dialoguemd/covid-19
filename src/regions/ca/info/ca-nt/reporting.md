@@ -17,6 +17,6 @@ If you or someone in your household is experiencing symptoms of COVID-19, take t
 - Hay River: 867-874-7201 (between 08:30-16.30). After hours call Emergency Department at (867) 874-8050
 - Other Communities can call their local health centres, [www.hss.gov.nt.ca/health-centres](www.hss.gov.nt.ca/health-centres)
 
-A health care provider will provide guidance on testing. Anyone who is experiencing severe symptoms is advised to call 9-1-1.
+A health care provider will provide guidance on testing. Anyone who is experiencing severe symptoms is advised to call 9-1-1. Please describe your symptoms over the phone before your appointment so the clinic can arrange to see you without exposing others. Let them know if you have travelled or have been exposed to someone with COVID-19 in the last 14 days.
 
 [Source: Government of Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/advice-nwt-residents)
