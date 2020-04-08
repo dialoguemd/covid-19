@@ -1,6 +1,6 @@
 ## Nouvelle-Écosse: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Il n'est pas nécessaire pour tout le monde qui a des inquiétudes au sujet de la maladie COVID-19 de communiquer avec le 811. Pour déterminer si vous avez besoin de le faire, utilisez l'[outil d'auto-évaluation en ligne](https://811.novascotia.ca/?lang=fr).
+Il n'est pas nécessaire pour tout le monde qui a des inquiétudes au sujet de la maladie COVID-19 de communiquer avec le 811. Pour déterminer si vous avez besoin de le faire, consulter le site Web du service [811](https://811.novascotia.ca/?lang=fr).
 
 La Régie de la santé de la Nouvelle-Écosse a mis en place des [centres de dépistage de la maladie COVID-19](http://www.nshealth.ca/coronavirus-assessment). Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres. Ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811
 
