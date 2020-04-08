@@ -2,7 +2,7 @@
 
 Anyone, registered or not registered with a family doctor, who has symptoms and who has, or thinks they have, a need for family medicine consultation in order to obtain a clinical evaluation by a nurse and be referred as necessary to the appropriate resource should telephone 1 877 644-4545. As a result, screening and assessment forms are no longer accessible. However, follow-up will be done for all requests being processed. For Service Quebec workers, please refer to your supervisor for more information.
 
-[Source](Source :https://covid19.quebec.ca/evaluation/)
+[Source](https://covid19.quebec.ca/evaluation/)
 
 The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to enable Quebecers to make the best possible decisions to protect their health and the health of their loved ones during the COVID-19 pandemic. More specifically, it indicates to them how best to protect themselves against COVID-19, take care of themselves and provide basic care to their family circle, and know where and when to consult if the need arises for care services.
 
