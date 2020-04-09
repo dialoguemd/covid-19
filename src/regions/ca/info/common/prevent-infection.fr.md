@@ -104,6 +104,12 @@ Si le port d’un masque non médical vous sécurise et vous empêche de toucher
 
 Il est important de comprendre que les masques non médicaux ont leurs limites et qu’ils doivent être utilisés prudemment.
 
+Les masques non médicaux ou les couvre-visages ne devraient pas être mis sur :
+
+- des enfants de moins de deux ans
+- une personne qui a de la difficulté à respirer
+- une personne qui est inconsciente, inapte ou n'est pas capable d'enlever le masque sans aide
+
 Si vous choisissez d’utiliser un masque facial non médical, vous devez :
 
 - vous laver les mains immédiatement avant de le mettre et immédiatement après l’avoir enlevé (en plus de pratiquer une bonne hygiène des mains pendant que vous le portez);
@@ -120,6 +126,6 @@ Les masques faciaux peuvent être contaminés lorsque vous allez à l’extérie
   - jetez les masques correctement dans une poubelle doublée de plastique
   - ne laissez aucun masque usagé dans les chariots de supermarché, sur le sol, etc.
 
-Les masques médicaux seuls n’empêcheront pas la propagation de la COVID-19. Vous devez suivre à la lettre et en tout temps les consignes d’hygiène adéquate et de santé publique, dont le lavage des mains fréquent et l’éloignement physique (distanciation sociale).
+Les masques  seuls n’empêcheront pas la propagation de la COVID-19. Vous devez suivre à la lettre et en tout temps les consignes d’hygiène adéquate et de santé publique, dont le lavage des mains fréquent et l’éloignement physique (distanciation sociale).
 
 [Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
