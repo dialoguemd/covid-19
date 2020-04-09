@@ -155,7 +155,7 @@ export const InfoPage: React.FC = () => {
     <InfoPageContainer>
       <ScrollAnchor />
       <Header />
-      {hasClasses && (
+      {hasClasses ? (
         <>
           <Title>{t('resultsPage.headerTitle')}</Title>
           <Audience>
@@ -179,17 +179,6 @@ export const InfoPage: React.FC = () => {
           <Spacer />
           <ShareResults classes={classes} />
         </>
-      )}
-      {config.ENABLE_FAQ_BOT ? (
-        <FaqChatbotContainer>
-          <Chatbot
-            key={i18n.languages[0]}
-            steps={faqSteps}
-            handleEnd={onFaqChatbotEnd}
-            placeholder={t('resultsPage.faqInputPlaceholder')}
-            showInput
-          />
-        </FaqChatbotContainer>
       ) : (
         <InfoCard
           css={`
@@ -199,6 +188,17 @@ export const InfoPage: React.FC = () => {
         >
           <p>{t('resultsPage.noResultsMessage')}</p>
         </InfoCard>
+      )}
+      {config.ENABLE_FAQ_BOT && (
+        <FaqChatbotContainer>
+          <Chatbot
+            key={i18n.languages[0]}
+            steps={faqSteps}
+            handleEnd={onFaqChatbotEnd}
+            placeholder={t('resultsPage.faqInputPlaceholder')}
+            showInput
+          />
+        </FaqChatbotContainer>
       )}
       <Footer />
     </InfoPageContainer>
