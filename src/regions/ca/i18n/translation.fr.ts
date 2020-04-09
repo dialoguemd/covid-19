@@ -27,6 +27,9 @@ export default {
     previousRunExpired:
       'Les réponses de votre dernière session ont expiré. Veuillez lancer une nouvelle conversation pour obtenir les informations les plus récentes.'
   },
+  rasaChatWidget: {
+    title: "COVID-19"
+  },
   classes: {
     common: 'à tous les Canadiens',
     'ca-qc': 'aux résidents du Québec',

@@ -5,6 +5,7 @@ import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
 
 import InfoPage from './pages/info'
 import WelcomePage from './pages/welcome'
+import RasaWelcomePage from './pages/rasa-welcome'
 import QuestionnairePage from './pages/questionnaire'
 import { theme } from './theme'
 import GlobalStyles from './styles'
@@ -32,6 +33,9 @@ function App() {
             </Route>
             <Route path="/chat/">
               <QuestionnairePage />
+            </Route>
+            <Route path="/rasa/">
+              <RasaWelcomePage />
             </Route>
             <Route path="*">
               <Redirect to="/" />

@@ -1,6 +1,6 @@
 import styled from 'styled-components/macro'
 
-export const CtaButton = styled.button`
+export const CtaButton = styled.a`
   align-items: center;
   transition: background 200ms linear, opacity 200ms linear;
   font-size: ${props => props.theme.sizes.buttonText};

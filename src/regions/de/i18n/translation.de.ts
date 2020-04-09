@@ -25,6 +25,9 @@ export default {
     previousRunExpired:
       'Die Antworten aus der letzten Sitzung sind abgelaufen. Bitte starten Sie einen neuen Chat, um aktuelle Informationen zu erhalten.'
   },
+  rasaChatWidget: {
+    title: "COVID-19"
+  },
   classes: {
     common: 'Allgemeine Informationen',
     de: 'Personen jeder deutschen Region',
