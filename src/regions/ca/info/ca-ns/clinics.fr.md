@@ -16,4 +16,4 @@ Si vous avez répondu oui à deux questions ou plus, appelez le service 811 pour
 
 Si vous éprouvez d’autres symptômes qui vous inquiètent, appelez le 811 pour parler à une infirmière.
 
-[Source: Régie de la santé de la Nouvelle-Écosse](hhttps://when-to-call-about-covid19.novascotia.ca/fr)
+[Source: Régie de la santé de la Nouvelle-Écosse](https://when-to-call-about-covid19.novascotia.ca/fr)
