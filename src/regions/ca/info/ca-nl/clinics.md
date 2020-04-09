@@ -1,6 +1,6 @@
 ## Newfoundland and Labrador: Self-assessment tool
 
-The Government of Newfoundland and Labrador has developped [this self-assessment tool](https://www.811healthline.ca/covid-19-self-assessment/)) to help determine whether you should get tested for COVID-19.
+The Government of Newfoundland and Labrador has developped [this self-assessment tool](https://www.811healthline.ca/covid-19-self-assessment/) to help determine whether you should get tested for COVID-19.
 
 You can complete this assessment for yourself or on behalf of someone else, if they are not able.
 
