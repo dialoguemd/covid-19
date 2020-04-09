@@ -2,9 +2,8 @@ import React from 'react'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 import { mobileBreakpoint } from 'theme'
-import { requireRegionFile } from 'services/region-loader'
+import { config } from 'services/config'
 import { CtaButton } from 'components/buttons'
-const config = requireRegionFile('config.json')
 
 const ShareContainer = styled.div`
   padding: 15px 0 25px 0;

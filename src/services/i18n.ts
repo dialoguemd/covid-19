@@ -2,8 +2,9 @@ import i18n from 'i18next'
 import i18nLanguageDetector from 'i18next-browser-languagedetector'
 import { initReactI18next } from 'react-i18next'
 import { requireRegionFile } from 'services/region-loader'
+import { config } from 'services/config'
 
-const { ENABLED_LANGUAGES } = requireRegionFile('config.json')
+const { ENABLED_LANGUAGES } = config
 
 const langToResources = lang => ({
   steps: requireRegionFile(`i18n/steps.${lang}.ts`).default,
@@ -32,5 +33,10 @@ i18n
       caches: []
     }
   })
+
+// Define global string replacements
+i18n.options.interpolation.defaultVariables = {
+  botName: config.BOT_NAME || i18n.t('botName')
+}
 
 export default i18n

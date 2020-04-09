@@ -13,8 +13,7 @@ import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
 import { CtaButton } from 'components/buttons'
 import { requireRegionFile } from 'services/region-loader'
-
-const config = requireRegionFile('config.json')
+import { config } from 'services/config'
 
 const faqSteps = config.ENABLE_FAQ_BOT
   ? requireRegionFile('steps.faq.json')

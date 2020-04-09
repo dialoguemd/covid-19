@@ -1,7 +1,7 @@
 export default {
   intro1: 'Bonjour!',
   intro2:
-    "Je suis Chloe, une assistante virtuelle médicale automatisée. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
+    "Je suis {{botName}}, une assistante virtuelle médicale automatisée. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
   intro3: `
 	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin. Si vous présentez des symptômes graves, consultez un médecin.
 
