@@ -8,6 +8,4 @@ Nova Scotia Health Authority has established [COVID-19 assessment centres](http:
 
 The Province of Nova Scotia, under the authority of the Health Protection Act, is requiring anyone who has travelled outside Nova Scotia to self-isolate for 14 days from the day they get back to the province, even if they do not have symptoms.
 
-If you’ve travelled recently and you develop a fever and/or new cough, you should call 811 for assessment.
-
 [Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/)
