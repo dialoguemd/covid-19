@@ -8,6 +8,13 @@
 - If your symptoms worsen, call 811. We are experiencing heavy call volumes and will get to your call as quickly as we can.
 - Call 911 if you are seriously ill and need immediate medical attention. Inform them that you may have COVID-19.
 
+If you are in mandatory self-isolation:
+
+- Do not go outside for a walk through your neighbourhood or park. This includes children in mandatory self-isolation.
+- You can get fresh air in your backyard, if you have one, but you must remain on private property not accessible by others.
+- If you live in an apartment building or highrise, you must stay inside and cannot use the elevators or stairwells to go outside. If your balcony is private and at least 2 metres away from your closest neighbour's, you may go outside on the balcony.
+- This directive is consistent with the new federal requirements under the Quarantine Act.
+
 #### Info for Travellers
 
 Returning to Alberta:
