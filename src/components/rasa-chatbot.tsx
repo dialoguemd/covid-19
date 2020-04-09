@@ -32,7 +32,7 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
 const RasaChatWidget = styled(WrappedWidget)`
   .rw-widget-wrapper-css {
     .rw-launcher {
-      background-color: ${(props) => props.theme.colors.primary};
+      background-color: ${props => props.theme.colors.primary};
       box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     }
 
@@ -40,12 +40,12 @@ const RasaChatWidget = styled(WrappedWidget)`
       .rw-header,
       .rw-client {
         /* original background-color is !important in rasa-webchat */
-        background-color: ${(props) => props.theme.colors.primary} !important;
+        background-color: ${props => props.theme.colors.primary} !important;
       }
 
       .rw-close-button,
       .rw-toggle-fullscreen-button {
-        background-color: ${(props) => props.theme.colors.primary};
+        background-color: ${props => props.theme.colors.primary};
       }
     }
   }

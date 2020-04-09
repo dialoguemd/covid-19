@@ -7,7 +7,7 @@ export default {
     audiencePrefix: "Les informations ci-dessous s'appliquent ",
     lastModified: 'Mise à jour {{date}}',
     feedbackLabel: 'Ceci vous a-t-il aidé?',
-    faqInputPlaceholder: 'Saisissez votre question',
+    faqInputPlaceholder: 'Saisissez votre question'
   },
   share: {
     viewResults: "Voir votre trousse d'information",
@@ -15,7 +15,7 @@ export default {
     facebookButton: 'Partager sur Facebook',
     twitterShareText:
       'Dernières informations COVID-19 du Gouvernement Canadien %23coronavirus {{url}}',
-    CTA: 'Passez le mot, pas le virus.',
+    CTA: 'Passez le mot, pas le virus.'
   },
   welcomePage: {
     title: 'COVID-19: Ce que vous devez savoir',
@@ -25,10 +25,10 @@ export default {
     previousRunLink:
       'Voir les informations les plus récentes pour votre dernière session',
     previousRunExpired:
-      'Les réponses de votre dernière session ont expiré. Veuillez lancer une nouvelle conversation pour obtenir les informations les plus récentes.',
+      'Les réponses de votre dernière session ont expiré. Veuillez lancer une nouvelle conversation pour obtenir les informations les plus récentes.'
   },
   rasaChatWidget: {
-    title: 'COVID-19',
+    title: 'COVID-19'
   },
   classes: {
     common: 'à tous les Canadiens',
@@ -50,7 +50,7 @@ export default {
       'aux personnes présentant un risque accru de complications',
     'elevated-covid-risk':
       "aux personnes présentant un risque accru d'infection",
-    faq: 'à tous.',
+    faq: 'à tous.'
   },
   footer: {
     bottomText:
@@ -62,13 +62,13 @@ export default {
       ['Dialogue', 'https://dialogue.co/fr'],
       [
         'Ressources pour organisations canadiennes',
-        'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747',
+        'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747'
       ],
       ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/'],
       [
         "Aidez à construire l'IA. Posez une question COVID-19.",
-        'https://covid19.dialogue.co/#/info',
-      ],
+        'https://covid19.dialogue.co/#/info'
+      ]
     ],
     adminAreaHeader: 'Pour les résidents de provinces',
     adminAreaMenu: [
@@ -84,21 +84,21 @@ export default {
       ['Yukon', 'ca-yt'],
       ['Territoires du Nord-Ouest', 'ca-nt'],
       ['Terre-Neuve et Labrador', 'ca-nl'],
-      ['Nuvavut', 'ca-nu'],
+      ['Nuvavut', 'ca-nu']
     ],
     classHeader: 'Pour les Canadiens',
     classMenu: [
       ['Informations générales', 'common'],
       [
         "Personnes présentant un risque accru d'infection",
-        'elevated-covid-risk',
+        'elevated-covid-risk'
       ],
       [
         'Personnes présentant un risque accru de complications',
-        'elevated-medical-risk',
+        'elevated-medical-risk'
       ],
       ['Personnes avec des voyages prévus', 'travel-plans'],
-      ['Foire aux questions', 'faq'],
-    ],
-  },
+      ['Foire aux questions', 'faq']
+    ]
+  }
 }
