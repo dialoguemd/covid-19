@@ -15,8 +15,6 @@ Si vous êtes en auto-isolement obligatoire :
 - Si vous vivez dans un immeuble d'habitation ou une tour, vous devez rester à l'intérieur et ne pouvez pas utiliser les ascenseurs ou les cages d'escalier pour aller à l'extérieur. Si votre balcon est privé et qu'il se trouve à au moins 2 mètres de celui de votre voisin le plus proche, vous pouvez sortir sur le balcon.
 - Cette directive est conforme aux nouvelles exigences fédérales de la loi sur la quarantaine.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
-
 ## Informations pour les voyageurs
 
 Retour en Alberta :
