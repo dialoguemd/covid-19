@@ -10,14 +10,16 @@ If your symptoms are severe, such as difficulty breathing (e.g. struggling to br
 
 ### I am a returning traveller, should I self-isolate or stay home from public spaces?
 
-It is mandatory that anyone arriving in British Columbia from outside of Canada self-isolate and monitor for symptoms for 14 days upon their arrival. Returning travellers that develop respiratory symptoms are also required to self-isolate for a minimum of 10 days after the onset of symptoms, or when the symptoms resolve, whichever is later.
+All international travellers returning to British Columbia are required by law to self-isolate for 14 days upon their arrival and complete a [self-isolation plan](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return). Self-isolation plans must be reviewed by provincial government officials before travellers can return home. For more information on how to submit your self-isolation plan, go to gov.bc.ca/returningtravellers. 
 
-- Example 1: Respiratory symptoms appear five days after returning to Canada. Self-isolate for 10 additional days for a total of 15 days.
+Returning travellers that develop respiratory symptoms are also required to self-isolate for a period of 10 days after the onset of symptoms, or when the symptoms resolve, whichever is later.
 
-- Example 2: Respiratory symptoms appear two days after returning to Canada. Self-isolate for 10 additional days for a total of 12 days.
+Example 1: Respiratory symptoms appear five days after returning to Canada. Self-isolate for 10 additional days for a total of 15 days. 
 
-People who have self-isolated can return to normal activities after 14 days if they have not developed any symptoms.
+Example 2: Respiratory symptoms appear two days after returning to Canada. Self-isolate for 10 additional days for a total of 12 days.
 
-More detailed information about [self-isolation and self-monitoring are available here](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
+As of March 25, 2020, this is [mandatory under the Quarantine Act])https://www.canada.ca/en/public-health/news/2020/03/new-order-makes-self-isolation-mandatory-for-individuals-entering-canada.html). 
+
+Please visit the [Government of Canada website](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#f) for more details about self-isolation for travellers returning to Canada.
 
 [Source: BV Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
