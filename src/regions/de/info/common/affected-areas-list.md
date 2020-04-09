@@ -14,7 +14,9 @@ Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationa
 - 🇺🇸 USA: ganzes Land
 - 🇬🇧 Vereinigtes Königreich Großbritannien und Nordirland: ganzes Land
 
-[Überblick über bestätigte Covid-19 Fälle weltweit (WHO)](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+Aufgrund der pandemischen Ausbreitung von COVID-19 ist weltweit von einem Infektionsrisiko auszugehen. Wegen unterschiedlicher Surveillancesysteme und Teststrategien sowie zeitlichem Verzug zwischen Infektionszeitpunkt und Meldung lässt sich das tatsächliche Infektionsrisiko oft nicht aus den vorliegenden Meldedaten ablesen. Daher sollte generell erhöhte Vorsicht gelten. Einreisenden aus allen Ländern ist empfohlen, sich nach Einreise in eine 14-tägige Quarantäne zu begeben.
+
+[Überblick über bestätigte Covid-19 Fälle weltweit (WHO)](https://who.sprinklr.com/#)
 [Fallzahlen in Deutschland (RKI)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
 
 **Quelle:** Robert Koch-Institut
