@@ -17,7 +17,7 @@ Si vous commencez à présenter des symptômes de COVID-19 :
 
 Toute personne arrivant à Terre-Neuve-et-Labrador en provenance de l'extérieur de la province est tenue de s'isoler pendant 14 jours après son arrivée.
 
-Pour savoir comment s'isoler, veuillez consulter [About COVID-19 (en anglais seulement)](https://www.gov.nl.ca/covid-19/about-covid-19/).
+Pour savoir comment s'isoler, veuillez consulter [À propos de COVID-19 (en anglais seulement)](https://www.gov.nl.ca/covid-19/about-covid-19/).
 
 Il existe des exemptions à ces exigences. Veuillez consulter les [ordonnances de santé publique (en anglais seulement)](https://www.gov.nl.ca/covid-19/public-health-orders/) pour plus de détails.
 
