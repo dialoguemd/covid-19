@@ -104,6 +104,12 @@ If wearing a non-medical mask makes you feel safer and stops you from touching y
 
 It is important to understand that non-medical masks have limitations and need to be used safely.
 
+Non-medical masks or face coverings should not be placed on:
+
+- children under age 2
+- anyone who has trouble breathing
+- anyone who is unconscious, incapacitated or otherwise unable to remove the mask without assistance
+
 If you choose to use a non-medical face mask:
 
 - you must wash your hands immediately before putting it on and immediately after taking it off (in addition to practicing good hand hygiene while wearing it)
@@ -120,6 +126,6 @@ Face masks can become contaminated on the outside, or when touched by your hands
   - dispose of masks properly in a lined garbage bin
   - don’t leave discarded masks in shopping carts, on the ground, etc.
 
-Non-medical masks alone will not prevent the spread of COVID-19. You must consistently and strictly adhere to good hygiene and public health measures, including frequent hand washing and physical (social) distancing.
+Masks alone will not prevent the spread of COVID-19. You must consistently and strictly adhere to good hygiene and public health measures, including frequent hand washing and physical (social) distancing.
 
 [Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
