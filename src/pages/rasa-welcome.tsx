@@ -22,9 +22,9 @@ const RASA_SOCKET_ENDPOINT = process.env.REACT_APP_RASA_SOCKET_ENDPOINT
 const RASA_SOCKET_PATH = process.env.REACT_APP_RASA_SOCKET_PATH
 
 const Description = styled.h3`
-  color: ${props => props.theme.colors.text};
-  font-size: calc(${props => props.theme.sizes.buttonText});
-  padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
+  color: ${(props) => props.theme.colors.text};
+  font-size: calc(${(props) => props.theme.sizes.buttonText});
+  padding: calc(${(props) => props.theme.sizes.buttonText} * 0.75);
   font-weight: 200;
   justify-content: center;
   flex-wrap: wrap;
@@ -38,12 +38,12 @@ const Container = styled.div`
   height: 100%;
   align-items: center;
   overflow-x: hidden;
-  background-color: ${props => props.theme.colors.background};
+  background-color: ${(props) => props.theme.colors.background};
 `
 
 const Subtext = styled.h4`
-  color: ${props => props.theme.colors.text};
-  font-size: calc(${props => props.theme.sizes.buttonText} * 0.75);
+  color: ${(props) => props.theme.colors.text};
+  font-size: calc(${(props) => props.theme.sizes.buttonText} * 0.75);
   padding: 0 0.75em;
   font-weight: 200;
   justify-content: center;

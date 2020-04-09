@@ -7,7 +7,7 @@ export default {
     audiencePrefix: 'Information below applies to:',
     lastModified: 'Updated {{date}}',
     feedbackLabel: 'Was this useful?',
-    faqInputPlaceholder: 'Enter your question'
+    faqInputPlaceholder: 'Enter your question',
   },
   share: {
     viewResults: 'View information package',
@@ -15,7 +15,7 @@ export default {
     facebookButton: 'Share on Facebook',
     twitterShareText:
       'Latest COVID-19 info from Canadian Government %23coronavirus {{url}}',
-    CTA: 'Spread the word, not the virus.'
+    CTA: 'Spread the word, not the virus.',
   },
   welcomePage: {
     title: 'COVID-19: What you need to know',
@@ -24,10 +24,10 @@ export default {
     previousRunLink: 'View latest info for your last session',
     previousRunExpired:
       'Answers from last session have expired. Please start new chat to get latest information.',
-    button: 'Get Started'
+    button: 'Get Started',
   },
   rasaChatWidget: {
-    title: 'COVID-19'
+    title: 'COVID-19',
   },
   classes: {
     common: 'all Canadians',
@@ -47,7 +47,7 @@ export default {
     'travel-plans': 'people with travel plans',
     'elevated-medical-risk': 'people with an increased risk of complications',
     'elevated-covid-risk': 'people with an increased risk of infection',
-    faq: ' everyone.'
+    faq: ' everyone.',
   },
   footer: {
     bottomText:
@@ -59,13 +59,13 @@ export default {
       ['Dialogue', 'https://dialogue.co/en'],
       [
         'Resources for Canadian Organizations',
-        'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747'
+        'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747',
       ],
       ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/'],
       [
         'Help build AI. Ask a COVID-19 question.',
-        'https://covid19.dialogue.co/#/info'
-      ]
+        'https://covid19.dialogue.co/#/info',
+      ],
     ],
     adminAreaHeader: 'For Provincial Residents',
     adminAreaMenu: [
@@ -81,7 +81,7 @@ export default {
       ['Yukon', 'ca-yt'],
       ['Northern Territories', 'ca-nt'],
       ['Newfoundland and Labrador', 'ca-nl'],
-      ['Nuvavut', 'ca-nu']
+      ['Nuvavut', 'ca-nu'],
     ],
     classHeader: 'For Canadians',
     classMenu: [
@@ -89,10 +89,10 @@ export default {
       ['People with an increased risk of infection', 'elevated-covid-risk'],
       [
         'People with an increased risk of complications',
-        'elevated-medical-risk'
+        'elevated-medical-risk',
       ],
       ['People with travel plans', 'travel-plans'],
-      ['Frequently Asked Questions', 'faq']
-    ]
-  }
+      ['Frequently Asked Questions', 'faq'],
+    ],
+  },
 }
