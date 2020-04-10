@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { overrides } from 'services/overrides'
 
-import { ReactComponent as Logo } from 'images/dialogue-logo.svg'
+import LogoImage from 'images/dialogue-logo.svg'
 import LanguagePicker from './language-picker'
 import Title from './title'
 import RegionPicker from 'components/region-picker'
@@ -32,7 +32,6 @@ const LogoContainer = styled.div`
     padding: 12px 32px 8px 12px;
   }
 
-  svg,
   img {
     height: 32px;
   }
@@ -65,11 +64,7 @@ export const Header: React.FC<Props> = ({
   <>
     <LogoContainer>
       <Link to="/">
-        {overrides.images.logo ? (
-          <img alt="logo" src={overrides.images.logo} />
-        ) : (
-          <Logo />
-        )}
+        <img alt="logo" src={overrides.images.logo || LogoImage} />
       </Link>
     </LogoContainer>
     <HeaderContainer {...rest}>
