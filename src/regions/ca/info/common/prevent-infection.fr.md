@@ -126,6 +126,6 @@ Les masques faciaux peuvent être contaminés lorsque vous allez à l’extérie
   - jetez les masques correctement dans une poubelle doublée de plastique
   - ne laissez aucun masque usagé dans les chariots de supermarché, sur le sol, etc.
 
-Les masques  seuls n’empêcheront pas la propagation de la COVID-19. Vous devez suivre à la lettre et en tout temps les consignes d’hygiène adéquate et de santé publique, dont le lavage des mains fréquent et l’éloignement physique (distanciation sociale).
+Les masques seuls n’empêcheront pas la propagation de la COVID-19. Vous devez suivre à la lettre et en tout temps les consignes d’hygiène adéquate et de santé publique, dont le lavage des mains fréquent et l’éloignement physique (distanciation sociale).
 
 [Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
