@@ -10,14 +10,16 @@ Si vos symptômes sont graves, tels que des difficultés respiratoires (par exem
 
 ### Je suis un voyageur de retour, dois-je m'isoler ou rester à la maison loin des espaces publics ?
 
-Il est obligatoire que toute personne arrivant en Colombie-Britannique en provenance de l'étranger s'isole et surveille ses symptômes pendant 14 jours à son arrivée. Les voyageurs de retour qui présentent des symptômes respiratoires doivent également s'isoler pendant au moins 10 jours après l'apparition des symptômes ou lorsque ceux-ci disparaissent, selon la dernière de ces deux éventualités.
+Tous les voyageurs internationaux retournant en Colombie-Britannique sont tenus par la loi de s'isoler pendant 14 jours à leur arrivée et de remplir un [plan d'auto-isolement (en anglais seulement)](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return). Les plans d'auto-isolement doivent être examinés par les fonctionnaires du gouvernement provincial avant que les voyageurs puissent rentrer chez eux. Pour plus d'informations sur la façon de soumettre votre plan d'auto-isolement, consultez le site gov.bc.ca/returningtravellers.
 
-- Exemple 1 : Les symptômes respiratoires apparaissent cinq jours après le retour au Canada. S'isoler pendant 10 jours supplémentaires pour un total de 15 jours.
+Les voyageurs de retour qui développent des symptômes respiratoires doivent également s'isoler pendant une période de 10 jours après l'apparition des symptômes ou lorsque les symptômes se résorbent, selon la dernière éventualité.
 
-- Exemple 2 : Les symptômes respiratoires apparaissent deux jours après le retour au Canada. S'isoler pendant 10 jours supplémentaires pour un total de 12 jours.
+Exemple 1 : Les symptômes respiratoires apparaissent cinq jours après le retour au Canada. Il faut s'isoler pendant 10 jours supplémentaires, soit 15 jours au total.
 
-Les personnes qui se sont auto-isolées peuvent reprendre leurs activités normales après 14 jours si elles n'ont pas développé de symptômes.
+Exemple 2 : Les symptômes respiratoires apparaissent deux jours après le retour au Canada. S'isoler pendant 10 jours supplémentaires pour un total de 12 jours.
 
-Des informations plus détaillées sur [l'auto-isolement et l'autosurveillance sont disponibles ici](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing-isolation).
+À partir du 25 mars 2020, cette mesure est [obligatoire en vertu de la Loi sur la quarantaine](https://www.canada.ca/fr/sante-publique/nouvelles/2020/03/nouveau-decret-dauto-isolement-obligatoire-pour-les-personnes-entrant-au-canada.html).
+
+Veuillez consulter le [site Web du gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html) pour plus de détails sur l'auto-isolement des voyageurs qui retournent au Canada.
 
 [Source: BC Centre for Disease Control (en anglais)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
