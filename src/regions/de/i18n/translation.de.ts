@@ -1,4 +1,5 @@
 export default {
+  botNameIntro: 'Chloe, ',
   resultsPage: {
     headerTitle: 'COVID-19: Was Sie wissen müssen',
     noResultsMessage: 'Keine Ergebnisse gefunden.',

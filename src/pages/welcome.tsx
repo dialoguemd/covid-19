@@ -11,8 +11,8 @@ import { CtaButton } from 'components/buttons'
 
 import { requireRegionFile } from 'services/region-loader'
 import { checkClassesValidity } from 'services/content'
+import { config } from 'services/config'
 
-const config = requireRegionFile('config.json')
 const flagImage = requireRegionFile('images/flag.jpg')
 
 const SHOW_PREVIOUS_RESULTS_LINK = config.ENABLE_PREVIOUS_RESULTS_LINK

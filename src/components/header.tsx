@@ -1,17 +1,18 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
+import { overrides } from 'services/overrides'
 
-import { ReactComponent as Logo } from 'images/dialogue-logo.svg'
+import LogoImage from 'images/dialogue-logo.svg'
 import LanguagePicker from './language-picker'
 import Title from './title'
 import RegionPicker from 'components/region-picker'
 import { mobileBreakpoint } from 'theme'
-import { requireRegionFile } from 'services/region-loader'
+import { config } from 'services/config'
 
-const config = requireRegionFile('config.json')
 const isLocalhost = window.location.hostname === 'localhost'
 const ENABLE_REGION_SWITCHING = isLocalhost || config.ENABLE_REGION_SWITCHING
+const { ENABLE_LOGO } = config
 
 interface Props {
   title?: string
@@ -30,6 +31,10 @@ const LogoContainer = styled.div`
 
   @media (max-width: ${mobileBreakpoint}px) {
     padding: 12px 32px 8px 12px;
+  }
+
+  img {
+    height: 32px;
   }
 `
 
@@ -58,11 +63,13 @@ export const Header: React.FC<Props> = ({
   ...rest
 }) => (
   <>
-    <LogoContainer>
-      <Link to="/">
-        <Logo />
-      </Link>
-    </LogoContainer>
+    {ENABLE_LOGO && (
+      <LogoContainer>
+        <Link to="/">
+          <img alt="logo" src={overrides.images.logo || LogoImage} />
+        </Link>
+      </LogoContainer>
+    )}
     <HeaderContainer {...rest}>
       <div></div>
       {title && <Title>{title}</Title>}

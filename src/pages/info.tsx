@@ -13,8 +13,7 @@ import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
 import { CtaButton } from 'components/buttons'
 import { requireRegionFile } from 'services/region-loader'
-
-const config = requireRegionFile('config.json')
+import { config } from 'services/config'
 
 const faqSteps = config.ENABLE_FAQ_BOT
   ? requireRegionFile('steps.faq.json')
@@ -155,7 +154,7 @@ export const InfoPage: React.FC = () => {
     <InfoPageContainer>
       <ScrollAnchor />
       <Header />
-      {hasClasses && (
+      {hasClasses ? (
         <>
           <Title>{t('resultsPage.headerTitle')}</Title>
           <Audience>
@@ -179,17 +178,6 @@ export const InfoPage: React.FC = () => {
           <Spacer />
           <ShareResults classes={classes} />
         </>
-      )}
-      {config.ENABLE_FAQ_BOT ? (
-        <FaqChatbotContainer>
-          <Chatbot
-            key={i18n.languages[0]}
-            steps={faqSteps}
-            handleEnd={onFaqChatbotEnd}
-            placeholder={t('resultsPage.faqInputPlaceholder')}
-            showInput
-          />
-        </FaqChatbotContainer>
       ) : (
         <InfoCard
           css={`
@@ -199,6 +187,17 @@ export const InfoPage: React.FC = () => {
         >
           <p>{t('resultsPage.noResultsMessage')}</p>
         </InfoCard>
+      )}
+      {config.ENABLE_FAQ_BOT && (
+        <FaqChatbotContainer>
+          <Chatbot
+            key={i18n.languages[0]}
+            steps={faqSteps}
+            handleEnd={onFaqChatbotEnd}
+            placeholder={t('resultsPage.faqInputPlaceholder')}
+            showInput
+          />
+        </FaqChatbotContainer>
       )}
       <Footer />
     </InfoPageContainer>

@@ -1,4 +1,5 @@
 import 'styled-components'
+import { overrides } from 'services/overrides'
 
 const colors = {
   primary: '#0097F3',
@@ -8,7 +9,8 @@ const colors = {
   text: '#534E71',
   disabled: '#EAEDEE',
   background: '#FAFAFB',
-  backgroundLight: '#FFFFFF'
+  backgroundLight: '#FFFFFF',
+  ...overrides.colors
 } as const
 
 const sizes = {
