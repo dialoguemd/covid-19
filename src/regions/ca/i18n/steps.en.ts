@@ -1,7 +1,7 @@
 export default {
   intro1: 'Hi there!',
   intro2:
-    "I'm {{botName}}, an automated medical assistant. I’m here to give you accurate information about COVID-19. To make it relevant to your situation, I'd like to ask you a few questions. It should not take more than a few minutes.",
+    "I'm {{botNameIntro}}an automated medical assistant. I’m here to give you accurate information about COVID-19. To make it relevant to your situation, I'd like to ask you a few questions. It should not take more than a few minutes.",
   intro3:
     "Please note that the information you'll receive is not a medical assessment. If you are experiencing severe symptoms, seek medical attention. This service is not a substitute for consulting with your doctor. The information we supply is from publicly available sources and is subject to frequent change.",
   'intro-option1': "Ok, let's get started!",

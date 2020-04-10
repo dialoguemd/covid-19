@@ -36,7 +36,7 @@ i18n
 
 // Define global string replacements
 i18n.options.interpolation.defaultVariables = {
-  botName: config.BOT_NAME || i18n.t('botName')
+  botNameIntro: config.ENABLE_BOT_NAME ? i18n.t('botNameIntro') : ''
 }
 
 export default i18n

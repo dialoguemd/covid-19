@@ -12,6 +12,7 @@ import { config } from 'services/config'
 
 const isLocalhost = window.location.hostname === 'localhost'
 const ENABLE_REGION_SWITCHING = isLocalhost || config.ENABLE_REGION_SWITCHING
+const { ENABLE_LOGO } = config
 
 interface Props {
   title?: string
@@ -62,11 +63,13 @@ export const Header: React.FC<Props> = ({
   ...rest
 }) => (
   <>
-    <LogoContainer>
-      <Link to="/">
-        <img alt="logo" src={overrides.images.logo || LogoImage} />
-      </Link>
-    </LogoContainer>
+    {ENABLE_LOGO && (
+      <LogoContainer>
+        <Link to="/">
+          <img alt="logo" src={overrides.images.logo || LogoImage} />
+        </Link>
+      </LogoContainer>
+    )}
     <HeaderContainer {...rest}>
       <div></div>
       {title && <Title>{title}</Title>}

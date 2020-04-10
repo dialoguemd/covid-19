@@ -21,5 +21,7 @@
   "ENABLE_PREVIOUS_RESULTS_LINK": false,
   "ENABLE_FACEBOOK_SHARE": true,
   "ENABLE_TWITTER_SHARE": true,
-  "ENABLE_FAQ_BOT": false
+  "ENABLE_BOT_NAME": true,
+  "ENABLE_FAQ_BOT": false,
+  "ENABLE_LOGO": true
 }

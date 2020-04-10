@@ -1,8 +1,7 @@
 export default {
-  botName: 'Chloe',
   intro1: 'Willkommen!',
   intro2:
-    'Ich bin {{botName}}, Ihre virtuelle medizinische Assistentin. Ich bin hier, um Ihnen präzise Informationen aus öffentlichen Quellen über die Atemwegserkrankung COVID-19 zu geben. Damit die folgenden Informationen möglichst genau auf Ihre individuelle Situation abgestimmt sind, möchte ich Ihnen vorher ein paar Fragen stellen. Dies wird nicht länger als ein paar Minuten dauern.',
+    'Ich bin {{botNameIntro}}Ihre virtuelle medizinische Assistentin. Ich bin hier, um Ihnen präzise Informationen aus öffentlichen Quellen über die Atemwegserkrankung COVID-19 zu geben. Damit die folgenden Informationen möglichst genau auf Ihre individuelle Situation abgestimmt sind, möchte ich Ihnen vorher ein paar Fragen stellen. Dies wird nicht länger als ein paar Minuten dauern.',
   consent:
     'Zur Verarbeitung Ihrer personenbezogenen Daten benötige ich Ihre Einwilligung. Wir verarbeiten Ihre Daten lediglich, um für Sie relevante Informationen zu COVID-19 zusammenzustellen und diese Anwendung weiter zu verbessern. Die Einwilligung kann jederzeit ohne Angabe von Gründen widerrufen werden. Alle Informationen zum Widerruf und zur Datenverarbeitung finden Sie in unserer [Datenschutzerklärung](https://github.com/dialoguemd/covid-19/wiki/Datenschutzerkl%C3%A4rung). Mit der Verarbeitung Ihrer personenbezogenen Daten (einschließlich Gesundheitsdaten) durch die Dialogue Deutschland GmbH, Ohmstraße 11, 80802 München, und (ausschließlich Analysedaten ohne Personenbezug) durch die Dialogue Technologies Inc., 390 Notre-Dame St W #200 Montreal, QC H2Y 1T9 sind Sie einverstanden:',
   intro3:
