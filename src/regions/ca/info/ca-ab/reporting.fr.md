@@ -8,6 +8,13 @@
 - Si vos symptômes s'aggravent, appelez le 811. Nous recevons un grand nombre d'appels et nous répondrons à votre appel aussi rapidement que possible.
 - Appelez le 911 si vous êtes gravement malade et que vous avez besoin de soins médicaux immédiats. Informez-les que vous avez peut-être le COVID-19.
 
+Si vous êtes en auto-isolement obligatoire :
+
+- Ne sortez pas pour vous promener dans votre quartier ou dans un parc. Cela inclut les enfants en isolement obligatoire.
+- Vous pouvez prendre l'air dans votre cour, si vous en avez une, mais vous devez rester sur une propriété privée non accessible aux autres.
+- Si vous vivez dans un immeuble d'habitation ou une tour, vous devez rester à l'intérieur et ne pouvez pas utiliser les ascenseurs ou les cages d'escalier pour aller à l'extérieur. Si votre balcon est privé et qu'il se trouve à au moins 2 mètres de celui de votre voisin le plus proche, vous pouvez sortir sur le balcon.
+- Cette directive est conforme aux nouvelles exigences fédérales de la loi sur la quarantaine.
+
 ## Informations pour les voyageurs
 
 Retour en Alberta :
