@@ -13,6 +13,8 @@ import { requireRegionFile } from 'services/region-loader'
 import { checkClassesValidity } from 'services/content'
 import RasaChatbot, { open as openRasaChatbot } from 'components/rasa-chatbot'
 
+import chloe from 'images/chloe.png'
+
 const config = requireRegionFile('config.json')
 const flagImage = requireRegionFile('images/flag.jpg')
 
@@ -123,7 +125,9 @@ export const WelcomePage: React.FC = () => {
         <Footer />
       </FooterContainer>
       <RasaChatbot
-        title={t('rasaChatWidget.title')}
+        title="Chloe"
+        subtitle={t('rasaChatWidget.subtitle')}
+        profileAvatar={chloe}
         socketUrl={RASA_SOCKET_ENDPOINT}
         socketPath={RASA_SOCKET_PATH}
       />

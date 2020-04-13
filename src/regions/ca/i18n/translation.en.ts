@@ -27,7 +27,7 @@ export default {
     button: 'Get Started'
   },
   rasaChatWidget: {
-    title: 'COVID-19'
+    subtitle: 'COVID-19'
   },
   classes: {
     common: 'all Canadians',

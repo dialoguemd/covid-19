@@ -5,12 +5,16 @@ import styled from 'styled-components/macro'
 
 interface Props {
   title: string
+  subtitle: string
+  profileAvatar: string
   socketUrl: string
   socketPath: string
 }
 
 const WrappedWidget: React.FC<Props & Record<string, any>> = ({
   title,
+  subtitle,
+  profileAvatar,
   socketUrl,
   socketPath,
   className,
@@ -20,9 +24,11 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
     <div className={className}>
       <Widget
         title={title}
+        subtitle={subtitle}
         socketUrl={socketUrl}
         socketPath={socketPath}
         hideWhenNotConnected={false}
+        profileAvatar={profileAvatar}
         {...rest}
       />
     </div>
