@@ -22,7 +22,7 @@ In addition, a walk-in screening clinic at the [CIUSSS du Centre-Sud-de-l'Île-d
 
 ## For citizens returning from travelling
 
-Anyone returning from a stay outside Canada must self-isolate for 14 days. Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. 
+Anyone returning from a stay outside Canada must self-isolate for 14 days. Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health.
 
 - Do not go to school, to work, to a childcare centre or a day care centre or to any other public space.
 - Do not go out for a walk or to walk the dog.
