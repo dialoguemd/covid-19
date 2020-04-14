@@ -1,8 +1,16 @@
 ## Terre-Neuve et Labrador: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Les symptômes du COVID-19 comprennent la fièvre, la toux, la difficulté à respirer ou les douleurs.
+Les symptômes de la COVID-19 sont définis comme ayant deux ou plusieurs des éléments suivants (apparition ou aggravation) :
 
-Notez qu'une personne atteinte de COVID-19 peut ne pas présenter tous ces symptômes. La gravité des symptômes peut varier de légère à grave. Les informations actuelles suggèrent que la plupart des cas ne sont pas graves et ne nécessitent pas d'hospitalisation.
+- Fièvre (ou signes de fièvre*) ;
+- Toux ;
+- Maux de tête ;
+- Mal de gorge ;
+- Écoulement nasal.
+ 
+ * Les signes de fièvre comprennent les frissons, les sueurs, les douleurs musculaires, les étourdissements
+ 
+ La gravité des symptômes peut varier de légère à grave. Les informations actuelles suggèrent que la plupart des cas ne sont pas graves et ne nécessitent pas d'hospitalisation.
 
 Si vous commencez à présenter des symptômes de COVID-19 :
 
