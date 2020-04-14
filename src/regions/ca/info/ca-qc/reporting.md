@@ -22,7 +22,15 @@ In addition, a walk-in screening clinic at the [CIUSSS du Centre-Sud-de-l'Île-d
 
 ## For citizens returning from travelling
 
-Anyone returning from a stay outside Canada must self-isolate for 14 days. Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. Such individuals must not at any time go outside, even for a walk.
+Anyone returning from a stay outside Canada must self-isolate for 14 days. Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. 
+
+- Do not go to school, to work, to a childcare centre or a day care centre or to any other public space.
+- Do not go out for a walk or to walk the dog.
+- Do not use public transport.
+- Postpone all non-urgent medical appointments.
+- Do not receive visitors at home.
+
+Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.google.com/url?q=https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/&sa=D&ust=1586888257837000&usg=AFQjCNH0Z7HB90yLU7kWQV8Ydk_uj3JTGg).
 
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 
@@ -32,4 +40,4 @@ It should be noted that businesses that deliver goods from abroad in Québec do 
 
 Individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-directives/).
 
-[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-directives/#c47680)
+[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/)
