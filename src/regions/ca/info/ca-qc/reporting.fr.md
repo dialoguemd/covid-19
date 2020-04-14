@@ -27,11 +27,11 @@ Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris
 - Aller à l’école, au travail, au CPE ou à la garderie, ni dans aucun endroit public.
 - Aller prendre des marches ou promener le chien.
 - Emprunter les transports publics.
-- Accueillir de visiteurs à la maison. 
+- Accueillir de visiteurs à la maison.
 
 Vous devez aussi reporter tout rendez-vous médical non urgent.
 
-Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter [ces consignes](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/). 
+Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter [ces consignes](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/).
 
 Une personne qui ne respecte pas ces consignes commet une infraction à la loi fédérale et s’expose à des [sanctions](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#a2).
 
