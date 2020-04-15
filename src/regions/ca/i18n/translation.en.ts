@@ -28,7 +28,8 @@ export default {
     button: 'Get Started'
   },
   rasaChatWidget: {
-    subtitle: 'COVID-19'
+    subtitle: 'COVID-19',
+    inputTextFieldHint: 'Type a message…'
   },
   classes: {
     common: 'all Canadians',

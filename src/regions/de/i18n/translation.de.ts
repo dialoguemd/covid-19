@@ -27,7 +27,8 @@ export default {
       'Die Antworten aus der letzten Sitzung sind abgelaufen. Bitte starten Sie einen neuen Chat, um aktuelle Informationen zu erhalten.'
   },
   rasaChatWidget: {
-    subtitle: 'COVID-19'
+    subtitle: 'COVID-19',
+    inputTextFieldHint: 'Geben Sie eine Nachricht ein…'
   },
   classes: {
     common: 'Allgemeine Informationen',

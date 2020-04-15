@@ -20,8 +20,11 @@ const flagImage = requireRegionFile('images/flag.jpg')
 
 const SHOW_PREVIOUS_RESULTS_LINK = config.ENABLE_PREVIOUS_RESULTS_LINK
 
-const RASA_SOCKET_ENDPOINT = process.env.REACT_APP_RASA_SOCKET_ENDPOINT
 const RASA_SOCKET_PATH = process.env.REACT_APP_RASA_SOCKET_PATH
+const RASA_SOCKET_ENDPOINTS = {
+  en: process.env.REACT_APP_RASA_SOCKET_ENDPOINT_EN,
+  fr: process.env.REACT_APP_RASA_SOCKET_ENDPOINT_FR
+}
 
 const Description = styled.h3`
   color: ${props => props.theme.colors.text};
@@ -85,7 +88,10 @@ const Flag = styled.div`
 `
 
 export const WelcomePage: React.FC = () => {
-  const { t } = useTranslation()
+  const { t, i18n } = useTranslation()
+
+  const language = i18n.languages[0]
+  const socketUrl = RASA_SOCKET_ENDPOINTS[language] || RASA_SOCKET_ENDPOINTS.en
 
   const previousRunClasses = localStorage.getItem('resulting_classes')
   const previousRunIsValid =
@@ -119,18 +125,19 @@ export const WelcomePage: React.FC = () => {
             </p>
           )}
         </Subtext>
+        <RasaChatbot
+          title="Chloe"
+          subtitle={t('rasaChatWidget.subtitle')}
+          inputTextFieldHint={t('rasaChatWidget.inputTextFieldHint')}
+          profileAvatar={chloe}
+          socketUrl={socketUrl}
+          socketPath={RASA_SOCKET_PATH}
+        />
       </Body>
       <FooterContainer>
         <Flag />
         <Footer />
       </FooterContainer>
-      <RasaChatbot
-        title="Chloe"
-        subtitle={t('rasaChatWidget.subtitle')}
-        profileAvatar={chloe}
-        socketUrl={RASA_SOCKET_ENDPOINT}
-        socketPath={RASA_SOCKET_PATH}
-      />
     </Container>
   )
 }
