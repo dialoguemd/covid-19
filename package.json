@@ -13,7 +13,7 @@
     "moment": "^2.24.0",
     "node-html-parser": "^1.2.12",
     "query-string": "^6.12.0",
-    "rasa-webchat": "github:nuecho/rasa-webchat#feat/disable-input-on-quick-replies",
+    "rasa-webchat": "nuecho/rasa-webchat#feat/disable-input-on-quick-replies",
     "react": "^16.13.0",
     "react-app-polyfill": "^1.0.6",
     "react-dom": "^16.13.0",
