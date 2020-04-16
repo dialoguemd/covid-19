@@ -20,6 +20,7 @@ const flagImage = requireRegionFile('images/flag.jpg')
 
 const SHOW_PREVIOUS_RESULTS_LINK = config.ENABLE_PREVIOUS_RESULTS_LINK
 
+const RASA_INIT_PAYLOAD = process.env.REACT_APP_RASA_INIT_PAYLOAD
 const RASA_SOCKET_PATH = process.env.REACT_APP_RASA_SOCKET_PATH
 const RASA_SOCKET_ENDPOINTS = {
   en: process.env.REACT_APP_RASA_SOCKET_ENDPOINT_EN,
@@ -126,12 +127,14 @@ export const WelcomePage: React.FC = () => {
           )}
         </Subtext>
         <RasaChatbot
-          title="Chloe"
-          subtitle={t('rasaChatWidget.subtitle')}
+          initPayload={RASA_INIT_PAYLOAD}
           inputTextFieldHint={t('rasaChatWidget.inputTextFieldHint')}
           profileAvatar={chloe}
-          socketUrl={socketUrl}
           socketPath={RASA_SOCKET_PATH}
+          socketUrl={socketUrl}
+          storage="session"
+          subtitle={t('rasaChatWidget.subtitle')}
+          title="Chloe"
         />
       </Body>
       <FooterContainer>

@@ -12,22 +12,26 @@ import {
 import styled from 'styled-components/macro'
 
 interface Props {
-  title: string
-  subtitle: string
-  profileAvatar: string
-  socketUrl: string
-  socketPath: string
+  initPayload: string
   inputTextFieldHint: string
+  profileAvatar: string
+  socketPath: string
+  socketUrl: string
+  storage: 'local' | 'session'
+  subtitle: string
+  title: string
 }
 
 const WrappedWidget: React.FC<Props & Record<string, any>> = ({
-  title,
-  subtitle,
-  profileAvatar,
-  socketUrl,
-  socketPath,
   className,
+  initPayload,
   inputTextFieldHint,
+  profileAvatar,
+  socketPath,
+  socketUrl,
+  storage,
+  subtitle,
+  title,
   ...rest
 }) => {
   const onSocketEvent = {
@@ -43,17 +47,27 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
     }
   }
 
+  const customMessageDelay = message => {
+    let delay = message.length * 10
+    if (delay > 1500) delay = 1500
+    if (delay < 500) delay = 500
+    return delay
+  }
+
   return (
     <div className={className}>
       <Widget
-        title={title}
-        subtitle={subtitle}
-        socketUrl={socketUrl}
-        socketPath={socketPath}
+        customMessageDelay={customMessageDelay}
         hideWhenNotConnected={false}
-        profileAvatar={profileAvatar}
-        onSocketEvent={onSocketEvent}
+        initPayload={initPayload}
         inputTextFieldHint={inputTextFieldHint}
+        onSocketEvent={onSocketEvent}
+        profileAvatar={profileAvatar}
+        socketPath={socketPath}
+        socketUrl={socketUrl}
+        storage={storage}
+        subtitle={subtitle}
+        title={title}
         {...rest}
       />
     </div>
