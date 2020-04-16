@@ -1,6 +1,6 @@
 ## Terre-Neuve et Labrador: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Les symptômes de la COVID-19 sont définis comme ayant deux ou plusieurs des éléments suivants (apparition ou aggravation) :
+Les symptômes de la COVID-19 sont définis comme ayant deux ou plusieurs des symptômes suivants (apparition ou aggravation) :
 
 - Fièvre (ou signes de fièvre\*) ;
 - Toux ;
