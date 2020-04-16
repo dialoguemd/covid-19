@@ -18,7 +18,7 @@ export const jsonStringifyFunctionReplacer = (key, val) =>
 export const postEventToHost = (payload: any) => {
   try {
     const data = JSON.stringify(payload, jsonStringifyFunctionReplacer)
-    // Cascade through the react Native -> Android -> iframe host reference
+      // Cascade through the react Native -> Android -> iframe host reference
     ;(window.ReactNativeWebView || window.Android || window.parent).postMessage(
       data,
       '*'
