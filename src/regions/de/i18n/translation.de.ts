@@ -8,6 +8,10 @@ export default {
     lastModified: 'Aktualisiert {{date}}',
     feedbackLabel: 'War das nützlich?'
   },
+  embedded: {
+    done: 'Finir',
+    results: 'Ergebnisse des Covid-19-Fragebogens: {{results}}'
+  },
   share: {
     viewResults: 'Informationspaket anzeigen',
     twitterButton: 'Auf Twitter teilen',

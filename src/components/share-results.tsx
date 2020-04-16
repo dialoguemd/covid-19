@@ -2,9 +2,7 @@ import React from 'react'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 import { mobileBreakpoint } from 'theme'
-import { requireRegionFile } from 'services/region-loader'
-
-const config = requireRegionFile('config.json')
+import config from 'services/config'
 
 const ShareContainer = styled.div`
   padding: 15px 0 25px 0;

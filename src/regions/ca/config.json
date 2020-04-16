@@ -1,4 +1,6 @@
 {
+  "REGION": "ca",
+  "DEFAULT_LANGUAGE": "en",
   "ENABLED_LANGUAGES": ["en", "fr"],
   "ADMIN_AREAS": [
     "ON",
@@ -16,5 +18,7 @@
     "YT"
   ],
   "ENABLE_FACEBOOK_SHARE": true,
-  "ENABLE_TWITTER_SHARE": true
+  "ENABLE_TWITTER_SHARE": true,
+  "TITLE": "Dialogue COVID-19 Info",
+  "DESCRIPTION": "Dialogue Chloe, an automated medical assistant, provides Canadians with personalized access to the latest localized public health information as the government's response to the COVID-19 outbreak continues to develop."
 }

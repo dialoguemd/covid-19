@@ -31,6 +31,8 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   /* Removes shadow around avatar */
   .rsc-ts-bot .rsc-ts-image {
     box-shadow: none;
+    user-select: none;
+    border-radius: 50%;
   }
 
   .rsc-container {
@@ -74,6 +76,8 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
     justify-content: center;
     flex-wrap: wrap;
     padding-top: 15px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    user-select: none;
   }
 
   .rsc-os-option-element {
@@ -98,13 +102,12 @@ const StyledChatbot = styled(ReactSimpleChatbot)`
   }
 `
 
-export const Chatbot: React.FC = props => {
+export const Chatbot: React.FC<any> = props => {
   // steps are cached by chatbot, so we could update on language
   // change, but that would involve clearing the current in-progress
   // q'naire. So, memo is enough.
   // i.e. take i18n language at initial render of chatbot
   const transformedSteps = useMemo(() => steps.map(transformStep), [])
-
   return (
     <ThemeProvider theme={makeTheme}>
       <StyledChatbot

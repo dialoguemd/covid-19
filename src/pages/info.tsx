@@ -4,12 +4,20 @@ import { useLocation, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 
+import config from 'services/config'
+
 import Results from 'components/results'
 import Header from 'components/header'
 import Footer from 'components/footer'
 import Title from 'components/title'
 import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
+import EmbeddedActions from 'components/embedded-actions'
+
+const SHOW_HEADER = !config.EMBEDDED
+const SHOW_FOOTER = !config.EMBEDDED
+const SHOW_SHARE = !config.EMBEDDED
+const SHOW_EMBEDDED_ACTIONS = config.EMBEDDED
 
 const useQuery = () => {
   const location = useLocation()
@@ -103,7 +111,7 @@ const Spacer = styled.div`
   flex-grow: 1;
 `
 
-export const InfoPage: React.FC = () => {
+export const InfoPage: React.FC = props => {
   const query = useQuery()
   const { t } = useTranslation()
 
@@ -121,19 +129,25 @@ export const InfoPage: React.FC = () => {
   return (
     <InfoPageContainer>
       <ScrollAnchor />
-      <Header />
-      <Title>{t('resultsPage.headerTitle')}</Title>
-      <Audience>
-        <ClassList>
-          {t('resultsPage.audiencePrefix')} {classString}
-        </ClassList>
-        <HeaderLinkContainer>
-          <HeaderLinkSubTitle>
-            {t('resultsPage.changeAudienceTitle')}
-          </HeaderLinkSubTitle>
-          <HeaderLink to="/chat/">{t('resultsPage.changeAudience')}</HeaderLink>
-        </HeaderLinkContainer>
-      </Audience>
+      {SHOW_HEADER && (
+        <>
+          <Header />
+          <Title>{t('resultsPage.headerTitle')}</Title>
+          <Audience>
+            <ClassList>
+              {t('resultsPage.audiencePrefix')} {classString}
+            </ClassList>
+            <HeaderLinkContainer>
+              <HeaderLinkSubTitle>
+                {t('resultsPage.changeAudienceTitle')}
+              </HeaderLinkSubTitle>
+              <HeaderLink to="/chat/">
+                {t('resultsPage.changeAudience')}
+              </HeaderLink>
+            </HeaderLinkContainer>
+          </Audience>
+        </>
+      )}
       <InfoCard>
         {hasClasses ? (
           <Results classes={classes} />
@@ -147,8 +161,9 @@ export const InfoPage: React.FC = () => {
         )}
       </InfoCard>
       <Spacer />
-      <ShareResults classes={classes} />
-      <Footer />
+      {SHOW_EMBEDDED_ACTIONS && <EmbeddedActions {...props} />}
+      {SHOW_SHARE && <ShareResults classes={classes} />}
+      {SHOW_FOOTER && <Footer />}
     </InfoPageContainer>
   )
 }

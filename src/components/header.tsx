@@ -7,11 +7,12 @@ import LanguagePicker from './language-picker'
 import Title from './title'
 import RegionPicker from 'components/region-picker'
 import { mobileBreakpoint } from 'theme'
-import { requireRegionFile } from 'services/region-loader'
+import config from 'services/config'
 
-const config = requireRegionFile('config.json')
 const isLocalhost = window.location.hostname === 'localhost'
 const ENABLE_REGION_SWITCHING = isLocalhost || config.ENABLE_REGION_SWITCHING
+const SHOW_HEADER_LOGO = !config.EMBEDDED
+const SHOW_LANGUAGE_SWITCHER = !config.EMBEDDED
 
 interface Props {
   title?: string
@@ -67,20 +68,24 @@ export const Header: React.FC<Props> = ({
   ...rest
 }) => (
   <HeaderContainer {...rest}>
-    <Link to="/">
-      <LogoContainer>
-        <Logo />
-      </LogoContainer>
-    </Link>
+    {SHOW_HEADER_LOGO && (
+      <Link to="/">
+        <LogoContainer>
+          <Logo />
+        </LogoContainer>
+      </Link>
+    )}
 
     {title && <Title>{title}</Title>}
 
     <LanguagePickerContainer>
-      <LanguagePicker
-        css={`
-          margin-left: 2px;
-        `}
-      />
+      {SHOW_LANGUAGE_SWITCHER && (
+        <LanguagePicker
+          css={`
+            margin-left: 2px;
+          `}
+        />
+      )}
       {ENABLE_REGION_SWITCHING && showRegionPicker && <RegionPicker />}
     </LanguagePickerContainer>
   </HeaderContainer>

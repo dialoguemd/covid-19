@@ -1,4 +1,11 @@
 import 'styled-components'
+import Color from 'color'
+
+const lighten = (base: string, pct: number) =>
+  Color(base)
+    .lighten(pct)
+    .rgb()
+    .string()
 
 const colors = {
   primary: '#0097F3',
@@ -6,6 +13,7 @@ const colors = {
   secondary: '#534E71',
   secondaryLight: '#7378A3',
   text: '#534E71',
+  buttonText: '#FFFFFF',
   disabled: '#EAEDEE',
   background: '#FAFAFB',
   backgroundLight: '#FFFFFF'
@@ -34,5 +42,29 @@ declare module 'styled-components' {
     colors: typeof colors
     sizes: typeof sizes
     fontFamily: string
+  }
+}
+
+export const bridgeThemeMapper = ({ COLOURS, METRICS }) => {
+  return {
+    ...theme,
+    colors: {
+      ...theme.colors,
+      primary: COLOURS.PRIMARY,
+      primaryLight: lighten(COLOURS.PRIMARY, 0.6),
+      secondary: COLOURS.SECONDARY,
+      secondaryLight: lighten(COLOURS.SECONDARY, 0.6),
+      text: COLOURS.TEXT_PRIMARY,
+      buttonText: COLOURS.TEXT_PRIMARY_CONTRAST,
+      background: COLOURS.BACKGROUND_PRIMARY,
+      backgroundLight: COLOURS.BACKGROUND_SECONDARY
+    }
+    /*     sizes: {
+      ...theme.sizes,
+      question: `${METRICS.TEXT_PRIMARY}px`,
+      buttonText: `${METRICS.TEXT_PRIMARY}px`,
+      body: `${METRICS.TEXT_PRIMARY}px`,
+      small:`${METRICS.TEXT_SECONDARY}px`,
+    } */
   }
 }

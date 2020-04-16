@@ -4,6 +4,12 @@ import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 import { getChatClassesFromSteps } from 'services/chat-classifier'
 
+import EmbeddedActions from 'components/embedded-actions'
+
+import config from 'services/config'
+const SHOW_REPORT_LINK = !config.EMBEDDED
+const SHOW_EMBEDDED_ACTIONS = config.EMBEDDED
+
 const ViewReportContainer = styled.div`
   display: flex;
   justify-content: center;
@@ -41,9 +47,14 @@ export const ResultsBubble: React.FC = (props: any) => {
 
   return (
     <ViewReportContainer>
-      <ViewReportButton to={resultsLink}>
-        {t('share.viewResults')}
-      </ViewReportButton>
+      {SHOW_REPORT_LINK && (
+        <ViewReportButton to={resultsLink}>
+          {t('share.viewResults')}
+        </ViewReportButton>
+      )}
+      {SHOW_EMBEDDED_ACTIONS && (
+        <EmbeddedActions {...props} classes={classes} />
+      )}
     </ViewReportContainer>
   )
 }

@@ -29,6 +29,7 @@ const Label = styled.div<{
   font-size: 12px;
   transition: all ease-in-out 1s;
   opacity: ${props => (props.visible ? '0.5' : '0')};
+  background-color: transparent;
 `
 
 const Button = styled.button<{
@@ -44,6 +45,8 @@ const Button = styled.button<{
   opacity: ${props => (props.visible ? '1' : '0')};
   margin-left: ${props => (props.visible ? '0' : '-32px')};
   cursor: ${props => (props.disabled ? 'default' : 'pointer')};
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 
   svg {
     fill: ${props =>

@@ -2,8 +2,9 @@ import i18n from 'i18next'
 import i18nLanguageDetector from 'i18next-browser-languagedetector'
 import { initReactI18next } from 'react-i18next'
 import { requireRegionFile } from 'services/region-loader'
+import config from 'services/config'
 
-const { ENABLED_LANGUAGES } = requireRegionFile('config.json')
+const { ENABLED_LANGUAGES } = config
 
 const langToResources = lang => ({
   steps: requireRegionFile(`i18n/steps.${lang}.ts`).default,
@@ -32,6 +33,8 @@ i18n
       caches: []
     }
   })
+
+export const DEFAULT_LANGUAGE = ENABLED_LANGUAGES[0]
 
 const { languages } = i18n
 export const getNextLanguage = () => {

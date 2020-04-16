@@ -8,6 +8,10 @@ export default {
     lastModified: 'Updated {{date}}',
     feedbackLabel: 'Was this useful?'
   },
+  embedded: {
+    done: 'Done',
+    results: 'Covid-19 questionnaire results:\n\n{{results}}'
+  },
   share: {
     viewResults: 'View information package',
     twitterButton: 'Share on Twitter',

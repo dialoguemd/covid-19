@@ -8,6 +8,10 @@ export default {
     lastModified: 'Mise à jour {{date}}',
     feedbackLabel: 'Ceci vous a-t-il aidé?'
   },
+  embedded: {
+    done: "Parler à quelqu'un",
+    results: 'Résultats du questionnaire Covid-19:\n\n{{results}}'
+  },
   share: {
     viewResults: "Voir votre trousse d'information",
     twitterButton: 'Partager sur Twitter',

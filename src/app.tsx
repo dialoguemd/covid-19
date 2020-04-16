@@ -8,6 +8,10 @@ import WelcomePage from './pages/welcome'
 import Chatbot from './components/chatbot'
 import { theme } from './theme'
 import GlobalStyles from './styles'
+import config from 'services/config'
+
+import { BridgeWrapper } from './bridge/wrapper'
+import { bridgeThemeMapper } from './theme'
 
 const AppContainer = styled.div`
   position: absolute;
@@ -17,28 +21,41 @@ const AppContainer = styled.div`
   flex-direction: column;
 `
 
-function App() {
+export function AppInner(props) {
+  return (
+    <AppContainer>
+      <GlobalStyles />
+      <Router>
+        <Switch>
+          <Route exact path="/" {...props}>
+            <WelcomePage />
+          </Route>
+          <Route path="/info/">
+            <InfoPage {...props} />
+          </Route>
+          <Route path="/chat/">
+            <Chatbot {...props} />
+          </Route>
+          <Route path="*">
+            <Redirect to="/" />
+          </Route>
+        </Switch>
+      </Router>
+    </AppContainer>
+  )
+}
+
+export function App(props) {
+  if (config.EMBEDDED) {
+    return (
+      <BridgeWrapper themeMapper={bridgeThemeMapper}>
+        <AppInner {...props} />
+      </BridgeWrapper>
+    )
+  }
   return (
     <ThemeProvider theme={theme}>
-      <GlobalStyles />
-      <AppContainer>
-        <Router>
-          <Switch>
-            <Route exact path="/">
-              <WelcomePage />
-            </Route>
-            <Route path="/info/">
-              <InfoPage />
-            </Route>
-            <Route path="/chat/">
-              <Chatbot />
-            </Route>
-            <Route path="*">
-              <Redirect to="/" />
-            </Route>
-          </Switch>
-        </Router>
-      </AppContainer>
+      <AppInner {...props} />
     </ThemeProvider>
   )
 }

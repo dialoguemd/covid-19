@@ -1,4 +1,6 @@
 {
+  "REGION": "de",
+  "DEFAULT_LANGUAGE": "de",
   "ENABLED_LANGUAGES": ["de"],
   "ADMIN_AREAS": [
     "BW",
