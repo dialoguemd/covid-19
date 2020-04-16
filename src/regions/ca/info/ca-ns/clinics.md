@@ -16,4 +16,6 @@ If you answer yes to two or more of these symptoms, please call 811 for further 
 
 If you experience other symptoms that are a concern for you, call 811 to speak with a nurse.
 
+Signs of a fever include chills, sweats, muscle aches, lightheadedness.
+
 [Source: Nova Scotia Health Authority](https://when-to-call-about-covid19.novascotia.ca/en)

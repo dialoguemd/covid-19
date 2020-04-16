@@ -1,8 +1,16 @@
 ## Newfoundland and Labrador: Who should I contact if I think I have COVID-19?
 
-Symptoms of COVID-19 include fever, coughing, difficulty breathing or aches and pains.
+Symptoms of COVID-19 are defined as having two or more of the following (new or worsening):
 
-Note that an individual with COVID-19 may not have all of these symptoms. The severity of symptoms can range from mild to severe.
+- Fever (or signs of a fever\*);
+- Cough;
+- Headache;
+- Sore throat;
+- Runny nose.
+
+* signs of a fever include chills, sweats, muscle aches, lightheadedness
+
+The severity of symptoms can range from mild to severe.
 
 Current information suggests that most cases are not severe nor do they require hospitalization.
 
