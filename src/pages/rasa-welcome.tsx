@@ -132,7 +132,9 @@ export const WelcomePage: React.FC = () => {
           profileAvatar={chloe}
           socketPath={RASA_SOCKET_PATH}
           socketUrl={socketUrl}
-          storage="session"
+          params={{
+            storage: 'session'
+          }}
           subtitle={t('rasaChatWidget.subtitle')}
           title="Chloe"
         />

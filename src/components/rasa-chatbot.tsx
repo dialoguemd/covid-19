@@ -14,10 +14,12 @@ import styled from 'styled-components/macro'
 interface Props {
   initPayload: string
   inputTextFieldHint: string
+  params: {
+    storage: 'local' | 'session'
+  }
   profileAvatar: string
   socketPath: string
   socketUrl: string
-  storage: 'local' | 'session'
   subtitle: string
   title: string
 }
@@ -26,10 +28,10 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
   className,
   initPayload,
   inputTextFieldHint,
+  params,
   profileAvatar,
   socketPath,
   socketUrl,
-  storage,
   subtitle,
   title,
   ...rest
@@ -62,10 +64,10 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
         initPayload={initPayload}
         inputTextFieldHint={inputTextFieldHint}
         onSocketEvent={onSocketEvent}
+        params={params}
         profileAvatar={profileAvatar}
         socketPath={socketPath}
         socketUrl={socketUrl}
-        storage={storage}
         subtitle={subtitle}
         title={title}
         {...rest}
