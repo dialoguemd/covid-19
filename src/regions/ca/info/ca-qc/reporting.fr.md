@@ -22,7 +22,16 @@ De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudm
 
 ## Pour les citoyens de retour de voyage?
 
-Les personnes qui reviennent d’un séjour à l’extérieur du pays ont l’obligation, en vertu de l’application de la Loi sur la mise en quarantaine par le gouvernement du Canada, de s’isoler pour une période de 14 jours. Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. En aucun temps, ces personnes ne doivent sortir à l’extérieur, et ce, même pour prendre une marche.
+Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris les croisiéristes, ont l’obligation de s’isoler pour une période de 14 jours. En aucun temps, ces personnes ne doivent sortir à l’extérieur. Vous ne pouvez pas :
+
+- Aller à l’école, au travail, au CPE ou à la garderie, ni dans aucun endroit public.
+- Aller prendre des marches ou promener le chien.
+- Emprunter les transports publics.
+- Accueillir de visiteurs à la maison.
+
+Vous devez aussi reporter tout rendez-vous médical non urgent.
+
+Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter [ces consignes](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/).
 
 Une personne qui ne respecte pas ces consignes commet une infraction à la loi fédérale et s’expose à des [sanctions](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#a2).
 
@@ -30,6 +39,4 @@ Afin de rappeler ces obligations à ceux et celles qui reviennent au pays, des p
 
 Notez que les entreprises qui livrent des marchandises au Québec en provenance de l’étranger n’ont pas à demander à leurs employés de se placer en isolement temporaire.
 
-Les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent respecter les consignes décrites [ici](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680).
-
-[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680)
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/)
