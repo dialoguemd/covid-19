@@ -22,7 +22,7 @@ In addition, a walk-in screening clinic at the [CIUSSS du Centre-Sud-de-l'Île-d
 
 ## For citizens returning from travelling
 
-Anyone returning from a stay outside Canada must self-isolate for 14 days. Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health.
+Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Such individuals must not at any time go outside:
 
 - Do not go to school, to work, to a childcare centre or a day care centre or to any other public space.
 - Do not go out for a walk or to walk the dog.
@@ -37,7 +37,5 @@ Anyone who does not comply with these instructions commits an offence under the 
 To remind people who are returning to the country of these obligations, police checkpoints will be established near the US border.
 
 It should be noted that businesses that deliver goods from abroad in Québec do not have to ask their employees to temporarily self-isolate.
-
-Individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-directives/).
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/)
