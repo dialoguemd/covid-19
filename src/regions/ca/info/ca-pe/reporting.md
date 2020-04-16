@@ -2,31 +2,8 @@
 
 8-1-1 is experiencing higher than normal call volumes. It will take longer than usual to respond to your call. We are working hard to respond to all calls as quickly as possible. Thank you for your patience.
 
-Call 8-1-1 for screening if you answer 'yes' to any of the scenarios below:
+If you develop COVID-19 symptoms, including new onset fever or worsening cough, sore throat, rhinitis (runny nose, sneezing or congestion) or marked fatigue. You should call your family physician or nurse practitioner. If you do not have a family physician or nurse practitioner or are unable to reach them, call 8-1-1.
 
-1 - Travel outside of Canada or travel outside of PEI in the past 14 days AND any of the following:
-
-- Fever greater than 38°C
-- cough (new or worsening of a chronic cough)
-- sore throat
-- runny nose
-- marked fatigue
-
-2 - Close contact with a confirmed case OR a person with symptoms and travel history AND any of the following:
-
-- Fever greater than 38°C
-- cough (new or worsening of a chronic cough)
-- sore throat
-- runny nose
-- marked fatigue
-
-3 - Health care worker with any of the following:
-
-- Fever greater than 38°C
-- cough (new or worsening of a chronic cough)
-
-Anyone who has travelled outside of Prince Edward Island must self-isolate for 14 days.
-
-For general health-related questions, call 1-800-958-6400.
+Anyone who has travelled outside of Prince Edward Island must self-isolate for 14 days. Stop all non-essential travel outside of Prince Edward Island.
 
 [Source: Government of Prince Edward Island](https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-when-should-i-call-811)

@@ -1,7 +1,21 @@
-## Nouvelle-Écosse: Clinique désignée COVID-19
+## Nouvelle-Écosse: Quand communiquer avec le 811 au sujet de la COVID-19
 
-Utilisez cet [outil de dépistage](https://when-to-call-about-covid19.novascotia.ca/fr) pour déterminer si vous devez communiquer avec le 811 au sujet de la COVID-19.
+Avez-vous besoin d’appeler le 811 pour qu’on évalue votre besoin d’être testé pour la COVID-19?
 
-Seules certaines personnes doivent nous appeler au sujet de la COVID-19. N'appelez pas si vous n'avez pas besoin de le faire.
+- Avez-vous une fièvre de plus de 38 °C (ou les symptômes d’une fièvre)?
 
-[Source: Régie de la santé de la Nouvelle-Écosse](http://www.nshealth.ca/les-services-en-francais-la-regie-de-la-sante-de-la-nouvelle-ecosse)
+- Avez-vous une nouvelle toux ou une toux qui empire?
+
+- Avez-vous un mal de gorge?
+
+- Avez-vous un écoulement nasal?
+
+- Avez-vous un mal de tête?
+
+Si vous avez répondu oui à deux questions ou plus, appelez le service 811 pour qu’une infirmière vous évalue de manière plus approfondie.
+
+Si vous éprouvez d’autres symptômes qui vous inquiètent, appelez le 811 pour parler à une infirmière.
+
+Les symptômes d’une fièvre sont les suivants: frissons, sueurs, douleurs musculaires, étourdissements.
+
+[Source: Régie de la santé de la Nouvelle-Écosse](https://when-to-call-about-covid19.novascotia.ca/fr)

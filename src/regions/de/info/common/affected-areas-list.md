@@ -1,23 +1,10 @@
-## 🌍Internationale Risikogebiete und besonders betroffene Gebiete in Deutschland
+## 🌍 Internationale Risikogebiete
 
-Derzeit sind durch das Robert Koch-Institut folgende Regionen als **internationale Risikogebiete** definiert (letzte Aktualisierung des RKI am 25.3.2020 um 15:50 Uhr):
+Seit dem 10.4.2020 weist das Robert Koch-Institut keine internationalen Risikogebiete oder besonders betroffenen Gebiete in Deutschland mehr aus.
 
-- 🇪🇬 Ägypten: ganzes Land
-- 🇫🇷 Frankreich: Region Grand Est (diese Region enthält Elsass, Lothringen und Champagne-Ardenne)
-- 🇮🇷 Iran: ganzes Land
-- 🇮🇹 Italien: ganzes Land
-- 🇦🇹 Österreich: Bundesland Tirol
-- 🇨🇭 Schweiz: Kantone Tessin, Waadt und Genf
-- 🇪🇸 Spanien: Regionen Madrid, Navarra, La Rioja und Paìs Vasco
-- 🇰🇷 Südkorea: Daegue und die Provinz Gyeongsangbuk-do (Nord-Gyeongsang)
-- 🇺🇸 USA: Bundesstaaten Kalifornien, Washington und New York
+COVID-19 ist inzwischen weltweit verbreitet. In einer erheblichen Anzahl von Staaten gibt es Ausbrüche mit zum Teil großen Fallzahlen; von anderen Staaten sind die genauen Fallzahlen nicht bekannt. Ein Übertragungsrisiko besteht daher sowohl in Deutschland als in einer unübersehbaren Anzahl von Regionen weltweit. Das Auswärtige Amt hat inzwischen auch eine weltweite Reisewarnung ausgesprochen. Daher ist es aus epidemiologischer Sicht sinnvoll, die Ausweisung von Risikogebieten auszusetzen.
 
-🇩🇪
-Als besonders betroffene Gebiete in Deutschland gelten derzeit (letzte Aktualisierung des RKI am 6.3.2020 um 19:00 Uhr):
-
-- Landkreis Heinsberg (Nordrhein-Westfalen)
-
-[Überblick über bestätigte Covid-19 Fälle weltweit (WHO)](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+[Überblick über bestätigte Covid-19 Fälle weltweit (WHO)](https://who.sprinklr.com/#)
 [Fallzahlen in Deutschland (RKI)](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
 
 **Quelle:** Robert Koch-Institut

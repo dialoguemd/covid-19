@@ -33,5 +33,6 @@ Ainsi que tous ceux qui:
 - qui ont un emploi instable ou des conditions de travail inflexibles
 - qui sont isolés socialement ou géographiquement, comme dans les communautés éloignées et isolées
 - qui ont des conditions de logement précaires, inadéquates ou inexistantes
+- qui souffrent de toute condition médicale ou sociale qui pourrait limiter leur capacité à faire face à une telle situation
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/populations-vulnerables-covid-19.html)

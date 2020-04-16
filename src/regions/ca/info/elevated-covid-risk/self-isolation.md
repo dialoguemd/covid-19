@@ -4,10 +4,6 @@ Early epidemiologic evidence suggests that the majority of people who develop CO
 
 Individuals should be isolated in the home setting while symptomatic (i.e. not go out unless directed to do so to seek medical care) until symptoms have resolved and the person is feeling well enough to resume normal activities, and has met the clinical and laboratory criteria set by the PHA for discontinuing isolation
 
-The individual should isolate themselves in the home setting until advised by the Public Health Authority (PHA) that isolation can be discontinued. Staying at home means:
-
-- Not go out unless directed to do so (i.e. to seek medical care)
-- Not go to school, work, or other public areas
-- Not use public transportation (e.g. buses, subways, taxis)
+The location where a person will be isolated will be determined by their healthcare provider and the PHA. When determining the location, several factors to determine the suitability of the home setting are described [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#app1).
 
 [Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html#app1)

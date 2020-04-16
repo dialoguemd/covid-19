@@ -2,6 +2,8 @@
 
 Need to talk to someone if you have COVID-19 symptoms, or have recently travelled to or from an affected area? Please call 975-8601 or 1-888-975-8601 from 7:30 a.m. to 7:30 p.m.to speak with someone. Please remember this line is for those who need it – and should not be used for general inquiries.
 
+If you have questions or need help in an emergency, [call your local health centre](https://www.gov.nu.ca/health/information/health-centres).
+
 If you develop symptoms and have travelled to a region with known cases of COVID-19
 occurring in the community or have been in contact with someone who has:
 

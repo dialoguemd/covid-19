@@ -1,10 +1,10 @@
 ## New Brunswick: Who should I contact if I think I have COVID-19?
 
-Use this [self-assessment tool](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html) to help determine whether you should be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else, if they are not able.
-
 If you have symptoms:
 
-- Please do not visit a hospital, physician’s office, lab or healthcare facility without consulting 811 first.
-- If you are having difficulty breathing or experiencing other severe symptoms, call 911 immediately. Advise them of your symptoms and travel history.
+- You can contact your primary care provider (doctor or nurse practitioner) or call 811
+- Please do not visit a hospital, physician’s office, lab or healthcare facility without calling first.
+- If you work as a health care professional, such as physician, nurse practitioner, nurse, pharmacist/technician, Ambulance NB, Extra Mural program, first responder or related dispatcher, staff in hospitals, nursing homes, and other institutional or group living settings providing direct patient care/contact please self-isolate and call 1 833 475 0724.
+- If you are having difficulty breathing or experiencing other severe symptoms, call 911 immediately and advise them of your symptoms.
 
 [Source: Government of New Brunswick](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus.html)

@@ -1,6 +1,6 @@
 ## Je veux annuler mon vol, que dois-je faire?
 
-Selon le gouvernement canadien, il faut éviter tout voyage non essentiel à l'extérieur du Canada jusqu'à nouvel ordre. Vous devez contacter votre compagnie aérienne ou votre agence de voyage.
+Selon le gouvernement canadien, il faut éviter tout voyage non essentiel à l'extérieur du Canada jusqu'à nouvel ordre. Vous devez contacter votre compagnie aérienne ou votre agence de voyage. Si vous voyagez quand même, il se peut que vous ne soyez pas autorisé à revenir au Canada et que vous ne soyez pas assuré en cas de maladie (le coronavirus est maintenant considéré comme étant un risque préexistant connu) et vous devrez suivre toutes les instructions concernant la quarantaine à votre retour éventuel.
 
 Plus d'informations [ici](https://voyage.gc.ca/voyager/avertissements?_ga=2.41901216.347251865.1584467396-1383899631.1544057881)
 

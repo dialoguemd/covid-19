@@ -1,24 +1,16 @@
 ## Saskatchewan: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Remarque : vous n'avez pas besoin d'être testés pour le COVID-19 si, au cours des 14 derniers jours, vous n'avez pas voyagé à l'étranger ou été en contact avec une personne diagnostiquée comme ayant la COVID-19.
+Les symptômes de la COVID-19 comprennent la fièvre, la toux, le mal de gorge, l'essoufflement ou la difficulté à respirer. Tous les résidents doivent être familiarisés avec les précautions d'autosurveillance et d'auto-isolement afin de vous protéger, vous et votre entourage.
 
-Si vous présentez des symptômes de la COVID-19, faites-vous tester. Les symptômes de COVID-19 sont la fièvre, la toux, le mal de gorge, l'essoufflement et un malaise général. Utilisez cet outil d'auto-évaluation pour déterminer si vous devez subir un test de dépistage de COVID-19.
-
-Si vous répondez aux critères d'exposition potentielle, que vous présentez des symptômes légers et que vous pensez être atteint de COVID-19, vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
+Il est nécessaire d'être référé pour se faire dépister. Il n'est pas nécessaire d'avoir voyagé à l'étranger pour obtenir une recommandation pour un test de dépistage. Si vous ne présentez pas de symptômes, vous n'avez pas besoin de vous faire dépister. Vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
 
 - HealthLine 811.
 - Votre bureau local de contrôle des maladies transmissibles de la santé publique.
 - Votre médecin de famille.
+- Votre infirmière praticienne.
 
-Des centres de dépistage ont été mis en place dans toute la province. Ils sont uniquement destinés à l'orientation des patients et non aux tests sans rendez-vous. Les centres de dépistage ne proposent que des tests. Ils ne sont pas destinés aux soins des patients. Si vous ne présentez pas de symptômes, vous n'avez pas besoin de subir de test. Vous trouverez des informations détaillées sur les symptômes de la COVID-19 et la gestion des soins sur le site saskatchewan.ca/coronavirus.
+## Renseignements pour les voyageurs
 
-Si vous avez récemment voyagé à l'étranger et que vous présentez des symptômes respiratoires ou des symptômes de type grippal, veuillez appeler HealthLine 811.
+Le gouvernement fédéral et le médecin hygiéniste en chef de la Saskatchewan recommandent aux voyageurs canadiens de revenir au Canada et d’éviter, jusqu’à nouvel ordre, tout voyage non essentiel. Toutes les personnes qui ont voyagé à l’échelle internationale devront s'isoler obligatoirement pendant 14 jours à compter de la date de leur retour au Canada.
 
-Tous les résidents doivent se familiariser avec l'auto-surveillance et précautions d'auto-isolement afin de vous garder et ceux qui vous entourent en toute sécurité.
-
-Si vous ne présentent aucun symptôme ou des préoccupations d'exposition, mais ont des questions sur Covid-19, vous pouvez:
-
-- L'accès les plus nouvelles et des informations à jour sur [ce site](www.saskatchewan.ca/COVID19)
-- Email COVID19@health.gov.sk.ca
-
-[Source: Gouvernement de la Saskatchewan](https://www.saskatchewan.ca/COVID19#utm_campaign=q2_2015&utm_medium=short&utm_source=%2FCOVID19)
+[Source: Gouvernement de la Saskatchewan (en anglais seulement)](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/travel-information)
