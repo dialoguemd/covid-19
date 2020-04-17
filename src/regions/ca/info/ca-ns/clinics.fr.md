@@ -19,5 +19,3 @@ Si vous éprouvez d’autres symptômes qui vous inquiètent, appelez le 811 pou
 Les symptômes d’une fièvre sont les suivants: frissons, sueurs, douleurs musculaires, étourdissements.
 
 [Source](https://when-to-call-about-covid19.novascotia.ca/fr)
-
-
