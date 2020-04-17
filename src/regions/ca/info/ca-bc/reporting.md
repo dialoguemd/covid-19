@@ -6,6 +6,6 @@ If you have [COVID-19 compatible symptoms](http://www.bccdc.ca/health-info/disea
 
 ### I am a returning traveller, should I self-isolate?
 
-Yes, you should self-isolate. Learn about self-isolation and self-monitoring, what to do if you get sick, and how to prevent the spread of COVID-19 on the [BCCDC website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation). As of March 25, 2020, all persons arriving in Canada must self-isolate (quarantine) and monitor for symptoms for 14 days under the [Quarantine Act](https://www.canada.ca/en/public-health/news/2020/03/new-order-makes-self-isolation-mandatory-for-individuals-entering-canada.html). There are some individuals who are exempt from this order to provide essential services, but they still require a [self-isolation plan](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return) and self-monitoring.
+Yes, you should self-isolate. Please visit our [self-isolation](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) page to learn how long to self-isolate if you are a returning traveller.
 
 [Source: BV Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
