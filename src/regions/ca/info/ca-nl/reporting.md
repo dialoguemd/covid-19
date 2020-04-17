@@ -8,7 +8,7 @@ Symptoms of COVID-19 are defined as having two or more of the following (new or 
 - Sore throat;
 - Runny nose.
 
-* signs of a fever include chills, sweats, muscle aches, lightheadedness
+\* signs of a fever include chills, sweats, muscle aches, lightheadedness
 
 The severity of symptoms can range from mild to severe.
 
