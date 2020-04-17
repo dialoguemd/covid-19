@@ -6,6 +6,6 @@ Si vous présentez des [symptômes compatibles avec COVID-19](http://www.bccdc.c
 
 ### Je suis un voyageur de retour, dois-je m'isoler?
 
-Oui, vous devriez vous isoler. Veuillez consulter notre page sur [l'auto-isolement (en anglais seulement)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) pour savoir combien de temps il faut s'isoler si vous êtes un voyageur de retour. 
+Oui, vous devriez vous isoler. Veuillez consulter notre page sur [l'auto-isolement (en anglais seulement)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) pour savoir combien de temps il faut s'isoler si vous êtes un voyageur de retour.
 
 [Source: BC Centre for Disease Control (en anglais)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
