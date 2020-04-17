@@ -6,6 +6,6 @@ If you have [COVID-19 compatible symptoms](http://www.bccdc.ca/health-info/disea
 
 ### I am a returning traveller, should I self-isolate?
 
-Yes, you should self-isolate. Please visit our [self-isolation](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) page to learn how long to self-isolate if you are a returning traveller. 
+Yes, you should self-isolate. Please visit our [self-isolation](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) page to learn how long to self-isolate if you are a returning traveller.
 
 [Source: BV Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
