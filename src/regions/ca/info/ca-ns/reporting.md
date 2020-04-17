@@ -1,4 +1,6 @@
-## Nova Scotia: Who should I contact if I think I have COVID-19?
+## Nova Scotia: If you think you might have been exposed to COVID-19
+
+If you have 2 or more symptoms (fever, a new cough or a cough that's getting worse, sore throat, runny nose or headache), call 811 for further assessment by a nurse.
 
 Not everyone who has concerns about COVID-19 needs to call 811. To find out if you need to call, visit [When to call 811 about COVID-19](https://when-to-call-about-covid19.novascotia.ca/en).
 
