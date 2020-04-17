@@ -1,5 +1,8 @@
 ## Ontario: COVID-19 Self-Assessment
 
-If you think you have coronavirus (COVID-19) symptoms or have been in close contact with someone who has it, use this [self-assessment](https://www.ontario.ca/page/2019-novel-coronavirus-covid-19-self-assessment) to help determine how to seek further care.
+Take this [self-assessment](https://covid-19.ontario.ca/self-assessment/) if you think you were exposed to COVID-19 (novel coronavirus) or have symptoms. You’ll get information on what to do next.
+You can also take it on behalf of someone else.
 
-If you took the assessment before March 27th, please take it again. Updates include more specific instructions for people who have returned to Canada in the past month or have higher risks associated with getting COVID-19.
+This information is not intended to provide medical advice. If you have medical questions, consult a health practitioner or your local public health unit.
+
+[Source](https://covid-19.ontario.ca/self-assessment/)
