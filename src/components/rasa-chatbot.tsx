@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect, useLayoutEffect } from 'react'
 
 import {
   Widget,
@@ -37,6 +37,11 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
   title,
   ...rest
 }) => {
+  useLayoutEffect(() => () => {
+    // Clean up chat session before re-render
+    sessionStorage.removeItem('chat_session')
+  })
+
   const onSocketEvent = {
     bot_uttered: response => {
       if (
@@ -87,6 +92,25 @@ const RasaChatWidget = styled(WrappedWidget)`
     background-color: ${props => props.theme.colors.secondaryLight};
   }
 
+  .rw-widget-embedded .rw-conversation-container {
+    box-shadow: none;
+  }
+
+  .rw-messages-container {
+    background-color: ${props => props.theme.colors.background};
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+
+    > :first-child {
+      padding-top: 12px;
+    }
+
+    > :last-child {
+      padding-bottom: 12px;
+    }
+  }
+
   .rw-sender {
     background-color: ${props => props.theme.colors.background};
     height: 40px;
@@ -99,19 +123,32 @@ const RasaChatWidget = styled(WrappedWidget)`
     border-radius: 30px;
   }
 
-  .rw-response {
-    background-color: ${props => props.theme.colors.backgroundLight};
+  .rw-send {
+    display: none;
+  }
+
+  .rw-avatar {
+    height: 48px;
+    width: 48px;
+  }
+
+  .rw-message {
+    flex-wrap: nowrap;
+  }
+
+  .rw-response,
+  .rw-client {
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-    color: ${props => props.theme.colors.text};
     font-family: ${props => props.theme.fontFamily};
-    font-size: ${props => props.theme.sizes.question};
     margin-top: 4px;
     max-width: 50%;
-    width: max-content;
+    min-width: 1.2em;
     padding: calc(${props => props.theme.sizes.question} * 0.75);
+    width: max-content;
 
     @media (max-width: ${mobileBreakpoint}px) {
       max-width: 100%;
+      width: auto;
     }
 
     p,
@@ -120,21 +157,22 @@ const RasaChatWidget = styled(WrappedWidget)`
     }
   }
 
+  .rw-response {
+    background-color: ${props => props.theme.colors.backgroundLight};
+    color: ${props => props.theme.colors.text};
+    font-size: ${props => props.theme.sizes.body};
+  }
+
   .rw-client {
     background-color: ${props => props.theme.colors.secondaryLight} !important;
     border-radius: 18px 18px 0 18px;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
     color: ${props => props.theme.colors.lightText};
-    max-width: 50%;
-    min-width: 1.2em;
-    font-family: ${props => props.theme.fontFamily};
-    font-size: ${props => props.theme.sizes.body};
-    margin-top: 4px;
-    padding: calc(${props => props.theme.sizes.question} * 0.75);
+    font-size: ${props => props.theme.sizes.question};
+  }
 
-    @media (max-width: ${mobileBreakpoint}px) {
-      max-width: 100%;
-    }
+  .rw-replies {
+    justify-content: center;
+    overflow: visible;
   }
 
   .rw-reply {
@@ -151,9 +189,6 @@ const RasaChatWidget = styled(WrappedWidget)`
     min-height: auto;
     min-width: 6em;
     padding: calc(${props => props.theme.sizes.buttonText} * 0.75);
-    perspective: 1000;
-    transform: translate3d(0, 0, 0);
-    transform: translateZ(0px);
     z-index: 1000001;
 
     :hover {
@@ -166,98 +201,60 @@ const RasaChatWidget = styled(WrappedWidget)`
     }
   }
 
-  .rw-send {
-    display: none;
-  }
-
-  .rw-message {
-    flex-wrap: nowrap;
-  }
-
-  .rw-message:first-child .rw-response {
-    box-sizing: border-box;
-  }
-
-  .rw-message .rw-response {
-    box-sizing: content-box;
-  }
-
-  .rw-replies {
-    justify-content: center;
-    overflow: visible;
-  }
-
-  .rw-message-text .rw-markdown ul {
-    list-style: disc;
-    padding-left: 20px;
-    margin-top: 0;
-    margin-bottom: 0.4em;
-  }
-
-  .rw-message-text .rw-markdown p {
-    margin-bottom: 0.6em;
-  }
-
-  /* When widget is embedded */
-  .rw-widget-embedded {
-    .rw-messages-container {
-      padding-top: 30px;
-      display: flex;
-      flex-direction: column;
-      background-color: ${props => props.theme.colors.background};
+  .rw-message-text .rw-markdown {
+    ul {
+      list-style: disc;
+      padding-left: 20px;
+      margin-top: 0;
+      margin-bottom: 0.4em;
     }
 
-    .rw-conversation-container {
-      box-shadow: none;
+    p {
+      margin-bottom: 0.6em;
     }
+  }
 
-    .rw-conversation-container .rw-avatar {
-      height: 48px;
-      width: 48px;
-    }
+  .rw-group-message.rw-from-response {
+    display: flex;
+    flex-direction: column;
 
-    .rw-group-message.rw-from-response {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .rw-group-message.rw-from-response:last-of-type {
+    :last-of-type {
       flex-grow: 1;
     }
+  }
 
-    .rw-message.rw-with-avatar:last-of-type {
+  .rw-quickReplies-container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: space-between;
+    width: 100%;
+
+    .rw-response {
+      box-sizing: content-box;
+    }
+
+    .rw-message:not(:first-child):not(:only-child).rw-with-avatar {
       flex-grow: 1;
-
-      .rw-response {
-        height: min-content;
-      }
     }
+  }
 
-    .rw-quickReplies-container {
-      display: flex;
-      flex-direction: column;
-      flex-grow: 1;
-      width: 100%;
-      justify-content: space-between;
+  .rw-group-message.rw-from-response
+    .rw-message:not(:first-child):not(:only-child).rw-with-avatar {
+    margin-left: 64px;
+  }
 
-      .rw-response {
-        box-sizing: content-box;
-      }
-
-      .rw-message:not(:first-child):not(:only-child).rw-with-avatar {
-        flex-grow: 1;
-      }
+  .rw-group-message.rw-from-response .rw-message.rw-with-avatar {
+    .rw-replies {
+      margin: 20px 0 0px -54px;
     }
+  }
 
-    .rw-group-message.rw-from-response
-      .rw-message:not(:first-child):not(:only-child).rw-with-avatar {
-      margin-left: 64px;
-    }
+  .rw-message.rw-with-avatar:last-of-type {
+    flex-grow: 1;
 
-    .rw-group-message.rw-from-response .rw-message.rw-with-avatar {
-      .rw-replies {
-        margin: 20px 0 5px -54px;
-      }
+    .rw-response {
+      height: min-content;
     }
   }
 `

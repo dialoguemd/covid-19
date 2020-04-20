@@ -48,6 +48,7 @@ export const WelcomePage: React.FC = () => {
       <ScrollAnchor />
       <Header
         showRegionPicker
+        hideLogoBackground={true}
         css={`
           flex-shrink: 0;
           margin: 0;
