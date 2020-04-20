@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import styled, { css } from 'styled-components/macro'
+import styled from 'styled-components/macro'
 import { overrides } from 'services/overrides'
 
 import LogoImage from 'images/dialogue-logo.svg'
