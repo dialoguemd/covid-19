@@ -16,7 +16,19 @@ De plus, si vous avez de la toux ou de la fièvre ou une perte soudaine de l’o
 - Si votre condition le permet, contactez le 1 877 644-4545. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
 
-De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudmtl.gouv.qc.ca/actualite/covid-19-ouverture-dune-clinique-de-depistage-sans-rendez-vous-pour-augmenter-le-nombre-de-depistages) à la CIUSSS du Centre-Sud-de-l'Île-de-Montréal s'ouvre pour augmenter le nombre de tests de dépistage.
+Dépistage et évaluation
+
+La transmission communautaire est maintenant celle qui génère le plus de cas de la COVID-19 au Québec. C'est pourquoi une nouvelle approche pour le dépistage est mise en place.
+Montréal : À compter du lundi 20 avril à 8 h, les services de la Clinique désignée de dépistage de la Place des festivals (quartier des spectacles) seront transférés à l'ancienne urgence de l'Hôtel-Dieu.
+
+Si vous avez des symptômes s'apparentant à la grippe, à la gastro ou la COVID-19 (fièvre, toux, difficulté à respirer), vous devez composer le 514 644-4545 ou le 1 877 644-4545 afin d’obtenir une évaluation et être dirigé vers la bonne ressource.
+
+Les personnes qui seront dépistées en priorité:
+
+- Les usagers et le personnel des milieux d’hébergement pour aînés tels que les centres d'hébergement et de soins de longue durée (CHSLD), les ressources intermédiaires (RI) et les ressource de type familiale (RTF), selon les recommandations de la - Direction régionale de santé publique
+- Les personnes qui ont des symptômes et qui habitent dans d’autres milieux à risque (ex. : refuges pour itinérants)
+- Les personnes qui ont des symptômes et qui ont une recommandation de la Direction régionale de santé publique
+- Les personnes qui occupent des fonctions essentielles dans les domaines de la santé et de la sécurité publique
 
 [Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
 
