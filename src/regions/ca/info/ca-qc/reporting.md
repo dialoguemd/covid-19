@@ -16,6 +16,8 @@ If you have symptoms such as a cough, fever, difficulty breathing or sudden loss
 - If your condition allows you to do so, call 1-877-644-4545. If you are a traveller who has returned within less than 14 days, mention it.
 - Visit the emergency room only if you have difficulty breathing (you have difficulty breathing when resting or are unable to breathe when lying down).
 
+[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
+
 Testing and evaluation
 
 In Québec, most cases of COVID-19 are now linked to community transmission. For this reason, a new approach for testing is in place.
@@ -28,7 +30,7 @@ People prioritized for testing:
 - People with symptoms who have a recommendation from the regional public health department
 - People in functions considered essential to health and public safety
 
-[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
+[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
 
 ## For citizens returning from travelling
 
