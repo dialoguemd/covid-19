@@ -9,7 +9,7 @@ Pendant votre voyage :
 - informez-vous de la situation locale et suivez les conseils de santé publique
 - lavez-vous les mains souvent à l'eau tiède courante et au savon pendant au moins 20 secondes
 - utilisez un désinfectant à base d'alcool si vous n'avez pas accès à l'eau et au savon et soyez prévenant et gardez-en avec vous lorsque vous voyagez
-- observez les règles d’hygiène lorsque vous toussez ou éternuez 
+- observez les règles d’hygiène lorsque vous toussez ou éternuez
 
 Surveillez votre santé
 

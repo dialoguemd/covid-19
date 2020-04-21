@@ -11,7 +11,7 @@ During your trip:
 - use alcohol-based hand sanitizer if soap and water are not available and always keep some with you when you travel
 - practise proper cough and sneeze etiquette
 
-## Monitor your health ##
+## Monitor your health
 
 If you become sick, avoid contact with others except to see a health care professional.
 
