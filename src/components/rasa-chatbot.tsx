@@ -1,4 +1,5 @@
 import React, { useLayoutEffect } from 'react'
+import { clamp } from 'lodash'
 
 import {
   Widget,
@@ -25,6 +26,24 @@ interface Props {
   title: string
 }
 
+const onSocketEvent = {
+  bot_uttered: response => {
+    if (
+      response.quick_replies !== undefined &&
+      response.quick_replies.length > 0
+    ) {
+      toggleInputDisabled(true)
+    } else {
+      toggleInputDisabled(false)
+    }
+  }
+}
+
+const customMessageDelay = message => {
+  const delay = message.length * 15
+  return clamp(delay, 1500, 4000)
+}
+
 const WrappedWidget: React.FC<Props & Record<string, any>> = ({
   className,
   initPayload,
@@ -41,26 +60,6 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
     // Clean up chat session before re-render
     sessionStorage.removeItem('chat_session')
   })
-
-  const onSocketEvent = {
-    bot_uttered: response => {
-      if (
-        response.quick_replies !== undefined &&
-        response.quick_replies.length > 0
-      ) {
-        toggleInputDisabled(true)
-      } else {
-        toggleInputDisabled(false)
-      }
-    }
-  }
-
-  const customMessageDelay = message => {
-    let delay = message.length * 10
-    if (delay > 1500) delay = 1500
-    if (delay < 500) delay = 500
-    return delay
-  }
 
   return (
     <div className={className} key={socketUrl}>
