@@ -18,4 +18,4 @@ If your symptoms are severe (i.e. shortness of breath) call 9-1-1.
 
 Please describe your symptoms over the phone before your appointment so the clinic can arrange to see you without exposing others. Let them know if you have travelled or have been exposed to someone with COVID-19 in the last 14 days.
 
-[Source: Government of Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/advice-nwt-residents) 
+[Source: Government of Northwest Territories](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/advice-nwt-residents)  
