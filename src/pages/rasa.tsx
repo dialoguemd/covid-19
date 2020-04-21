@@ -37,7 +37,7 @@ const Body = styled.div`
   overflow: hidden;
 `
 
-export const WelcomePage: React.FC = () => {
+export const RasaPage: React.FC = () => {
   const { t, i18n } = useTranslation()
 
   const language = i18n.languages[0]
@@ -74,4 +74,4 @@ export const WelcomePage: React.FC = () => {
   )
 }
 
-export default WelcomePage
+export default RasaPage
