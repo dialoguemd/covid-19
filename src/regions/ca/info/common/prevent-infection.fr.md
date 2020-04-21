@@ -30,7 +30,9 @@ Pensez-vous avoir la COVID-19 ? [Faites une auto-évaluation](https://ca.thrive.
 
 ##### Voyageurs
 
-Consultez cette [page](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html) pour toutes les informations concernant les voyageurs.
+Les voyageurs peuvent être plus exposés au risque d'attraper la COVID-19. Il est conseillé aux Canadiens d'[éviter tout voyage non essentiel](https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/221). Si vous devez voyager, consultez les plus récents [conseils aux voyageurs](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html) avant votre départ.
+
+Santé Canada continuera de modifier ses évaluations des risques en fonction des plus récentes données.
 
 ##### Si vous ou votre enfant tombez malade
 
@@ -90,42 +92,12 @@ Ces surfaces comprennent les :
 
 Pour plus d'informations, consultez les [lignes directrices sur le nettoyage et la désinfection des espaces publics](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/nettoyage-desinfection-espaces-publics.html).
 
-### Port d'un masque
+### Port du masque ou d'un couvre-visage
 
-Le port de masques médicaux, dont les masques chirurgicaux, les masques faciaux de soins et les respirateurs (comme les masques N95), doit être réservé aux travailleurs de la santé et aux autres personnes fournissant des soins directs aux patients infectés par la COVID-19.
+Le port de masques médicaux, dont les masques chirurgicaux, les masques d'intervention et les respirateurs (comme les masques N95), doit être réservé aux travailleurs de la santé et aux autres personnes fournissant des soins directs aux patients infectés par la COVID-19.
 
-Rien ne prouve que le port d’un masque non médical (par exemple un masque en tissu artisanal) dans la communauté protège la personne qui le porte. Des mesures d’hygiène et de santé publique strictes, notamment le lavage fréquent des mains et l’éloignement physique (distanciation sociale), réduiront votre risque d’exposition au virus.
+Le port d'un masque non médical ou d'un couvre-visage en public est facultatif. Si vous décidez d'en porter un, consultez nos [directives sur le port de masques non médicaux et sur la façon de fabriquer le vôtre](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/instructions-revetement-visage-tissu-cousu-non-cousu.html).
 
-Porter un masque non médical est une mesure supplémentaire que vous pouvez prendre pour protéger les personnes qui vous entourent.
-
-Le port d’un masque non médical est une autre façon de couvrir votre bouche et votre nez pour éviter que vos gouttelettes respiratoires ne contaminent les autres ou n’atterrissent sur des surfaces. Tout comme notre recommandation de ne pas tousser dans vos mains (toussez plutôt dans un mouchoir ou sur votre manche), un masque peut réduire le risque que d’autres personnes soient exposées à vos gouttelettes respiratoires.
-
-Si le port d’un masque non médical vous sécurise et vous empêche de toucher votre nez et votre bouche, c’est également une bonne chose. Mais n’oubliez pas d'éviter de vous toucher ou frotter les yeux.
-
-Il est important de comprendre que les masques non médicaux ont leurs limites et qu’ils doivent être utilisés prudemment.
-
-Les masques non médicaux ou les couvre-visages ne devraient pas être mis sur :
-
-- des enfants de moins de deux ans
-- une personne qui a de la difficulté à respirer
-- une personne qui est inconsciente, inapte ou n'est pas capable d'enlever le masque sans aide
-
-Si vous choisissez d’utiliser un masque facial non médical, vous devez :
-
-- vous laver les mains immédiatement avant de le mettre et immédiatement après l’avoir enlevé (en plus de pratiquer une bonne hygiène des mains pendant que vous le portez);
-- l’ajuster correctement (bien collé au visage);
-- éviter de le partager avec d’autres.
-
-Les masques faciaux peuvent être contaminés lorsque vous allez à l’extérieur ou que vous les manipulez. Quand vous portez un masque, vous devez prendre les précautions suivantes pour vous protéger :
-
-- évitez de toucher votre masque facial lorsque vous le portez;
-- changez votre masque de tissu dès qu’il est humide ou souillé :
-  - mettez le masque directement dans la machine à laver ou dans un sac que vous viderez dans la machine avant de le jeter
-  - les masques de tissu peuvent être lavés avec d’autres articles à l’eau chaude, puis séchés à fond
-- les masques non médicaux non lavables doivent être jetés et remplacés dès qu’ils sont humides, souillés ou froissés :
-  - jetez les masques correctement dans une poubelle doublée de plastique
-  - ne laissez aucun masque usagé dans les chariots de supermarché, sur le sol, etc.
-
-Les masques seuls n’empêcheront pas la propagation de la COVID-19. Vous devez suivre à la lettre et en tout temps les consignes d’hygiène adéquate et de santé publique, dont le lavage des mains fréquent et l’éloignement physique (distanciation sociale).
+Les masques seuls n'empêcheront pas la propagation de la COVID-19. Vous devez suivre à la lettre et en tout temps les consignes d'hygiène adéquate et de santé publique, dont le lavage des mains fréquent et l'éloignement physique (distanciation sociale).
 
 [Source: Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
