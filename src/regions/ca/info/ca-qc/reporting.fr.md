@@ -8,13 +8,15 @@ Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/)
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme de la toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), le 1 800 361-9596 (sans frais).
+Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme l’apparition ou l’aggravation d’une toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), le 1 800 361-9596 (sans frais).
 
 De plus, si vous avez de la toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasale :
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Si votre condition le permet, contactez le 1 877 644-4545. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
+
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
 
 Dépistage et évaluation
 
@@ -30,7 +32,7 @@ Les personnes qui seront dépistées en priorité:
 - Les personnes qui ont des symptômes et qui ont une recommandation de la Direction régionale de santé publique
 - Les personnes qui occupent des fonctions essentielles dans les domaines de la santé et de la sécurité publique
 
-[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
+[Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/)
 
 ## Pour les citoyens de retour de voyage?
 
