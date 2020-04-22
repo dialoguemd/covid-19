@@ -39,64 +39,7 @@ type QuickReply = {
   title: string
 }
 
-const onSocketEvent = {
-  bot_uttered: (response: Response) => {
-    if (
-      response.quick_replies !== undefined &&
-      response.quick_replies.length > 0
-    ) {
-      toggleInputDisabled(true)
-    } else {
-      toggleInputDisabled(false)
-    }
-  }
-}
-
-const customMessageDelay = (message: string) => {
-  const delay = message.length * 15
-  return clamp(delay, 1500, 4000)
-}
-
-const WrappedWidget: React.FC<Props> = ({
-  className,
-  initPayload,
-  inputTextFieldHint,
-  params,
-  profileAvatar,
-  socketPath,
-  socketUrl,
-  subtitle,
-  title,
-  ...rest
-}) => {
-  useLayoutEffect(
-    () => () => {
-      // Clean up chat session before re-render
-      sessionStorage.removeItem('chat_session')
-    },
-    [socketUrl]
-  )
-
-  return (
-    <div {...rest} className={className} key={socketUrl}>
-      <Widget
-        customMessageDelay={customMessageDelay}
-        embedded
-        initPayload={initPayload}
-        inputTextFieldHint={inputTextFieldHint}
-        onSocketEvent={onSocketEvent}
-        params={params}
-        profileAvatar={profileAvatar}
-        socketPath={socketPath}
-        socketUrl={socketUrl}
-        subtitle={subtitle}
-        title={title}
-      />
-    </div>
-  )
-}
-
-const RasaChatWidget = styled(WrappedWidget)`
+const WidgetContainer = styled.div`
   width: 100%;
   height: 100%;
 
@@ -270,6 +213,62 @@ const RasaChatWidget = styled(WrappedWidget)`
     }
   }
 `
+
+const onSocketEvent = {
+  bot_uttered: (response: Response) => {
+    if (
+      response.quick_replies !== undefined &&
+      response.quick_replies.length > 0
+    ) {
+      toggleInputDisabled(true)
+    } else {
+      toggleInputDisabled(false)
+    }
+  }
+}
+
+const customMessageDelay = (message: string) => {
+  const delay = message.length * 15
+  return clamp(delay, 1500, 4000)
+}
+
+const RasaChatWidget: React.FC<Props> = ({
+  className,
+  initPayload,
+  inputTextFieldHint,
+  params,
+  profileAvatar,
+  socketPath,
+  socketUrl,
+  subtitle,
+  title,
+  ...rest
+}) => {
+  useLayoutEffect(
+    () => () => {
+      sessionStorage.removeItem('chat_session')
+    },
+    [socketUrl]
+  )
+
+  return (
+    <WidgetContainer {...rest} className={className} key={socketUrl}>
+      <Widget
+        customMessageDelay={customMessageDelay}
+        embedded
+        initPayload={initPayload}
+        inputTextFieldHint={inputTextFieldHint}
+        onSocketEvent={onSocketEvent}
+        params={params}
+        profileAvatar={profileAvatar}
+        socketPath={socketPath}
+        socketUrl={socketUrl}
+        subtitle={subtitle}
+        title={title}
+      />
+    </WidgetContainer>
+  )
+}
 
 export default RasaChatWidget
 export { toggle, open, close, show, hide }
