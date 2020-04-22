@@ -10,7 +10,7 @@ The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-0024
 
 If you are worried about COVID‑19, you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec.
 
-If you have symptoms such as a cough, fever, difficulty breathing or sudden loss of sense of smell without nasal congestion with or without loss of taste:
+If you have symptoms such as a cough or cough that gets worse, fever, difficulty breathing or sudden loss of sense of smell without nasal congestion with or without loss of taste:
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
 - If your condition allows you to do so, call 1-877-644-4545. If you are a traveller who has returned within less than 14 days, mention it.
