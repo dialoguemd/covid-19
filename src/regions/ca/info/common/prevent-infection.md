@@ -30,7 +30,9 @@ Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health
 
 ##### Travellers
 
-Consult this [page](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) for all information concerning travellers.
+The risk for getting COVID-19 may be increased for travellers. Canadians are advised to [avoid all non-essential travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/221). If you must travel, check the [latest travel advice](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) before you leave.
+
+Health Canada will continue to adapt their risk assessment based on the latest data available.
 
 ##### If you or your child become ill
 
@@ -90,41 +92,11 @@ These surfaces include:
 
 Refer to the [guidance on cleaning and disinfecting public spaces](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/cleaning-disinfecting-public-spaces.html) for more information.
 
-### Wearing masks
+### Wearing masks or face coverings
 
-Medical masks, including surgical, medical procedure face masks and respirators (like N95 masks), must be kept for healthcare workers and others providing direct care to COVID-19 patients.
+Medical masks, including surgical, medical procedure face masks and respirators (like N95 masks), must be kept for health care workers and others providing direct care to COVID-19 patients.
 
-Wearing a non-medical mask (for example a homemade cloth mask) in the community has not been proven to protect the person wearing it. Strict hygiene and public health measures, including frequent hand washing and physical (social) distancing, will reduce your chance of being exposed to the virus.
-
-Wearing a non-medical mask is an additional measure you can take to protect others around you.
-
-Wearing a non-medical mask is another way to cover your mouth and nose to prevent your respiratory droplets from contaminating others or landing on surfaces. Just like our recommendation not to cough into your hands (instead, cover your cough with tissues or your sleeve) a mask can reduce the chance that others are coming into contact with your respiratory droplets.
-
-If wearing a non-medical mask makes you feel safer and stops you from touching your nose and mouth, that is also good. But remember not to touch or rub your eyes.
-
-It is important to understand that non-medical masks have limitations and need to be used safely.
-
-Non-medical masks or face coverings should not be placed on:
-
-- children under age 2
-- anyone who has trouble breathing
-- anyone who is unconscious, incapacitated or otherwise unable to remove the mask without assistance
-
-If you choose to use a non-medical face mask:
-
-- you must wash your hands immediately before putting it on and immediately after taking it off (in addition to practicing good hand hygiene while wearing it)
-- it should fit well (non-gaping)
-- you should not share it with others
-
-Face masks can become contaminated on the outside, or when touched by your hands. When wearing a mask, take the following precautions to protect yourself:
-
-- avoid touching your face mask while using it
-- change a cloth mask as soon as it gets damp or soiled
-  - put it directly into the washing machine or a bag that can be emptied into the washing machine and then disposed of
-  - cloth masks can be laundered with other items using a hot cycle, and then dried thoroughly.
-- non-medical masks that cannot be washed should be discarded and replaced as soon as they get damp, soiled or crumpled
-  - dispose of masks properly in a lined garbage bin
-  - don’t leave discarded masks in shopping carts, on the ground, etc.
+Wearing a non-medical mask or face covering while out in public is optional. If you do choose to wear one, refer to our [guidelines on wearing non-medical masks and how to make your own](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/instructions-sew-no-sew-cloth-face-covering.html).
 
 Masks alone will not prevent the spread of COVID-19. You must consistently and strictly adhere to good hygiene and public health measures, including frequent hand washing and physical (social) distancing.
 
