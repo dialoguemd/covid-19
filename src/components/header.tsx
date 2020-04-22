@@ -16,10 +16,10 @@ const { ENABLE_LOGO } = config
 
 interface Props extends LogoContainerProps {
   title?: string
-  showRegionPicker?: Boolean
+  showRegionPicker?: boolean
 }
 interface LogoContainerProps {
-  hideLogoBackground?: Boolean
+  hideLogoBackground?: boolean
 }
 
 const LogoContainer = styled.div<LogoContainerProps>`
@@ -32,17 +32,21 @@ const LogoContainer = styled.div<LogoContainerProps>`
   border-bottom-right-radius: 100px;
   flex-basis: 0;
 
+  @media (max-width: ${mobileBreakpoint}px) {
+    padding: 12px 32px 8px 12px;
+  }
+
   ${({ hideLogoBackground }) =>
     hideLogoBackground &&
     `
       background-color: transparent;
       border-bottom-right-radius: 0;
       padding: 15px 42px 21px 18px;
-    `}
 
-  @media (max-width: ${mobileBreakpoint}px) {
-    padding: 12px 32px 8px 12px;
-  }
+      @media (max-width: ${mobileBreakpoint}px) {
+        padding-top: 15px;
+      }
+    `}
 
   img {
     height: 32px;

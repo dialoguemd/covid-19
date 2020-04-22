@@ -11,9 +11,11 @@ import {
   toggleInputDisabled
 } from 'rasa-webchat'
 import styled from 'styled-components/macro'
+
 import { mobileBreakpoint } from 'theme'
 
 interface Props {
+  className?: string
   initPayload: string
   inputTextFieldHint: string
   params: {
@@ -26,8 +28,19 @@ interface Props {
   title: string
 }
 
+type Response = {
+  text?: string
+  quick_replies?: QuickReply[]
+}
+
+type QuickReply = {
+  content_type: string
+  payload: string
+  title: string
+}
+
 const onSocketEvent = {
-  bot_uttered: response => {
+  bot_uttered: (response: Response) => {
     if (
       response.quick_replies !== undefined &&
       response.quick_replies.length > 0
@@ -39,12 +52,12 @@ const onSocketEvent = {
   }
 }
 
-const customMessageDelay = message => {
+const customMessageDelay = (message: string) => {
   const delay = message.length * 15
   return clamp(delay, 1500, 4000)
 }
 
-const WrappedWidget: React.FC<Props & Record<string, any>> = ({
+const WrappedWidget: React.FC<Props> = ({
   className,
   initPayload,
   inputTextFieldHint,
@@ -56,16 +69,19 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
   title,
   ...rest
 }) => {
-  useLayoutEffect(() => () => {
-    // Clean up chat session before re-render
-    sessionStorage.removeItem('chat_session')
-  })
+  useLayoutEffect(
+    () => () => {
+      // Clean up chat session before re-render
+      sessionStorage.removeItem('chat_session')
+    },
+    [socketUrl]
+  )
 
   return (
-    <div className={className} key={socketUrl}>
+    <div {...rest} className={className} key={socketUrl}>
       <Widget
         customMessageDelay={customMessageDelay}
-        embedded={true}
+        embedded
         initPayload={initPayload}
         inputTextFieldHint={inputTextFieldHint}
         onSocketEvent={onSocketEvent}
@@ -75,7 +91,6 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
         socketUrl={socketUrl}
         subtitle={subtitle}
         title={title}
-        {...rest}
       />
     </div>
   )
@@ -84,8 +99,6 @@ const WrappedWidget: React.FC<Props & Record<string, any>> = ({
 const RasaChatWidget = styled(WrappedWidget)`
   width: 100%;
   height: 100%;
-
-  font-weight: 300 !important;
 
   .rw-loading {
     background-color: ${props => props.theme.colors.secondaryLight};
@@ -118,7 +131,7 @@ const RasaChatWidget = styled(WrappedWidget)`
 
   .rw-new-message,
   .rw-send {
-    background-color: #f1f0f0;
+    background-color: ${props => props.theme.colors.inputBackground};
     border-radius: 30px;
   }
 
@@ -165,7 +178,7 @@ const RasaChatWidget = styled(WrappedWidget)`
   .rw-client {
     background-color: ${props => props.theme.colors.secondaryLight} !important;
     border-radius: 18px 18px 0 18px;
-    color: ${props => props.theme.colors.lightText};
+    color: ${props => props.theme.colors.textLight};
     font-size: ${props => props.theme.sizes.question};
   }
 
