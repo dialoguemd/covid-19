@@ -35,8 +35,8 @@ function RouteRasa() {
 
   return (
     <Switch>
-      <Route exact path={path} render={renderDefault} />
       <Route path={`${path}/ci`} render={renderCheckin} />
+      <Route path={path} render={renderDefault} />
     </Switch>
   )
 }
