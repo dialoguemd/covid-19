@@ -9,10 +9,20 @@ import RasaChatbot from 'components/rasa-chatbot'
 import chloe from 'images/chloe.png'
 
 const RASA_INIT_PAYLOAD = process.env.REACT_APP_RASA_INIT_PAYLOAD
+const RASA_CHECKIN_PAYLOAD = process.env.REACT_APP_RASA_CHECKIN_PAYLOAD
+const RASA_METADATA_ENTITY_NAME =
+  process.env.REACT_APP_RASA_METADATA_ENTITY_NAME
+const RASA_TIMEZONE_PARAMETER = process.env.REACT_APP_RASA_TIMEZONE_PARAMETER
+const RASA_USER_ID_PARAMETER = process.env.REACT_APP_RASA_USER_ID_PARAMETER
 const RASA_SOCKET_PATH = process.env.REACT_APP_RASA_SOCKET_PATH
 const RASA_SOCKET_ENDPOINTS = {
   en: process.env.REACT_APP_RASA_SOCKET_ENDPOINT_EN,
   fr: process.env.REACT_APP_RASA_SOCKET_ENDPOINT_FR
+}
+
+interface Props {
+  timezone?: string
+  userId?: string
 }
 
 const Container = styled.div`
@@ -37,11 +47,35 @@ const Body = styled.div`
   overflow: hidden;
 `
 
-export const RasaPage: React.FC = () => {
-  const { t, i18n } = useTranslation()
+interface Metadata {
+  [key: string]: string
+}
 
+// TODO: change intent from env to remove / and pass it right here
+const createPayload = (intent: string, metadata: Metadata) => {
+  return `${intent}{"${RASA_METADATA_ENTITY_NAME}":${JSON.stringify(metadata)}}`
+}
+
+const createDefaultPayload = (timezone?: string) => {
+  const metadata = {}
+  if (timezone) metadata[RASA_TIMEZONE_PARAMETER] = timezone
+  return createPayload(RASA_INIT_PAYLOAD, metadata)
+}
+
+const createCheckInPayload = (userId: string) => {
+  const metadata = { [RASA_USER_ID_PARAMETER]: userId }
+  return createPayload(RASA_CHECKIN_PAYLOAD, metadata)
+}
+
+export const RasaPage: React.FC<Props> = ({ timezone, userId }) => {
+  const { t, i18n } = useTranslation()
   const language = i18n.languages[0]
   const socketUrl = RASA_SOCKET_ENDPOINTS[language] || RASA_SOCKET_ENDPOINTS.en
+
+  // When userId is set, the user is coming back for check-in.
+  const initPayload = userId
+    ? createCheckInPayload(userId)
+    : createDefaultPayload(timezone)
 
   return (
     <Container>
@@ -58,7 +92,7 @@ export const RasaPage: React.FC = () => {
       />
       <Body>
         <RasaChatbot
-          initPayload={RASA_INIT_PAYLOAD}
+          initPayload={initPayload}
           inputTextFieldHint={t('rasaChatWidget.inputTextFieldHint')}
           profileAvatar={chloe}
           socketPath={RASA_SOCKET_PATH}
