@@ -8,10 +8,9 @@ import RasaChatbot from 'components/rasa-chatbot'
 
 import chloe from 'images/chloe.png'
 
-const RASA_INIT_PAYLOAD = process.env.REACT_APP_RASA_INIT_PAYLOAD
-const RASA_CHECKIN_PAYLOAD = process.env.REACT_APP_RASA_CHECKIN_PAYLOAD
-const RASA_METADATA_ENTITY_NAME =
-  process.env.REACT_APP_RASA_METADATA_ENTITY_NAME
+const RASA_GREET_INTENT = process.env.REACT_APP_RASA_GREET_INTENT
+const RASA_CHECKIN_INTENT = process.env.REACT_APP_RASA_CHECKIN_INTENT
+const RASA_METADATA_ENTITY = process.env.REACT_APP_RASA_METADATA_ENTITY
 const RASA_TIMEZONE_PARAMETER = process.env.REACT_APP_RASA_TIMEZONE_PARAMETER
 const RASA_USER_ID_PARAMETER = process.env.REACT_APP_RASA_USER_ID_PARAMETER
 const RASA_SOCKET_PATH = process.env.REACT_APP_RASA_SOCKET_PATH
@@ -53,18 +52,18 @@ interface Metadata {
 
 // TODO: change intent from env to remove / and pass it right here
 const createPayload = (intent: string, metadata: Metadata) => {
-  return `${intent}{"${RASA_METADATA_ENTITY_NAME}":${JSON.stringify(metadata)}}`
+  return `/${intent}{"${RASA_METADATA_ENTITY}":${JSON.stringify(metadata)}}`
 }
 
 const createDefaultPayload = (timezone?: string) => {
   const metadata = {}
   if (timezone) metadata[RASA_TIMEZONE_PARAMETER] = timezone
-  return createPayload(RASA_INIT_PAYLOAD, metadata)
+  return createPayload(RASA_GREET_INTENT, metadata)
 }
 
 const createCheckInPayload = (userId: string) => {
   const metadata = { [RASA_USER_ID_PARAMETER]: userId }
-  return createPayload(RASA_CHECKIN_PAYLOAD, metadata)
+  return createPayload(RASA_CHECKIN_INTENT, metadata)
 }
 
 export const RasaPage: React.FC<Props> = ({ timezone, userId }) => {
