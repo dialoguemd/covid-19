@@ -7,9 +7,11 @@ const colors = {
   secondary: '#534E71',
   secondaryLight: '#7378A3',
   text: '#534E71',
+  textLight: '#FFFFFF',
   disabled: '#EAEDEE',
   background: '#FAFAFB',
   backgroundLight: '#FFFFFF',
+  inputBackground: '#F1F0F0',
   ...overrides.colors
 } as const
 
