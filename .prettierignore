@@ -2,4 +2,5 @@
 *.jpeg
 *.png
 *.svg
+*.py
 src/regions/**/manifest.json
