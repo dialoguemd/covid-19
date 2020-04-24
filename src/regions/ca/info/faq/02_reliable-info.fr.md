@@ -1,8 +1,8 @@
 ## Où puis-je trouver de l'information fiable à propos du coronavirus?
 
-Seulement les sources officielles doivent être considérées car elles sont les plus à jour sur la situation du COVID-19. Les sources d’informations non officielles peuvent être rapidement non à jour contrairement aux sources gouvernementales qui elles sont misent à jour sur une base quotidienne (voir plusieurs fois par jour).
+Seulement les sources officielles doivent être considérées car elles sont les plus à jour sur la situation de la COVID-19. Les sources d’information non officielles peuvent être rapidement non à jour contrairement aux sources gouvernementales qui elles sont mises à jour sur une base quotidienne (voir plusieurs fois par jour).
 
-Nous n’envoyons aucun document d’information produit par dialogue au sujet du Covid-19, la situation autour du Virus évoluant rapidement, nous préférons vous diriger vers des sources officielles ci jointes.
+Nous n’envoyons aucun document d’information produit par dialogue au sujet de la Covid-19, la situation autour du Virus évoluant rapidement, nous préférons vous diriger vers des sources officielles ci jointes.
 
 - **[Source fédérale officielle](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html)**
 

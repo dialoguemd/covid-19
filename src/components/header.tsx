@@ -14,12 +14,15 @@ const isLocalhost = window.location.hostname === 'localhost'
 const ENABLE_REGION_SWITCHING = isLocalhost || config.ENABLE_REGION_SWITCHING
 const { ENABLE_LOGO } = config
 
-interface Props {
+interface Props extends LogoContainerProps {
   title?: string
-  showRegionPicker?: Boolean
+  showRegionPicker?: boolean
+}
+interface LogoContainerProps {
+  hideLogoBackground?: boolean
 }
 
-const LogoContainer = styled.div`
+const LogoContainer = styled.div<LogoContainerProps>`
   position: absolute;
   z-index: 1000002;
   top: 0;
@@ -32,6 +35,18 @@ const LogoContainer = styled.div`
   @media (max-width: ${mobileBreakpoint}px) {
     padding: 12px 32px 8px 12px;
   }
+
+  ${({ hideLogoBackground }) =>
+    hideLogoBackground &&
+    `
+      background-color: transparent;
+      border-bottom-right-radius: 0;
+      padding: 15px 42px 21px 18px;
+
+      @media (max-width: ${mobileBreakpoint}px) {
+        padding-top: 15px;
+      }
+    `}
 
   img {
     height: 32px;
@@ -59,12 +74,13 @@ const HeaderContainer = styled.div`
 
 export const Header: React.FC<Props> = ({
   showRegionPicker,
+  hideLogoBackground,
   title,
   ...rest
 }) => (
   <>
     {ENABLE_LOGO && (
-      <LogoContainer>
+      <LogoContainer hideLogoBackground={hideLogoBackground}>
         <Link to="/">
           <img alt="logo" src={overrides.images.logo || LogoImage} />
         </Link>
