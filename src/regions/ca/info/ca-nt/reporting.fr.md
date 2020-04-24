@@ -10,12 +10,12 @@ Certains patients ont également ressenti les symptômes suivants :
 
 - Sensation générale de malaise, de ne pas se sentir au meilleur de sa forme
 - Douleurs musculaires
-- Fatigue    
+- Fatigue
 - Maux de gorge
 - Écoulement nasal
 - Mal de tête
 - Diarrhée
-- Vomissements    
+- Vomissements
 - Perte de l’odorat
 
 Toute personne qui ressent l’un des symptômes ci-dessus devrait prendre contact avec son [centre de santé](https://www.hss.gov.nt.ca/fr/h%C3%B4pitaux-et-centres-de-sant%C3%A9).

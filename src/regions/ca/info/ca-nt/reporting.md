@@ -1,12 +1,12 @@
 ## Northwest Territories: What should I do if I have symptoms of COVID-19?
 
-Most people with COVID-19 are experiencing these symptoms: 
+Most people with COVID-19 are experiencing these symptoms:
 
 - Fever
 - New or worsening cough
 - Shortness of breath
 
-Other symptoms those with COVID-19 have had are: 
+Other symptoms those with COVID-19 have had are:
 
 - A general feeling of unease, or being ‘under the weather’
 - Muscle aches
