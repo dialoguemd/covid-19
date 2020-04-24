@@ -17,8 +17,8 @@ function parseQueryString() {
 }
 
 function getStringParameter(parameter) {
-  const uid = parseQueryString()[parameter]
-  if (typeof uid === 'string') return uid
+  const value = parseQueryString()[parameter]
+  if (typeof value === 'string') return value
   return undefined
 }
 
