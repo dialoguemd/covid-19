@@ -4,6 +4,13 @@ import queryString from 'query-string'
 
 import RasaPage from '../pages/rasa'
 
+const USER_ID_QUERY_PARAMETER = 'uid'
+const RASA_GREET_INTENT = 'greet'
+const RASA_CHECKIN_INTENT = 'daily_checkin'
+const RASA_METADATA_ENTITY = 'metadata'
+const RASA_TIMEZONE_PARAMETER = 'timezone'
+const RASA_USER_ID_PARAMETER = 'user_id'
+
 function parseQueryString() {
   const hash = window.location.hash
   return queryString.parse(hash.substr(hash.indexOf('?')))
@@ -20,18 +27,30 @@ function getTimezone() {
   return defaultDateTimeFormat.resolvedOptions().timeZone
 }
 
+const createPayload = (intent: string, metadata: { [key: string]: string }) => {
+  return `/${intent}{"${RASA_METADATA_ENTITY}":${JSON.stringify(metadata)}}`
+}
+
+const renderDefault = props => {
+  const metadata = {}
+  const timezone = getTimezone()
+  if (timezone) metadata[RASA_TIMEZONE_PARAMETER] = timezone
+
+  const payload = createPayload(RASA_GREET_INTENT, metadata)
+  return <RasaPage {...props} initPayload={payload} />
+}
+
+const renderCheckin = props => {
+  const userId = getStringParameter(USER_ID_QUERY_PARAMETER)
+  if (!userId) return renderDefault(props)
+
+  const metadata = { [RASA_USER_ID_PARAMETER]: userId }
+  const payload = createPayload(RASA_CHECKIN_INTENT, metadata)
+  return <RasaPage {...props} initPayload={payload} />
+}
+
 function RouteRasa() {
   let { path } = useRouteMatch()
-
-  const renderDefault = props => {
-    const timezone = getTimezone()
-    return <RasaPage {...props} timezone={timezone} />
-  }
-
-  const renderCheckin = props => {
-    const uid = getStringParameter('uid')
-    return <RasaPage {...props} userId={uid} />
-  }
 
   return (
     <Switch>
