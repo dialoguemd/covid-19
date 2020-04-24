@@ -27,7 +27,10 @@ function getTimezone(): string {
   return defaultDateTimeFormat.resolvedOptions().timeZone
 }
 
-function createPayload(intent: string, metadata: { [key: string]: string }): string {
+function createPayload(
+  intent: string,
+  metadata: { [key: string]: string }
+): string {
   return `/${intent}{"${RASA_METADATA_ENTITY}":${JSON.stringify(metadata)}}`
 }
 
