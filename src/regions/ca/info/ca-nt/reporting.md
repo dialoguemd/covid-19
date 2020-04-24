@@ -1,6 +1,24 @@
 ## Northwest Territories: What should I do if I have symptoms of COVID-19?
 
-Anyone experiencing symptoms of COVID-19 should contact a healthcare provider. They may recommend that you get tested.
+Most people with COVID-19 are experiencing these symptoms: 
+
+- Fever
+- New or worsening cough
+- Shortness of breath
+
+Other symptoms those with COVID-19 have had are: 
+
+- A general feeling of unease, or being ‘under the weather’
+- Muscle aches
+- Fatigue
+- Sore throat
+- Runny nose
+- Headache
+- Diarrhea
+- Vomiting
+- Loss of smell
+
+Anyone experiencing any of the above should contact a healthcare provider. They may recommend that you get tested.
 
 [Source](https://www.hss.gov.nt.ca/en/services/coronavirus-disease-covid-19/getting-tested-covid-19#who-should-get-tested-for-covid-19-)
 
