@@ -16,22 +16,22 @@ function parseQueryString() {
   return queryString.parse(hash.substr(hash.indexOf('?')))
 }
 
-function getStringParameter(parameter) {
+function getStringParameter(parameter: string): string | undefined {
   const value = parseQueryString()[parameter]
   if (typeof value === 'string') return value
   return undefined
 }
 
-function getTimezone() {
+function getTimezone(): string {
   const defaultDateTimeFormat = new Intl.DateTimeFormat()
   return defaultDateTimeFormat.resolvedOptions().timeZone
 }
 
-const createPayload = (intent: string, metadata: { [key: string]: string }) => {
+function createPayload(intent: string, metadata: { [key: string]: string }): string {
   return `/${intent}{"${RASA_METADATA_ENTITY}":${JSON.stringify(metadata)}}`
 }
 
-const renderDefault = props => {
+function renderDefault(props: {}): JSX.Element {
   const metadata = {}
   const timezone = getTimezone()
   if (timezone) metadata[RASA_TIMEZONE_PARAMETER] = timezone
@@ -40,7 +40,7 @@ const renderDefault = props => {
   return <RasaPage {...props} initPayload={payload} />
 }
 
-const renderCheckin = props => {
+function renderCheckin(props: {}): JSX.Element {
   const userId = getStringParameter(USER_ID_QUERY_PARAMETER)
   if (!userId) return renderDefault(props)
 
@@ -49,7 +49,7 @@ const renderCheckin = props => {
   return <RasaPage {...props} initPayload={payload} />
 }
 
-function RouteRasa() {
+function RasaRoute() {
   let { path } = useRouteMatch()
 
   return (
@@ -60,4 +60,4 @@ function RouteRasa() {
   )
 }
 
-export default RouteRasa
+export default RasaRoute
