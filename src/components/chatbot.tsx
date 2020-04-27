@@ -6,6 +6,7 @@ import styled, { ThemeProvider, css } from 'styled-components/macro'
 import { theme, mobileBreakpoint } from 'theme'
 import chloe from 'images/chloe.png'
 import { transformStep } from 'services/steps-processor'
+import { overrides } from 'services/overrides'
 
 interface Props {
   steps: Step[]
@@ -136,7 +137,7 @@ export const Chatbot: React.FC<Props & Record<string, any>> = ({
         steps={transformedSteps}
         hideHeader
         hideUserAvatar
-        botAvatar={chloe}
+        botAvatar={overrides.images.botAvatar || chloe}
         userDelay={DISABLE_DELAYS ? 0 : 400}
         botDelay={DISABLE_DELAYS ? 0 : 400}
         customDelay={DISABLE_DELAYS ? 0 : 400}

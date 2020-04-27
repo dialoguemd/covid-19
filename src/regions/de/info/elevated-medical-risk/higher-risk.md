@@ -1,12 +1,12 @@
 ## 👴Risikogruppen für schwere Verläufe
 
-Obwohl schwere Verläufe häufig auch bei Personen ohne Vorerkrankung auftreten, haben die folgenden Personengruppen ein erhöhtes Risiko für schwere Verläufe:
+Schwere Verläufe können auch bei Personen ohne bekannte Vorerkrankung auftreten und werden auch bei jüngeren Patienten beobachtet. Die folgenden Personengruppen zeigen ein erhöhtes Risiko für einen schweren Krankheitsverlauf:
 
-- Ältere Personen (mit stetig steigendem Risiko für schweren Verlauf ab etwa 50–60 Jahren)
-- Raucher
+- Ältere Personen (mit stetig steigendem Risiko für schweren Verlauf ab etwa 50–60 Jahren; 86 % der in Deutschland an COVID-19 Verstorbenen waren 70 Jahre alt oder älter [Altersmedian: 82 Jahre])
+- Raucher (schwache Evidenz)
 - Personen mit bestimmten Vorerkrankungen:
   - des Herz-Kreislauf-Systems (z.B. koronare Herzerkrankung und Bluthochdruck)
-  - der Lunge (z.B. Asthma, chronische Bronchitis)
+  - chronische Erkrankung der Lunge (z.B. COPD)
   - Patienten mit chronischen Lebererkrankungen
   - Patienten mit Diabetes mellitus (Zuckerkrankheit)
   - Patienten mit einer Krebserkrankung

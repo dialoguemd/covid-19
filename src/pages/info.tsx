@@ -15,7 +15,8 @@ import { requireRegionFile } from 'services/region-loader'
 import FaqChatbot from 'components/faq-chatbot'
 import { mobileBreakpoint } from 'theme'
 
-const config = requireRegionFile('config.json')
+import { config } from 'services/config'
+
 
 const useQuery = () => {
   const location = useLocation()
@@ -141,7 +142,7 @@ export const InfoPage: React.FC = () => {
     <InfoPageContainer>
       <ScrollAnchor />
       <Header />
-      {hasClasses && (
+      {hasClasses ? (
         <>
           <Title>{t('resultsPage.headerTitle')}</Title>
           <Audience>
@@ -165,11 +166,6 @@ export const InfoPage: React.FC = () => {
           <Spacer />
           <ShareResults classes={classes} />
         </>
-      )}
-      {config.ENABLE_FAQ_BOT ? (
-        <FaqChatbotContainer>
-          <FaqChatbot />
-        </FaqChatbotContainer>
       ) : (
         <InfoCard
           css={`
@@ -179,6 +175,11 @@ export const InfoPage: React.FC = () => {
         >
           <p>{t('resultsPage.noResultsMessage')}</p>
         </InfoCard>
+      )}
+      {config.ENABLE_FAQ_BOT && (
+        <FaqChatbotContainer>
+          <FaqChatbot />
+        </FaqChatbotContainer>
       )}
       <Footer />
     </InfoPageContainer>

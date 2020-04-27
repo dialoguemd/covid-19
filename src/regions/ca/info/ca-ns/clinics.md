@@ -1,7 +1,21 @@
-## Nova Scotia: Online self-assessment tool
+## Nova Scotia: When to call 811 about COVID-19
 
-Use this [screening tool](https://when-to-call-about-covid19.novascotia.ca/en) to find out if you should call 811 about COVID-19.
+Do you need to call 811 to be assessed for Covid-19 testing?
 
-Only certain people need to call about COVID-19. Don’t call if you don’t need to.
+- Do you have a fever greater than 38 Celsius (or signs of a fever)?
 
-[Source: Nova Scotia Health Authority](http://www.nshealth.ca/coronavirus)
+- Do you have a new cough or a cough that is getting worse?
+
+- Do you have a sore throat?
+
+- Do you have a runny nose?
+
+- Do you have a headache?
+
+If you answer yes to two or more of these symptoms, please call 811 for further assessment by a nurse.
+
+If you experience other symptoms that are a concern for you, call 811 to speak with a nurse.
+
+Signs of a fever include chills, sweats, muscle aches, lightheadedness.
+
+[Source: Nova Scotia Health Authority](https://when-to-call-about-covid19.novascotia.ca/en)

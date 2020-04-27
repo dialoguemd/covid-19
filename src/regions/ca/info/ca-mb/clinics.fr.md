@@ -1,5 +1,7 @@
 ## Manitoba: Outil de dépistage
 
-Le Manitoba a développé un [outil de dépistage COVID-19](https://sharedhealthmb.ca/covid19/screening-tool/) pour déterminer si vous devez contacter Health Links - Info Santé.
+Outil de dépistage de la COVID-19: Symptômes de maladie respiratoire? [Faites une auto-évaluation](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/)
 
-[Source](https://manitoba.ca/covid19/index.fr.html)
+L'outil de dépistage est disponible en format de réponse vocale interactive (RVI). Appelez le 1-877-308-9038.
+
+[Source](https://www.gov.mb.ca/covid19/index.fr.html)

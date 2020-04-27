@@ -1,41 +1,56 @@
 ## Quebec: Questionnaire en ligne de triage de la COVID-19 et Guide autosoins - COVID-19
 
-Le québec a développé un [Questionnaire en ligne de triage de la COVID-19](https://covid19.quebec.ca/evaluation/) lié à la maladie à coronavirus COVID-19.
+Toute personne, inscrite ou non-inscrite à un médecin de famille, qui a des symptômes et qui a, ou pense avoir, un besoin de consultation en médecine de famille afin d’obtenir une évaluation clinique par une infirmière et être dirigée au besoin vers la ressource adéquate devra téléphoner au 1 877 644-4545. Ainsi, les formulaires de dépistage et d’évaluation ne sont dorénavant plus accessibles. Toutefois, un suivi sera effectué pour toutes les demandes en cours de traitement. Pour les intervenants de Service Québec, svp vous référer à votre supérieur pour plus d’information.
 
-Vous devez remplir le questionnaire en y indiquant vos renseignements personnels dont votre adresse et votre numéro d’assurance maladie. Ces informations leur permettront d’effectuer un suivi personnalisé de votre situation. Il est nécessaire de remplir un formulaire pour chaque personne.
+[Source](https://covid19.quebec.ca/evaluation/)
 
-Notez que vous devez posséder une adresse courriel et une carte d’assurance maladie du Québec pour utiliser ce service. Si vous n’en avez pas, veuillez composer le 1-877-644-4545.
-
-Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/) a pour but d'aider chaque personne à prendre les meilleures décisions possible pour sa santé et celle de ses proches durant la pandémie de COVID-19. Il permet plus spécifiquement de connaître les meilleurs moyens de se protéger de la COVID-19, de prendre soin de soi ou de donner les soins de base à son entourage et de savoir où et quand consulter si l'on a besoin de soins de services.
+Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/) est conçu pour aider les gens à prendre les meilleures décisions possibles pour leur santé et celle de leurs proches durant la pandémie de la COVID-19. Il permet plus précisément de connaître les meilleurs moyens de se protéger de la COVID-19, de prendre soin de soi, de donner les soins de base à son entourage et de savoir où et quand consulter si l'on a besoin de soins ou de services.
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme de la toux ou de la fièvre, vous pouvez contacter le 418 644-4545 pour la région de Québec, le 514 644-4545 pour la région de Montréal, le 450 644-4545 pour la région de Montérégie, le 819 644-4545 pour la région l’Outaouais ou le 1 877 644-4545 (sans frais) ailleurs au Québec.
+Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme l’apparition ou l’aggravation d’une toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), le 1 800 361-9596 (sans frais).
 
-De plus, si vous avez de la toux ou de la fièvre :
+Si vous avez ces symptômes :
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Si votre condition le permet, contactez le 1 877 644-4545. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
 
-De plus, une [clinique de dépistage sans rendez-vous](https://ciusss-centresudmtl.gouv.qc.ca/actualite/covid-19-ouverture-dune-clinique-de-depistage-sans-rendez-vous-pour-augmenter-le-nombre-de-depistages) à la CIUSSS du Centre-Sud-de-l'Île-de-Montréal s'ouvre pour augmenter le nombre de tests de dépistage.
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
 
-[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
+Dépistage et évaluation
 
-## Que faire si je reviens de voyage à l'étranger?
+La transmission communautaire est maintenant celle qui génère le plus de cas de la COVID-19 au Québec. C'est pourquoi une nouvelle approche pour le dépistage est mise en place.
+Montréal : À compter du lundi 20 avril à 8 h, les services de la Clinique désignée de dépistage de la Place des festivals (quartier des spectacles) seront transférés à l'ancienne urgence de l'Hôtel-Dieu.
 
-- Vous êtes en isolement volontaire parce que vous êtes revenu d’un voyage à l’étranger le 12 mars 2020 ou après.
+Si vous avez des symptômes s'apparentant à la grippe, à la gastro ou la COVID-19 (fièvre, toux, difficulté à respirer), vous devez composer le 514 644-4545 ou le 1 877 644-4545 afin d’obtenir une évaluation et être dirigé vers la bonne ressource.
 
-OU
+Les personnes qui seront dépistées en priorité:
 
-- Vous êtes en isolement obligatoire parce que vous êtes employé de la fonction publique ou membre du personnel de la santé, de l’éducation et des services de garde, privés et publics, qui, à compter du 12 mars 2020, revenez de l’étranger.
-
-Suivre ces consignes et vous isoler à la maison pendant 14 jours après votre retour de voyage à l’étranger peut faire toute la différence et ralentir la transmission de la COVID-19. C’est sûr qu’il s’agit de consignes inhabituelles et contraignantes, surtout si vous avez de jeunes enfants ou si vous êtes un proche aidant.
-
-Suivre ces consignes peut, également, réellement éviter que les personnes qui vous entourent n’attrapent la COVID-19, si jamais vous êtes porteur du virus et que vous développez des symptômes.
-
-Utilisez la [grille de surveillance des symptômes (PDF)](https://santemontreal.qc.ca/fileadmin/fichiers/Campagnes/coronavirus/COVID-19_Fiches-Voyageurs.pdf)
-
-Plus d'informations disponibles [ici](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-directives-contexte-covid-19/#c47680) pour les voyageurs de retour.
+- Les usagers et le personnel des milieux d’hébergement pour aînés tels que les centres d'hébergement et de soins de longue durée (CHSLD), les ressources intermédiaires (RI) et les ressource de type familiale (RTF), selon les recommandations de la - Direction régionale de santé publique
+- Les personnes qui ont des symptômes et qui habitent dans d’autres milieux à risque (ex. : refuges pour itinérants)
+- Les personnes qui ont des symptômes et qui ont une recommandation de la Direction régionale de santé publique
+- Les personnes qui occupent des fonctions essentielles dans les domaines de la santé et de la sécurité publique
 
 [Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/)
+
+## Pour les citoyens de retour de voyage?
+
+Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris les croisiéristes, ont l’obligation de s’isoler pour une période de 14 jours. En aucun temps, ces personnes ne doivent sortir à l’extérieur. Vous ne pouvez pas :
+
+- Aller à l’école, au travail, au CPE ou à la garderie, ni dans aucun endroit public.
+- Aller prendre des marches ou promener le chien.
+- Emprunter les transports publics.
+- Accueillir de visiteurs à la maison.
+
+Vous devez aussi reporter tout rendez-vous médical non urgent.
+
+Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter [ces consignes](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/).
+
+Une personne qui ne respecte pas ces consignes commet une infraction à la loi fédérale et s’expose à des [sanctions](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#a2).
+
+Afin de rappeler ces obligations à ceux et celles qui reviennent au pays, des points de contrôle policiers seront réalisés à proximité de la frontière américaine.
+
+Notez que les entreprises qui livrent des marchandises au Québec en provenance de l’étranger n’ont pas à demander à leurs employés de se placer en isolement temporaire.
+
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/)

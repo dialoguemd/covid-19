@@ -1,4 +1,5 @@
 export default {
+  botNameIntro: 'Chloe, ',
   resultsPage: {
     headerTitle: 'COVID-19: What you need to know',
     noResultsMessage: 'No results provided in URL.',
@@ -25,6 +26,10 @@ export default {
     previousRunExpired:
       'Answers from last session have expired. Please start new chat to get latest information.',
     button: 'Get Started'
+  },
+  rasaChatWidget: {
+    subtitle: 'COVID-19',
+    inputTextFieldHint: 'Type a message…'
   },
   classes: {
     common: 'all Canadians',

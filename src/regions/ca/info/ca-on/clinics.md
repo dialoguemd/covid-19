@@ -1,7 +1,8 @@
-## Ontario: Assessment Centres
+## Ontario: COVID-19 Self-Assessment
 
-### COVID-19 Self-Assessment
+Take this [self-assessment](https://covid-19.ontario.ca/self-assessment/) if you think you were exposed to COVID-19 (novel coronavirus) or have symptoms. You’ll get information on what to do next.
+You can also take it on behalf of someone else.
 
-The Government of Ontario has opened several assessment centres throughout the province. Those are accessible by appointment only by contacting Telehealth.
+This information is not intended to provide medical advice. If you have medical questions, consult a health practitioner or your local public health unit.
 
-If you think you have coronavirus (COVID-19) symptoms or have been in close contact with someone who has it, use this [self-assessment](https://www.ontario.ca/page/2019-novel-coronavirus-covid-19-self-assessment) to help determine how to seek further care.
+[Source](https://covid-19.ontario.ca/self-assessment/)

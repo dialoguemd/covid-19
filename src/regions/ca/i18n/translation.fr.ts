@@ -1,4 +1,5 @@
 export default {
+  botNameIntro: 'Chloe, ',
   resultsPage: {
     headerTitle: 'COVID-19: Ce que vous devez savoir',
     noResultsMessage: 'Aucun résultat trouvé pour cet URL',
@@ -26,6 +27,10 @@ export default {
       'Voir les informations les plus récentes pour votre dernière session',
     previousRunExpired:
       'Les réponses de votre dernière session ont expiré. Veuillez lancer une nouvelle conversation pour obtenir les informations les plus récentes.'
+  },
+  rasaChatWidget: {
+    subtitle: 'COVID-19',
+    inputTextFieldHint: 'Saisissez un message…'
   },
   classes: {
     common: 'à tous les Canadiens',

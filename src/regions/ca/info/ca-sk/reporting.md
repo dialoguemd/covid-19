@@ -1,22 +1,26 @@
 ## Saskatchewan: Who should I contact if I think I have COVID-19?
 
-Please note: You do not need to be tested for COVID-19 if in the past 14 days you have not travelled outside Canada or had contact with someone diagnosed as having COVID-19.
+Symptoms of COVID-19 include fever, cough, sore throat, shortness of breath or difficulty breathing. All residents should be familiar with self-monitoring and self-isolation precautions in order to keep you and those around you safe.
 
-If you develop symptoms of COVID-19, get tested. Symptoms of COVID-19 are fever, cough, sore throat, shortness of breath and generally feeling unwell. Use this self-assessment tool to determine if you should be tested for COVID-19.
-If you fit the criteria of potential exposure, are exhibiting mild symptoms and suspect you may have COVID-19, you can obtain a referral to a community testing centre by phoning:
+A referral is required to get tested. You do not need to have travelled internationally to get a referral for testing. If you are not exhibiting symptoms, you do not need to be tested. You can obtain a referral to a community testing centre by phoning:
 
 - HealthLine 811.
 - Your local Public Health Communicable Disease Control office.
 - Your family physician.
+- Your nurse practitioner.
 
-Testing centres have been set up across the province. They are for referrals only and not for walk-in testing. The testing centres will only provide testing. They are not for patient care. If you are not exhibiting symptoms, you do not need to be tested. Detailed information on COVID-19 symptoms and care management can be found at saskatchewan.ca/coronavirus.
-If you have recently travelled internationally and are experiencing respiratory or flu-like symptoms, please call HealthLine 811.
+## Travel Information
 
-All residents should be familiar with self-monitoring and self-isolation precautions in order to keep you and those around you safe.
+The federal government and Saskatchewan's Chief Medical Health Officer recommend returning to Canada and avoiding non-essential international travel until further notice.
 
-If you have no symptoms or exposure concerns, but have questions about COVID-19, you can:
+When you return to the province after a period of time in another country, including the United States, it is mandatory to take the following measures:
 
-- Access the most up-to-date news and information on [this website](www.saskatchewan.ca/COVID19)
-- Email COVID19@health.gov.sk.ca
+- Self-isolate for 14 days.
+- Self-monitor for respiratory or flu-like symptoms for 14 days.
+- Consider preparations you can make in advance to ensure your comfort during this 14-day period.
+- Avoid visiting a long-term care facility or hospital.
+- Call HealthLine 811 if you develop respiratory or flu-like symptoms.
 
-[Source: Government of Saskatchewan](https://www.saskatchewan.ca/COVID19#utm_campaign=q2_2015&utm_medium=short&utm_source=%2FCOVID19)
+For general questions on travel recommendations and prevention measures, email COVID19@health.gov.sk.ca.
+
+[Source: Government of Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/travel-information)

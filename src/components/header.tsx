@@ -1,24 +1,28 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
+import { overrides } from 'services/overrides'
 
-import { ReactComponent as Logo } from 'images/dialogue-logo.svg'
+import LogoImage from 'images/dialogue-logo.svg'
 import LanguagePicker from './language-picker'
 import Title from './title'
 import RegionPicker from 'components/region-picker'
 import { mobileBreakpoint } from 'theme'
-import { requireRegionFile } from 'services/region-loader'
+import { config } from 'services/config'
 
-const config = requireRegionFile('config.json')
 const isLocalhost = window.location.hostname === 'localhost'
 const ENABLE_REGION_SWITCHING = isLocalhost || config.ENABLE_REGION_SWITCHING
+const { ENABLE_LOGO } = config
 
-interface Props {
+interface Props extends LogoContainerProps {
   title?: string
-  showRegionPicker?: Boolean
+  showRegionPicker?: boolean
+}
+interface LogoContainerProps {
+  hideLogoBackground?: boolean
 }
 
-const LogoContainer = styled.div`
+const LogoContainer = styled.div<LogoContainerProps>`
   position: absolute;
   z-index: 1000002;
   top: 0;
@@ -30,6 +34,22 @@ const LogoContainer = styled.div`
 
   @media (max-width: ${mobileBreakpoint}px) {
     padding: 12px 32px 8px 12px;
+  }
+
+  ${({ hideLogoBackground }) =>
+    hideLogoBackground &&
+    `
+      background-color: transparent;
+      border-bottom-right-radius: 0;
+      padding: 15px 42px 21px 18px;
+
+      @media (max-width: ${mobileBreakpoint}px) {
+        padding-top: 15px;
+      }
+    `}
+
+  img {
+    height: 32px;
   }
 `
 
@@ -54,15 +74,18 @@ const HeaderContainer = styled.div`
 
 export const Header: React.FC<Props> = ({
   showRegionPicker,
+  hideLogoBackground,
   title,
   ...rest
 }) => (
   <>
-    <LogoContainer>
-      <Link to="/">
-        <Logo />
-      </Link>
-    </LogoContainer>
+    {ENABLE_LOGO && (
+      <LogoContainer hideLogoBackground={hideLogoBackground}>
+        <Link to="/">
+          <img alt="logo" src={overrides.images.logo || LogoImage} />
+        </Link>
+      </LogoContainer>
+    )}
     <HeaderContainer {...rest}>
       <div></div>
       {title && <Title>{title}</Title>}

@@ -1,7 +1,8 @@
-## Ontario: Centres d'evaluation
+## Ontario: Auto-évaluation pour le COVID-19
 
-### Auto-évaluation pour le COVID-19
+Faites cette [auto-évaluation](https://covid-19.ontario.ca/autoevaluation/) si vous pensez avoir été exposé à la COVID-19 (nouveau coronavirus) ou si vous avez des symptômes. Vous obtiendrez des informations sur la marche à suivre.
+Vous pouvez également la faire au nom de quelqu'un d'autre.
 
-Le gouvernement de l'Ontario a ouvert plusieurs centres d'évaluation dans toute la province. Ceux-ci sont accessibles sur rendez-vous uniquement en contactant Télésanté.
+Ces informations ne sont pas destinées à fournir des conseils médicaux. Si vous avez des questions d'ordre médical, consultez un professionnel de la santé ou votre bureau de santé publique local.
 
-Si vous croyez que vous présentez des symptômes du coronavirus (COVID-19) ou si vous avez été en contact étroit avec une personne l’ayant contracté, servez-vous de cet [outil d’autoévaluation](https://www.ontario.ca/page/2019-novel-coronavirus-covid-19-self-assessment) pour vous aider à déterminer si vous avez besoin de recevoir d’autres soins.
+[Source](https://covid-19.ontario.ca/autoevaluation/)

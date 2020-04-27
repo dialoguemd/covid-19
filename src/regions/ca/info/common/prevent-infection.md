@@ -2,37 +2,66 @@
 
 ### Preventing coronavirus
 
-At this time, there is no vaccine for COVID-19 or any natural health products that are authorized to protect against it.
+Canadians should continue to think ahead about the actions that they can take to stay healthy and prevent the spread of COVID-19 in Canada. This includes staying at home as much as possible and being prepared in case you or a family member becomes ill. Everyone should be practising physical (social) distancing. Even if you do not have symptoms of COVID-19, you could become infected by others.
 
-If you have received a flu vaccine, it will not protect against coronaviruses.
+As we continue to see transmission of the virus within different communities, we know that everyone must take precautions, even those who have not travelled outside of Canada.
 
-##### If you have travelled outside of Canada
+In an effort to prevent the spread of COVID-19 within communities and across the country, all Canadians are advised to:
 
-Federal and provincial public health leaders have recommended that all travellers from outside of Canada self-isolate for 14 days. These efforts will contribute to slow the introduction and spread of COVID-19 in Canada.
+- stay at home unless you have to go to work
+  - talk to your employer about working at home if possible
+- avoid all non-essential trips in your community
+- do not gather in groups
+- limit contact with people at higher risk, such as older adults and those in poor health
+- go outside to exercise but stay close to home
+- if you leave your home, always keep a distance of at least 2 arms lengths (approximately 2 metres) from others
 
-##### If you have COVID-19, reduce contact with others
+  - household contacts (people you live with) do not need to distance from each other unless they are sick or have travelled in the last 14 days
 
-If you are sick, the following steps will help to reduce contact with others:
+You can go for a walk if you:
 
-- stay at home and self-isolate (unless directed to seek medical care)
-  - if you must leave your home, wear a mask or cover your mouth and nose with tissues, and maintain a 2-metre distance from others
-- avoid individuals in hospitals and long-term care centres, especially older adults and those with chronic conditions or compromised immune systems
-- avoid having visitors to your home
-- cover your mouth and nose with your arm when coughing and sneezing
-- have supplies delivered to your home instead of running errands
-  - supplies should be dropped off outside to ensure a 2-metre distance
+- have not been diagnosed with COVID-19
+- do not have symptoms of COVID-19
+- have not travelled outside of Canada in the past 14 days
 
-#### Social distancing
+If you go out for a walk, do not congregate and always practise physical (social) distancing by keeping at least 2 metres apart from others at all times.
 
-Together, we can slow the spread of COVID-19 by making a conscious effort to keep a physical distance between each other. Social distancing is proven to be one of the most effective ways to reduce the spread of illness during an outbreak. With patience and cooperation, we can all do our part.
+Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health/)
+
+##### Travellers
+
+The risk for getting COVID-19 may be increased for travellers. Canadians are advised to [avoid all non-essential travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/221). If you must travel, check the [latest travel advice](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) before you leave.
+
+Health Canada will continue to adapt their risk assessment based on the latest data available.
+
+##### If you or your child become ill
+
+If you are showing symptoms of COVID-19, reduce your contact with others:
+
+- isolate yourself at home for 14 days to avoid spreading it to others
+  - if you live with others, stay in a separate room or keep a 2-metre distance
+- visit a health care professional or call your local public health authority
+  - call ahead to tell them your symptoms and follow their instructions
+
+Children who have mild COVID-19 symptoms are able to stay at home with a caregiver throughout their recovery without needing hospitalization. If you are caring for a child who has suspected or probable COVID-19, it is important to follow the advice for caregivers. This advice will help you protect yourself, others in your home, as well as others in the community.
+
+If you become sick while travelling back to Canada:
+
+- inform the flight attendant or a Canadian border services officer
+- advise a Canada border services agent on arrival in Canada if you believe you were exposed to someone who was sick with COVID-19, even if you do not have symptoms
+  - this is required under the Quarantine Act
+  - the Canada border services agent will provide instructions for you to follow
+
+#### Physical (social) distancing
+
+Together, we can slow the spread of COVID-19 by making a conscious effort to keep a physical distance between each other. Physical (social) distancing is proven to be one of the most effective ways to reduce the spread of illness during an outbreak.
 
 This means making changes in your everyday routines to minimize close contact with others, including:
 
-- avoiding non-essential gatherings
+- avoiding crowded places and non-essential gatherings
 - avoiding common greetings, such as handshakes
-- avoiding crowded places such as concerts, arenas, conferences and festivals
 - limiting contact with people at higher risk like older adults and those in poor health
-- keeping a distance of at least 2 arms lengths (approximately 2 metres) from others, as much as possible
+- keeping a distance of at least 2 arms lengths (approximately 2 metres) from others
 
 ### Hygiene
 
@@ -44,25 +73,31 @@ Proper hygiene can help reduce the risk of infection or spreading infection to o
   - cough or sneeze into a tissue or the bend of your arm, not your hand
   - dispose of any tissues you have used as soon as possible in a lined waste basket and wash your hands afterwards
 - avoid touching your eyes, nose, or mouth with unwashed hands
-- clean the following high-touch surfaces frequently with regular household cleaners or diluted bleach (1 part bleach to 9 parts water):
-  - toys
-  - toilets
-  - phones
-  - electronics
-  - door handles
-  - bedside tables
-  - television remotes
 
-### Being prepared
+### Cleaning
 
-It is important to know how [you can prepare](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html) in case you or a family member become ill.
+Coronaviruses are one of the easiest types of viruses to kill with the appropriate disinfectant product when used according to the label directions. Health Canada has published a [list of hard surface disinfectants](https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/list.html) that are likely to be effective for use against COVID-19.
 
-### Wearing masks
+Although they do not claim to kill COVID-19, cleaners can play a role in limiting the transfer of microorganisms. Health Canada recommends cleaning high-touch surfaces often, using either regular household cleaners or diluted bleach. This bleach solution should be prepared according to the instructions on the label or in a ratio of 1 teaspoon (5 mL) per cup (250 mL). Directions are based on bleach that is 5% sodium hypochlorite, to give a 0.1% sodium hypochlorite solution.
 
-If you are a healthy individual, the use of a mask is not recommended for preventing the spread of COVID-19.
+These surfaces include:
 
-Wearing a mask when you are not ill may give a false sense of security. There is a potential risk of infection with improper mask use and disposal. They also need to be changed frequently.
+- toys
+- toilets
+- phones
+- electronics
+- door handles
+- bedside tables
+- television remotes
 
-However, your health care provider may recommend you wear a mask if you are experiencing symptoms of COVID-19 while you are seeking or waiting for care. In this instance, masks are an appropriate part of infection prevention and control measures. The mask acts as a barrier and helps stop the tiny droplets from spreading when you cough or sneeze.
+Refer to the [guidance on cleaning and disinfecting public spaces](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/cleaning-disinfecting-public-spaces.html) for more information.
+
+### Wearing masks or face coverings
+
+Medical masks, including surgical, medical procedure face masks and respirators (like N95 masks), must be kept for health care workers and others providing direct care to COVID-19 patients.
+
+Wearing a non-medical mask or face covering while out in public is optional. If you do choose to wear one, refer to our [guidelines on wearing non-medical masks and how to make your own](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/instructions-sew-no-sew-cloth-face-covering.html).
+
+Masks alone will not prevent the spread of COVID-19. You must consistently and strictly adhere to good hygiene and public health measures, including frequent hand washing and physical (social) distancing.
 
 [Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
