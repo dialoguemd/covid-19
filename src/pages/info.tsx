@@ -17,7 +17,6 @@ import { mobileBreakpoint } from 'theme'
 
 import { config } from 'services/config'
 
-
 const useQuery = () => {
   const location = useLocation()
   return new URLSearchParams(location.search)
