@@ -25,10 +25,13 @@ Montréal : Starting Monday, April 20 at 8 a.m., services offered at the designa
 
 People prioritized for testing:
 
-- Patients and staff in residential centres for seniors, such as long-term care centres (CHSLD) as well as intermediate and family-type resources, as recommended by the regional public health department
-- People who have symptoms and live in other settings at risk (e.g. homeless shelters)
-- People with symptoms who have a recommendation from the regional public health department
-- People in functions considered essential to health and public safety
+- Hospitalized patients and emergency room patients with a clinical or radiological diagnosis compatible with COVID-19
+- Symptomatic health professionals in direct contact with patients, including ambulance technicians
+- Residents of long-term care centres and private seniors’ residences who are symptomatic, or exposed to an outbreak (at least two cases) or to unexpected deaths with suspected respiratory causes
+- Symptomatic individuals living in remote areas, isolated communities or First Nations/Inuit communities where access to a hospital is limited
+- Symptomatic first responders or public safety workers, and other workers providing essential services
+- Some symptomatic individuals from the community, upon direct recommendation of the Director of Public Health
+
 
 [Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
 
