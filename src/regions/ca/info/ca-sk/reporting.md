@@ -13,6 +13,8 @@ A referral is required to get tested. You do not need to have travelled internat
 
 The federal government and Saskatchewan's Chief Medical Health Officer recommend returning to Canada and avoiding non-essential international travel until further notice.
 
+Residents are advised to limit any non-essential travel outside of Saskatchewan, with the exception of people who live in border communities and are commuting for work.
+
 When you return to the province after a period of time in another country, including the United States, it is mandatory to take the following measures:
 
 - Self-isolate for 14 days.
