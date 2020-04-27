@@ -11,7 +11,6 @@ import Title from 'components/title'
 import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
 import { CtaButton } from 'components/buttons'
-import { requireRegionFile } from 'services/region-loader'
 import FaqChatbot from 'components/faq-chatbot'
 import { mobileBreakpoint } from 'theme'
 
