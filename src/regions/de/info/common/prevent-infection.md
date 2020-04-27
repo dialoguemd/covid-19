@@ -8,7 +8,9 @@ Die Verhaltensweisen sind mit denen zum Schutz vor Grippeviren identisch:
 - Händeschütteln generell unterlassen
 - Hände vom Gesicht fernhalten (Schleimhäute in Mund und Nase sowie Augen)
 
-Beschränken Sie Ihre Sozialkontakte soweit wie möglich. Halten Sie im Idealfall nur Kontakt zu den Menschen, mit denen Sie zusammen wohnen. Wenn die Möglichkeit besteht, sollten öffentliche Verkehrsmittel gemieden und von zu Hause aus gearbeitet werden.
+Halten Sie im Idealfall nur Kontakt zu den Menschen, mit denen Sie zusammen wohnen. Wenn die Möglichkeit besteht, sollten öffentliche Verkehrsmittel gemieden und von zu Hause aus gearbeitet werden.
+
+Zum Schutz von umstehenden Personen haben die Bundesländer eine Vorschrift für das Tragen eines nichtmedizinischen Mund-Nasen-Schutzes, sog. Alltagsmasken, im öffentlichen Personennahverkehr und beim Einkauf erlassen. Regional kann es zu Änderungen kommen, bitte prüfen Sie die jeweils geltenden Regelungen an Ihrem Ort.
 
 Weitere Informationen zu den beschlossenen Leitlinien zur Beschränkung sozialer Kontakte finden Sie [hier](https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248).
 
