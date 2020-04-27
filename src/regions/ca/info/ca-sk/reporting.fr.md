@@ -2,6 +2,8 @@
 
 Les symptômes de la COVID-19 comprennent la fièvre, la toux, le mal de gorge, l'essoufflement ou la difficulté à respirer. Tous les résidents doivent être familiarisés avec les précautions d'autosurveillance et d'auto-isolement afin de vous protéger, vous et votre entourage.
 
+Il est conseillé aux résidents de limiter tout déplacement non essentiel en dehors de la Saskatchewan, à l'exception des personnes qui vivent dans des communautés frontalières et qui se déplacent pour travailler.
+
 Il est nécessaire d'être référé pour se faire dépister. Il n'est pas nécessaire d'avoir voyagé à l'étranger pour obtenir une recommandation pour un test de dépistage. Si vous ne présentez pas de symptômes, vous n'avez pas besoin de vous faire dépister. Vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
 
 - HealthLine 811.
