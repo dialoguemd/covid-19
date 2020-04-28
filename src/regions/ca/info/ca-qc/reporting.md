@@ -32,7 +32,6 @@ People prioritized for testing:
 - Symptomatic first responders or public safety workers, and other workers providing essential services
 - Some symptomatic individuals from the community, upon direct recommendation of the Director of Public Health
 
-
 [Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
 
 ## For citizens returning from travelling
