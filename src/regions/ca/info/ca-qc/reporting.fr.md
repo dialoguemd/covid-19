@@ -27,10 +27,12 @@ Si vous avez des symptômes s'apparentant à la grippe, à la gastro ou la COVID
 
 Les personnes qui seront dépistées en priorité:
 
-- Les usagers et le personnel des milieux d’hébergement pour aînés tels que les centres d'hébergement et de soins de longue durée (CHSLD), les ressources intermédiaires (RI) et les ressource de type familiale (RTF), selon les recommandations de la - Direction régionale de santé publique
-- Les personnes qui ont des symptômes et qui habitent dans d’autres milieux à risque (ex. : refuges pour itinérants)
-- Les personnes qui ont des symptômes et qui ont une recommandation de la Direction régionale de santé publique
-- Les personnes qui occupent des fonctions essentielles dans les domaines de la santé et de la sécurité publique
+- Les patients hospitalisés et ceux qui se présentent à l’urgence qui ont un diagnostic clinique ou radiologique compatible avec la COVID-19.
+- Les professionnels de la santé symptomatiques en contact direct avec les patients, incluant les ambulanciers.
+- Les résidents des centres d’hébergement et de soins de longue durée et de résidences privées pour aînés symptomatiques ou exposés dans leur milieu de vie à une situation d’éclosion (au moins deux cas) ou de décès inattendu avec une cause respiratoire infectieuse suspectée.
+- Les personnes symptomatiques vivant en région éloignée, dans une communauté isolée ou issue des Premières Nations/Inuits, qui ont un accès limité à un hôpital.
+- Les premiers répondants ou les travailleurs du système de sécurité publique symptomatiques et les autres travailleurs fournissant des services essentiels
+- Certaines personnes symptomatiques de la communauté, sur recommandation directe du directeur de santé publique.
 
 [Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/)
 
