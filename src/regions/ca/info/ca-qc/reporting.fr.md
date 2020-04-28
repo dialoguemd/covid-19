@@ -10,7 +10,7 @@ Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/)
 
 Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme l’apparition ou l’aggravation d’une toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), le 1 800 361-9596 (sans frais).
 
-De plus, si vous avez de la toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasale :
+Si vous avez ces symptômes :
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Si votre condition le permet, contactez le 1 877 644-4545. Si vous êtes un voyageur de retour depuis moins de 14 jours, précisez-le.
@@ -27,10 +27,12 @@ Si vous avez des symptômes s'apparentant à la grippe, à la gastro ou la COVID
 
 Les personnes qui seront dépistées en priorité:
 
-- Les usagers et le personnel des milieux d’hébergement pour aînés tels que les centres d'hébergement et de soins de longue durée (CHSLD), les ressources intermédiaires (RI) et les ressource de type familiale (RTF), selon les recommandations de la - Direction régionale de santé publique
-- Les personnes qui ont des symptômes et qui habitent dans d’autres milieux à risque (ex. : refuges pour itinérants)
-- Les personnes qui ont des symptômes et qui ont une recommandation de la Direction régionale de santé publique
-- Les personnes qui occupent des fonctions essentielles dans les domaines de la santé et de la sécurité publique
+- Les patients hospitalisés et ceux qui se présentent à l’urgence qui ont un diagnostic clinique ou radiologique compatible avec la COVID-19.
+- Les professionnels de la santé symptomatiques en contact direct avec les patients, incluant les ambulanciers.
+- Les résidents des centres d’hébergement et de soins de longue durée et de résidences privées pour aînés symptomatiques ou exposés dans leur milieu de vie à une situation d’éclosion (au moins deux cas) ou de décès inattendu avec une cause respiratoire infectieuse suspectée.
+- Les personnes symptomatiques vivant en région éloignée, dans une communauté isolée ou issue des Premières Nations/Inuits, qui ont un accès limité à un hôpital.
+- Les premiers répondants ou les travailleurs du système de sécurité publique symptomatiques et les autres travailleurs fournissant des services essentiels
+- Certaines personnes symptomatiques de la communauté, sur recommandation directe du directeur de santé publique.
 
 [Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/)
 

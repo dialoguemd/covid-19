@@ -8,6 +8,8 @@ If you have symptoms:
 - Do not go to an emergency department, family doctor, walk-in clinic or your local health centre without calling 811 first.
 - If you need immediate medical attention, call 911 and advise them that you may have COVID-19.
 
+To protect yourself while out in public, wash your hands frequently, and maintain a distance of about 2 metres from others.
+
 If you have no symptoms or exposure concerns, but have questions about COVID-19 or novel coronavirus, visit this [website](https://yukon.ca/covid-19).
 
 [Source: Government of Yukon](https://yukon.ca/covid-19)

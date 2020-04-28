@@ -1,6 +1,24 @@
 ## Territoires du Nord-Ouest: Que dois-je faire si je ressens des symptômes de la COVID-19?
 
-Toute personne présentant des symptômes de la COVID-19 doit communiquer avec un professionnel de la santé. Ce dernier pourrait lui recommander de passer un test de dépistage.
+La plupart des personnes atteintes de la COVID-19 présentent les symptômes suivants :
+
+- Fièvre
+- Nouvelle toux ou toux qui s’aggrave
+- Essoufflement
+
+Certains patients ont également ressenti les symptômes suivants :
+
+- Sensation générale de malaise, de ne pas se sentir au meilleur de sa forme
+- Douleurs musculaires
+- Fatigue
+- Maux de gorge
+- Écoulement nasal
+- Mal de tête
+- Diarrhée
+- Vomissements
+- Perte de l’odorat
+
+Toute personne qui ressent l’un des symptômes ci-dessus devrait prendre contact avec son [centre de santé](https://www.hss.gov.nt.ca/fr/h%C3%B4pitaux-et-centres-de-sant%C3%A9).
 
 [Source](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/test-de-d%C3%A9pistage-de-la-covid-19)
 
@@ -18,4 +36,4 @@ Si vous ressentez des symptômes graves (comme l’essoufflement), appelez le 9-
 
 Décrivez vos symptômes au téléphone avant de vous rendre sur place afin que la clinique puisse prendre des dispositions pour vous recevoir tout en assurant la protection des autres personnes présentes. Mentionnez si vous avez voyagé ou avez été exposé à une personne atteinte de la COVID-19 dans les 14 derniers jours.
 
-[Source: Gouvernement des Territoires du Nord-Ouest](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/test-de-d%C3%A9pistage-de-la-covid-19)
+[Source: Gouvernement des Territoires du Nord-Ouest](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/conseils-aux-r%C3%A9sidents-des-tno)
