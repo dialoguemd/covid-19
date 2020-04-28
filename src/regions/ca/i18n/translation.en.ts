@@ -65,7 +65,7 @@ export default {
       ],
       ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/'],
       [
-        'Help build AI. Ask a COVID-19 question.',
+        'Ask a COVID-19 question.',
         'https://covid19.dialogue.co/#/info'
       ]
     ],

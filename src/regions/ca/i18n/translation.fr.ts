@@ -68,7 +68,7 @@ export default {
       ],
       ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/'],
       [
-        "Aidez à construire l'IA. Posez une question COVID-19.",
+        "Posez une question COVID-19.",
         'https://covid19.dialogue.co/#/info'
       ]
     ],
