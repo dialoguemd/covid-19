@@ -1,10 +1,9 @@
-import React, { useCallback } from 'react'
+import React from 'react'
 
 import { useLocation, Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 
-import Chatbot from 'components/chatbot'
 import Results from 'components/results'
 import Header from 'components/header'
 import Footer from 'components/footer'
@@ -12,12 +11,10 @@ import Title from 'components/title'
 import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
 import { CtaButton } from 'components/buttons'
-import { requireRegionFile } from 'services/region-loader'
-import { config } from 'services/config'
+import FaqChatbot from 'components/faq-chatbot'
+import { mobileBreakpoint } from 'theme'
 
-const faqSteps = config.ENABLE_FAQ_BOT
-  ? requireRegionFile('steps.faq.json')
-  : []
+import { config } from 'services/config'
 
 const useQuery = () => {
   const location = useLocation()
@@ -105,7 +102,7 @@ const FaqChatbotContainer = styled.div`
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   background: ${props => props.theme.colors.backgroundLight};
   border-radius: 12px;
-  height: 400px;
+  height: 600px;
   width: calc(100% - 24px);
   max-width: 1032px;
   margin: 12px;
@@ -118,26 +115,15 @@ const FaqChatbotContainer = styled.div`
   .rsc-container {
     background: transparent;
   }
+
+  @media (max-width: ${mobileBreakpoint}px) {
+    height: 400px;
+  }
 `
 
 export const InfoPage: React.FC = () => {
   const query = useQuery()
-  const { t, i18n } = useTranslation()
-
-  const onFaqChatbotEnd = useCallback(({ renderedSteps }) => {
-    renderedSteps
-      .filter(step => step.id === 'userQuestion')
-      .map(step => step.value)
-      .forEach(question => {
-        analytics.track(
-          'user_faq_question',
-          {
-            value: question
-          },
-          { context: { ip: '0.0.0.0' } }
-        )
-      })
-  }, [])
+  const { t } = useTranslation()
 
   // parse /info?id=a,b,c -> [a, b, c]
   const queryClasses = query.get('id')
@@ -190,13 +176,7 @@ export const InfoPage: React.FC = () => {
       )}
       {config.ENABLE_FAQ_BOT && (
         <FaqChatbotContainer>
-          <Chatbot
-            key={i18n.languages[0]}
-            steps={faqSteps}
-            handleEnd={onFaqChatbotEnd}
-            placeholder={t('resultsPage.faqInputPlaceholder')}
-            showInput
-          />
+          <FaqChatbot />
         </FaqChatbotContainer>
       )}
       <Footer />

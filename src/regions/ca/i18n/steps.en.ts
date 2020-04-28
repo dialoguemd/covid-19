@@ -108,10 +108,30 @@ export default {
     `,
     utterAskForQuestion: `Please enter a question`,
     utterQuestionAsked: `
-    Thank you for your question!
-
     Do you have another question?
     `,
-    utterNoQuestion: `Thank you for the feedback!`
+    utterNoQuestion: `Thank you for the feedback!`,
+    utterHasAnswers: `Thank you for your question! Here are some answers I was able to find regarding your question:\n`,
+    utterHasNoAnswers: `
+    Thank you for your question!
+
+    I was not able to find any answers, but your question will help us refine our knowledge base.
+    `,
+    utterGetAnswersError: `
+    Thank you for your question!
+
+    An unknown error occured and I could not load answers,
+    but the question will still help us refine our knowledge base.
+    `,
+    utterAskForAnswerFeedback: `
+    At the moment, this is the best answer I can give. I'm still learning, and I need your help.
+
+    How was this answer?
+    `,
+    rating: {
+      good: 'Very good!',
+      average: 'Not quite what I was looking for',
+      poor: 'Completely off'
+    }
   }
 }
