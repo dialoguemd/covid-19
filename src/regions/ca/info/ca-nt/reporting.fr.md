@@ -8,7 +8,7 @@ La plupart des personnes atteintes de la COVID-19 présentent les symptômes sui
 
 Certains patients ont également ressenti les symptômes suivants :
 
-- Sensation générale de malaise, de ne pas se sentir au meilleur de sa forme
+- Sensation générale de malaise
 - Douleurs musculaires
 - Fatigue
 - Maux de gorge
