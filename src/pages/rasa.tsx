@@ -8,11 +8,14 @@ import RasaChatbot from 'components/rasa-chatbot'
 
 import chloe from 'images/chloe.png'
 
-const RASA_INIT_PAYLOAD = process.env.REACT_APP_RASA_INIT_PAYLOAD
 const RASA_SOCKET_PATH = process.env.REACT_APP_RASA_SOCKET_PATH
 const RASA_SOCKET_ENDPOINTS = {
   en: process.env.REACT_APP_RASA_SOCKET_ENDPOINT_EN,
   fr: process.env.REACT_APP_RASA_SOCKET_ENDPOINT_FR
+}
+
+interface Props {
+  initPayload: string
 }
 
 const Container = styled.div`
@@ -37,9 +40,8 @@ const Body = styled.div`
   overflow: hidden;
 `
 
-export const RasaPage: React.FC = () => {
+export const RasaPage: React.FC<Props> = ({ initPayload }) => {
   const { t, i18n } = useTranslation()
-
   const language = i18n.languages[0]
   const socketUrl = RASA_SOCKET_ENDPOINTS[language] || RASA_SOCKET_ENDPOINTS.en
 
@@ -58,7 +60,7 @@ export const RasaPage: React.FC = () => {
       />
       <Body>
         <RasaChatbot
-          initPayload={RASA_INIT_PAYLOAD}
+          initPayload={initPayload}
           inputTextFieldHint={t('rasaChatWidget.inputTextFieldHint')}
           profileAvatar={chloe}
           socketPath={RASA_SOCKET_PATH}
