@@ -67,10 +67,7 @@ export default {
         'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747'
       ],
       ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/'],
-      [
-        "Posez une question COVID-19.",
-        'https://covid19.dialogue.co/#/info'
-      ]
+      ['Posez une question COVID-19.', 'https://covid19.dialogue.co/#/info']
     ],
     adminAreaHeader: 'Pour les résidents de provinces',
     adminAreaMenu: [
