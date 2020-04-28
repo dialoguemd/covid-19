@@ -109,16 +109,9 @@ export default {
   continue: 'Continuer',
   faq: {
     utterAskHasAdditionalQuestion: `
-    Nous sollicitons des questions relatives à la COVID-19.
-    Ces questions seront utilisées pour nous aider à raffiner et à compléter l'information sur la pandémie.
-    Écrivez une question que vous avez.
-
-    Votre aide est nécessaire et grandement appréciée.
+    Avez-vous une question relative à la COVID-19?
     `,
-    utterAskForQuestion: `Svp, écrivez une question`,
-    utterQuestionAsked: `
-    Avez-vous une autre question ?
-    `,
+    utterPromptForNextQuestion: `Merci pour votre contribution ! Une autre question?`,
     utterNoQuestion: `Merci pour votre contribution !`,
     utterHasAnswers: `Merci pour votre question ! Voici quelques réponses que j'ai pu trouver :\n`,
     utterHasNoAnswers: `
