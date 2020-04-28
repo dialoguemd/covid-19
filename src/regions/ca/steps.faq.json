@@ -28,7 +28,32 @@
   {
     "id": "userQuestion",
     "user": true,
-    "trigger": "utterQuestionAsked"
+    "trigger": "showAnswers"
+  },
+  {
+    "id": "utterAskForAnswerFeedback",
+    "message": "faq.utterAskForAnswerFeedback",
+    "trigger": "askForAnswerFeedback"
+  },
+  {
+    "id": "askForAnswerFeedback",
+    "options": [
+      {
+        "value": "poor",
+        "label": "faq.rating.poor",
+        "trigger": "utterQuestionAsked"
+      },
+      {
+        "value": "average",
+        "label": "faq.rating.average",
+        "trigger": "utterQuestionAsked"
+      },
+      {
+        "value": "good",
+        "label": "faq.rating.good",
+        "trigger": "utterQuestionAsked"
+      }
+    ]
   },
   {
     "id": "utterQuestionAsked",

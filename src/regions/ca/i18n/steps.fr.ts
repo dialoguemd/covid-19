@@ -117,10 +117,29 @@ export default {
     `,
     utterAskForQuestion: `Svp, écrivez une question`,
     utterQuestionAsked: `
-    Merci pour votre question !
-
     Avez-vous une autre question ?
     `,
-    utterNoQuestion: `Merci pour votre contribution !`
+    utterNoQuestion: `Merci pour votre contribution !`,
+    utterHasAnswers: `Merci pour votre question ! Voici quelques réponses que j'ai pu trouver :\n`,
+    utterHasNoAnswers: `
+    Merci pour votre question !
+
+    Je n'ai trouvé aucune réponse, mais votre question nous aidera à raffiner notre base de connaissances.
+    `,
+    utterGetAnswersError: `
+    Merci pour votre question !
+
+    Une erreur inconnue s'est produite et je n'ai pas pu charger les réponses, mais la question va quand même nous aider à raffiner notre base de connaissances.
+    `,
+    utterAskForAnswerFeedback: `
+    Pour l'instant, c'est la meilleure réponse que je puisse vous donner. Je suis encore en train d'apprendre et j'ai besoin de votre aide.
+
+    Comment était la réponse ?
+    `,
+    rating: {
+      good: 'Très bonne !',
+      average: `Ce n'est pas tout à fait ce que je cherchais`,
+      poor: 'Très mauvaise'
+    }
   }
 }

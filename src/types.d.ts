@@ -11,6 +11,8 @@ declare module 'react-simple-chatbot' {
     [key: string]: any
   }>
 
+  export let Loading: React.FC
+
   type StepId = string | number
   export type StepTrigger =
     | StepId
@@ -59,7 +61,7 @@ declare module 'react-simple-chatbot' {
     previousStep: Record<string, any>
     step: Record<string, any>
     steps: Record<string, any>
-    triggerNextStep(nextStep: StepId | { value: any; trigger: StepId })
+    triggerNextStep(nextStep?: StepId | { value: any; trigger: StepId })
   }
 
   export interface CustomStep {
