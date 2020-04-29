@@ -64,10 +64,7 @@ export default {
         'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747'
       ],
       ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/'],
-      [
-        'Help build AI. Ask a COVID-19 question.',
-        'https://covid19.dialogue.co/#/info'
-      ]
+      ['Ask a COVID-19 question.', 'https://covid19.dialogue.co/#/info']
     ],
     adminAreaHeader: 'For Provincial Residents',
     adminAreaMenu: [

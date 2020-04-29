@@ -2,28 +2,8 @@
   {
     "id": "utterAskHasAdditionalQuestion",
     "message": "faq.utterAskHasAdditionalQuestion",
-    "trigger": "startQuestionCollection",
-    "hideInput": true
-  },
-  {
-    "id": "startQuestionCollection",
-    "options": [
-      { "value": true, "label": "continue", "trigger": "utterAskForQuestion" }
-    ],
-    "hideInput": true
-  },
-  {
-    "id": "userHasQuestion",
-    "options": [
-      { "value": true, "label": "yes", "trigger": "utterAskForQuestion" },
-      { "value": false, "label": "no", "trigger": "utterNoQuestion" }
-    ],
-    "hideInput": true
-  },
-  {
-    "id": "utterAskForQuestion",
-    "message": "faq.utterAskForQuestion",
-    "trigger": "userQuestion"
+    "trigger": "userQuestion",
+    "hideInput": false
   },
   {
     "id": "userQuestion",
@@ -41,30 +21,24 @@
       {
         "value": "poor",
         "label": "faq.rating.poor",
-        "trigger": "utterQuestionAsked"
+        "trigger": "utterPromptForNextQuestion"
       },
       {
         "value": "average",
         "label": "faq.rating.average",
-        "trigger": "utterQuestionAsked"
+        "trigger": "utterPromptForNextQuestion"
       },
       {
         "value": "good",
         "label": "faq.rating.good",
-        "trigger": "utterQuestionAsked"
+        "trigger": "utterPromptForNextQuestion"
       }
     ]
   },
   {
-    "id": "utterQuestionAsked",
-    "message": "faq.utterQuestionAsked",
-    "hideInput": true,
-    "trigger": "userHasQuestion"
-  },
-  {
-    "id": "utterNoQuestion",
-    "message": "faq.utterNoQuestion",
-    "hideInput": true,
-    "end": true
+    "id": "utterPromptForNextQuestion",
+    "message": "faq.utterPromptForNextQuestion",
+    "hideInput": false,
+    "trigger": "userQuestion"
   }
 ]
