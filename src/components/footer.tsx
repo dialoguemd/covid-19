@@ -2,8 +2,8 @@ import React from 'react'
 
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
-import { Link } from 'react-router-dom'
 
+import LocalizedLink from './localized-link'
 import { mobileBreakpoint } from 'theme'
 
 const FooterContainer = styled.div`
@@ -66,7 +66,7 @@ const scrollToContent = () => {
 }
 
 const AutoScrollLink: React.FC<any> = props => {
-  return <Link onClick={scrollToContent} {...props} />
+  return <LocalizedLink onClick={scrollToContent} {...props} />
 }
 
 export const Footer: React.FC = props => {

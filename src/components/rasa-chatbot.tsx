@@ -248,11 +248,15 @@ const RasaChatWidget: React.FC<Props> = ({
     () => () => {
       sessionStorage.removeItem('chat_session')
     },
-    [socketUrl]
+    [socketUrl, initPayload]
   )
 
   return (
-    <WidgetContainer {...rest} className={className} key={socketUrl}>
+    <WidgetContainer
+      {...rest}
+      className={className}
+      key={`${socketUrl}-${initPayload}`}
+    >
       <Widget
         customMessageDelay={customMessageDelay}
         embedded

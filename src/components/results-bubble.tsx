@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 
 import { CtaButton } from 'components/buttons'
 import { getChatClassesFromSteps } from 'services/chat-classifier'
+import LocalizedLink from './localized-link'
 
 const ViewReportContainer = styled.div`
   display: flex;
@@ -28,7 +28,7 @@ export const ResultsBubble: React.FC = (props: any) => {
 
   return (
     <ViewReportContainer>
-      <CtaButton as={Link} to={resultsLink}>
+      <CtaButton as={LocalizedLink} to={resultsLink}>
         {t('share.viewResults')}
       </CtaButton>
     </ViewReportContainer>

@@ -1,7 +1,14 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
 import styled, { ThemeProvider } from 'styled-components/macro'
-import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom'
+import {
+  HashRouter as Router,
+  Switch,
+  Route,
+  Redirect,
+  useRouteMatch
+} from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 
 import InfoPage from './pages/info'
 import WelcomePage from './pages/welcome'
@@ -18,28 +25,55 @@ const AppContainer = styled.div`
   flex-direction: column;
 `
 
-function App() {
+const AppRoute: React.FC = () => {
+  const { i18n } = useTranslation()
+  let { path, params } = useRouteMatch<{ locale: string }>()
+
+  useEffect(() => {
+    const lang = i18n.languages[0]
+
+    if (lang !== params.locale) {
+      i18n.changeLanguage(params.locale)
+    }
+  }, [i18n, params.locale])
+
+  return (
+    <Switch>
+      <Route exact path={path}>
+        <WelcomePage />
+      </Route>
+      <Route path={`${path}/info`}>
+        <InfoPage />
+      </Route>
+      <Route path={`${path}/chat`}>
+        <QuestionnairePage />
+      </Route>
+      <Route path={`${path}/rasa`}>
+        <RasaRoute />
+      </Route>
+      <Route path={`${path}/*`}>
+        <Redirect to={path} />
+      </Route>
+    </Switch>
+  )
+}
+
+const App = () => {
+  const { i18n } = useTranslation()
+
+  const detectedLanguage = i18n.languages[0]
+  const supportedLanguages = i18n.languages.join('|')
+
   return (
     <ThemeProvider theme={theme}>
       <GlobalStyles />
       <AppContainer>
         <Router>
           <Switch>
-            <Route exact path="/">
-              <WelcomePage />
+            <Route path={`/:locale(${supportedLanguages})`}>
+              <AppRoute />
             </Route>
-            <Route path="/info/">
-              <InfoPage />
-            </Route>
-            <Route path="/chat/">
-              <QuestionnairePage />
-            </Route>
-            <Route path="/rasa">
-              <RasaRoute />
-            </Route>
-            <Route path="*">
-              <Redirect to="/" />
-            </Route>
+            <Redirect to={`/${detectedLanguage}`} />
           </Switch>
         </Router>
       </AppContainer>

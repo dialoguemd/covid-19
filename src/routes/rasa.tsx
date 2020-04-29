@@ -1,40 +1,29 @@
 import React from 'react'
-import { Switch, Route, useRouteMatch } from 'react-router-dom'
-import queryString from 'query-string'
+import {
+  Switch,
+  Route,
+  useRouteMatch,
+  Redirect,
+  useParams
+} from 'react-router-dom'
 
 import RasaPage from '../pages/rasa'
 
-const USER_ID_QUERY_PARAMETER = 'uid'
 const RASA_GREET_INTENT = 'greet'
 const RASA_CHECKIN_INTENT = 'daily_checkin'
 const RASA_METADATA_ENTITY = 'metadata'
 const RASA_TIMEZONE_PARAMETER = 'timezone'
-const RASA_USER_ID_PARAMETER = 'user_id'
+const RASA_REMINDER_ID_PARAMETER = 'reminder_id'
 
-function parseQueryString() {
-  const hash = window.location.hash
-  return queryString.parse(hash.substr(hash.indexOf('?')))
-}
+const getTimezone = (): string =>
+  new Intl.DateTimeFormat().resolvedOptions().timeZone
 
-function getStringParameter(parameter: string): string | undefined {
-  const value = parseQueryString()[parameter]
-  if (typeof value === 'string') return value
-  return undefined
-}
-
-function getTimezone(): string {
-  const defaultDateTimeFormat = new Intl.DateTimeFormat()
-  return defaultDateTimeFormat.resolvedOptions().timeZone
-}
-
-function createPayload(
+const createPayload = (
   intent: string,
   metadata: { [key: string]: string }
-): string {
-  return `/${intent}{"${RASA_METADATA_ENTITY}":${JSON.stringify(metadata)}}`
-}
+): string => `/${intent}{"${RASA_METADATA_ENTITY}":${JSON.stringify(metadata)}}`
 
-function renderDefault(props: {}): JSX.Element {
+const Rasa: React.FC = props => {
   const metadata = {}
   const timezone = getTimezone()
   if (timezone) metadata[RASA_TIMEZONE_PARAMETER] = timezone
@@ -43,22 +32,26 @@ function renderDefault(props: {}): JSX.Element {
   return <RasaPage {...props} initPayload={payload} />
 }
 
-function renderCheckin(props: {}): JSX.Element {
-  const userId = getStringParameter(USER_ID_QUERY_PARAMETER)
-  if (!userId) return renderDefault(props)
+const RasaCheckin: React.FC = props => {
+  const params = useParams<{ rid: string }>()
 
-  const metadata = { [RASA_USER_ID_PARAMETER]: userId }
+  const metadata = { [RASA_REMINDER_ID_PARAMETER]: params.rid }
   const payload = createPayload(RASA_CHECKIN_INTENT, metadata)
   return <RasaPage {...props} initPayload={payload} />
 }
 
-function RasaRoute() {
+const RasaRoute: React.FC = () => {
   let { path } = useRouteMatch()
 
   return (
     <Switch>
-      <Route path={`${path}/ci`} render={renderCheckin} />
-      <Route path={path} render={renderDefault} />
+      <Route exact path={path}>
+        <Rasa />
+      </Route>
+      <Route exact path={`${path}/ci/:rid`}>
+        <RasaCheckin />
+      </Route>
+      <Redirect to={path} />
     </Switch>
   )
 }

@@ -42,6 +42,7 @@ const Body = styled.div`
 
 export const RasaPage: React.FC<Props> = ({ initPayload }) => {
   const { t, i18n } = useTranslation()
+
   const language = i18n.languages[0]
   const socketUrl = RASA_SOCKET_ENDPOINTS[language] || RASA_SOCKET_ENDPOINTS.en
 

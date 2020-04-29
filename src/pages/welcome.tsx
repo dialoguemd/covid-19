@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
 
@@ -8,6 +7,7 @@ import Header from 'components/header'
 import Title from 'components/title'
 import ScrollAnchor from 'components/scroll-anchor'
 import { CtaButton } from 'components/buttons'
+import LocalizedLink from 'components/localized-link'
 
 import { requireRegionFile } from 'services/region-loader'
 import { checkClassesValidity } from 'services/content'
@@ -97,16 +97,16 @@ export const WelcomePage: React.FC = () => {
       <Body>
         <Title>{t('welcomePage.title')}</Title>
         <Description>{t('welcomePage.description')}</Description>
-        <CtaButton as={Link} to="/chat/">
+        <CtaButton as={LocalizedLink} to="/chat/">
           {t('welcomePage.button')}
         </CtaButton>
         <Subtext>
           {SHOW_PREVIOUS_RESULTS_LINK && previousRunClasses && (
             <p>
               {previousRunIsValid ? (
-                <Link to={`/info?id=${previousRunClasses}`}>
+                <LocalizedLink to={`/info?id=${previousRunClasses}`}>
                   {t('welcomePage.previousRunLink')}
-                </Link>
+                </LocalizedLink>
               ) : (
                 t('welcomePage.previousRunExpired')
               )}

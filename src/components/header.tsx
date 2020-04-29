@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { overrides } from 'services/overrides'
 
@@ -7,6 +6,7 @@ import LogoImage from 'images/dialogue-logo.svg'
 import LanguagePicker from './language-picker'
 import Title from './title'
 import RegionPicker from 'components/region-picker'
+import LocalizedLink from './localized-link'
 import { mobileBreakpoint } from 'theme'
 import { config } from 'services/config'
 
@@ -81,9 +81,9 @@ export const Header: React.FC<Props> = ({
   <>
     {ENABLE_LOGO && (
       <LogoContainer hideLogoBackground={hideLogoBackground}>
-        <Link to="/">
+        <LocalizedLink to="/">
           <img alt="logo" src={overrides.images.logo || LogoImage} />
-        </Link>
+        </LocalizedLink>
       </LogoContainer>
     )}
     <HeaderContainer {...rest}>

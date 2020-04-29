@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { useLocation, Link } from 'react-router-dom'
+import { useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import styled from 'styled-components/macro'
 
@@ -12,8 +12,9 @@ import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
 import { CtaButton } from 'components/buttons'
 import FaqChatbot from 'components/faq-chatbot'
-import { mobileBreakpoint } from 'theme'
+import LocalizedLink from 'components/localized-link'
 
+import { mobileBreakpoint } from 'theme'
 import { config } from 'services/config'
 
 const useQuery = () => {
@@ -151,7 +152,7 @@ export const InfoPage: React.FC = () => {
               <HeaderLinkSubTitle>
                 {t('resultsPage.changeAudienceTitle')}
               </HeaderLinkSubTitle>
-              <CtaButton as={Link} to="/chat/">
+              <CtaButton as={LocalizedLink} to="/chat/">
                 {t('resultsPage.changeAudience')}
               </CtaButton>
             </HeaderLinkContainer>

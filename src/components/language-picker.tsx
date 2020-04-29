@@ -1,7 +1,10 @@
-import React, { useCallback } from 'react'
+import React from 'react'
+import { Location } from 'history'
 
 import styled from 'styled-components/macro'
+import { pathToRegexp, compile } from 'path-to-regexp'
 import { useTranslation } from 'react-i18next'
+import { useLocation, useHistory } from 'react-router-dom'
 
 const LanguagePickerButton = styled.button`
   color: ${props => props.theme.colors.text};
@@ -23,21 +26,39 @@ const LanguagePickerButton = styled.button`
   }
 `
 
-export const LanguagePicker: React.FC = props => {
+const generateLanguage = (locale: string, location: Location) => {
+  const ROUTE = '/:locale/:path*'
+  const definePath = compile(ROUTE)
+  const routeComponents = pathToRegexp(ROUTE).exec(location.pathname)
+
+  let subPaths = null
+  if (routeComponents && routeComponents[2]) {
+    subPaths = routeComponents[2].split('/')
+  }
+
+  return definePath({
+    locale,
+    path: subPaths
+  })
+}
+
+const LanguagePicker: React.FC = props => {
   const { i18n } = useTranslation()
+  const location = useLocation()
+  const history = useHistory()
 
   const nextLanguage = i18n.languages[1]
-
-  const cycleLanguage = useCallback(() => {
-    i18n.changeLanguage(nextLanguage)
-  }, [nextLanguage, i18n])
 
   if (i18n.languages.length === 1) {
     return null
   }
 
+  const onCLick = () => {
+    history.push(generateLanguage(nextLanguage, location))
+  }
+
   return (
-    <LanguagePickerButton {...props} onClick={cycleLanguage}>
+    <LanguagePickerButton {...props} onClick={onCLick}>
       {nextLanguage}
     </LanguagePickerButton>
   )
