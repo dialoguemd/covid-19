@@ -109,7 +109,7 @@ export default {
   continue: 'Continuer',
   faq: {
     utterAskHasAdditionalQuestion: `
-    Avez-vous une question relative à la COVID-19?
+    Avez-vous une question à propos de la COVID-19?
     `,
     utterPromptForNextQuestion: `Merci pour votre contribution ! Auriez-vous une autre question?`,
     utterNoQuestion: `Merci pour votre contribution !`,
