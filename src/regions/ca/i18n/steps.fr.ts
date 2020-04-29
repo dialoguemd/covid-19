@@ -111,7 +111,7 @@ export default {
     utterAskHasAdditionalQuestion: `
     Avez-vous une question relative à la COVID-19?
     `,
-    utterPromptForNextQuestion: `Merci pour votre contribution ! Une autre question?`,
+    utterPromptForNextQuestion: `Merci pour votre contribution ! Auriez-vous une autre question?`,
     utterNoQuestion: `Merci pour votre contribution !`,
     utterHasAnswers: `Merci pour votre question ! Voici quelques réponses que j'ai pu trouver :\n`,
     utterHasNoAnswers: `
