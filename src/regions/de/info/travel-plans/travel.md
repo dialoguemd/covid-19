@@ -1,6 +1,6 @@
 ## 🧳Informationen und Sicherheitshinweise für Reisende und Personen mit Reiseabsichten
 
-**Das Auswärtige Amt hat eine weltweite Reisewarnung ausgesprochen:** Vor nicht notwendigen, touristischen Reisen in das Ausland wird derzeit gewarnt, da mit starken und weiter zunehmenden drastischen Einschränkungen im internationalen Luft- und Reiseverkehr, weltweiten Einreisebeschränkungen, Quarantänemaßnahmen und der Einschränkung des öffentlichen Lebens in vielen Ländern zu rechnen ist. Dies gilt bis auf weiteres fort, vorerst - entsprechend dem Beschluss vom 15. April zur Verlängerung der Eindämmungsmaßnahmen - mindestens bis einschließlich 3. Mai 2020.
+**Das Auswärtige Amt hat eine weltweite Reisewarnung ausgesprochen:** Vor nicht notwendigen, touristischen Reisen in das Ausland wird derzeit gewarnt, da weiterhin mit starken drastischen Einschränkungen im internationalen Luft- und Reiseverkehr, weltweiten Einreisebeschränkungen, Quarantänemaßnahmen und der Einschränkung des öffentlichen Lebens in vielen Ländern zu rechnen ist. Dies gilt bis auf weiteres fort, vorerst bis einschließlich 14. Juni 2020.
 
 Noch im Ausland befindliche Touristen sollten zurückreisen, solange es noch Reisemöglichkeiten gibt. Weitere Informationen finden Betroffene [hier](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/reise-und-sicherheitshinweise/reisewarnungen/faq-reisewarnung).
 

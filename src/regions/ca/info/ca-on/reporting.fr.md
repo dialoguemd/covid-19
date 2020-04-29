@@ -1,18 +1,30 @@
 ## Ontario: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si vous commencez à ressentir des symptômes de COVID-19
+Les symptômes de la COVID-19, qui est la maladie causée par le nouveau coronavirus 2019, vont de légers — comme la grippe et autres infections respiratoires courantes — à graves.
 
-- Toute personne qui commence à se sentir mal (fièvre, nouvelle toux ou difficultés respiratoires) devrait rentrer chez elle et s'auto-isoler immédiatement.
-- Les personnes qui s’isolent doivent subir une évaluation clinique au téléphone – en téléphonant au cabinet de leur fournisseur de soins primaires ou à Télésanté Ontario 1 866 797-0000. Si vous avez besoin d’une évaluation supplémentaire, votre fournisseur de soins primaires ou Télésanté Ontario vous aiguillera vers des options de soins en personne.
+Les symptômes les plus courants incluent les suivants :
 
-Veuillez ne pas vous rendre dans un centre d’évaluation, à moins d’avoir été référé par un professionnel de la santé.
+- fièvre
+- toux
+- difficulté à respirer
+- douleurs musculaires
+- fatigue
+- mal de tête
+- mal de gorge
+- nez qui coule
 
-Ne composez pas le 911 sauf en situation d’urgence.
+Les complications découlant de la COVID-19 peuvent inclure de graves problèmes de santé comme une pneumonie ou une insuffisance rénale et, dans certains cas, la mort.
 
-Quiconque a voyagé à l’extérieur du Canada doit :
+**Si vous commencez à ressentir des symptômes de COVID-19**
 
-- s'auto-isoler pendant 14 jours à son retour. Les personnes qui s'auto-isolent ne devraient pas aller travailler;
-- se surveiller pour détecter tout symptôme du nouveau coronavirus 2019 pendant 14 jours après son retour au Canada;
-- communiquer avec leur fournisseur de soins primaires ou Télésanté Ontario au 1 866 797-0000 s’ils présentent des symptômes du nouveau coronavirus de 2019.
+Si vous commencez à ressentir des symptômes de la COVID-19, vous devez rester à la maison et vous auto-isoler immédiatement et faire une autoévaluation pour aider à déterminer si vous avez besoin de recevoir d’autres soins.
 
-[Source: Gouvernement de l'Ontario](https://www.ontario.ca/fr/page/nouveau-coronavirus-2019)
+Composez le 911 seulement en situation d’urgence.
+
+**Retour de voyage**
+
+Pour ralentir l’introduction et la propagation de la COVID-19 au pays, le gouvernement du Canada a adopté un arrêté d’urgence en vertu de la Loi sur la mise en quarantaine qui s’applique à tous les voyageurs qui arrivent au Canada.
+
+En vertu de cet arrêté, si vous êtes récemment revenu au Canada, vous devez vous auto-isoler (vous mettre en quarantaine) et rester à la maison, que vous présentiez ou non des symptômes. Même si vous ne présentez pas de symptômes dans l’immédiat, vous êtes à risque de les développer et d’infecter d’autres personnes.
+
+[Source: Gouvernement de l'Ontario](https://www.ontario.ca/fr/page/freinez-la-propagation-de-la-covid-19)
