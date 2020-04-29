@@ -8,7 +8,7 @@ Most people with COVID-19 are experiencing these symptoms:
 
 Other symptoms those with COVID-19 have had are:
 
-- A general feeling of unease, or being ‘under the weather’
+- Generally feeling unwell
 - Muscle aches
 - Fatigue
 - Sore throat
@@ -16,7 +16,7 @@ Other symptoms those with COVID-19 have had are:
 - Headache
 - Diarrhea
 - Vomiting
-- Loss of smell
+- Loss of sense of smell
 
 Anyone experiencing any of the above should contact a healthcare provider. They may recommend that you get tested.
 
