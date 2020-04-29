@@ -6,7 +6,7 @@ Veuillez noter ce qui suit:
 
 Les responsables de la santé publique demandent à tous les Manitobains, y compris aux prestataires de soins de santé, d’annuler ou de reporter tout voyage à l’étranger non essentiel. En outre, les responsables de la santé publique recommandent à tous les voyageurs de retour, y compris ceux qui ont voyagé à l'intérieur du Canada, de s'isoler et de surveiller eux-mêmes leurs symptômes pendant 14 jours après leur retour au Manitoba.
 
-Les responsables de la santé publique insistent pour que toute personne ayant des symptômes de la grippe ou du rhume (toux, fièvre, nez qui coule, mal de gorge, faiblesse ou mal de tête) s’isole volontairement pendant 14 jours.
+Les responsables de la santé publique insistent pour que toute personne ayant des symptômes de la grippe ou du rhume (toux, fièvre, nez qui coule, mal de gorge, faiblesse ou mal de tête) s’isole volontairement pendant 14 jours. Toute personne présentant ces symptômes est admissible au test COVID-19.
 
 La distanciation sociale sert à réduire intentionnellement les contacts étroits entre les gens, dans l’espoir de mettre fin à la propagation de tout virus dans la collectivité. Voici comment appliquer la distanciation sociale par tous les Manitobains :
 
