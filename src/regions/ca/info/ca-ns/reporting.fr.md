@@ -10,4 +10,4 @@ La Régie de la santé de la Nouvelle-Écosse a mis en place des [centres de dé
 
 Le gouvernement de la Nouvelle-Écosse, en vertu de la loi sur la protection de la santé (Health Protection Act), exige que toute personne qui a voyagé à l'extérieur de la Nouvelle-Écosse s'isole à la maison pendant 14 jours après son retour dans la province, même si elle ne présente aucun symptôme.
 
-[Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/fr/#help)
+[Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/when-to-seek-help/fr/)
