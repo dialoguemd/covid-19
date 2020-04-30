@@ -100,9 +100,9 @@ export default {
   continue: 'Continue',
   faq: {
     utterAskHasAdditionalQuestion: `
-    Got a question related to COVID-19?
+    What is your question related to COVID-19?
     `,
-    utterPromptForNextQuestion: `Thank you for the feedback! Got another question?`,
+    utterPromptForNextQuestion: `Thank you for the feedback! What else would like to know?`,
     utterNoQuestion: `Thank you for the feedback!`,
     utterHasAnswers: `Thank you for your question! Here are some answers I was able to find regarding your question:\n`,
     utterHasNoAnswers: `
