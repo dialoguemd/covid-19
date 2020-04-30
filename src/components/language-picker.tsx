@@ -36,10 +36,14 @@ const generateLanguage = (locale: string, location: Location) => {
     subPaths = routeComponents[2].split('/')
   }
 
-  return definePath({
+  let languagePath = definePath({
     locale,
     path: subPaths
   })
+
+  if (location.search) languagePath = `${languagePath}${location.search}`
+
+  return languagePath
 }
 
 const LanguagePicker: React.FC = props => {
