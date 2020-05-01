@@ -31,6 +31,15 @@ const FaqAnswerBubble: React.FC<Partial<Props>> = ({
       try {
         const answers = await getAnswers(question, i18n.languages[0])
 
+        analytics.track(
+          'user_faq_answer',
+          {
+            question,
+            answers
+          },
+          { context: { ip: '0.0.0.0' } }
+        )
+
         const content =
           answers.length === 0
             ? t('steps:faq.utterHasNoAnswers')
