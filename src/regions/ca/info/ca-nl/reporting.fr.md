@@ -19,7 +19,7 @@ Si vous commencez à présenter des symptômes de COVID-19 :
 - Si vous vous isolez, vous devrez continuer à vous isoler jusqu'à ce que la santé publique vous en avise autrement.
 - Si vous ne vous isoliez pas vous-même, vous serez mis en isolement et le test COVID-19 sera organisé par la Santé publique.
 
-[Source: Gouvernement de Terre-Neuve et Labrador (en anglais)](https://www.gov.nl.ca/covid-19/about-covid-19/)
+[Source: Gouvernement de Terre-Neuve et Labrador (en anglais)](https://www.gov.nl.ca/covid-19/covid-19-symptoms-treatment/)
 
 ## Au cours des 14 derniers jours, je suis retourné à Terre-Neuve-et-Labrador. Suis-je obligé de m'isoler ?
 
