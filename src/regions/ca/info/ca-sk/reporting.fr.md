@@ -1,15 +1,26 @@
 ## Saskatchewan: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Les symptômes de la COVID-19 comprennent la fièvre, la toux, le mal de gorge, l'essoufflement ou la difficulté à respirer. Tous les résidents doivent être familiarisés avec les précautions d'autosurveillance et d'auto-isolement afin de vous protéger, vous et votre entourage.
+Des tests sont disponibles et recommandés si vous présentez de nouveaux symptômes inexpliqués ou une aggravation (quelle qu'en soit la gravité) qui peuvent inclure un ou plusieurs des symptômes suivants :
+- fièvre
+- toux
+- mal de tête
+- maux et douleurs
+- mal de gorge
+- frissons
+- nez qui coule
+- perte du goût ou de l'odorat
+- essoufflement ou difficulté à respirer
 
-Il est conseillé aux résidents de limiter tout déplacement non essentiel en dehors de la Saskatchewan, à l'exception des personnes qui vivent dans des communautés frontalières et qui se déplacent pour travailler.
-
-Il est nécessaire d'être référé pour se faire dépister. Il n'est pas nécessaire d'avoir voyagé à l'étranger pour obtenir une recommandation pour un test de dépistage. Si vous ne présentez pas de symptômes, vous n'avez pas besoin de vous faire dépister. Vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
+Vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
 
 - HealthLine 811.
 - Votre bureau local de contrôle des maladies transmissibles de la santé publique.
 - Votre médecin de famille.
 - Votre infirmière praticienne.
+
+Vous pouvez appeler la HealthLine en composant le 811. Si vous avez des questions concernant le COVID-19 et votre santé. HealthLine 811 peut vous aider à effectuer un triage pour le COVID-19 afin de déterminer si un test est recommandé pour vous et vous orienter vers ce test.
+
+Tous les résidents doivent être familiarisés avec les précautions d'autosurveillance et d'auto-isolement afin de vous protéger, vous et votre entourage.
 
 ## Renseignements pour les voyageurs
 
