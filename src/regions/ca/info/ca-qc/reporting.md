@@ -44,7 +44,7 @@ Anyone returning from a stay outside Canada, including cruise passengers, must s
 - Postpone all non-urgent medical appointments.
 - Do not receive visitors at home.
 
-Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.google.com/url?q=https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/&sa=D&ust=1586888257837000&usg=AFQjCNH0Z7HB90yLU7kWQV8Ydk_uj3JTGg).
+Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated below.
 
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 
