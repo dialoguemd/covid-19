@@ -3,7 +3,7 @@
 Une personne doit être testée pour le COVID-19 si :
 -Elle présente des symptômes tels que toux, fièvre, mal de gorge ou difficulté à respirer et a voyagé hors du Yukon dans les 14 jours suivant le début de ses symptômes.
 OU
--Elle présente des symptômes tels que toux, fièvre, mal de gorge ou difficulté à respirer et a été exposée à une personne dont la COVID-19 a été confirmée. 
+-Elle présente des symptômes tels que toux, fièvre, mal de gorge ou difficulté à respirer et a été exposée à une personne dont la COVID-19 a été confirmée.
 
 Dans les deux cas, appelez le 811 avant de vous rendre sur un site de dépistage.
 

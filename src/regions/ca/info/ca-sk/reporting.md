@@ -1,6 +1,7 @@
 ## Saskatchewan: Who should I contact if I think I have COVID-19?
 
 Testing is available and recommended if you have unexplained new or worsening symptoms (of any severity) that may include one or more of the following:
+
 - fever
 - cough
 - headache
@@ -12,6 +13,7 @@ Testing is available and recommended if you have unexplained new or worsening sy
 - shortness of breath or difficulty breathing
 
 You can obtain a referral to a community testing centre by phoning:
+
 - HealthLine 811.
 - Your local Public Health Communicable Disease Control office.
 - Your family physician.
