@@ -1,13 +1,25 @@
 ## Saskatchewan: Who should I contact if I think I have COVID-19?
 
-Symptoms of COVID-19 include fever, cough, sore throat, shortness of breath or difficulty breathing. All residents should be familiar with self-monitoring and self-isolation precautions in order to keep you and those around you safe.
+Testing is available and recommended if you have unexplained new or worsening symptoms (of any severity) that may include one or more of the following:
+- fever
+- cough
+- headache
+- aches and pains
+- sore throat
+- chills
+- runny nose
+- loss of sense of taste or smell
+- shortness of breath or difficulty breathing
 
-A referral is required to get tested. You do not need to have travelled internationally to get a referral for testing. If you are not exhibiting symptoms, you do not need to be tested. You can obtain a referral to a community testing centre by phoning:
-
+You can obtain a referral to a community testing centre by phoning:
 - HealthLine 811.
 - Your local Public Health Communicable Disease Control office.
 - Your family physician.
 - Your nurse practitioner.
+
+Please call HealthLine by dialing 811. If you have questions regarding COVID-19 and your health. HealthLine 811 can help you with screening for COVID-19 to determine if a test is recommended for you and refer you for testing.
+
+All residents should be familiar with self-monitoring and self-isolation precautions, in order to keep you and those around you safe.
 
 ## Travel Information
 
