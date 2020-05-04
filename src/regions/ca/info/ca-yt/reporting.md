@@ -1,15 +1,15 @@
 ## Yukon: Who should I contact if I think I have COVID-19?
 
-ALL travellers coming into Yukon from any other location on or after March 22 and ALL international travellers who returned to Yukon from outside Canada on or after March 13 , are required to self-isolate immediately, for 14 days, and monitor for symptoms.
+Someone should be tested for COVID-19 if:
+·They are experiencing symptoms such as coughing, fever, sore throat, or difficulty breathing and have travelled outside Yukon within 14 days of their symptoms starting.
+OR
+·They are experiencing symptoms such as coughing, fever, sore throat, or difficulty breathing and have been exposed to someone who has been confirmed as having COVID-19.
 
-If you have symptoms:
+In either case, call 811 before visiting a testing site.
 
-- Anyone who has symptoms, including cough, fever or difficulty breathing, must also self-isolate.
-- Do not go to an emergency department, family doctor, walk-in clinic or your local health centre without calling 811 first.
-- If you need immediate medical attention, call 911 and advise them that you may have COVID-19.
+**How can people in communities get tested?**
+In communities: Call your local health centre to arrange for testing. [Find a community health centre](https://yukon.ca/en/health-and-wellness/hospitals-and-health-centres/find-hospital-or-health-centre).
 
-To protect yourself while out in public, wash your hands frequently, and maintain a distance of about 2 metres from others.
+In Whitehorse: Call 811 or your family physician. They may refer you to the [Respiratory Assessment Centre](https://yukon.ca/en/find-respiratory-assessment-centre) if needed. Only people who meet the screening criteria for COVID-19 will be tested.
 
-If you have no symptoms or exposure concerns, but have questions about COVID-19 or novel coronavirus, visit this [website](https://yukon.ca/covid-19).
-
-[Source: Government of Yukon](https://yukon.ca/covid-19)
+[Source: Government of Yukon](https://yukon.ca/en/common-questions-covid-19#testing)

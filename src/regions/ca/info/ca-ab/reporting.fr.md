@@ -4,7 +4,7 @@
 - Si vous présentez des symptômes tels que fièvre, toux, essoufflement, difficulté à respirer, mal de gorge ou écoulement nasal, vous DEVEZ vous isoler pendant 10 jours après l'apparition des symptômes et jusqu'à ce que ceux-ci aient disparu (la période la plus longue étant retenue).
 - Faites l'[auto-évaluation en ligne COVID-19](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) pour déterminer si vous devez faire un test COVID-19
 - Si vous êtes mis en quarantaine parce que vous êtes récemment revenu de l'étranger, ou si vous êtes un contact proche d'un cas confirmé de COVID, vous devez rester sur votre propriété. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement.
-- Veuillez ne pas vous rendre dans un hôpital, un cabinet de médecin, un laboratoire ou un établissement de soins de santé sans avoir consulté au préalable Health Link 811.
+- Veuillez ne pas vous rendre dans un hôpital, un laboratoire ou un établissement de soins de santé sans avoir consulté au préalable Health Link 811.
 - La plupart des médecins de famille de l'Alberta continuent à fournir des services pendant la COVID-19.
 - Les patients doivent continuer à consulter leur médecin de famille pour les problèmes de santé non urgents, y compris les soins pour les maladies chroniques et tout nouveau problème de santé non lié à COVID-19.
 - Veuillez appeler le cabinet de votre médecin avant de vous présenter en personne afin de déterminer si les soins en personne ou virtuels sont la meilleure option. Si vous n'avez pas de médecin de famille, veuillez consulter le site [AlbertaFindADoctor.ca](https://albertafindadoctor.ca/).

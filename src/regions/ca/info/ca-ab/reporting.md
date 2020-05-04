@@ -4,7 +4,7 @@
 - If you have symptoms including fever, cough, shortness of breath, difficulty breathing, sore throat or runny nose, you MUST self-isolate for 10 days after the onset of symptoms and until your symptoms have resolved (whichever is longer).
 - Complete the [COVID-19 online self-assessment](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) to determine if you should receive testing for COVID-19
 - If you are quarantined because you recently came back from outside the country, or you are a close contact of a confirmed case of COVID, you must remain on your own property. Under no circumstance should you leave your property during the 14 days of self-isolation.
-- Please do not visit a hospital, physician’s office, lab or healthcare facility without consulting Health Link 811 first.
+- Please do not visit a hospital, lab or healthcare facility without consulting Health Link 811 first.
 - Most of Alberta's family physicians are continuing to provide services during COVID-19.
 - Patients should continue to consult with their family physician for non-urgent health concerns, including care for chronic conditions and any new health concerns unrelated to COVID-19.
 - Please call your physician's office before attending in person to determine whether in-person or virtual care is the best option. If you do not have a family doctor, please visit [AlbertaFindADoctor.ca](https://albertafindadoctor.ca/).
