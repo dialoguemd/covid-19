@@ -1,17 +1,15 @@
 ## Yukon: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-TOUS les voyageurs qui étaient à l’extérieur du territoire et sont rentrés le 22 mars ou après sont tenus de se mettre immédiatement en en auto-isolement pour une durée de 14 jours et de surveiller l’apparition de symptômes.
+Une personne doit être testée pour le COVID-19 si :
+-Elle présente des symptômes tels que toux, fièvre, mal de gorge ou difficulté à respirer et a voyagé hors du Yukon dans les 14 jours suivant le début de ses symptômes.
+OU
+-Elle présente des symptômes tels que toux, fièvre, mal de gorge ou difficulté à respirer et a été exposée à une personne dont la COVID-19 a été confirmée.
 
-TOUS les voyageurs qui sont rentrés au Yukon le 13 mars ou après sont tenus de se mettre immédiatement en auto-isolement pour une durée de 14 jours et de surveiller l’apparition de symptômes.
+Dans les deux cas, appelez le 811 avant de vous rendre sur un site de dépistage.
 
-Si vous avez de symptômes:
+**Comment les habitants des communautés peuvent-ils se faire dépister ?**
+Dans les communautés : Appelez votre centre de santé local pour organiser un test de dépistage. [Trouvez un centre de santé communautaire](https://yukon.ca/fr/sante-et-bien-etre/hopitaux-et-centres-de-sante/hopitaux-et-centres-de-sante).
 
-- Toute personne présentant des symptômes (toux, fièvre, difficultés respiratoires) doit également s’auto-isoler.
-- Ne vous rendez pas aux urgences, chez votre médecin de famille, dans une clinique sans rendez-vous ou dans un centre de santé sans avoir d’abord appelé le 811.
-- Si vous avez besoin de soins immédiats, appelez le 911 et avisez les secours de la possibilité d’infection à la COVID-19.
+À Whitehorse : Appelez le 811 ou votre médecin de famille. Ils pourront vous orienter vers le [Centre d'évaluation respiratoire](https://yukon.ca/fr/find-respiratory-assessment-centre) si nécessaire. Seules les personnes qui répondent aux critères de dépistage de la COVID-19 seront testées.
 
-Pour vous protéger dans les lieux publics, lavez-vous les mains souvent et gardez une distance d’environ 2 mètres par rapport aux autres personnes.
-
-Si vous ne présentez pas de symptômes ou de risque d’exposition, mais que vous avez des questions sur la COVID-19 ou le nouveau coronavirus, nous vous invitons à consulter les [ressources suivantes](https://yukon.ca/fr/covid-19).
-
-[Source: Gouvernement du Yukon](https://yukon.ca/fr/informations-sur-le-coronavirus)
+[Source : Gouvernement du Yukon](https://yukon.ca/en/common-questions-covid-19#testing)

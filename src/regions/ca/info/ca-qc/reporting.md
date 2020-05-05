@@ -10,7 +10,7 @@ The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-0024
 
 If you are worried about COVID‑19, you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec.
 
-If you have symptoms such as a cough or cough that gets worse, fever, difficulty breathing or sudden loss of sense of smell without nasal congestion with or without loss of taste:
+If you have symptoms such as new cough or cough that gets worse, fever, difficulty breathing or sudden loss of sense of smell without nasal congestion with or without loss of taste:
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
 - If your condition allows you to do so, call 1-877-644-4545. If you are a traveller who has returned within less than 14 days, mention it.
@@ -44,7 +44,7 @@ Anyone returning from a stay outside Canada, including cruise passengers, must s
 - Postpone all non-urgent medical appointments.
 - Do not receive visitors at home.
 
-Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.google.com/url?q=https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/&sa=D&ust=1586888257837000&usg=AFQjCNH0Z7HB90yLU7kWQV8Ydk_uj3JTGg).
+Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated below.
 
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 

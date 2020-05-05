@@ -30,7 +30,7 @@ Si vous ressentez des [symptômes de la COVID-19](https://www.hss.gov.nt.ca/fr/s
 - Inuvik: 867-490 –2225
 - Fort Smith: 867-621-2233 ou 867-872-0562
 - Hay River : 867-874-7201 (entre 8 h 30 et 16 h 30). Après les heures normales de bureau, communiquez avec notre Service des urgences au 867-874-8050
-- Les autres collectivités peuvent communiquer avec leur centre de santé local à l’aide des coordonnées suivantes : [www.hss.gov.nt.ca/fr/hôpitaux-et-centres-de-santé](www.hss.gov.nt.ca/fr/hôpitaux-et-centres-de-santé)
+- Les autres collectivités peuvent communiquer avec leur centre de santé local à l’aide des coordonnées suivantes : [www.hss.gov.nt.ca/fr/hôpitaux-et-centres-de-santé](https://www.hss.gov.nt.ca/fr/h%C3%B4pitaux-et-centres-de-sant%C3%A9)
 
 Si vous ressentez des symptômes graves (comme l’essoufflement), appelez le 9-1-1.
 

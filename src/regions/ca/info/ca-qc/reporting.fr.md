@@ -8,7 +8,7 @@ Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/)
 
 ## Québec: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme l’apparition ou l’aggravation d’une toux ou de la fièvre ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), le 1 800 361-9596 (sans frais).
+Si la COVID‑19 vous inquiète ou si vous présentez des symptômes comme l’apparition ou l’aggravation d’une toux, de la fièvre, des difficultés respiratoires ou une perte soudaine de l’odorat et du goût sans congestion nasal, vous pouvez composer le 418 644-4545, 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), le 1 800 361-9596 (sans frais).
 
 Si vous avez ces symptômes :
 
@@ -47,7 +47,7 @@ Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris
 
 Vous devez aussi reporter tout rendez-vous médical non urgent.
 
-Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter [ces consignes](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/).
+Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter les consignes ci-dessus.
 
 Une personne qui ne respecte pas ces consignes commet une infraction à la loi fédérale et s’expose à des [sanctions](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#a2).
 
