@@ -2,6 +2,8 @@
 
 Afin de déterminer si vous devez composer le numéro de Health Links–Info Santé (204-788-8200 ou 1-888-315-9257 sans frais) ou consulter un autre service médical, utilisez [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/).
 
+Ne composez pas le 911, sauf s'il s'agit d'une urgence.
+
 Veuillez noter ce qui suit:
 
 Les responsables de la santé publique demandent à tous les Manitobains, y compris aux prestataires de soins de santé, d’annuler ou de reporter tout voyage à l’étranger non essentiel. En outre, les responsables de la santé publique recommandent à tous les voyageurs de retour, y compris ceux qui ont voyagé à l'intérieur du Canada, de s'isoler et de surveiller eux-mêmes leurs symptômes pendant 14 jours après leur retour au Manitoba.
