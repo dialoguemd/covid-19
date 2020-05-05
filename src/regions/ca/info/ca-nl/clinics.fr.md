@@ -6,7 +6,7 @@ Vous pouvez effectuer cette évaluation pour vous-même ou pour le compte d'une 
 
 Si vous avez des questions sur COVID-19, veuillez consulter les ressources suivantes :
 
-- gov.nl.ca/covid-19 - Renseignez-vous sur COVID-19 et sur les mesures prises pour protéger la santé des Terre-Neuviens et des Labradoriens.
+- [gov.nl.ca/covid-19](https://www.gov.nl.ca/covid-19/fr/ressources/) - Renseignez-vous sur COVID-19 et sur les mesures prises pour protéger la santé des Terre-Neuviens et des Labradoriens.
 
 Si vous êtes revenu d'un voyage à l'extérieur de Terre-Neuve-et-Labrador au cours des 14 derniers jours, vous devez vous isoler pendant 14 jours.
 
