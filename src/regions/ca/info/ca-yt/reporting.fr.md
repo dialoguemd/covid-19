@@ -12,4 +12,4 @@ Dans les communautés : Appelez votre centre de santé local pour organiser un t
 
 À Whitehorse : Appelez le 811 ou votre médecin de famille. Ils pourront vous orienter vers le [Centre d'évaluation respiratoire](https://yukon.ca/fr/find-respiratory-assessment-centre) si nécessaire. Seules les personnes qui répondent aux critères de dépistage de la COVID-19 seront testées.
 
-[Source : Gouvernement du Yukon](https://yukon.ca/en/common-questions-covid-19#testing)
+[Source : Gouvernement du Yukon (actuellement en anglais seulement, la page est en cours de traduction](https://yukon.ca/en/common-questions-covid-19#testing)
