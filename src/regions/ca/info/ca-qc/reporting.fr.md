@@ -11,6 +11,7 @@ Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/)
 Si la COVID‑19 vous inquiète ou si vous présentez des symptômes d’allure grippale, de gastroentérite ou s’apparentant à la COVID-19, vous pouvez composer le 418 644-4545, le 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), il est possible de contacter le 1 800 361-9596 (sans frais). Pour les personnes malentendantes (ATS), il est possible de contacter le 1 800 361-9596 (sans frais).
 
 Si vous avez ces symptômes :
+
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Si votre condition le permet, contactez le 1 877 644-4545 pour être dirigé vers la bonne ressource.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
@@ -37,11 +38,11 @@ Si vous avez des symptômes s'apparentant à la grippe, à la gastro ou la COVID
 
 ## Pour les citoyens de retour de voyage?
 
-Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris les croisiéristes, ont l’obligation de s’isoler pour une période de 14 jours. 
+Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris les croisiéristes, ont l’obligation de s’isoler pour une période de 14 jours.
 
 Vous devez aussi reporter tout rendez-vous médical non urgent.
 
-Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter les  [consignes à suivre pour la personne de retour d’un pays étranger](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/#c56528).
+Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter les [consignes à suivre pour la personne de retour d’un pays étranger](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/#c56528).
 
 Afin de rappeler ces obligations à ceux et celles qui reviennent au pays, des points de contrôle policiers seront réalisés à proximité de la frontière américaine.
 
