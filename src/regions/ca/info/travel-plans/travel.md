@@ -29,7 +29,6 @@ Arriving travellers will also be provided with information on what symptoms to i
 
 To limit the spread of COVID-19, the Government of Canada advises that you **avoid all non-essential travel outside of Canada** until further notice.
 
-
 **🚢 Avoid all travel on cruise ships**
 
 The Government of Canada is advising that Canadians **avoid all travel on cruise ships** due to the ongoing COVID-19 outbreak, until further notice.

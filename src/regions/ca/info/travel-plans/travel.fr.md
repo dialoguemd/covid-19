@@ -29,7 +29,6 @@ Les voyageurs qui arrivent se verront également remettre des renseignements sur
 
 Afin de limiter la propagation de la maladie à coronavirus (COVID-19), le gouvernement du Canada vous recommande d'**éviter tout voyage non essentiel à l'extérieur du pays** jusqu'à nouvel ordre.
 
-
 **🚢 Éviter tout voyage à bord de navires de croisière**
 
 Jusqu'à nouvel ordre, le gouvernement du Canada vous **conseille d'éviter tout voyage en croisière** en raison de l'épidémie de COVID-19 en cours.
