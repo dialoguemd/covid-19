@@ -1,10 +1,8 @@
 ## 👴🏻 People at higher risk for COVID-19 complications
 
-The Government of Canada [states](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) that older people and people with a weakened immune system or underlying medical condition are at a higher risk of developing complications from COVID-19.
-
-While most people with COVID-19 will be able to recover at home, people who are at higher risk who develop symptoms of COVID-19 should seek medical advice sooner than people who are younger and/or otherwise healthy.
-
 While diseases can make anyone sick, some Canadians are more at risk of getting an infection and developing severe complications due to their health, social and economic circumstances.
+
+Organizations, staff and volunteers play an important role in helping to prevent these populations from getting or spreading the COVID-19 virus. Start by sharing simple things they can do to help keep themselves and others healthy, guide them to help if they develop any signs and [symptoms](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html#s) and learn ways help care for sick clients recovering from COVID-19.
 
 ### Vulnerable populations may include
 
