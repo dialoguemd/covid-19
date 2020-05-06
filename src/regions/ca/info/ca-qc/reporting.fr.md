@@ -22,12 +22,14 @@ Si vous avez ces symptômes :
 
 La transmission communautaire est maintenant celle qui génère le plus de cas de la COVID-19 au Québec. C'est pourquoi une nouvelle approche pour le dépistage est mise en place.
 
-**Montréal** : 
+**Montréal** :
+
 - Les services de la Clinique désignée de dépistage de la Place des festivals (quartier des spectacles) sont transférés à l'ancienne urgence de l'Hôtel-Dieu, depuis le lundi 20 avril.
 - Déploiement de [cliniques de dépistage mobile](https://santemontreal.qc.ca/population/coronavirus-covid-19/#c37517).
 - Si vous avez des symptômes s'apparentant à la grippe, à la gastro ou la COVID-19 (fièvre, toux, difficulté à respirer), vous devez composer le 514 644-4545 ou le 1 877 644-4545 afin d’obtenir une évaluation et être dirigé vers la bonne ressource.
 
 Les personnes qui seront dépistées en priorité:
+
 - Les personnes symptomatiques de toutes les communautés (incluant les milieux en réouverture : écoles, milieux de garde, manufactures, mines, constructions, etc.)
 - Les premiers répondants ou travailleurs du système de sécurité publique (ex. : policiers et pompiers, agents des services correctionnels) et autres travailleurs symptomatiques fournissant des services jugés critiques/essentiels.
 - Les contacts étroits des cas, symptomatiques ou asymptomatiques, selon les directives du directeur de santé publique. Dépistage dans des milieux spécifiques en fonction du déconfinement (écoles, milieu de travail, etc.).

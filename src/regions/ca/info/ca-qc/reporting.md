@@ -23,11 +23,13 @@ If you have these symptoms:
 In Québec, most cases of COVID-19 are now linked to community transmission. For this reason, a new approach for testing is in place.
 
 **Montréal :**
+
 - Since Monday, April 20 at 8 a.m., services offered at the designated testing clinic at Place des festivals (Quartier des spectacles) are located in the Hôtel-Dieu Hospital’s former emergency department.
 - Implementation of [mobile testing clinics](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517).
 - If you have symptoms of flu, gastroenteritis or COVID-19 (fever, cough, difficulty breathing), you must call 514-644-4545 or 1-877-644-4545 to get an assessment and be referred to the right place.
 
 People prioritized for testing:
+
 - Symptomatic individuals from all communities (including services and sectors that are reopening: schools, daycares, manufacturing, mines, construction, etc.)
 - First responders and public safety workers (e.g. police officers and firefighters, correctional officers), as well as other symptomatic workers providing critical/essential services.
 - Close contacts of symptomatic or asymptomatic cases, in accordance with the Director of Public Health’s directives. Testing in specific settings, based on reopenings (schools, work places, etc.).
