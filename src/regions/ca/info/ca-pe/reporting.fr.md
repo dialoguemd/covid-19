@@ -4,27 +4,8 @@ Le 8-1-1 reçoit un volume d’appel supérieur à la normale. Cela pourrait pre
 
 Composez le 8-1-1 pour un dépistage si vous êtes dans l'une des situations suivantes :
 
-1 - Vous avez voyagé à l'extérieur du Canada ou à l'extérieur de l'Île-du-Prince-Édouard au cours des 14 derniers jours ET vous avez l'un ou l'autre des symptômes suivants :
+Si vous développez des symptômes de la COVID-19, y compris une nouvelle poussée de fièvre, une nouvelle toux ou une toux qui empire, un mal de gorge, un écoulement nasal, des éternuements, une congestion nasale ou une fatigue inhabituelle, appelez votre médecin de famille ou votre infirmier praticien. Si vous n’avez pas de médecin de famille ou d’infirmier praticien ou si vous êtes incapables de les joindre, composez le 8-1-1.
 
-- Fièvre supérieure à 38 °C
-- Toux (nouvelle ou toux chronique qui empire)
-- Mal de gorge
-- Écoulement nasal
-- Fatigue marquée
-
-2 - Vous avez eu un contact étroit avec un cas confirmé OU avec une personne avec des symptômes et des antécédents de voyage ET vous avez l'un ou l'autre des symptômes suivants :
-
-- Fièvre supérieure à 38 °C
-- Toux (nouvelle ou toux chronique qui empire)
-- Mal de gorge
-- Écoulement nasal
-- Fatigue marquée
-
-3 - Vous êtes un travailleur ou une travailleuse de la santé et vous avez l'un ou l'autre des symptômes suivants :
-
-- Fièvre supérieure à 38 °C
-- Toux (nouvelle ou toux chronique qui empire)
-
-Cessez tous les voyages non essentiels à l'extérieur de l'Île-du-Prince-Édouard. Toute personne qui a voyagé à l'extérieur de l'Île-du-Prince-Édouard doit s'isoler pendant 14 jours.
+Toute personne qui a voyagé à l'extérieur de l'Île-du-Prince-Édouard doit s'isoler pendant 14 jours. Cessez tous les voyages non essentiels à l'extérieur de l'Île-du-Prince-Édouard.
 
 [Source: Gouvernment de l'Île-du-Prince-Edouard](https://www.princeedwardisland.ca/fr/information/sante-et-mieux-etre/covid-19-quand-devrais-je-composer-811)
