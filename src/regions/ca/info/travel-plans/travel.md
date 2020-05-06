@@ -23,35 +23,15 @@ You will see messaging on arrivals screens at international airports to help gui
 
 Arriving travellers will also be provided with information on what symptoms to identify and how to contact local health authorities.
 
-## 🌍 Avoid all non-essential international travel
+## 🌍 Travellers departing Canada
 
-An official global travel advisory is in effect: **Avoid non-essential travel outside Canada until further notice.**
+**Avoid all non-essential travel**
 
-[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
+To limit the spread of COVID-19, the Government of Canada advises that you **avoid all non-essential travel outside of Canada** until further notice.
 
-## 🚢 Avoid all travel on cruise ships
 
-The Government of Canada is advising that Canadians **avoid all travel on cruise ships due to the ongoing COVID-19 outbreak, until further notice.**
+**🚢 Avoid all travel on cruise ships**
 
-Cruise passengers include travellers from around the world who may be arriving from areas with known or unknown spread of COVID-19. The virus can spread quickly on board cruises due to the close contact between passengers. Older people and people with a weakened immune system or underlying medical condition are at a higher risk of developing severe disease.
-
-Recent cruise ship outbreaks of COVID-19 indicate that a large number of individuals onboard can become infected. While the majority of affected passengers may experience mild symptoms, there have been a significant number of cases requiring hospitalization and critical care, and some deaths have been reported.
-
-As the COVID-19 situation evolves, many countries outside of Canada are implementing policies and restrictions in order to contain the global outbreak. These restrictions may impact a cruise traveller's:
-
-- itinerary
-- ability to disembark
-- access to health care
-
-While abroad, if an outbreak of COVID-19 occurs on your cruise ship:
-
-- you could be subject to quarantine procedures, onboard ship or in a foreign country
-- the range of consular services available to those on cruise ships, in particular in situations of quarantine, may be significantly restricted by local authorities
-- upon return to Canada, you will be required to remain in mandatory isolation for 14 days at a location determined by the Chief Public Health Officer as per the terms of any applicable emergency orders
-
-Although it is not advised, Canadians who choose to voyage on a cruise ship should also be aware that they:
-
-- may not be offered the opportunity to return to Canada on a government-organized repatriation flight or
-- could be responsible for the costs of repatriation travel
+The Government of Canada is advising that Canadians **avoid all travel on cruise ships** due to the ongoing COVID-19 outbreak, until further notice.
 
 [Source: Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html)
