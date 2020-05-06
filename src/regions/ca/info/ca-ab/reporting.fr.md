@@ -8,7 +8,7 @@
 - La plupart des médecins de famille de l'Alberta continuent à fournir des services pendant la COVID-19.
 - Les patients doivent continuer à consulter leur médecin de famille pour les problèmes de santé non urgents, y compris les soins pour les maladies chroniques et tout nouveau problème de santé non lié à COVID-19.
 - Veuillez appeler le cabinet de votre médecin avant de vous présenter en personne afin de déterminer si les soins en personne ou virtuels sont la meilleure option. Si vous n'avez pas de médecin de famille, veuillez consulter le site [AlbertaFindADoctor.ca](https://albertafindadoctor.ca/).
-- Si vos symptômes s'aggravent, appelez le 811. Nous recevons un grand nombre d'appels et nous répondrons à votre appel aussi rapidement que possible.
+- Si vos symptômes s'aggravent, appelez le 811.
 - Appelez le 911 si vous êtes gravement malade et que vous avez besoin de soins médicaux immédiats. Informez-les que vous avez peut-être le COVID-19.
 
 Si vous êtes en auto-isolement obligatoire :
@@ -29,5 +29,9 @@ TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 
 Si vous êtes mis en quarantaine parce que vous êtes récemment revenu de l'étranger, ou si vous êtes un contact proche d'un cas confirmé de COVID, vous devez rester sur votre propriété. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement.
 
 Il n'est PAS recommandé aux Albertains de voyager à l'extérieur du pays pour le moment.
+
+Si vous n'êtes pas sûr de devoir vous isoler ou si vous avez des questions sur la marche à suivre, suivez [ces directives](https://www.alberta.ca/isolation.aspx) ou appelez [Health Link 811](https://www.albertahealthservices.ca/info/Page12630.aspx).
+
+De plus amples informations pour les voyageurs retournant au travail et à l'école sont disponibles sur le [site web COVID-19 de l'Alberta](https://www.alberta.ca/coronavirus-info-for-albertans.aspx#p22780s6).
 
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
