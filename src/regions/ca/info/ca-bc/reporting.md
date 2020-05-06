@@ -8,4 +8,4 @@ Go to the [If you are sick](http://www.bccdc.ca/health-info/diseases-conditions/
 
 Yes, you should self-isolate. Please visit our [self-isolation](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) page to learn how long to self-isolate if you are a returning traveller.
 
-[Source: BV Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
+[Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)

@@ -13,17 +13,17 @@ If you are worried about COVID‑19, you can call 418-644-4545, 514-644-4545, 45
 If you have symptoms such as new cough or cough that gets worse, fever, difficulty breathing or sudden loss of sense of smell without nasal congestion with or without loss of taste:
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
-- If your condition allows you to do so, call 1-877-644-4545. If you are a traveller who has returned within less than 14 days, mention it.
+- If your condition allows you to do so, call 1-877-644-4545 to be referred to the right resource.
 - Visit the emergency room only if you have difficulty breathing (you have difficulty breathing when resting or are unable to breathe when lying down).
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
-Testing and evaluation
+**Testing and evaluation**
 
 In Québec, most cases of COVID-19 are now linked to community transmission. For this reason, a new approach for testing is in place.
 Montréal : Starting Monday, April 20 at 8 a.m., services offered at the designated testing clinic at Place des festivals (Quartier des spectacles) will be located in the Hôtel-Dieu Hospital’s former emergency department. If you have symptoms of flu, gastroenteritis or COVID-19 (fever, cough, difficulty breathing), you must call 514-644-4545 or 1-877-644-4545 to get an assessment and be referred to the right place.
 
-People prioritized for testing:
+**People prioritized for testing:**
 
 - Hospitalized patients and emergency room patients with a clinical or radiological diagnosis compatible with COVID-19
 - Symptomatic health professionals in direct contact with patients, including ambulance technicians
@@ -32,7 +32,7 @@ People prioritized for testing:
 - Symptomatic first responders or public safety workers, and other workers providing essential services
 - Some symptomatic individuals from the community, upon direct recommendation of the Director of Public Health
 
-[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
+[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517)
 
 ## For citizens returning from travelling
 
