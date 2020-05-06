@@ -1,10 +1,8 @@
 ## 👴🏻 Les personnes ayant un risque plus élevé de complications de la COVID-19
 
-Le gouvernement du Canada [cite](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) que les aînés et les personnes dont le système immunitaire est affaibli ou qui ont un problème de santé sous-jacent présentent un risque plus élevé de complications de la COVID-19.
+Si les maladies peuvent rendre n'importe qui malade, certains Canadiens sont plus à risque que d'autres de contracter une infection et de développer de graves complications en raison de leur situation sanitaire, sociale et économique.
 
-Bien que la plupart des personnes atteintes de COVID-19 puissent se rétablir à domicile, les personnes à haut risque qui présentent des symptômes de COVID-19 doivent consulter un médecin plus tôt que les personnes plus jeunes et/ou en bonne santé.
-
-Alors que les maladies peuvent rendre n'importe qui malade, certains Canadiens sont plus à risque de contracter une infection et de développer de graves complications en raison de leur situation sanitaire, sociale et économique.
+Les organismes, les employés et les bénévoles jouent un rôle important en empêchant ces populations de contracter ou de transmettre le virus responsable de la COVID-19. Commencez par leur faire part des choses simples qu'ils peuvent faire pour se maintenir et maintenir les autres en bonne santé et aider les autres, conseillez-les s'ils présentent des signes et des [symptômes](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html#s) et apprenez comment prendre soin des clients malades qui se remettent de la COVID-19.
 
 ### Les populations vulnérables peuvent comprendre
 
@@ -27,6 +25,6 @@ Alors que les maladies peuvent rendre n'importe qui malade, certains Canadiens s
 - l'isolement social ou géographique, comme dans les communautés éloignées et isolées
 - des conditions de logement précaires, inadéquates ou inexistantes
 
-[Source](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/vulnerable-populations-covid-19.html)
+[Source](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/populations-vulnerables-covid-19.html)
 
 **Veuillez continuer à suivre les directives officielles concernant les personnes à haut risque.**
