@@ -8,7 +8,7 @@
 - La plupart des médecins de famille de l'Alberta continuent à fournir des services pendant la COVID-19.
 - Les patients doivent continuer à consulter leur médecin de famille pour les problèmes de santé non urgents, y compris les soins pour les maladies chroniques et tout nouveau problème de santé non lié à COVID-19.
 - Veuillez appeler le cabinet de votre médecin avant de vous présenter en personne afin de déterminer si les soins en personne ou virtuels sont la meilleure option. Si vous n'avez pas de médecin de famille, veuillez consulter le site [AlbertaFindADoctor.ca](https://albertafindadoctor.ca/).
-- Si vos symptômes s'aggravent, appelez le 811.
+- Si vos symptômes s'aggravent, avez des inquiétudes concernant votre santé ou des questions sur le COVID-19, appelez le 811.
 - Appelez le 911 si vous êtes gravement malade et que vous avez besoin de soins médicaux immédiats. Informez-les que vous avez peut-être le COVID-19.
 
 Si vous êtes en auto-isolement obligatoire :
