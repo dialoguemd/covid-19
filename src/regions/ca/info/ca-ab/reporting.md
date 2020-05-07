@@ -8,7 +8,7 @@
 - Most of Alberta's family physicians are continuing to provide services during COVID-19.
 - Patients should continue to consult with their family physician for non-urgent health concerns, including care for chronic conditions and any new health concerns unrelated to COVID-19.
 - Please call your physician's office before attending in person to determine whether in-person or virtual care is the best option. If you do not have a family doctor, please visit [AlbertaFindADoctor.ca](https://albertafindadoctor.ca/).
-- If your symptoms worsen, call 811.
+- If your symptoms worsen, have concerns about your health or questions about COVID-19, call 811.
 - Call 911 if you are seriously ill and need immediate medical attention. Inform them that you may have COVID-19.
 
 If you are in mandatory self-isolation:
