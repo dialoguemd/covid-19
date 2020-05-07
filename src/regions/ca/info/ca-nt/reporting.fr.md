@@ -20,7 +20,7 @@ Certains patients ont également ressenti les symptômes suivants :
 
 Toute personne qui ressent l’un des symptômes ci-dessus devrait prendre contact avec son [centre de santé](https://www.hss.gov.nt.ca/fr/h%C3%B4pitaux-et-centres-de-sant%C3%A9).
 
-[Source](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/test-de-d%C3%A9pistage-de-la-covid-19)
+[Source](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/%C3%A0-propos-de-la-covid-19#quels-sont-les-sympt-mes-de-la-covid-19-)
 
 Si vous ressentez des [symptômes de la COVID-19](https://www.hss.gov.nt.ca/fr/services/maladie-%C3%A0-coronavirus-covid-19/%C3%A0-propos-de-la-covid-19#quels-sont-les-sympt-mes-de-la-covid-19-), retournez ou restez à la maison et faites l’une ou l’autre des choses suivantes :
 

@@ -70,7 +70,7 @@ Cela signifie qu'il faut apporter des changements à vos habitudes quotidiennes 
 Une hygiène adéquate peut aider à réduire le risque de contracter ou de transmettre une infection :
 
 - lavez-vous les mains souvent avec de l'eau et du savon pendant au moins 20 secondes, surtout après avoir été aux toilettes et après avoir manipulé des aliments
-  - utilisez un désinfectant pour les mains à base d'alcool si vous n'avez pas accès à du savon et à de l'eau
+  - utilisez un [désinfectant pour les mains](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/desinfectants/covid-19/desinfectants-mains.html) à base d'alcool si vous n'avez pas accès à du savon et à de l'eau
 - lorsque vous toussez ou éternuez :
   - toussez ou éternuez dans un papier-mouchoir ou dans le creux de votre bras, et non dans votre main
   - jetez immédiatement les papiers-mouchoirs utilisés dans une poubelle doublée de plastique et lavez-vous ensuite les mains
@@ -80,7 +80,7 @@ Une hygiène adéquate peut aider à réduire le risque de contracter ou de tran
 
 Les coronavirus sont parmi les types de virus les plus faciles à tuer avec un produit désinfectant approprié, lorsqu'ils sont utilisés conformément au mode d'emploi figurant sur l'étiquette. Santé Canada a publié une [liste de désinfectants pour surfaces dures](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/desinfectants/covid-19/liste.html) susceptibles d'être efficaces contre la COVID-19.
 
-Bien qu'ils ne prétendent pas tuer la COVID-19, les nettoyants peuvent jouer un rôle en aidant à limiter le transfert des micro-organismes. Pour les surfaces à forte sollicitation, Santé Canada recommande d'utiliser du nettoyant ou de l'eau de javel diluée. Cette solution d'eau de javel doit être préparée selon le mode l'emploi sur l'étiquette ou dans une proportion de 1 c. thé (5 mL) par tasse (250 mL). Les instructions sont basées sur de l'eau de javel à 5% d'hypochlorite de sodium, pour donner une solution d'hypochlorite de sodium de 0,1 %.
+Bien qu'il ne soit pas allégué que les nettoyants tuent le coronavirus, ils peuvent jouer un rôle en aidant à limiter le transfert des micro-organismes. Santé Canada recommande de nettoyer souvent les surfaces dures fréquemment touchées, que ce soit avec des produits d'entretien ménager ordinaires ou avec de l'eau de Javel diluée conformément aux instructions figurant sur l'étiquette. La solution d'eau de Javel devrait être préparée conformément aux instructions figurant sur l'étiquette ou selon un ratio de 250 ml (1 tasse) d'eau pour 5 ml (1 cuillère à thé) d'eau de Javel. Les instructions sont fondées sur de l'eau de Javel contenant de l'hypochlorite de sodium à 5 %, qui donnerait une solution d'hypochlorite de sodium de 0,1 %. Ne mélangez jamais de l'eau de Javel avec d'autres produits chimiques, et utilisez la dans un endroit bien ventilé. Des [précautions spéciales](https://www.canada.ca/fr/sante-canada/services/securite-domicile/securite-produits-chimiques-menagers.html) doivent être prises pour éviter les accidents graves lors du nettoyage avec de l'eau de Javel.
 
 Ces surfaces comprennent les :
 

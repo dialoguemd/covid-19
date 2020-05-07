@@ -70,7 +70,7 @@ This means making changes in your everyday routines to minimize close contact wi
 Proper hygiene can help reduce the risk of infection or spreading infection to others:
 
 - wash your hands often with soap and water for at least 20 seconds, especially after using the washroom and when preparing food
-  - use alcohol-based hand sanitizer if soap and water are not available
+  - use alcohol-based [hand sanitizer](https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/hand-sanitizer.html) if soap and water are not available
 - when coughing or sneezing:
   - cough or sneeze into a tissue or the bend of your arm, not your hand
   - dispose of any tissues you have used as soon as possible in a lined waste basket and wash your hands afterwards
@@ -80,7 +80,7 @@ Proper hygiene can help reduce the risk of infection or spreading infection to o
 
 Coronaviruses are one of the easiest types of viruses to kill with the appropriate disinfectant product when used according to the label directions. Health Canada has published a [list of hard surface disinfectants](https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/list.html) that are likely to be effective for use against COVID-19.
 
-Although they do not claim to kill COVID-19, cleaners can play a role in limiting the transfer of microorganisms. Health Canada recommends cleaning high-touch surfaces often, using either regular household cleaners or diluted bleach. This bleach solution should be prepared according to the instructions on the label or in a ratio of 1 teaspoon (5 mL) per cup (250 mL). Directions are based on bleach that is 5% sodium hypochlorite, to give a 0.1% sodium hypochlorite solution.
+Although they do not claim to kill COVID-19, cleaners can play a role in limiting the transfer of microorganisms. Health Canada recommends cleaning high-touch surfaces often, using either regular household cleaners or diluted bleach. This bleach solution should be prepared according to the instructions on the label or in a ratio of 250 mL (1 cup) of water per 5 mL (1 teaspoon) of bleach. Directions are based on bleach that is 5% sodium hypochlorite, to give a 0.1% sodium hypochlorite solution. Never mix bleach with other chemical products and use it in a well-ventilated area. [Special precautions](https://www.canada.ca/en/health-canada/services/home-safety/household-chemical-safety.html) must be used when cleaning with bleach to avoid serious incidents.
 
 These surfaces include:
 

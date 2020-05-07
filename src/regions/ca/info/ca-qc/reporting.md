@@ -8,9 +8,9 @@ The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-0024
 
 ## Quebec: Who should I contact if I think I have COVID-19?
 
-If you are worried about COVID‑19, you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec.
+If you are worried about COVID‑19 or if you have [flu-like symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285) or [gastroenteritis symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816) or similar to [COVID‑19](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539), you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec. For the hearing impaired (TTY), call 1-800-361 9596 (toll free).
 
-If you have symptoms such as new cough or cough that gets worse, fever, difficulty breathing or sudden loss of sense of smell without nasal congestion with or without loss of taste:
+If you have these symptoms:
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
 - If your condition allows you to do so, call 1-877-644-4545 to be referred to the right resource.
@@ -21,16 +21,18 @@ If you have symptoms such as new cough or cough that gets worse, fever, difficul
 **Testing and evaluation**
 
 In Québec, most cases of COVID-19 are now linked to community transmission. For this reason, a new approach for testing is in place.
-Montréal : Starting Monday, April 20 at 8 a.m., services offered at the designated testing clinic at Place des festivals (Quartier des spectacles) will be located in the Hôtel-Dieu Hospital’s former emergency department. If you have symptoms of flu, gastroenteritis or COVID-19 (fever, cough, difficulty breathing), you must call 514-644-4545 or 1-877-644-4545 to get an assessment and be referred to the right place.
 
-**People prioritized for testing:**
+**Montréal :**
 
-- Hospitalized patients and emergency room patients with a clinical or radiological diagnosis compatible with COVID-19
-- Symptomatic health professionals in direct contact with patients, including ambulance technicians
-- Residents of long-term care centres and private seniors’ residences who are symptomatic, or exposed to an outbreak (at least two cases) or to unexpected deaths with suspected respiratory causes
-- Symptomatic individuals living in remote areas, isolated communities or First Nations/Inuit communities where access to a hospital is limited
-- Symptomatic first responders or public safety workers, and other workers providing essential services
-- Some symptomatic individuals from the community, upon direct recommendation of the Director of Public Health
+- Since Monday, April 20 at 8 a.m., services offered at the designated testing clinic at Place des festivals (Quartier des spectacles) are located in the Hôtel-Dieu Hospital’s former emergency department.
+- Implementation of [mobile testing clinics](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517).
+- If you have symptoms of flu, gastroenteritis or COVID-19 (fever, cough, difficulty breathing), you must call 514-644-4545 or 1-877-644-4545 to get an assessment and be referred to the right place.
+
+People prioritized for testing:
+
+- Symptomatic individuals from all communities (including services and sectors that are reopening: schools, daycares, manufacturing, mines, construction, etc.)
+- First responders and public safety workers (e.g. police officers and firefighters, correctional officers), as well as other symptomatic workers providing critical/essential services.
+- Close contacts of symptomatic or asymptomatic cases, in accordance with the Director of Public Health’s directives. Testing in specific settings, based on reopenings (schools, work places, etc.).
 
 [Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517)
 
@@ -38,13 +40,9 @@ Montréal : Starting Monday, April 20 at 8 a.m., services offered at the designa
 
 Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Such individuals must not at any time go outside:
 
-- Do not go to school, to work, to a childcare centre or a day care centre or to any other public space.
-- Do not go out for a walk or to walk the dog.
-- Do not use public transport.
-- Postpone all non-urgent medical appointments.
-- Do not receive visitors at home.
+Postpone all non-urgent medical appointments.
 
-Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated below.
+Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/msg/3/#c34503).
 
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 
@@ -52,4 +50,4 @@ To remind people who are returning to the country of these obligations, police c
 
 It should be noted that businesses that deliver goods from abroad in Québec do not have to ask their employees to temporarily self-isolate.
 
-[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/)
+[Source (The English page of this website is not complete. For more information, see information in French)](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/)
