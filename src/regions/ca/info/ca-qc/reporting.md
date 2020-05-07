@@ -38,9 +38,7 @@ People prioritized for testing:
 
 ## For citizens returning from travelling
 
-Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Such individuals must not at any time go outside:
-
-Postpone all non-urgent medical appointments.
+Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Postpone all non-urgent medical appointments.
 
 Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/msg/3/#c34503).
 
@@ -50,4 +48,4 @@ To remind people who are returning to the country of these obligations, police c
 
 It should be noted that businesses that deliver goods from abroad in Québec do not have to ask their employees to temporarily self-isolate.
 
-[Source (The English page of this website is not complete. For more information, see information in French)](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/)
+[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/)
