@@ -1,6 +1,6 @@
 ## Nunavut: COVID-19 Self-Assessment Tool
 
-You can use this self-assessment tool to help determine whether you should be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else if they are not able.
+You can use this [self-assessment tool](https://nu.thrive.health/covid19/en) to help determine whether you should be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else if they are not able.
 
 Testing is recommended based on symptoms and identified exposure either by high risk contact and/or returned from travel.
 
