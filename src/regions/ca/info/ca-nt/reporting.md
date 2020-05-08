@@ -18,7 +18,7 @@ Other symptoms those with COVID-19 have had are:
 - Vomiting
 - Loss of sense of smell
 
-Individuals experiencing any of the symptoms that are listed above should call their [local health centre](https://www.hss.gov.nt.ca/en/hospitals-and-health-centres).  
+Individuals experiencing any of the symptoms that are listed above should call their [local health centre](https://www.hss.gov.nt.ca/en/hospitals-and-health-centres).
 
 Severe cases may have:
 

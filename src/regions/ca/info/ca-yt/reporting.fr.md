@@ -1,6 +1,7 @@
 ## Yukon: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
 Une personne doit être testée pour le COVID-19 si :
+
 - S'ils ont voyagé OU ont été en contact étroit avec une personne ayant des antécédents de voyage récents qui était ou est maintenant symptomatique OU sont en contact étroit connu avec un cas confirmé de COVID-19 et que vous présentez des symptômes tels que toux, fièvre/frissons, mal de gorge, maux de tête, écoulement nasal ou congestion nasale, vomissements, diarrhée, fatigue ou douleurs musculaires ou difficultés à respirer
 
 OU
