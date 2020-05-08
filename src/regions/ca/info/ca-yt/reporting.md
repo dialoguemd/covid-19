@@ -2,11 +2,11 @@
 
 Someone should be tested for COVID-19 if:
 
-·They are experiencing symptoms such as coughing, fever, sore throat, or difficulty breathing and have travelled outside Yukon within 14 days of their symptoms starting.
+- If they’ve travelled OR have had close contact with a person with a recent travel history who was or is now symptomatic OR are a known close contact to a confirmed case of COVID-19 and you have any symptoms such as cough, fever/chills, sore throat, headache, runny nose or nasal congestion, vomitting, diarrhea, fatigue or muscle aches or difficulty breathing
 
 OR
 
-·They are experiencing symptoms such as coughing, fever, sore throat, or difficulty breathing and have been exposed to someone who has been confirmed as having COVID-19.
+- If they have not travelled outside of Yukon but have symptoms such as cough, fever and/or chills, or difficulty breathing
 
 In either case, call 811 before visiting a testing site.
 
