@@ -10,31 +10,17 @@ The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-0024
 
 If you are worried about COVID‑19 or if you have [flu-like symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285) or [gastroenteritis symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816) or similar to [COVID‑19](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539), you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec. For the hearing impaired (TTY), call 1-800-361 9596 (toll free).
 
+- For testing and evaluation in Montréal, visit this [santemontreal.qc.ca](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517). 
+
 If you have these symptoms:
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
 - If your condition allows you to do so, call 1-877-644-4545 to be referred to the right resource.
 - Visit the emergency room only if you have difficulty breathing (you have difficulty breathing when resting or are unable to breathe when lying down).
 
+**If you do not have any of these symptoms** and you have a health problem, you can consult a health professional, even during the pandemic. **It is especially important to continue your medical follow-up** if you have a chronic disease, heart disease, cancer or any other disease or condition that requires regular health follow-up. For more information, go to the page [If you need a consultation during the COVID-19 pandemic](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/if-you-need-a-consultation-during-the-covid-19-pandemic/).
+
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
-
-**Testing and evaluation**
-
-In Québec, most cases of COVID-19 are now linked to community transmission. For this reason, a new approach for testing is in place.
-
-**Montréal :**
-
-- Since Monday, April 20 at 8 a.m., services offered at the designated testing clinic at Place des festivals (Quartier des spectacles) are located in the Hôtel-Dieu Hospital’s former emergency department.
-- Implementation of [mobile testing clinics](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517).
-- If you have symptoms of flu, gastroenteritis or COVID-19 (fever, cough, difficulty breathing), you must call 514-644-4545 or 1-877-644-4545 to get an assessment and be referred to the right place.
-
-People prioritized for testing:
-
-- Symptomatic individuals from all communities (including services and sectors that are reopening: schools, daycares, manufacturing, mines, construction, etc.)
-- First responders and public safety workers (e.g. police officers and firefighters, correctional officers), as well as other symptomatic workers providing critical/essential services.
-- Close contacts of symptomatic or asymptomatic cases, in accordance with the Director of Public Health’s directives. Testing in specific settings, based on reopenings (schools, work places, etc.).
-
-[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517)
 
 ## For citizens returning from travelling
 
