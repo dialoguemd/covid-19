@@ -109,18 +109,30 @@ export default {
   continue: 'Continuer',
   faq: {
     utterAskHasAdditionalQuestion: `
-    Nous sollicitons des questions relatives à la COVID-19.
-    Ces questions seront utilisées pour nous aider à raffiner et à compléter l'information sur la pandémie.
-    Écrivez une question que vous avez.
-
-    Votre aide est nécessaire et grandement appréciée.
+    Quelle est votre question à propos de la COVID-19?
     `,
-    utterAskForQuestion: `Svp, écrivez une question`,
-    utterQuestionAsked: `
+    utterPromptForNextQuestion: `Merci pour votre contribution ! Qu'aimeriez-vous savoir d'autre?`,
+    utterNoQuestion: `Merci pour votre contribution !`,
+    utterHasAnswers: `Merci pour votre question ! Voici quelques réponses que j'ai pu trouver :\n`,
+    utterHasNoAnswers: `
     Merci pour votre question !
 
-    Avez-vous une autre question ?
+    Je n'ai trouvé aucune réponse, mais votre question nous aidera à raffiner notre base de connaissances.
     `,
-    utterNoQuestion: `Merci pour votre contribution !`
+    utterGetAnswersError: `
+    Merci pour votre question !
+
+    Une erreur inconnue s'est produite et je n'ai pas pu charger les réponses, mais la question va quand même nous aider à raffiner notre base de connaissances.
+    `,
+    utterAskForAnswerFeedback: `
+    Pour l'instant, c'est la meilleure réponse que je puisse vous donner. Je suis encore en train d'apprendre et j'ai besoin de votre aide.
+
+    Comment était la réponse ?
+    `,
+    rating: {
+      good: 'Très bonne !',
+      average: `Ce n'est pas tout à fait ce que je cherchais`,
+      poor: 'Très mauvaise'
+    }
   }
 }

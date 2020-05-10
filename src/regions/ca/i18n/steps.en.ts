@@ -100,18 +100,29 @@ export default {
   continue: 'Continue',
   faq: {
     utterAskHasAdditionalQuestion: `
-    We are soliciting questions related to the COVID-19.
-    These questions will be used to help us refine and augment the information on the pandemic.
-    Please type your question.
-
-    Your help is needed and greatly appreciated.
+    What is your question related to COVID-19?
     `,
-    utterAskForQuestion: `Please enter a question`,
-    utterQuestionAsked: `
+    utterPromptForNextQuestion: `Thank you for the feedback! What else would like to know?`,
+    utterNoQuestion: `Thank you for the feedback!`,
+    utterHasAnswers: `Thank you for your question! Here are some answers I was able to find regarding your question:\n`,
+    utterHasNoAnswers: `
     Thank you for your question!
 
-    Do you have another question?
+    I was not able to find any answers, but your question will help me get smarter.
     `,
-    utterNoQuestion: `Thank you for the feedback!`
+    utterGetAnswersError: `
+    Thank you for your question!
+
+    An unknown error occured and I could not load answers,
+    but the question will still help us refine our knowledge base.
+    `,
+    utterAskForAnswerFeedback: `
+    How was this answer?
+    `,
+    rating: {
+      good: 'Very good!',
+      average: 'Not quite what I was looking for',
+      poor: 'Completely off'
+    }
   }
 }

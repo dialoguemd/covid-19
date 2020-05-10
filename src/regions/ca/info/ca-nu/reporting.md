@@ -1,3 +1,11 @@
+## Nunavut: COVID-19 Self-Assessment Tool
+
+You can use this [self-assessment tool](https://nu.thrive.health/covid19/en) to help determine whether you should be tested for COVID-19. You can complete this assessment for yourself or on behalf of someone else if they are not able.
+
+Testing is recommended based on symptoms and identified exposure either by high risk contact and/or returned from travel.
+
+[Source](https://nu.thrive.health/covid19/en)
+
 ## Nunavut: Who should I contact if I think I have COVID-19?
 
 Need to talk to someone if you have COVID-19 symptoms, or have recently travelled to or from an affected area? Do you have questions about travel to Nunavut or the isolation sites? Please call 975-8601 or 1-888-975-8601 from 10:00 a.m. to 6:00 p.m. to speak with someone. Please remember this line is for those who need it – and should not be used for general inquiries.

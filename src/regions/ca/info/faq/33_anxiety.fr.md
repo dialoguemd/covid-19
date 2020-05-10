@@ -7,3 +7,4 @@ De nombreuses ressources offrent des informations sur la manière de gérer votr
 - [CPA](https://cpa.ca/fr/covid-19/) -[Santé publique NB](https://www2.gnb.ca/content/gnb/fr/ministeres/bmhc/maladies_transmissibles/content/maladies_respiratoires/coronavirus/la-sante-mentale-et-ladaptation-psychologique-pendant-la-pandemi.html#enfants)
 - [Mind Body Green](https://www.mindbodygreen.com/articles/how-to-calm-your-anxiety-about-coronavirus-in-90-seconds) (Anglais seulement)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fcoping.html) (Anglais seulement)
+- [QC - Stress, anxiété et déprime associés à la maladie à coronavirus COVID-19](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/stress-anxiete-et-deprime-associes-a-la-maladie-a-coronavirus-covid-19/)

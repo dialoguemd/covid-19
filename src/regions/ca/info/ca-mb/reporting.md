@@ -2,11 +2,13 @@
 
 In order to determine if you should contact Health Links – Info Santé (204-788-8200 or toll-free at 1-888-315-9257) or seek other medical advice, use the [screening tool](https://sharedhealthmb.ca/covid19/screening-tool/).
 
+Do not call 911 unless it is an emergency.
+
 Please note:
 
 Public health officials are strongly advising all Manitobans, including health-care providers, to cancel or postpone any non-essential international travel. In addition, public health officials are recommending all returning travellers, including those who have travelled within Canada, to self-isolate and self-monitor for symptoms for 14 days after returning to Manitoba.
 
-Public health officials also strongly urge anyone who has cold or flu-like symptoms, such as a cough, fever, runny nose, sore throat, weakness or headache, to self-isolate for 14 days.
+Public health officials also strongly urge anyone who has cold or flu-like symptoms, such as a cough, fever, runny nose, sore throat, weakness or headache, to self-isolate for 14 days. Anyone with these symptoms is eligible for COVID-19 testing.
 
 Social distancing is used to intentionally reduce close contact between people to try to stop the progression of community transmission of any virus. Social distancing strategies for all Manitobans include:
 

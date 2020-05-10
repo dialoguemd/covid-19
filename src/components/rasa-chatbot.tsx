@@ -14,6 +14,9 @@ import styled from 'styled-components/macro'
 
 import { mobileBreakpoint } from 'theme'
 
+const CHAT_ID = 'chat_id'
+const CHAT_SESSION = 'chat_session'
+
 interface Props {
   className?: string
   initPayload: string
@@ -244,15 +247,24 @@ const RasaChatWidget: React.FC<Props> = ({
   title,
   ...rest
 }) => {
+  const previousChatId = sessionStorage.getItem(CHAT_ID)
+  const chatId = `${socketUrl}${initPayload}`
+
+  if (previousChatId !== chatId) {
+    sessionStorage.setItem(CHAT_ID, chatId)
+    sessionStorage.removeItem(CHAT_SESSION)
+  }
+
   useLayoutEffect(
     () => () => {
-      sessionStorage.removeItem('chat_session')
+      sessionStorage.removeItem(CHAT_ID)
+      sessionStorage.removeItem(CHAT_SESSION)
     },
-    [socketUrl]
+    [initPayload, socketUrl]
   )
 
   return (
-    <WidgetContainer {...rest} className={className} key={socketUrl}>
+    <WidgetContainer {...rest} className={className} key={chatId}>
       <Widget
         customMessageDelay={customMessageDelay}
         embedded

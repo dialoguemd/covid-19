@@ -4,45 +4,29 @@ Anyone, registered or not registered with a family doctor, who has symptoms and 
 
 [Source](https://covid19.quebec.ca/evaluation/)
 
-The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to enable Quebecers to make the best possible decisions to protect their health and the health of their loved ones during the COVID-19 pandemic. More specifically, it indicates to them how best to protect themselves against COVID-19, take care of themselves and provide basic care to their family circle, and know where and when to consult if the need arises for care services.
+The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to help each individual make the best possible decisions regarding their own health and that of their families during the coronavirus COVID-19 pandemic. Specifically, it sets down the best means for protection against the coronavirus disease (COVID-19) and provides information about self-care, basic care for family members, and information about when and where to consult a doctor, if medical care is required.
 
 ## Quebec: Who should I contact if I think I have COVID-19?
 
-If you are worried about COVID‑19, you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec.
+If you are worried about COVID‑19 or if you have [flu-like symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285) or [gastroenteritis symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816) or similar to [COVID‑19](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539), you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec. For the hearing impaired (TTY), call 1-800-361 9596 (toll free).
 
-If you have symptoms such as a cough or cough that gets worse, fever, difficulty breathing or sudden loss of sense of smell without nasal congestion with or without loss of taste:
+- For testing and evaluation in Montréal, visit this [santemontreal.qc.ca](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517).
+
+If you have these symptoms:
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
-- If your condition allows you to do so, call 1-877-644-4545. If you are a traveller who has returned within less than 14 days, mention it.
+- If your condition allows you to do so, call 1-877-644-4545 to be referred to the right resource.
 - Visit the emergency room only if you have difficulty breathing (you have difficulty breathing when resting or are unable to breathe when lying down).
+
+**If you do not have any of these symptoms** and you have a health problem, you can consult a health professional, even during the pandemic. **It is especially important to continue your medical follow-up** if you have a chronic disease, heart disease, cancer or any other disease or condition that requires regular health follow-up. For more information, go to the page [If you need a consultation during the COVID-19 pandemic](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/if-you-need-a-consultation-during-the-covid-19-pandemic/).
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
-Testing and evaluation
-
-In Québec, most cases of COVID-19 are now linked to community transmission. For this reason, a new approach for testing is in place.
-Montréal : Starting Monday, April 20 at 8 a.m., services offered at the designated testing clinic at Place des festivals (Quartier des spectacles) will be located in the Hôtel-Dieu Hospital’s former emergency department. If you have symptoms of flu, gastroenteritis or COVID-19 (fever, cough, difficulty breathing), you must call 514-644-4545 or 1-877-644-4545 to get an assessment and be referred to the right place.
-
-People prioritized for testing:
-
-- Patients and staff in residential centres for seniors, such as long-term care centres (CHSLD) as well as intermediate and family-type resources, as recommended by the regional public health department
-- People who have symptoms and live in other settings at risk (e.g. homeless shelters)
-- People with symptoms who have a recommendation from the regional public health department
-- People in functions considered essential to health and public safety
-
-[Source](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/)
-
 ## For citizens returning from travelling
 
-Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Such individuals must not at any time go outside:
+Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Postpone all non-urgent medical appointments.
 
-- Do not go to school, to work, to a childcare centre or a day care centre or to any other public space.
-- Do not go out for a walk or to walk the dog.
-- Do not use public transport.
-- Postpone all non-urgent medical appointments.
-- Do not receive visitors at home.
-
-Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.google.com/url?q=https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/&sa=D&ust=1586888257837000&usg=AFQjCNH0Z7HB90yLU7kWQV8Ydk_uj3JTGg).
+Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/msg/3/#c34503).
 
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 

@@ -7,3 +7,4 @@ Many resources offer information on how to deal with your own anxiety, your empl
 - [NB Public health](https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus/mental-health-and-coping-during-covid-19.html)
 - [Mind Body Green](https://www.mindbodygreen.com/articles/how-to-calm-your-anxiety-about-coronavirus-in-90-seconds)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fcoping.html)
+- [QC - Stress, Anxiety and Depression Associated With the Coronavirus COVID-19 Disease](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/stress-anxiety-and-depression-associated-with-the-coronavirus-covid-19-disease/)
