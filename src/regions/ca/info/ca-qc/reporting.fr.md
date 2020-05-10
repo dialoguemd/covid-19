@@ -10,31 +10,17 @@ Le [Guide autosoins](https://publications.msss.gouv.qc.ca/msss/document-002491/)
 
 Si la COVID‑19 vous inquiète ou si vous présentez des symptômes d’allure [grippale](https://www.quebec.ca/sante/problemes-de-sante/grippe-rhume-et-gastro/grippe-influenza/#c1274), de [gastroentérite](https://www.quebec.ca/sante/problemes-de-sante/grippe-rhume-et-gastro/gastro-enterite/#c1806) ou s’apparentant à la [COVID-19](https://www.quebec.ca/sante/problemes-de-sante/a-z/informations-generales-sur-le-coronavirus/#c46469), vous pouvez composer le 418 644-4545, le 514 644-4545, le 450 644-4545, le 819 644-4545 ou le 1 877 644-4545 (sans frais) ailleurs au Québec. Pour les personnes malentendantes (ATS), il est possible de contacter le 1 800 361-9596 (sans frais). Pour les personnes malentendantes (ATS), il est possible de contacter le 1 800 361-9596 (sans frais).
 
+- Pour le dépistage et l'évaluation à Montréal, visitez [santemontreal.qc.ca](https://santemontreal.qc.ca/population/coronavirus-covid-19/).
+
 Si vous avez ces symptômes :
 
 - Ne vous présentez pas dans une clinique médicale sans avoir reçu au préalable un rendez-vous.
 - Si votre condition le permet, contactez le 1 877 644-4545 pour être dirigé vers la bonne ressource.
 - Rendez-vous à l’urgence seulement si vous avez des difficultés respiratoires (difficulté à respirer au repos ou impossibilité de respirer en position couchée).
 
+**Si vous ne présentez pas de tels symptômes** et que vous avez un problème de santé, vous pouvez consulter un professionnel de la santé malgré la pandémie. **Il est d’autant plus important de poursuivre vos suivis médicaux** lorsque vous avez une maladie chronique, une maladie cardiaque, un cancer ou toute autre maladie ou condition nécessitant des suivis de santé assidus. Pour plus d’information, consultez la page [Besoin de consulter en contexte de pandémie (COVID-19)](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/besoin-de-consulter-en-contexte-de-pandemie-covid-19/).
+
 [Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
-
-**Dépistage et évaluation**
-
-La transmission communautaire est maintenant celle qui génère le plus de cas de la COVID-19 au Québec. C'est pourquoi une nouvelle approche pour le dépistage est mise en place.
-
-**Montréal** :
-
-- Les services de la Clinique désignée de dépistage de la Place des festivals (quartier des spectacles) sont transférés à l'ancienne urgence de l'Hôtel-Dieu, depuis le lundi 20 avril.
-- Déploiement de [cliniques de dépistage mobile](https://santemontreal.qc.ca/population/coronavirus-covid-19/#c37517).
-- Si vous avez des symptômes s'apparentant à la grippe, à la gastro ou la COVID-19 (fièvre, toux, difficulté à respirer), vous devez composer le 514 644-4545 ou le 1 877 644-4545 afin d’obtenir une évaluation et être dirigé vers la bonne ressource.
-
-Les personnes qui seront dépistées en priorité:
-
-- Les personnes symptomatiques de toutes les communautés (incluant les milieux en réouverture : écoles, milieux de garde, manufactures, mines, constructions, etc.)
-- Les premiers répondants ou travailleurs du système de sécurité publique (ex. : policiers et pompiers, agents des services correctionnels) et autres travailleurs symptomatiques fournissant des services jugés critiques/essentiels.
-- Les contacts étroits des cas, symptomatiques ou asymptomatiques, selon les directives du directeur de santé publique. Dépistage dans des milieux spécifiques en fonction du déconfinement (écoles, milieu de travail, etc.).
-
-[Source](https://santemontreal.qc.ca/population/coronavirus-covid-19/#c37517)
 
 ## Pour les citoyens de retour de voyage?
 

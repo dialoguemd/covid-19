@@ -1,9 +1,12 @@
 ## Yukon: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
 Une personne doit être testée pour le COVID-19 si :
--Elle présente des symptômes tels que toux, fièvre, mal de gorge ou difficulté à respirer et a voyagé hors du Yukon dans les 14 jours suivant le début de ses symptômes.
+
+- S'ils ont voyagé OU ont été en contact étroit avec une personne ayant des antécédents de voyage récents qui était ou est maintenant symptomatique OU sont en contact étroit connu avec un cas confirmé de COVID-19 et que vous présentez des symptômes tels que toux, fièvre/frissons, mal de gorge, maux de tête, écoulement nasal ou congestion nasale, vomissements, diarrhée, fatigue ou douleurs musculaires ou difficultés à respirer
+
 OU
--Elle présente des symptômes tels que toux, fièvre, mal de gorge ou difficulté à respirer et a été exposée à une personne dont la COVID-19 a été confirmée.
+
+- s'ils n'ont pas voyagé en dehors du Yukon mais présentent des symptômes tels que toux, fièvre et/ou frissons, ou des difficultés respiratoires
 
 Dans les deux cas, appelez le 811 avant de vous rendre sur un site de dépistage.
 
