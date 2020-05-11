@@ -9,3 +9,9 @@ Go to the [If you are sick](http://www.bccdc.ca/health-info/diseases-conditions/
 Yes, you should self-isolate. Please visit our [self-isolation](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) page to learn how long to self-isolate if you are a returning traveller.
 
 [Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
+
+## British Columbia: Recommendation and opening/closing of services
+
+[BC's Restart Plan](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/bc-restart-plan)
+
+*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
