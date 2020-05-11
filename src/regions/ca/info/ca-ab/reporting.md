@@ -35,7 +35,7 @@ Further information for travellers returning to work and school can be found on 
 
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
 
-## Alberta : Recommendation and opening/closing of services
+## Alberta: Recommendation and opening/closing of services
 
 [Alberta's Relaunch Strategy](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
 
