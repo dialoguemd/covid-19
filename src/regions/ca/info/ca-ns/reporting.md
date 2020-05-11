@@ -18,4 +18,4 @@ The Government of Nova Scotia, under the authority of the Health Protection Act,
 
 [COVID-19: what it means for Nova Scotians](https://novascotia.ca/coronavirus/what-it-means-for-nova-scotians/)
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

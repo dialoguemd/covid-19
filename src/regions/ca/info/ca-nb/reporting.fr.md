@@ -13,4 +13,4 @@ Si vous avez des symptômes :
 
 [Plan de rétablissement du Nouveau-Brunswick](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/retablissement.html)
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

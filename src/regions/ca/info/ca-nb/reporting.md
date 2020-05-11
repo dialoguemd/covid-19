@@ -13,4 +13,4 @@ If you have symptoms:
 
 [New Brunswick’s recovery plan](https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19/recovery.html#roadmap)
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

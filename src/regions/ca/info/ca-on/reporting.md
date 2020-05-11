@@ -35,5 +35,4 @@ If you need it, you will get immediate medical attention when you arrive in Cana
 
 [Reopening Ontario after COVID-19](https://www.ontario.ca/page/reopening-ontario-after-covid-19)
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
-
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

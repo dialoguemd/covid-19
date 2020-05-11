@@ -18,4 +18,4 @@ Le gouvernement de la Nouvelle-Écosse, en vertu de la loi sur la protection de 
 
 [COVID-19 : à quoi peuvent s'attendre les gens de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/what-it-means-for-nova-scotians/fr/)
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

@@ -33,4 +33,4 @@ En vertu de cet arrêté, si vous êtes récemment revenu au Canada, vous devez 
 
 [Déconfinement de l’Ontario après la COVID-19](https://www.ontario.ca/fr/page/deconfinement-de-lontario-apres-la-covid-19)
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

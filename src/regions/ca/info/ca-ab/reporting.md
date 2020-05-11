@@ -39,4 +39,4 @@ Further information for travellers returning to work and school can be found on 
 
 [Alberta's Relaunch Strategy](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.* 
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

@@ -39,4 +39,4 @@ De plus amples informations pour les voyageurs retournant au travail et à l'éc
 
 [Stratégie de relance de l'Alberta (en anglais seulement)](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

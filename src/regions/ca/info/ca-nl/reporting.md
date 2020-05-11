@@ -38,4 +38,4 @@ There are exemptions to these requirements. Please see [Public Health Orders](ht
 
 [Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

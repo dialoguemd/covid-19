@@ -40,4 +40,4 @@ Le risque de développer des symptômes graves est plus élevé pour :
 
 [Disponibilité des programmes et des services pendant COVID-19](https://www.gov.nt.ca/covid-19/fr/services/disponibilit%C3%A9-des-programmes-et-des-services-du-gtno)
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

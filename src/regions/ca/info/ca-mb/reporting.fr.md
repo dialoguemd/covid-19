@@ -27,4 +27,4 @@ Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vo
 
 [Plan de rétablissement sécuritaire des services](https://manitoba.ca/covid19/restoring/approach.fr.html) pour la relance économique du Manitoba après la pandémie.
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

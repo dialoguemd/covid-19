@@ -27,4 +27,4 @@ We remind you to protect yourself while out in public. Please wash your hands fr
 
 [Restoring Safe Services](https://manitoba.ca/covid19/restoring/approach.html) : Manitoba's pandemic and economic roadmap for recovery.
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

@@ -23,4 +23,4 @@ Dans les communautés : Appelez votre centre de santé local pour organiser un t
 
 [Services essentiels au Yukon pendant la pandémie de COVID-19](https://yukon.ca/fr/health-and-wellness/covid-19/essential-services-yukon-during-covid-19)
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

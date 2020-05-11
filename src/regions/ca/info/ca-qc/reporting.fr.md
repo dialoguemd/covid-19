@@ -42,4 +42,4 @@ Notez que les entreprises qui livrent des marchandises au Québec en provenance 
 
 [Reprise graduelle des activités en lien avec les mesures de ralentissement de la COVID-19](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/reprise-graduelle-activites-mesures-ralentissement-covid19/)
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

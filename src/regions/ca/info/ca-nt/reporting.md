@@ -39,4 +39,4 @@ Risk of severe disease is higher for:
 
 [Program and service availability during COVID-19](https://www.gov.nt.ca/covid-19/en/services/gnwt-services)
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

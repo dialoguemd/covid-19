@@ -40,4 +40,4 @@ It should be noted that businesses that deliver goods from abroad in Québec do 
 
 [Gradual resumption of activities under the COVID-19-related pause](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/gradual-resumption-activities-covid19-related-pause/)
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

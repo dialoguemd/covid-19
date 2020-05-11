@@ -37,4 +37,4 @@ Il existe des exemptions à ces exigences. Veuillez consulter les [ordonnances d
 
 [Consultez cette page pour connaître le niveau actuel (en anglais).](https://www.gov.nl.ca/covid-19/)
 
-*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

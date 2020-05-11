@@ -23,4 +23,4 @@ In Whitehorse: Call 811 or your family physician. They may refer you to the [Res
 
 [Essential services in Yukon during COVID-19](https://yukon.ca/en/health-and-wellness/covid-19/essential-services-yukon-during-covid-19)
 
-*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
