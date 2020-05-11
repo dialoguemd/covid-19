@@ -9,3 +9,9 @@ Si vous développez des symptômes de la COVID-19, y compris une nouvelle pouss�
 Toute personne qui a voyagé à l'extérieur de l'Île-du-Prince-Édouard doit s'isoler pendant 14 jours. Cessez tous les voyages non essentiels à l'extérieur de l'Île-du-Prince-Édouard.
 
 [Source: Gouvernment de l'Île-du-Prince-Edouard](https://www.princeedwardisland.ca/fr/information/sante-et-mieux-etre/covid-19-quand-devrais-je-composer-811)
+
+## Île-du-Prince-Edouard: Recommandations et ouvertures/fermetures des services
+
+[Renouveler l'Î.-P.-É. ensemble](https://www.princeedwardisland.ca/fr/sujet/renouveler-li-p-e-ensemble)
+ 
+*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
