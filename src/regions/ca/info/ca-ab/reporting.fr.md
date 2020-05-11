@@ -35,7 +35,7 @@ De plus amples informations pour les voyageurs retournant au travail et à l'éc
 
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
 
-## Alberta: Recommandation et ouvertures/fermetures des services
+## Alberta: Recommandations et ouvertures/fermetures des services
 
 [Stratégie de relance de l'Alberta (en anglais seulement)](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
 
