@@ -23,8 +23,16 @@ Vous pouvez appeler la HealthLine en composant le 811. Si vous avez des question
 
 Tous les résidents doivent être familiarisés avec les précautions d'autosurveillance et d'auto-isolement afin de vous protéger, vous et votre entourage.
 
-## Renseignements pour les voyageurs
+## Saskatchewan: Renseignements pour les voyageurs
 
 Le gouvernement fédéral et le médecin hygiéniste en chef de la Saskatchewan recommandent aux voyageurs canadiens de revenir au Canada et d’éviter, jusqu’à nouvel ordre, tout voyage non essentiel. Toutes les personnes qui ont voyagé à l’échelle internationale devront s'isoler obligatoirement pendant 14 jours à compter de la date de leur retour au Canada.
 
 [Source: Gouvernement de la Saskatchewan (en anglais seulement)](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/travel-information)
+
+## Saskatchewan: Recommandations et ouvertures/fermetures des services
+
+[Plan de réouverture de la Saskatchewan](https://www.saskatchewan.ca/bonjour/health-and-healthy-living/2019-novel-coronavirus#re-open-saskatchewan-plan)
+
+[Re-Open Saskatchewan Plan (plus détaillé en anglais)](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/re-open-saskatchewan-plan)
+
+*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
