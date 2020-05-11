@@ -22,3 +22,9 @@ La distanciation sociale sert à réduire intentionnellement les contacts étroi
 Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vous laver les mains souvent, et maintenir une distance d’environ 2 mètres entre chaque personne.
 
 [Source: Gouvernment du Manitoba](https://www.gov.mb.ca/health/coronavirus/public.fr.html)
+
+## Manitoba: Recommandations et ouvertures/fermetures des services
+
+[Plan de rétablissement sécuritaire des services](https://manitoba.ca/covid19/restoring/approach.fr.html) pour la relance économique du Manitoba après la pandémie.
+
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

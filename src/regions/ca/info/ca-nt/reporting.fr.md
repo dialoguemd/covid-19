@@ -35,3 +35,9 @@ Le risque de développer des symptômes graves est plus élevé pour :
 - Les personnes dont le système immunitaire est affaibli
 
 [Source: Gouvernement des Territoires du Nord-Ouest](https://www.gov.nt.ca/covid-19/fr/services/%C3%A0-propos-de-la-covid-19/sympt%C3%B4mes-de-la-covid-19)
+
+## Territoires du Nord-Ouest: Recommandations et ouvertures/fermetures des services
+
+[Disponibilité des programmes et des services pendant COVID-19](https://www.gov.nt.ca/covid-19/fr/services/disponibilit%C3%A9-des-programmes-et-des-services-du-gtno)
+
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

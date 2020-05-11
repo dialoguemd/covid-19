@@ -7,3 +7,9 @@ If you develop COVID-19 symptoms, including new onset fever, new or worsening co
 Anyone who has travelled outside of Prince Edward Island must self-isolate for 14 days. Stop all non-essential travel outside of Prince Edward Island.
 
 [Source: Government of Prince Edward Island](https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-when-should-i-call-811)
+
+## Prince Edward Island: Recommendation and opening/closing of services
+
+[Renew PEI Together](https://www.princeedwardisland.ca/en/topic/renew-pei-together)
+
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

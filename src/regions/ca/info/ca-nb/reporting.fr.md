@@ -8,3 +8,9 @@ Si vous avez des symptômes :
 - Si vous avez de la difficulté à respirer ou si vous ressentez d’autres symptômes sévères, composez le 911 immédiatement. Avisez-les de vos symptômes.
 
 [Source: Gouvernment du Nouveau Brunswick](https://www2.gnb.ca/content/gnb/fr/ministeres/bmhc/maladies_transmissibles/content/maladies_respiratoires/coronavirus.html)
+
+## Nouveau-Brunswick: Recommandations et ouvertures/fermetures des services
+
+[Plan de rétablissement du Nouveau-Brunswick](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/retablissement.html)
+
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

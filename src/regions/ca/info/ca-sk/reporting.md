@@ -23,7 +23,7 @@ Please call HealthLine by dialing 811. If you have questions regarding COVID-19 
 
 All residents should be familiar with self-monitoring and self-isolation precautions, in order to keep you and those around you safe.
 
-## Travel Information
+## Saskatchewan: Travel Information
 
 The federal government and Saskatchewan's Chief Medical Health Officer recommend returning to Canada and avoiding non-essential international travel until further notice.
 
@@ -40,3 +40,9 @@ When you return to the province after a period of time in another country, inclu
 For general questions on travel recommendations and prevention measures, email COVID19@health.gov.sk.ca.
 
 [Source: Government of Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/travel-information)
+
+## Saskatchewan: Recommendation and opening/closing of services
+
+[Re-Open Saskatchewan Plan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/re-open-saskatchewan-plan)
+
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

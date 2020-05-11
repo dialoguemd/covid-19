@@ -22,7 +22,7 @@ Si vous avez ces symptômes :
 
 [Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
 
-## Pour les citoyens de retour de voyage?
+## Québec: Pour les citoyens de retour de voyage?
 
 Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris les croisiéristes, ont l’obligation de s’isoler pour une période de 14 jours.
 
@@ -37,3 +37,9 @@ Une personne qui ne respecte pas ces consignes commet une infraction à la loi f
 Notez que les entreprises qui livrent des marchandises au Québec en provenance de l’étranger n’ont pas à demander à leurs employés de se placer en isolement temporaire.
 
 [Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/)
+
+## Québec: Recommandations et ouvertures/fermetures des services
+
+[Reprise graduelle des activités en lien avec les mesures de ralentissement de la COVID-19](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/reprise-graduelle-activites-mesures-ralentissement-covid19/)
+
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

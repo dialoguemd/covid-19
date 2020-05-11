@@ -31,3 +31,11 @@ For guidance on how to self-isolate, please visit this site: [About COVID-19](ht
 There are exemptions to these requirements. Please see [Public Health Orders](https://www.gov.nl.ca/covid-19/public-health-orders/) for more details.
 
 [Source: Government of Newfoundland and Labrador](https://www.gov.nl.ca/covid-19/faqs/)
+
+## Newfoundland and Labrador: Recommendation and opening/closing of services
+
+[Alert Level System](https://www.gov.nl.ca/covid-19/alert-system/)
+
+[Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
+
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

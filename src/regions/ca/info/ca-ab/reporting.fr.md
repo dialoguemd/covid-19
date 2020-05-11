@@ -34,3 +34,9 @@ Si vous n'êtes pas sûr de devoir vous isoler ou si vous avez des questions sur
 De plus amples informations pour les voyageurs retournant au travail et à l'école sont disponibles sur le [site web COVID-19 de l'Alberta](https://www.alberta.ca/coronavirus-info-for-albertans.aspx#p22780s6).
 
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
+
+## Alberta: Recommandations et ouvertures/fermetures des services
+
+[Stratégie de relance de l'Alberta (en anglais seulement)](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
+
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

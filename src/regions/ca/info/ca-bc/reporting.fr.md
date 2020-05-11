@@ -9,3 +9,9 @@ Consultez la page [Si vous êtes malade (en anglais seulement)](http://www.bccdc
 Oui, vous devriez vous isoler. Veuillez consulter notre page sur [l'auto-isolement (en anglais seulement)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) pour savoir combien de temps il faut s'isoler si vous êtes un voyageur de retour.
 
 [Source: BC Centre for Disease Control (en anglais)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
+
+## British Columbia: Recommandations et ouvertures/fermetures des services
+
+[Le plan de relance de la Colombie-Britannique (en anglais)](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/bc-restart-plan)
+
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
