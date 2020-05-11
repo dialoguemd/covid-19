@@ -28,3 +28,9 @@ Pour ralentir l’introduction et la propagation de la COVID-19 au pays, le gouv
 En vertu de cet arrêté, si vous êtes récemment revenu au Canada, vous devez vous auto-isoler (vous mettre en quarantaine) et rester à la maison, que vous présentiez ou non des symptômes. Même si vous ne présentez pas de symptômes dans l’immédiat, vous êtes à risque de les développer et d’infecter d’autres personnes.
 
 [Source: Gouvernement de l'Ontario](https://www.ontario.ca/fr/page/freinez-la-propagation-de-la-covid-19)
+
+## Ontario: Recommandations et ouvertures/fermetures des services
+
+[Déconfinement de l’Ontario après la COVID-19](https://www.ontario.ca/fr/page/deconfinement-de-lontario-apres-la-covid-19)
+
+*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
