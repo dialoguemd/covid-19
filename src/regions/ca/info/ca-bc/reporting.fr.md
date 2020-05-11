@@ -11,7 +11,7 @@ Oui, vous devriez vous isoler. Veuillez consulter notre page sur [l'auto-isoleme
 [Source: BC Centre for Disease Control (en anglais)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
 
 
-## British Columbia: Recommandation et ouvertures/fermetures des services
+## British Columbia: Recommandations et ouvertures/fermetures des services
 
 [Le plan de relance de la Colombie-Britannique (en anglais)](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/bc-restart-plan)
 
