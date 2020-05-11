@@ -30,3 +30,11 @@ Pour savoir comment s'isoler, veuillez consulter ceci: [À propos de COVID-19 (e
 Il existe des exemptions à ces exigences. Veuillez consulter les [ordonnances de santé publique (en anglais seulement)](https://www.gov.nl.ca/covid-19/public-health-orders/) pour plus de détails.
 
 [Source: Gouvernement de Terre-Labrador et Labrador](https://www.gov.nl.ca/covid-19/faqs/)
+
+## Terre-Neuve et Labrador: Recommandations et ouvertures/fermetures des services
+
+[Système de niveau d'alerte (en anglais)](https://www.gov.nl.ca/covid-19/alert-system/)
+
+[Consultez cette page pour connaître le niveau actuel (en anglais).](https://www.gov.nl.ca/covid-19/)
+
+*Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour.*
