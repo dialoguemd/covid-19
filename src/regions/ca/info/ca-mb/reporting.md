@@ -22,3 +22,9 @@ Social distancing is used to intentionally reduce close contact between people t
 We remind you to protect yourself while out in public. Please wash your hands frequently, and maintain a distance of about 2 metres from others.
 
 [Source: Government of Manitoba](https://www.gov.mb.ca/health/coronavirus/public.html#19)
+
+## Manitoba: Recommendation and opening/closing of services
+
+[Restoring Safe Services Together: Manitoba's Phased Approach](https://manitoba.ca/covid19/restoring/approach.html)
+
+*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
