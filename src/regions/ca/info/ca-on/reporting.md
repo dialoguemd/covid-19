@@ -30,3 +30,10 @@ Under this order, if you have recently returned to Canada you must self-isolate 
 If you need it, you will get immediate medical attention when you arrive in Canada.
 
 [Source: Government of Ontario](https://www.ontario.ca/page/covid-19-stop-spread#section-0)
+
+## Ontario: Recommendation and opening/closing of services
+
+[Reopening Ontario after COVID-19](https://www.ontario.ca/page/reopening-ontario-after-covid-19)
+
+*This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information.*
+
