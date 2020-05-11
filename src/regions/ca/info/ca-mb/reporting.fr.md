@@ -23,7 +23,7 @@ Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vo
 
 [Source: Gouvernment du Manitoba](https://www.gov.mb.ca/health/coronavirus/public.fr.html)
 
-## Manitoba: Recommandation et ouvertures/fermetures des services
+## Manitoba: Recommandations et ouvertures/fermetures des services
 
 [Plan de rétablissement sécuritaire des services](https://manitoba.ca/covid19/restoring/approach.fr.html) pour la relance économique du Manitoba après la pandémie.
 
