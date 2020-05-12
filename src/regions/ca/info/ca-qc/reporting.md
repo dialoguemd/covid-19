@@ -26,7 +26,7 @@ If you have these symptoms:
 
 Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Postpone all non-urgent medical appointments.
 
-Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the advice indicated [here](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/msg/3/#c34503).
+Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the [instructions on returning home from abroad.](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/#c58168).
 
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 
