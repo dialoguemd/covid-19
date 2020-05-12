@@ -17,3 +17,5 @@ ET
 d'autres symptômes se sont améliorés (par exemple, lorsque leur toux ou leur essoufflement se sont améliorés)
 ET
 Ils ont reçu deux tests négatifs d'affilée, à 24 heures d'intervalle. Leur médecin suivra les directives du CDC.
+
+[Source (en anglais)](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
