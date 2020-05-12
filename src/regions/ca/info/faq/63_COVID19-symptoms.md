@@ -10,3 +10,5 @@ Symptoms for COVID-19 include but are not limited to:
 - Pneumonia in both lungs
 
 In severe cases, infection can lead to death.
+
+[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html)

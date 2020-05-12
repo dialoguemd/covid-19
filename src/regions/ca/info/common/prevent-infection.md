@@ -30,13 +30,13 @@ If you go out for a walk, do not congregate and always practise physical (social
 
 Think you might have COVID-19? [Take a self-assessment](https://ca.thrive.health/)
 
-##### Travellers
+### Travellers
 
 The risk for getting COVID-19 may be increased for travellers. Canadians are advised to [avoid all non-essential travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/221). If you must travel, check the [latest travel advice](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html) before you leave.
 
 Health Canada will continue to adapt their risk assessment based on the latest data available.
 
-##### If you or your child become ill
+### If you or your child become ill
 
 If you are showing symptoms of COVID-19, reduce your contact with others:
 
@@ -54,7 +54,7 @@ If you become sick while travelling back to Canada:
   - This is required under the Quarantine Act
   - The Canada border services agent will provide instructions for you to follow
 
-#### Physical (social) distancing
+### Physical (social) distancing
 
 Together, we can slow the spread of COVID-19 by making a conscious effort to keep a physical distance between each other. Physical (social) distancing is proven to be one of the most effective ways to reduce the spread of illness during an outbreak.
 
@@ -84,7 +84,6 @@ Although they do not claim to kill COVID-19, cleaners can play a role in limitin
 
 These surfaces include:
 
-- Toys
 - Toilets
 - Phones
 - Electronics

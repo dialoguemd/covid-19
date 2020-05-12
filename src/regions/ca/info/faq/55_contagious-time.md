@@ -17,3 +17,5 @@ AND
 other symptoms have improved (for example, when their cough or shortness of breath have improved)
 AND
 They received two negative tests in a row, 24 hours apart. Their doctor will follow CDC guidelines.
+
+[Source](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)

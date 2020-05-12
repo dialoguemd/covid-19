@@ -10,3 +10,5 @@ Les symptômes de la COVID-19 incluent mais ne sont pas limités à:
 - Pneumonie dans les deux poumons
 
 Dans les cas graves, l’infection peut entraîner la mort.
+
+[Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html)

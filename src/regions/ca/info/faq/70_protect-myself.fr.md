@@ -14,3 +14,5 @@ Voici quelques-unes de ces recommandations :
   - les membres du ménage (les personnes avec lesquelles vous vivez) n'ont pas besoin de s'éloigner les uns des autres, sauf s'ils sont malades ou s'ils ont voyagé au cours des 14 derniers jours
 
 En outre, le gouvernement recommande de suivre ses [directives](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html) sur l'hygiène, l'éloignement physique (social), le nettoyage et l'utilisation de masques. Votre gouvernment provincial pourrait avoir d’autres recommandations utiles et specifiques et vous devriez consulter leur site web pour plus d’informations.
+
+[Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)

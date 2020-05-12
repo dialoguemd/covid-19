@@ -7,3 +7,5 @@ According to the Canadian government, human coronaviruses cause infections of th
 - Touching something with the virus on it, then touching your mouth, nose or eyes before washing your hands
 
 Current evidence suggests person-to-person spread is efficient when there is close contact.
+
+[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
