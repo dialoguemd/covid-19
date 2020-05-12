@@ -7,3 +7,5 @@ D'apres le gouvernement canadien, les coronavirus humains peuvent infecter le ne
 - par contact avec des surfaces infectées, suivi du contact de la main avec la bouche, le nez ou les yeux avant de se laver les mains
 
 Les données probantes actuelles indiquent que la maladie se propage de personne à personne lorsqu'il y a un contact étroit entre des sujets.
+
+[Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
