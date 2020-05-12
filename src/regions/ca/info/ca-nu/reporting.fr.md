@@ -8,7 +8,7 @@ Le test est recommandé sur la base de symptômes et d’une exposition potentie
 
 ## Nunavut: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Besoin de parler à quelqu’un concernant les symptômes de la COVID-19? Vous avez récemment voyagé dans une zone affectée, ou vous en revenez? Vous avez des questions concernant les déplacements au Nunavut ou les lieux d’isolement? Appelez le 975-8601 ou le 1 888 975-8601 entre 10 h 00 et 18 h 00 pour en discuter. Rappelez-vous : cette ligne est réservée à ceux qui en ont vraiment besoin, et ne doit pas être utilisée pour des informations d’ordre général!
+Besoin de parler à quelqu’un concernant les symptômes de la COVID-19 ? Vous avez récemment voyagé dans une zone affectée, ou vous en revenez ? Vous avez des questions concernant les déplacements au Nunavut ou les lieux d’isolement ? Appelez le 975-8601 ou le 1 888 975-8601 entre 10 h 00 et 18 h 00 pour en discuter. Rappelez-vous : cette ligne est réservée à ceux qui en ont vraiment besoin, et ne doit pas être utilisée pour des informations d’ordre général !
 
 Si vous avez des questions ou avez besoin d’une aide d’urgence, contactez votre [centre de santé local](https://www.gov.nu.ca/fr/health/information/centres-de-sant%C3%A9).
 

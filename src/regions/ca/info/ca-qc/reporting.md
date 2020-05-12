@@ -1,4 +1,4 @@
-## Québec: COVID-19 Online Evaluation Questionnaire and Self-Care Guide - COVID-19
+## Quebec: COVID-19 Online Evaluation Questionnaire and Self-Care Guide - COVID-19
 
 Anyone, registered or not registered with a family doctor, who has symptoms and who has, or thinks they have, a need for family medicine consultation in order to obtain a clinical evaluation by a nurse and be referred as necessary to the appropriate resource should telephone 1 877 644-4545. As a result, screening and assessment forms are no longer accessible. However, follow-up will be done for all requests being processed. For Service Quebec workers, please refer to your supervisor for more information.
 

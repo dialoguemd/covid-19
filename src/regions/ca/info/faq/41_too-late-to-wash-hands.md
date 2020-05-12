@@ -4,4 +4,4 @@ It's never too late to wash your hands and remove viruses and bacteria. The long
 
 So wash your hands carefully for at least 20 seconds on a regular basis. [Here](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/reduce-spread-covid-19-wash-your-hands.html) is how to wash your hand properly.
 
-More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html).
+More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)

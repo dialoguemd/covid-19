@@ -4,7 +4,7 @@ The Government of Newfoundland and Labrador has developped [this self-assessment
 
 You can complete this assessment for yourself or on behalf of someone else, if they are not able.
 
-If you have questions about COVID-19, please visit the following resources:
+If you have questions about COVID-19, please visit the following site:
 
 - [Learn about COVID-19 and actions being taken to protect the health of Newfoundlanders and Labradordorians](https://www.gov.nl.ca/covid-19/).
 

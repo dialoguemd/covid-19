@@ -7,7 +7,7 @@ export default {
     changeAudience: 'Obtenez vos informations personnalisées',
     audiencePrefix: "Les informations ci-dessous s'appliquent ",
     lastModified: 'Mise à jour {{date}}',
-    feedbackLabel: 'Ceci vous a-t-il aidé?',
+    feedbackLabel: 'Ceci vous a-t-il aidé ?',
     faqInputPlaceholder: 'Saisissez votre question'
   },
   share: {

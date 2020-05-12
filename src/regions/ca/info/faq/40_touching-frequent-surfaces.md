@@ -4,4 +4,4 @@ A [thorough hand wash](https://www.canada.ca/en/public-health/services/publicati
 
 We also recommend that you make sure that these surfaces (door handles, elevator buttons, doorbell...) [are disinfected](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/cleaning-disinfecting-public-spaces.html) at least daily, and that you touch them with your elbow or with a cloth.
 
-More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html).
+More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)

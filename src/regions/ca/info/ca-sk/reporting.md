@@ -2,15 +2,15 @@
 
 Testing is available and recommended if you have unexplained new or worsening symptoms (of any severity) that may include one or more of the following:
 
-- fever
-- cough
-- headache
-- aches and pains
-- sore throat
-- chills
-- runny nose
-- loss of sense of taste or smell
-- shortness of breath or difficulty breathing
+- Fever
+- Cough
+- Headache
+- Aches and pains
+- Sore throat
+- Chills
+- Runny nose
+- Loss of sense of taste or smell
+- Shortness of breath or difficulty breathing
 
 You can obtain a referral to a community testing centre by phoning:
 
