@@ -30,13 +30,13 @@ Si vous sortez faire une promenade, évitez les rassemblements et pratiquez touj
 
 Pensez-vous avoir la COVID-19 ? [Faites une auto-évaluation](https://ca.thrive.health)
 
-##### Voyageurs
+### Voyageurs
 
 Les voyageurs peuvent être plus exposés au risque d'attraper la COVID-19. Il est conseillé aux Canadiens d'[éviter tout voyage non essentiel](https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/221). Si vous devez voyager, consultez les plus récents [conseils aux voyageurs](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html) avant votre départ.
 
 Santé Canada continuera de modifier ses évaluations des risques en fonction des plus récentes données.
 
-##### Si vous ou votre enfant tombez malade
+### Si vous ou votre enfant tombez malade
 
 Si vous avez des symptômes de la COVID-19 :
 
@@ -54,7 +54,7 @@ Si vous vous sentez malade pendant votre voyage à destination du Canada ou à v
   - la Loi sur la quarantaine l'exige
   - l'agent des services frontaliers du Canada vous donnera des instructions à suivre
 
-#### D'éloignement physique (distanciation sociale)
+### D'éloignement physique (distanciation sociale)
 
 Ensemble, nous pouvons ralentir la propagation de la COVID-19 en faisant vraiment un effort pour maintenir une certaine distance physique entre nous et les autres. Il est prouvé que l'éloignement physique est l'un des moyens les plus efficaces de réduire la propagation de la maladie pendant une épidémie.
 
@@ -84,7 +84,6 @@ Bien qu'il ne soit pas allégué que les nettoyants tuent le coronavirus, ils pe
 
 Ces surfaces comprennent les :
 
-- jouets
 - toilettes
 - téléphones
 - télécommandes
