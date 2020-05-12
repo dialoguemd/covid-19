@@ -14,3 +14,5 @@ Some of those recommendations are:
   - Household contacts (people you live with) do not need to distance from each other unless they are sick or have travelled in the last 14 days
 
 Additionally, the government recommends to follow its [guidelines](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html) on hygiene, physical (social) distancing, cleaning, and the use of masks. Your provincial government might have some useful or specific recommendations as well and you should consult their website to obtain more information.
+
+[Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
