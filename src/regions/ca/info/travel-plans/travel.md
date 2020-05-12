@@ -4,12 +4,12 @@ Take precautions against respiratory illnesses, and seek medical attention if yo
 
 During your trip:
 
-- avoid large crowds or crowded areas
-- avoid contact with sick people, especially if they have a cough, fever or difficulty breathing
-- be aware of the local situation and follow local public health advice
-- wash your hands often with soap under warm running water for at least 20 seconds
-- use alcohol-based hand sanitizer if soap and water are not available and always keep some with you when you travel
-- practise proper cough and sneeze etiquette
+- Avoid large crowds or crowded areas
+- Avoid contact with sick people, especially if they have a cough, fever or difficulty breathing
+- Be aware of the local situation and follow local public health advice
+- Wash your hands often with soap under warm running water for at least 20 seconds
+- Use alcohol-based hand sanitizer if soap and water are not available and always keep some with you when you travel
+- Practice proper cough and sneeze etiquette
 
 ## Monitor your health
 

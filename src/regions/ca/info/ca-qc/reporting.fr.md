@@ -1,4 +1,4 @@
-## Quebec: Questionnaire en ligne de triage de la COVID-19 et Guide autosoins - COVID-19
+## Québec: Questionnaire en ligne de triage de la COVID-19 et Guide autosoins - COVID-19
 
 Toute personne, inscrite ou non-inscrite à un médecin de famille, qui a des symptômes et qui a, ou pense avoir, un besoin de consultation en médecine de famille afin d’obtenir une évaluation clinique par une infirmière et être dirigée au besoin vers la ressource adéquate devra téléphoner au 1 877 644-4545. Ainsi, les formulaires de dépistage et d’évaluation ne sont dorénavant plus accessibles. Toutefois, un suivi sera effectué pour toutes les demandes en cours de traitement. Pour les intervenants de Service Québec, svp vous référer à votre supérieur pour plus d’information.
 

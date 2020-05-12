@@ -4,23 +4,23 @@ Vulnerable populations may include:
 
 Anyone who is:
 
-- an older adult
-- at risk due to underlying medical conditions (e.g. heart disease, hypertension, diabetes, chronic respiratory diseases, cancer)
-- at risk due to a compromised immune system from a medical condition or treatment (e.g. chemotherapy)
+- An older adult
+- At risk due to underlying medical conditions (e.g. heart disease, hypertension, diabetes, chronic respiratory diseases, cancer)
+- At risk due to a compromised immune system from a medical condition or treatment (e.g. chemotherapy)
 
 Anyone who has:
 
-- difficulty reading, speaking, understanding or communicating
-- difficulty accessing medical care or health advice
-- difficulty doing preventive activities, like frequent hand washing and covering coughs and sneezes
-- ongoing specialized medical care or needs specific medical supplies
-- ongoing supervision needs or support for maintaining independence
-- difficulty accessing transportation
-- economic barriers
-- unstable employment or inflexible working conditions
-- social or geographic isolation, like in remote and isolated communities
-- insecure, inadequate, or nonexistent housing conditions
-- who suffer from any medical or social condition that might limit their ability to cope with such a situation
+- Difficulty reading, speaking, understanding or communicating
+- Difficulty accessing medical care or health advice
+- Difficulty doing preventive activities, like frequent hand washing and covering coughs and sneezes
+- Ongoing specialized medical care or needs specific medical supplies
+- Ongoing supervision needs or support for maintaining independence
+- Difficulty accessing transportation
+- Economic barriers
+- Unstable employment or inflexible working conditions
+- Social or geographic isolation, like in remote and isolated communities
+- Insecure, inadequate, or nonexistent housing conditions
+- Who suffer from any medical or social condition that might limit their ability to cope with such a situation
 
 More information here:
 

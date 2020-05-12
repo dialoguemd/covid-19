@@ -9,4 +9,4 @@ If you're at home, you need to wash your hands:
 
 This allows the prevention of any type of contamination.
 
-More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html) and [here](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html).
+More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html) and [here](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html)

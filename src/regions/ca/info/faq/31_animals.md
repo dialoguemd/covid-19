@@ -6,14 +6,14 @@ It is possible that some types of animals can be infected with COVID-19 but ther
 
 Until we know more, if you have been diagnosed with COVID-19 and have a pet or other animal:
 
-- avoid close contact with them
-  - do not snuggle or kiss them, or let them lick you, sit on your lap, or sleep in your bed
-- practise good cough etiquette
-  - avoid coughing and sneezing on your animals
-- have another member of your household care for your animals
-  - if this is not possible, always wash your hands before touching or feeding them
-- limit your animal's contact with other people and animals
-  - this may mean keeping them indoors
+- Avoid close contact with them
+  - Do not snuggle or kiss them, or let them lick you, sit on your lap, or sleep in your bed
+- Practice good cough etiquette
+  - Avoid coughing and sneezing on your animals
+- Have another member of your household care for your animals
+  - If this is not possible, always wash your hands before touching or feeding them
+- Limit your animal's contact with other people and animals
+  - This may mean keeping them indoors
 
 To date, there have not been any reports of livestock being infected by COVID-19 anywhere. However, livestock producers should follow normal biosecurity measures as always. This includes limiting visitors or workers who may have travelled to, or been in contact with, someone from an affected area. For more information on-farm disease prevention, producers are encouraged to consult the following sites:
 

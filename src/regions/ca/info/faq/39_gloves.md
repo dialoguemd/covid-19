@@ -10,4 +10,4 @@ The integrity of gloves is sensitive to the use of products, time, moisture in y
 
 [This](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/how-to-care-for-person-with-covid-19-at-home-advice-for-caregivers.html) is how to care for a person with covid-19.
 
-More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/public-health-measures-mitigate-covid-19.html).
+More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/public-health-measures-mitigate-covid-19.html)

@@ -8,23 +8,23 @@ As we continue to see transmission of the virus within different communities, we
 
 In an effort to prevent the spread of COVID-19 within communities and across the country, all Canadians are advised to:
 
-- stay at home unless you have to go to work
-  - talk to your employer about working at home if possible
-- avoid all non-essential trips in your community
-- do not gather in groups
-- limit contact with people at higher risk, such as older adults and those in poor health
-- go outside to exercise but stay close to home
-- if you leave your home, always keep a distance of at least 2 arms lengths (approximately 2 metres) from others
+- Stay at home unless you have to go to work
+  - Talk to your employer about working at home if possible
+- Avoid all non-essential trips in your community
+- Do not gather in groups
+- Limit contact with people at higher risk, such as older adults and those in poor health
+- Go outside to exercise but stay close to home
+- If you leave your home, always keep a distance of at least 2 arms lengths (approximately 2 metres) from others
 
   - household contacts (people you live with) do not need to distance from each other unless they are sick or have travelled in the last 14 days
 
 You can go for a walk if you:
 
-- have not been diagnosed with COVID-19
-- do not have symptoms of COVID-19
-- have not travelled outside of Canada in the past 14 days
-- are not in quarantine (self-isolating)
-- are not isolating
+- Have not been diagnosed with COVID-19
+- Do not have symptoms of COVID-19
+- Have not travelled outside of Canada in the past 14 days
+- Are not in quarantine (self-isolating)
+- Are not isolating
 
 If you go out for a walk, do not congregate and always practise physical (social) distancing by keeping at least 2 metres apart from others at all times.
 
@@ -40,19 +40,19 @@ Health Canada will continue to adapt their risk assessment based on the latest d
 
 If you are showing symptoms of COVID-19, reduce your contact with others:
 
-- isolate yourself at home for 14 days to avoid spreading it to others
-  - if you live with others, stay in a separate room or keep a 2-metre distance
-- visit a health care professional or call your local public health authority
-  - call ahead to tell them your symptoms and follow their instructions
+- Isolate yourself at home for 14 days to avoid spreading it to others
+  - If you live with others, stay in a separate room or keep a 2-metre distance
+- Visit a health care professional or call your local public health authority
+  - Call ahead to tell them your symptoms and follow their instructions
 
 Children who have mild COVID-19 symptoms are able to stay at home with a caregiver throughout their recovery without needing hospitalization. If you are caring for a child who has suspected or probable COVID-19, it is important to follow the advice for caregivers. This advice will help you protect yourself, others in your home, as well as others in the community.
 
 If you become sick while travelling back to Canada:
 
-- inform the flight attendant or a Canadian border services officer
-- advise a Canada border services agent on arrival in Canada if you believe you were exposed to someone who was sick with COVID-19, even if you do not have symptoms
-  - this is required under the Quarantine Act
-  - the Canada border services agent will provide instructions for you to follow
+- Inform the flight attendant or a Canadian border services officer
+- Advise a Canada border services agent on arrival in Canada if you believe you were exposed to someone who was sick with COVID-19, even if you do not have symptoms
+  - This is required under the Quarantine Act
+  - The Canada border services agent will provide instructions for you to follow
 
 #### Physical (social) distancing
 
@@ -60,21 +60,21 @@ Together, we can slow the spread of COVID-19 by making a conscious effort to kee
 
 This means making changes in your everyday routines to minimize close contact with others, including:
 
-- avoiding crowded places and non-essential gatherings
-- avoiding common greetings, such as handshakes
-- limiting contact with people at higher risk like older adults and those in poor health
-- keeping a distance of at least 2 arms lengths (approximately 2 metres) from others
+- Avoiding crowded places and non-essential gatherings
+- Avoiding common greetings, such as handshakes
+- Limiting contact with people at higher risk like older adults and those in poor health
+- Keeping a distance of at least 2 arms lengths (approximately 2 metres) from others
 
 ### Hygiene
 
 Proper hygiene can help reduce the risk of infection or spreading infection to others:
 
-- wash your hands often with soap and water for at least 20 seconds, especially after using the washroom and when preparing food
-  - use alcohol-based [hand sanitizer](https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/hand-sanitizer.html) if soap and water are not available
-- when coughing or sneezing:
-  - cough or sneeze into a tissue or the bend of your arm, not your hand
-  - dispose of any tissues you have used as soon as possible in a lined waste basket and wash your hands afterwards
-- avoid touching your eyes, nose, or mouth with unwashed hands
+- Wash your hands often with soap and water for at least 20 seconds, especially after using the washroom and when preparing food
+  - Use alcohol-based [hand sanitizer](https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/hand-sanitizer.html) if soap and water are not available
+- When coughing or sneezing:
+  - Cough or sneeze into a tissue or the bend of your arm, not your hand
+  - Dispose of any tissues you have used as soon as possible in a lined waste basket and wash your hands afterwards
+- Avoid touching your eyes, nose, or mouth with unwashed hands
 
 ### Cleaning
 
@@ -84,13 +84,13 @@ Although they do not claim to kill COVID-19, cleaners can play a role in limitin
 
 These surfaces include:
 
-- toys
-- toilets
-- phones
-- electronics
-- door handles
-- bedside tables
-- television remotes
+- Toys
+- Toilets
+- Phones
+- Electronics
+- Door handles
+- Bedside tables
+- Television remotes
 
 Refer to the [guidance on cleaning and disinfecting public spaces](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/cleaning-disinfecting-public-spaces.html) for more information.
 

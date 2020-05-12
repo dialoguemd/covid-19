@@ -30,11 +30,11 @@ export default {
   yes: 'Oui',
   no: 'Non',
   askForLocation:
-    'Dans quelle province ou territoire êtes-vous actuellement situé?',
+    'Dans quelle province ou territoire êtes-vous actuellement situé ?',
   askForLocationInfo:
     "Je pourrai adapter les informations pour qu'elles s'appliquent à votre région.",
   askHasHadContact: `
-  Avez-vous été en **contact étroit** avec un cas confirmé ou probable du COVID-19?`,
+  Avez-vous été en **contact étroit** avec un cas confirmé ou probable du COVID-19 ?`,
   askHasHadContactInfo: `
   Par **contact étroit**, j'entends **n'importe lequel** des éléments suivants :
 
@@ -45,10 +45,10 @@ export default {
 	- Vivre dans le même domicile qu'une personne infectée
 `,
   askOptionUnsure: `Je ne sais pas`,
-  askAgeRange: `Avez-vous plus de 65 ans?`,
-  askHasFever: `Avez-vous de la fièvre?`,
-  askHasCough: `Avez-vous une toux?`,
-  askHasDifficultyBreathing: `Avez-vous de la difficulté à respirer?`,
+  askAgeRange: `Avez-vous plus de 65 ans ?`,
+  askHasFever: `Avez-vous de la fièvre ?`,
+  askHasCough: `Avez-vous une toux ?`,
+  askHasDifficultyBreathing: `Avez-vous de la difficulté à respirer ?`,
   askTraveledAffectedAreas: `Avez-vous voyagé à l'étranger au cours des 14 derniers jours`,
   askHasImmuneDecreased:
     "Maintenant, j'aimerais vous poser quelques questions pour savoir si votre système d'immunité est affaibli.",
@@ -75,7 +75,7 @@ export default {
   - Bronchite chronique
 	- Maladie pulmonaire chronique non répertoriée ci-dessus`,
   askHasTravelPlans: `
-  Prévoyez-vous voyager à l'étranger au cours du prochain mois?`,
+  Prévoyez-vous voyager à l'étranger au cours du prochain mois ?`,
   outro1: `
   Les questions sont terminées ! Votre trousse d'information personnelle est prête.
   `,
@@ -109,9 +109,9 @@ export default {
   continue: 'Continuer',
   faq: {
     utterAskHasAdditionalQuestion: `
-    Quelle est votre question à propos de la COVID-19?
+    Quelle est votre question à propos de la COVID-19 ?
     `,
-    utterPromptForNextQuestion: `Merci pour votre contribution ! Qu'aimeriez-vous savoir d'autre?`,
+    utterPromptForNextQuestion: `Merci pour votre contribution ! Qu'aimeriez-vous savoir d'autre ?`,
     utterNoQuestion: `Merci pour votre contribution !`,
     utterHasAnswers: `Merci pour votre question ! Voici quelques réponses que j'ai pu trouver :\n`,
     utterHasNoAnswers: `
