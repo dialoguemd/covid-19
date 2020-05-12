@@ -7,3 +7,5 @@ Il y a eu 2 autres coronavirus qui se sont transmis des animaux aux humains, et 
 
 - le coronavirus du syndrome respiratoire aigu sévère (SRAS-CoV)
 - le coronavirus du syndrome respiratoire du Moyen-Orient (CoV-SRMO)
+
+[Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html)
