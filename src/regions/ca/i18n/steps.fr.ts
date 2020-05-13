@@ -3,9 +3,9 @@ export default {
   intro2:
     "Je suis {{botNameIntro}}une assistante virtuelle médicale automatisée. Je suis ici pour vous donner des informations précises et pertinentes sur le COVID-19.  Pour s’assurer que ces informations correspondent à votre situation, j'aimerais vous poser quelques questions.  Cela ne devrait pas prendre plus de deux minutes.",
   intro3: `
-	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Ce service ne remplace pas une consultation avec votre médecin. Si vous présentez des symptômes graves, consultez un médecin.
+	Avant de commencer, si vous ressentez des symptômes graves tels qu'une douleur thoracique forte ou écrasante, des symptômes d'un accident vasculaire cérébral ou des difficultés respiratoires, veuillez composer le 911 ou vous rendre aux urgences sans tarder.
 
-	Les informations que nous fournissons proviennent de sources officielles.
+	Veuillez noter que les informations que vous recevrez ne constituent pas une évaluation médicale. Les informations que nous fournissons proviennent de sources officielles.
 	`,
   'intro-option1': 'Ok, allons-y!',
   'askForLocationOptions-QC': 'Québec',
