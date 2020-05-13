@@ -92,6 +92,7 @@ const WidgetContainer = styled.div`
 
   .rw-message {
     flex-wrap: nowrap;
+    flex: 0 0 auto;
   }
 
   .rw-response,
@@ -175,6 +176,7 @@ const WidgetContainer = styled.div`
   .rw-group-message.rw-from-response {
     display: flex;
     flex-direction: column;
+    flex: 0 0 auto;
 
     :last-of-type {
       flex-grow: 1;
