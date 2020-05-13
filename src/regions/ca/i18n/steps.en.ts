@@ -2,9 +2,10 @@ export default {
   intro1: 'Hi there!',
   intro2:
     "I'm {{botNameIntro}}an automated medical assistant. I’m here to give you accurate information about COVID-19. To make it relevant to your situation, I'd like to ask you a few questions. It should not take more than a few minutes.",
-  intro3: `Before starting, if you experience severe symptoms like heavy or crushing chest pain, symptoms of a stroke or difficulty breathing, please contact 911 or go to the emergency with no delay. 
-
-     Note that the information you'll receive is not a medical assessment. The information we supply is from publicly available sources and is subject to frequent change.`,
+  intro3: `
+      Before starting, if you experience severe symptoms like heavy or crushing chest pain, symptoms of a stroke or difficulty breathing, please contact 911 or go to the emergency with no delay. 
+      
+      Note that the information you'll receive is not a medical assessment. The information we supply is from publicly available sources and is subject to frequent change.`,
   'intro-option1': "Ok, let's get started!",
   'askForLocationOptions-QC': 'Quebec',
   'askForLocationOptions-AB': 'Alberta',
