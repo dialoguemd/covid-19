@@ -1,6 +1,6 @@
 ## Manitoba: Who should I contact if I think I have COVID-19?
 
-In order to determine if you should contact Health Links – Info Santé (204-788-8200 or toll-free at 1-888-315-9257) or seek other medical advice, use the [screening tool](https://sharedhealthmb.ca/covid19/screening-tool/).
+In order to determine if you should be tested for COVID-19, please use the [screening tool](https://sharedhealthmb.ca/covid19/screening-tool/) or contact Health Links – Info Santé (204-788-8200 or toll-free at 1-888-315-9257).
 
 Do not call 911 unless it is an emergency.
 
