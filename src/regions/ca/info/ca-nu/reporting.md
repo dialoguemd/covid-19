@@ -8,7 +8,7 @@ Testing is recommended based on symptoms and identified exposure either by high 
 
 ## Nunavut: Who should I contact if I think I have COVID-19?
 
-Need to talk to someone if you have COVID-19 symptoms, or have recently travelled to or from an affected area? Do you have questions about travel to Nunavut or the isolation sites? Please call 975-8601 or 1-888-975-8601 from 10:00 a.m. to 6:00 p.m. to speak with someone. Please remember this line is for those who need it – and should not be used for general inquiries.
+Need to talk to someone if you have COVID-19 symptoms, or have recently travelled to or from an affected area? Do you have questions about travel to Nunavut or the isolation sites? Please call 975-8601 or 1-888-975-8601 from 10:00 a.m. to 6:00 p.m. to speak with someone. For travel related inquiries please call between 8:30 a.m. to 5 p.m. Monday - Friday. Please remember this line is for those who need it – and should not be used for general inquiries.
 
 If you have questions or need help in an emergency, [call your local health centre](https://www.gov.nu.ca/health/information/health-centres).
 
