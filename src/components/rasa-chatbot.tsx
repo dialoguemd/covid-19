@@ -34,6 +34,7 @@ interface Props {
 type Response = {
   text?: string
   quick_replies?: QuickReply[]
+  endOfConversation?: boolean
 }
 
 type QuickReply = {
@@ -223,18 +224,17 @@ const WidgetContainer = styled.div`
 
 const onSocketEvent = {
   bot_uttered: (response: Response) => {
-    if (
-      response.quick_replies !== undefined &&
-      response.quick_replies.length > 0
-    ) {
-      toggleInputDisabled(true)
-    } else {
-      toggleInputDisabled(false)
-    }
+    const isEndOfConversation = response.endOfConversation === true
+    const hasQuickReplies =
+      response.quick_replies !== undefined && response.quick_replies.length > 0
+
+    toggleInputDisabled(isEndOfConversation || hasQuickReplies)
   }
 }
 
 const customMessageDelay = (message: string) => {
+  if (message === 'undefined') return 0
+
   const delay = message.length * 15
   return clamp(delay, 1500, 4000)
 }
