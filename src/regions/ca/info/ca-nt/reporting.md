@@ -17,6 +17,7 @@ Other symptoms those with COVID-19 have had are:
 - Diarrhea
 - Vomiting
 - Loss of sense of smell
+- Loss of appetite
 
 Individuals experiencing any of the symptoms that are listed above should call their [local health centre](https://www.hss.gov.nt.ca/en/hospitals-and-health-centres).
 

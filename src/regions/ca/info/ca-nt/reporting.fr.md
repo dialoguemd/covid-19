@@ -17,6 +17,7 @@ Certains patients ont également ressenti les symptômes suivants :
 - Diarrhée
 - Vomissements
 - Perte de l’odorat
+- Perte d’appétit
 
 Toute personne qui ressent l’un des symptômes ci-dessus devrait prendre contact avec son [centre de santé](https://www.hss.gov.nt.ca/fr/h%C3%B4pitaux-et-centres-de-sant%C3%A9).
 
