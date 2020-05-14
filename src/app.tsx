@@ -33,10 +33,8 @@ function App() {
             <Route path="/chat">
               <RasaRoute />
             </Route>
-            <Route path="/rasa">
-              {/* Temporarily supporting old URL for backward compatibility */}
-              <Redirect to="/chat" />
-            </Route>
+            {/* Temporarily supporting old /rasa URL for backward compatibility */}
+            <Redirect from="/rasa*" to="/chat*" />
             <Route path="*">
               <Redirect to="/" />
             </Route>
