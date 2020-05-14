@@ -65,7 +65,7 @@ const WidgetContainer = styled.div`
     }
 
     > :last-child {
-      padding-bottom: 12px;
+      padding-bottom: 5px;
     }
   }
 
@@ -92,6 +92,7 @@ const WidgetContainer = styled.div`
 
   .rw-message {
     flex-wrap: nowrap;
+    flex: 0 0 auto;
   }
 
   .rw-response,
@@ -133,7 +134,7 @@ const WidgetContainer = styled.div`
     overflow: visible;
   }
 
-  .rw-reply {
+  .rw-conversation-container .rw-reply {
     background: ${props => props.theme.colors.backgroundLight};
     border-radius: 22px;
     border: 0;
@@ -175,13 +176,16 @@ const WidgetContainer = styled.div`
   .rw-group-message.rw-from-response {
     display: flex;
     flex-direction: column;
+    flex: 0 0 auto;
 
     :last-of-type {
       flex-grow: 1;
     }
   }
 
-  .rw-quickReplies-container {
+  .rw-group-message.rw-from-response
+    .rw-message.rw-with-avatar
+    > div:not(.rw-response) {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
