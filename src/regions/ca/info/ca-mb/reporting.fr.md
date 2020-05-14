@@ -1,6 +1,5 @@
 ## Manitoba: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-
 Afin de déterminer si vous devriez être testé pour la COVID-19, veuillez utiliser [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/) ou appeler Health Links–Info Santé (au 204-788-8200 ou, sans frais, au 1-888-315-9257).
 
 Ne composez pas le 911, sauf s'il s'agit d'une urgence.
