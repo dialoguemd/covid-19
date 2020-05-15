@@ -41,6 +41,6 @@ Il existe des exemptions à ces exigences. Veuillez consulter les [ordonnances d
 Liens disponibles en anglais seulement: 
 - [Système de niveau d'alerte](https://www.gov.nl.ca/covid-19/alert-system/)
 - [Consultez cette page pour connaître le niveau actuel](https://www.gov.nl.ca/covid-19/)
-- [Information Sheets for Businesses and Workplaces](gov.nl.ca/covid-19/information-sheets-for-businesses-and-workplaces/)
+- [Fiches d'information pour les entreprises et les milieux de travail](gov.nl.ca/covid-19/information-sheets-for-businesses-and-workplaces/)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
