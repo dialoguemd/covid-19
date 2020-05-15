@@ -31,6 +31,8 @@ En vertu de cet arrêté, si vous êtes récemment revenu au Canada, vous devez 
 
 ## Ontario: Recommandations et ouvertures/fermetures des services
 
-[Déconfinement de l’Ontario après la COVID-19](https://www.ontario.ca/fr/page/deconfinement-de-lontario-apres-la-covid-19)
+- [Déconfinement de l’Ontario après la COVID-19](https://www.ontario.ca/fr/page/deconfinement-de-lontario-apres-la-covid-19)
+- [Ressources pour prévenir la COVID-19 dans les lieux de travail](https://www.ontario.ca/fr/page/ressources-pour-prevenir-la-covid-19-dans-les-lieux-de-travail)
+- [WSIB Ontario (Workplace Safety and Insurance Board)](https://www.wsib.ca/en/novel-coronavirus-covid-19-update)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
