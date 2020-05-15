@@ -10,6 +10,7 @@ Anyone who has travelled outside of Prince Edward Island must self-isolate for 1
 
 ## Prince Edward Island: Recommendation and opening/closing of services
 
-[Renew PEI Together](https://www.princeedwardisland.ca/en/topic/renew-pei-together)
+- [Renew PEI Together](https://www.princeedwardisland.ca/en/topic/renew-pei-together)
+- WCB (Workers Compensation Board of PEI: [COVID-19](http://www.wcb.pe.ca/Home/Covid19)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
