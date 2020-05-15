@@ -12,6 +12,7 @@ Yes, you should self-isolate. Please visit our [self-isolation](http://www.bccdc
 
 ## British Columbia: Recommendation and opening/closing of services
 
-[BC's Restart Plan](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/bc-restart-plan)
+- [BC's Restart Plan](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/bc-restart-plan)
+- WorkSafe BC: [COVID-19 and returning to safe operation](https://www.worksafebc.com/en/about-us/covid-19-updates/covid-19-returning-safe-operation)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
