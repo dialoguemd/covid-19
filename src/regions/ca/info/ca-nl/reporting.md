@@ -39,8 +39,8 @@ There are exemptions to these requirements. Please see [Public Health Orders](ht
 
 ## Newfoundland and Labrador: Recommendation and opening/closing of services
 
-[Alert Level System](https://www.gov.nl.ca/covid-19/alert-system/)
-
-[Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
+- [Alert Level System](https://www.gov.nl.ca/covid-19/alert-system/)
+- [Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
+- [Information Sheets for Businesses and Workplaces](gov.nl.ca/covid-19/information-sheets-for-businesses-and-workplaces/)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
