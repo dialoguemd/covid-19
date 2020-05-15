@@ -33,6 +33,8 @@ If you need it, you will get immediate medical attention when you arrive in Cana
 
 ## Ontario: Recommendation and opening/closing of services
 
-[Reopening Ontario after COVID-19](https://www.ontario.ca/page/reopening-ontario-after-covid-19)
+- [Reopening Ontario after COVID-19](https://www.ontario.ca/page/reopening-ontario-after-covid-19)
+- [Resources to prevent COVID-19 in the workplace](https://www.ontario.ca/page/resources-prevent-covid-19-workplace)
+- [WSIB Ontario (Workplace Safety and Insurance Board)](https://www.wsib.ca/en/novel-coronavirus-covid-19-update)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
