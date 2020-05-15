@@ -25,6 +25,10 @@ Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vo
 
 ## Manitoba: Recommandations et ouvertures/fermetures des services
 
-[Plan de rétablissement sécuritaire des services](https://manitoba.ca/covid19/restoring/approach.fr.html) pour la relance économique du Manitoba après la pandémie.
+- [Plan de rétablissement sécuritaire des services](https://manitoba.ca/covid19/restoring/approach.fr.html) pour la relance économique du Manitoba après la pandémie.
+
+Liens disponibles en anglais seulement: 
+- SafeWork Manitoba: [Informations COVID-19 spécifiques à l'industrie](https://www.safemanitoba.com/COVID-19/Pages/Industry-specific-COVID-19-Information.aspx)
+- WCB-Manitoba (Workers’Compensation Board of Manitoba): [Comment le WCB répond à la COVID-19](https://www.wcb.mb.ca/how-the-wcb-is-responding-to-covid-19)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
