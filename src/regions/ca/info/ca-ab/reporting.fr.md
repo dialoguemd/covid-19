@@ -38,6 +38,7 @@ De plus amples informations pour les voyageurs retournant au travail et à l'éc
 ## Alberta: Recommandations et ouvertures/fermetures des services
 
 Liens disponibles en anglais seulement:
+
 - [Stratégie de relance de l'Alberta](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
 - [Modifications temporaires des règles relatives au lieu de travail](https://www.alberta.ca/temporary-workplace-rule-changes.aspx)
 - [WCB-Alberta (Workers’Compensation Board-Alberta](https://www.wcb.ab.ca/about-wcb/news-and-announcements/COVID-19.html)

@@ -14,7 +14,7 @@ Toute personne qui a voyagé à l'extérieur de l'Île-du-Prince-Édouard doit s
 
 - [Renouveler l'Î.-P.-É. ensemble](https://www.princeedwardisland.ca/fr/sujet/renouveler-li-p-e-ensemble)
 
-Lien disponible en anglais seulement: 
+Lien disponible en anglais seulement:
 
 - WCB (Workers Compensation Board of PEI: [COVID-19](http://www.wcb.pe.ca/Home/Covid19)
 

@@ -10,9 +10,10 @@ Symptoms of COVID-19 are defined as having two or more of the following (new or 
 - Runny nose;
 - Diarrhea;
 - Loss of sense of smell or taste;
-- Unexplained loss of appetite; 
+- Unexplained loss of appetite;
 
 OR
+
 - Small red or purple spots on your hands and/or feet.
 
 \* Signs of a fever include chills, sweats, muscle aches, lightheadedness

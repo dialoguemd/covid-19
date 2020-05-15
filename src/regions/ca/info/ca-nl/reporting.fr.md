@@ -10,9 +10,10 @@ Les symptômes de la COVID-19 sont définis comme ayant deux ou plusieurs des sy
 - Écoulement nasal
 - La diarrhée ;
 - Perte de l'odorat ou du goût ;
-- Perte d'appétit inexpliquée ; 
+- Perte d'appétit inexpliquée ;
 
 OU
+
 - Petites taches rouges ou mauves sur les mains et/ou les pieds.
 
 \* Les signes de fièvre comprennent les frissons, les sueurs, les douleurs musculaires, les étourdissements
@@ -40,7 +41,8 @@ Il existe des exemptions à ces exigences. Veuillez consulter les [ordonnances d
 
 ## Terre-Neuve et Labrador: Recommandations et ouvertures/fermetures des services
 
-Liens disponibles en anglais seulement: 
+Liens disponibles en anglais seulement:
+
 - [Système de niveau d'alerte](https://www.gov.nl.ca/covid-19/alert-system/)
 - [Consultez cette page pour connaître le niveau actuel](https://www.gov.nl.ca/covid-19/)
 - [Fiches d'information pour les entreprises et les milieux de travail](gov.nl.ca/covid-19/information-sheets-for-businesses-and-workplaces/)
