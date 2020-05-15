@@ -12,6 +12,10 @@ Toute personne qui a voyagé à l'extérieur de l'Île-du-Prince-Édouard doit s
 
 ## Île-du-Prince-Edouard: Recommandations et ouvertures/fermetures des services
 
-[Renouveler l'Î.-P.-É. ensemble](https://www.princeedwardisland.ca/fr/sujet/renouveler-li-p-e-ensemble)
+- [Renouveler l'Î.-P.-É. ensemble](https://www.princeedwardisland.ca/fr/sujet/renouveler-li-p-e-ensemble)
+
+Lien disponible en anglais seulement:
+
+- WCB (Workers Compensation Board of PEI: [COVID-19](http://www.wcb.pe.ca/Home/Covid19)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

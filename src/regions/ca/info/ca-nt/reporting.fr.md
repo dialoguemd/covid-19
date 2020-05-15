@@ -39,6 +39,7 @@ Le risque de développer des symptômes graves est plus élevé pour :
 
 ## Territoires du Nord-Ouest: Recommandations et ouvertures/fermetures des services
 
-[Disponibilité des programmes et des services pendant COVID-19](https://www.gov.nt.ca/covid-19/fr/services/disponibilit%C3%A9-des-programmes-et-des-services-du-gtno)
+- [Disponibilité des programmes et des services pendant COVID-19](https://www.gov.nt.ca/covid-19/fr/services/disponibilit%C3%A9-des-programmes-et-des-services-du-gtno)
+- CSTIT (Commission de la sécurité au travail et de l’indemnisation des travailleurs): [Sécurité au travail et mises à jour sur les services de la CSTIT](https://www.wscc.nt.ca/fr/sant%C3%A9-et-s%C3%A9curit%C3%A9/covid-19)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

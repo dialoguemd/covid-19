@@ -25,6 +25,8 @@ We remind you to protect yourself while out in public. Please wash your hands fr
 
 ## Manitoba: Recommendation and opening/closing of services
 
-[Restoring Safe Services](https://manitoba.ca/covid19/restoring/approach.html) : Manitoba's pandemic and economic roadmap for recovery.
+- Restoring Safe Services : [Manitoba's pandemic and economic roadmap for recovery](https://manitoba.ca/covid19/restoring/approach.html)
+- SafeWork Manitoba: [Industry-specific COVID-19 Information](https://www.safemanitoba.com/COVID-19/Pages/Industry-specific-COVID-19-Information.aspx)
+- WCB-Manitoba (Workers’Compensation Board of Manitoba): [How the WCB is Responding to COVID-19](https://www.wcb.mb.ca/how-the-wcb-is-responding-to-covid-19)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

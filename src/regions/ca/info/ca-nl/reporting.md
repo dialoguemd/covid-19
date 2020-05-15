@@ -10,7 +10,10 @@ Symptoms of COVID-19 are defined as having two or more of the following (new or 
 - Runny nose;
 - Diarrhea;
 - Loss of sense of smell or taste;
-- Unexplained loss of appetite; or
+- Unexplained loss of appetite;
+
+OR
+
 - Small red or purple spots on your hands and/or feet.
 
 \* Signs of a fever include chills, sweats, muscle aches, lightheadedness
@@ -39,8 +42,8 @@ There are exemptions to these requirements. Please see [Public Health Orders](ht
 
 ## Newfoundland and Labrador: Recommendation and opening/closing of services
 
-[Alert Level System](https://www.gov.nl.ca/covid-19/alert-system/)
-
-[Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
+- [Alert Level System](https://www.gov.nl.ca/covid-19/alert-system/)
+- [Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
+- [Information Sheets for Businesses and Workplaces](gov.nl.ca/covid-19/information-sheets-for-businesses-and-workplaces/)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

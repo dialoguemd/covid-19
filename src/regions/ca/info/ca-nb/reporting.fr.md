@@ -11,6 +11,7 @@ Si vous avez des symptômes :
 
 ## Nouveau-Brunswick: Recommandations et ouvertures/fermetures des services
 
-[Plan de rétablissement du Nouveau-Brunswick](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/retablissement.html)
+- [Plan de rétablissement du Nouveau-Brunswick](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/retablissement.html)
+- [WorkSafe Travail sécuritaire](https://www.travailsecuritairenb.ca/sujets-de-s%C3%A9curit%C3%A9/covid-19/nouvel-outil-de-pr%C3%A9vention-de-la-covid-19-pour-les-lieux-de-travail/)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

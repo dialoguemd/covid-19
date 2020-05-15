@@ -20,3 +20,9 @@ Si vous développez les symptômes et que vous avez voyagé dans une région où
 Si vous faites de la fièvre, si vous toussez ou avez de la difficulté à respirer dans les 14 prochains jours, téléphonez à votre prestataire de soins de santé ou le centre de santé local et avisez-les d’un possible contact avec le COVID-19. Si vous êtes malade et que vous devez voir un professionnel de la santé, appelez à l’avance ou informez-les dès votre arrivée que vous souffrez d’une maladie respiratoire, et si vous avez voyagé.
 
 [Source: Gouvernement du Nuvavut](https://www.gov.nu.ca/fr/sante/information/covid-19-nouveau-coronavirus)
+
+## Nunavut: Recommandations et ouvertures/fermetures des services
+
+- CSTIT (Commission de la sécurité au travail et de l’indemnisation des travailleurs): [Sécurité au travail et mises à jour sur les services de la CSTIT](https://www.wscc.nt.ca/fr/sant%C3%A9-et-s%C3%A9curit%C3%A9/covid-19)
+
+_Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
