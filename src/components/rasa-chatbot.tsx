@@ -60,6 +60,7 @@ const WidgetContainer = styled.div`
     display: flex;
     flex-direction: column;
     padding: 0;
+    -webkit-overflow-scrolling: touch;
 
     > :first-child {
       padding-top: 12px;
@@ -76,19 +77,38 @@ const WidgetContainer = styled.div`
     padding: 10px;
   }
 
-  .rw-new-message,
-  .rw-send {
+  .rw-new-message {
     background-color: ${props => props.theme.colors.inputBackground};
     border-radius: 30px;
+
+    :disabled {
+      background-color: ${props => props.theme.colors.disabled};
+    }
   }
 
   .rw-send {
+    align-items: center;
+    background-color: transparent;
     display: none;
+    padding-left: 15px;
+    padding-right: 5px;
+
+    @media (max-width: ${mobileBreakpoint}px) {
+      display: flex;
+    }
+  }
+
+  .rw-conversation-container .rw-send .rw-send-icon-ready {
+    fill: ${props => props.theme.colors.secondaryLight};
+  }
+  .rw-conversation-container .rw-send .rw-send-icon {
+    fill: ${props => props.theme.colors.disabled};
   }
 
   .rw-avatar {
     height: 48px;
     width: 48px;
+    min-width: 48px;
   }
 
   .rw-message {
