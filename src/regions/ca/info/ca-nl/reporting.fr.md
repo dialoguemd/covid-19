@@ -10,7 +10,9 @@ Les symptômes de la COVID-19 sont définis comme ayant deux ou plusieurs des sy
 - Écoulement nasal
 - La diarrhée ;
 - Perte de l'odorat ou du goût ;
-- Perte d'appétit inexpliquée ; ou
+- Perte d'appétit inexpliquée ; 
+
+OU
 - Petites taches rouges ou mauves sur les mains et/ou les pieds.
 
 \* Les signes de fièvre comprennent les frissons, les sueurs, les douleurs musculaires, les étourdissements
