@@ -34,6 +34,7 @@ interface Props {
 type Response = {
   text?: string
   quick_replies?: QuickReply[]
+  endOfConversation?: boolean
 }
 
 type QuickReply = {
@@ -59,13 +60,14 @@ const WidgetContainer = styled.div`
     display: flex;
     flex-direction: column;
     padding: 0;
+    -webkit-overflow-scrolling: touch;
 
     > :first-child {
       padding-top: 12px;
     }
 
     > :last-child {
-      padding-bottom: 12px;
+      padding-bottom: 5px;
     }
   }
 
@@ -75,23 +77,43 @@ const WidgetContainer = styled.div`
     padding: 10px;
   }
 
-  .rw-new-message,
-  .rw-send {
+  .rw-new-message {
     background-color: ${props => props.theme.colors.inputBackground};
     border-radius: 30px;
+
+    :disabled {
+      background-color: ${props => props.theme.colors.disabled};
+    }
   }
 
   .rw-send {
+    align-items: center;
+    background-color: transparent;
     display: none;
+    padding-left: 15px;
+    padding-right: 5px;
+
+    @media (max-width: ${mobileBreakpoint}px) {
+      display: flex;
+    }
+  }
+
+  .rw-conversation-container .rw-send .rw-send-icon-ready {
+    fill: ${props => props.theme.colors.secondaryLight};
+  }
+  .rw-conversation-container .rw-send .rw-send-icon {
+    fill: ${props => props.theme.colors.disabled};
   }
 
   .rw-avatar {
     height: 48px;
     width: 48px;
+    min-width: 48px;
   }
 
   .rw-message {
     flex-wrap: nowrap;
+    flex: 0 0 auto;
   }
 
   .rw-response,
@@ -133,7 +155,7 @@ const WidgetContainer = styled.div`
     overflow: visible;
   }
 
-  .rw-reply {
+  .rw-conversation-container .rw-reply {
     background: ${props => props.theme.colors.backgroundLight};
     border-radius: 22px;
     border: 0;
@@ -175,13 +197,16 @@ const WidgetContainer = styled.div`
   .rw-group-message.rw-from-response {
     display: flex;
     flex-direction: column;
+    flex: 0 0 auto;
 
     :last-of-type {
       flex-grow: 1;
     }
   }
 
-  .rw-quickReplies-container {
+  .rw-group-message.rw-from-response
+    .rw-message.rw-with-avatar
+    > div:not(.rw-response) {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
@@ -219,18 +244,17 @@ const WidgetContainer = styled.div`
 
 const onSocketEvent = {
   bot_uttered: (response: Response) => {
-    if (
-      response.quick_replies !== undefined &&
-      response.quick_replies.length > 0
-    ) {
-      toggleInputDisabled(true)
-    } else {
-      toggleInputDisabled(false)
-    }
+    const isEndOfConversation = response.endOfConversation === true
+    const hasQuickReplies =
+      response.quick_replies !== undefined && response.quick_replies.length > 0
+
+    toggleInputDisabled(isEndOfConversation || hasQuickReplies)
   }
 }
 
 const customMessageDelay = (message: string) => {
+  if (message === 'undefined') return 0
+
   const delay = message.length * 15
   return clamp(delay, 1500, 4000)
 }

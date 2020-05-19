@@ -6,7 +6,15 @@ Symptoms of COVID-19 are defined as having two or more of the following (new or 
 - Cough;
 - Headache;
 - Sore throat;
-- Runny nose.
+- Painful swallowing;
+- Runny nose;
+- Diarrhea;
+- Loss of sense of smell or taste;
+- Unexplained loss of appetite;
+
+OR
+
+- Small red or purple spots on your hands and/or feet.
 
 \* Signs of a fever include chills, sweats, muscle aches, lightheadedness
 
@@ -26,7 +34,7 @@ If you start to have symptoms of COVID-19:
 ## In the last 14 days I have returned to Newfoundland and Labrador. Am I required to self-isolate?
 
 Anyone arriving to Newfoundland and Labrador from outside the province is required to self-isolate for 14 days after their arrival.
-For guidance on how to self-isolate, please visit this site: [About COVID-19](https://www.gov.nl.ca/covid-19/covid-19-symptoms-treatment/).
+For guidance on how to self-isolate, please visit this page: [Self-Isolation and Self-Monitoring.](https://www.gov.nl.ca/covid-19/individuals-and-households/self-isolation-and-self-monitoring/).
 
 There are exemptions to these requirements. Please see [Public Health Orders](https://www.gov.nl.ca/covid-19/public-health-orders/) for more details.
 
@@ -34,8 +42,8 @@ There are exemptions to these requirements. Please see [Public Health Orders](ht
 
 ## Newfoundland and Labrador: Recommendation and opening/closing of services
 
-[Alert Level System](https://www.gov.nl.ca/covid-19/alert-system/)
-
-[Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
+- [Alert Level System](https://www.gov.nl.ca/covid-19/alert-system/)
+- [Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
+- [Information Sheets for Businesses and Workplaces](gov.nl.ca/covid-19/information-sheets-for-businesses-and-workplaces/)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

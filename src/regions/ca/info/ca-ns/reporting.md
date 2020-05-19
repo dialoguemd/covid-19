@@ -14,8 +14,8 @@ The Government of Nova Scotia, under the authority of the Health Protection Act,
 
 ## Nova Scotia: Recommendation and opening/closing of services
 
-[Closures, cancellations and service changes](https://novascotia.ca/closures-cancellations-and-service-changes/)
-
-[COVID-19: what it means for Nova Scotians](https://novascotia.ca/coronavirus/what-it-means-for-nova-scotians/)
+- [Closures, cancellations and service changes](https://novascotia.ca/closures-cancellations-and-service-changes/)
+- [COVID-19: what it means for Nova Scotians](https://novascotia.ca/coronavirus/what-it-means-for-nova-scotians/)
+- WorkSafe. For Life. Workers’ compensation board of Nova Scotia: [COVID-19](http://www.worksafeforlife.ca/covid19)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

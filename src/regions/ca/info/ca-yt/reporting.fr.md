@@ -19,8 +19,11 @@ Dans les communautés : Appelez votre centre de santé local pour organiser un t
 
 ## Yukon: Recommandations et ouvertures/fermetures des services
 
-[Fermetures, annulations et restrictions d’accès](https://yukon.ca/fr/fermetures-annulations-et-restrictions-dacces)
+- [Fermetures, annulations et restrictions d’accès](https://yukon.ca/fr/fermetures-annulations-et-restrictions-dacces)
+- [Services essentiels au Yukon pendant la pandémie de COVID-19](https://yukon.ca/fr/health-and-wellness/covid-19/essential-services-yukon-during-covid-19)
 
-[Services essentiels au Yukon pendant la pandémie de COVID-19](https://yukon.ca/fr/health-and-wellness/covid-19/essential-services-yukon-during-covid-19)
+Lien disponible en anglais seulement:
+
+- Yukon WCB (Yukon Workers’Compensation Health and Safety Board): [COVID-19 : ressources pour les travailleurs et les employeurs](https://wcb.yk.ca/COVID-19.aspx)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._

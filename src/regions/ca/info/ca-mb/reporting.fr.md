@@ -1,6 +1,6 @@
 ## Manitoba: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Afin de déterminer si vous devez composer le numéro de Health Links–Info Santé (204-788-8200 ou 1-888-315-9257 sans frais) ou consulter un autre service médical, utilisez [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/).
+Afin de déterminer si vous devriez être testé pour la COVID-19, veuillez utiliser [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/) ou appeler Health Links–Info Santé (au 204-788-8200 ou, sans frais, au 1-888-315-9257).
 
 Ne composez pas le 911, sauf s'il s'agit d'une urgence.
 
@@ -25,6 +25,11 @@ Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vo
 
 ## Manitoba: Recommandations et ouvertures/fermetures des services
 
-[Plan de rétablissement sécuritaire des services](https://manitoba.ca/covid19/restoring/approach.fr.html) pour la relance économique du Manitoba après la pandémie.
+- [Plan de rétablissement sécuritaire des services](https://manitoba.ca/covid19/restoring/approach.fr.html) pour la relance économique du Manitoba après la pandémie.
+
+Liens disponibles en anglais seulement:
+
+- SafeWork Manitoba: [Informations COVID-19 spécifiques à l'industrie](https://www.safemanitoba.com/COVID-19/Pages/Industry-specific-COVID-19-Information.aspx)
+- WCB-Manitoba (Workers’Compensation Board of Manitoba): [Comment le WCB répond à la COVID-19](https://www.wcb.mb.ca/how-the-wcb-is-responding-to-covid-19)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
