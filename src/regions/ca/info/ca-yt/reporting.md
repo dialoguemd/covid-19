@@ -24,6 +24,7 @@ Call 811 or your family physician. They may refer you to the [Respiratory Assess
 
 - [Closures, cancellations, facility access and services](https://yukon.ca/en/closures-cancellations-and-restricted-facility-access)
 - [Essential services in Yukon during COVID-19](https://yukon.ca/en/health-and-wellness/covid-19/essential-services-yukon-during-covid-19)
+- [Health and safety guidelines and recommendations: COVID-19](https://yukon.ca/en/industry-specific-guidelines-and-recommendations-covid-19)
 - Yukon WCB (Yukon Workers’Compensation Health and Safety Board): [COVID-19 worker and employer resources](https://wcb.yk.ca/COVID-19.aspx)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
