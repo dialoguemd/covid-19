@@ -39,6 +39,7 @@ Risk of severe disease is higher for:
 ## Northwest Territories: Recommendation and opening/closing of services
 
 - [Program and service availability during COVID-19](https://www.gov.nt.ca/covid-19/en/services/gnwt-services)
+- [GNWT Response to COVID-19](https://www.gov.nt.ca/covid-19/en/business-work-0)
 - WSCC (Workers’Safety & Compensation Commission: [Safe at Work and WSCC Service Updates](https://www.wscc.nt.ca/health-safety/covid-19#Employers)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
