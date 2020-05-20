@@ -15,7 +15,6 @@ Des tests sont disponibles et recommandés si vous présentez de nouveaux sympt�
 Vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
 
 - HealthLine 811.
-- Votre bureau local de contrôle des maladies transmissibles de la santé publique.
 - Votre médecin de famille.
 - Votre infirmière praticienne.
 
