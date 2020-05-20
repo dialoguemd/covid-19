@@ -61,7 +61,7 @@ export default {
       ['Dialogue', 'https://dialogue.co/en'],
       [
         'Resources for Canadian Organizations',
-        'https://www.dialogue.co/?hs_preview=noJtvihk-26668052747'
+        'https://www.dialogue.co/covid-19'
       ],
       ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/'],
       ['Ask a COVID-19 question.', 'https://covid19.dialogue.co/#/info']
