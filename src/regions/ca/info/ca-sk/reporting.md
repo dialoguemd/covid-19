@@ -15,7 +15,6 @@ Testing is available and recommended if you have unexplained new or worsening sy
 You can obtain a referral to a community testing centre by phoning:
 
 - HealthLine 811.
-- Your local Public Health Communicable Disease Control office.
 - Your family physician.
 - Your nurse practitioner.
 

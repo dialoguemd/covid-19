@@ -1,14 +1,22 @@
 ## Colombie-Britannique: Que dois-je faire si je pense que j'ai COVID-19 ?
 
-Si vous développez des symptômes de rhume, de grippe ou de [type COVID-19 (en anglais seulement)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/symptoms), utilisez l'[outil d'auto-évaluation COVID-19 de la Colombie-Britannique (en anglais seulement)](https://bc.thrive.health/) pour vous aider à déterminer si vous avez besoin d'une évaluation plus approfondie pour le test COVID-19 par un médecin, une infirmière praticienne ou dans un centre de collecte local. Vous pouvez effectuer cette évaluation pour vous-même, ou au nom d'une autre personne, si elle n'est pas en mesure de le faire.
+_Les liens sont disponibles en anglais seulement._
 
-Consultez la page [Si vous êtes malade (en anglais seulement)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/if-you-are-sick) pour savoir comment arrêter la propagation des germes, ce qu'il faut faire si vos symptômes s'aggravent et comment mettre fin à l'auto-isolement.
+Si vous développez des symptômes de rhume, de grippe ou de [type COVID-19](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/symptoms), visitez la page [Testing information](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/testing) ou utilisez l'[outil d'auto-évaluation COVID-19 de la Colombie-Britannique](https://bc.thrive.health/) pour vous aider à déterminer si vous avez besoin d'une évaluation plus approfondie pour le test COVID-19 par un médecin, une infirmière praticienne ou dans un centre de collecte local. Vous pouvez effectuer cette évaluation pour vous-même, ou au nom d'une autre personne, si elle n'est pas en mesure de le faire.
 
-### Je suis un voyageur de retour, dois-je m'isoler?
+Consultez la page [Si vous êtes malade](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/if-you-are-sick) pour savoir comment arrêter la propagation des germes, ce qu'il faut faire si vos symptômes s'aggravent et comment mettre fin à l'auto-isolement.
 
-Oui, vous devriez vous isoler. Veuillez consulter notre page sur [l'auto-isolement (en anglais seulement)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) pour savoir combien de temps il faut s'isoler si vous êtes un voyageur de retour.
+### Je suis de retour en Colombie Britannique, que dois-je faire avant d'arriver?
 
-[Source: BC Centre for Disease Control (en anglais)](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
+À moins que vous n'en soyez [exempté](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return#exempt), tous les voyageurs internationaux qui retournent en Colombie-Britannique sont tenus par la loi de [s'auto-isoler](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) pendant 14 jours et de remplir un plan d'auto-isolement. Les voyageurs doivent soumettre un [plan d'auto-isolement de la Colombie-Britannique](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return#complete-plan) et remplir la [demande fédérale ArriveCAN](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/digital-tools.html) avant leur arrivée ou à leur retour en Colombie-Britannique.
+
+De plus amples informations sont disponibles sur le [site Web du gouvernement de la Colombie-Britannique](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return) pour les voyageurs internationaux de retour.
+
+Les habitants de la Colombie britanniques sont encouragés à rester dans leur propre communauté et à éviter tout voyage non essentiel pour le moment. Au fur et à mesure que la province passera à la phase 2 et à la phase 3 du plan de relance de la Colombie-Britannique, des conseils supplémentaires sur les déplacements dans la province seront fournis.
+
+Si vous revenez d'un voyage à l'intérieur de la province, il est recommandé de surveiller vous-même les symptômes du COVID-19. Si vous avez des questions, ou si vous commencez à ressentir des symptômes, contactez votre prestataire de soins de santé, le 8-1-1, votre unité locale de santé publique, ou remplissez l'outil d'auto-évaluation des symptômes de COVID-19.
+
+[Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
 
 ## British Columbia: Recommandations et ouvertures/fermetures des services
 

@@ -39,9 +39,6 @@ It should be noted that businesses that deliver goods from abroad in Québec do 
 ## Quebec: Recommendation and opening/closing of services
 
 - [Gradual resumption of activities under the COVID-19-related pause](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/gradual-resumption-activities-covid19-related-pause/)
-
-Link available in French only:
-
-- CNESST (Commission des normes, de l’équité, de la santé et de la sécurité au travail): [Quebec gets back to work safely: COVID-19 kit](https://www.cnesst.gouv.qc.ca/salle-de-presse/covid-19/Pages/trousse.aspx)
+- CNESST (Commission des normes, de l’équité, de la santé et de la sécurité au travail): [Quebec is going back to work safely](https://www.cnesst.gouv.qc.ca/salle-de-presse/covid-19-info-en/Pages/back-to-work.aspx)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._

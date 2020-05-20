@@ -16,6 +16,7 @@ Le gouvernement de la Nouvelle-Écosse, en vertu de la loi sur la protection de 
 
 - [Fermetures, annulations et changements aux services](https://novascotia.ca/closures-cancellations-and-service-changes/fr/)
 - [COVID-19 : à quoi peuvent s'attendre les gens de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/what-it-means-for-nova-scotians/fr/)
+- [Travailler durant le COVID-19](https://novascotia.ca/coronavirus/working-during-covid-19/fr/)
 
 Lien disponible en anglais seulement:
 
