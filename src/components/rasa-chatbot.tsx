@@ -206,7 +206,7 @@ const WidgetContainer = styled.div`
 
   .rw-group-message.rw-from-response
     .rw-message.rw-with-avatar
-    > div:not(.rw-response) {
+    > div:not(.rw-response):not(.rw-carousel-container) {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
@@ -239,6 +239,31 @@ const WidgetContainer = styled.div`
     .rw-response {
       height: min-content;
     }
+  }
+
+  .rw-carousel-container {
+    max-height: initial;
+    height: max-content;
+    display: inline-flex;
+  }
+
+  .rw-carousel-container .rw-carousel-card {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    flex: 1 0 auto;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+
+  .rw-carousel-container .rw-carousel-card .rw-carousel-buttons-container {
+    position: initial;
+    padding: 5px 0 10px;
+  }
+
+  .rw-carousel-container .rw-carousel-card .rw-carousel-card-subtitle {
+    height: auto;
+    flex: 1 0 auto;
   }
 `
 
