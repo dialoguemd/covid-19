@@ -63,6 +63,7 @@ const WidgetContainer = styled.div`
   .rw-messages-container {
     background-color: ${props => props.theme.colors.background};
     display: flex;
+    flex: 1 0 0;
     flex-direction: column;
     padding: 0;
     -webkit-overflow-scrolling: touch;
@@ -213,6 +214,7 @@ const WidgetContainer = styled.div`
     .rw-message.rw-with-avatar
     > div:not(.rw-response):not(.rw-carousel-container) {
     display: flex;
+    flex: 0 0 0;
     flex-direction: column;
     flex-grow: 1;
     justify-content: space-between;
