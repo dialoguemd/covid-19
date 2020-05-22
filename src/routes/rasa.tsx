@@ -9,11 +9,15 @@ import {
 
 import RasaPage from '../pages/rasa'
 
-const RASA_GREET_INTENT = 'greet'
-const RASA_CHECKIN_INTENT = 'daily_checkin'
 const RASA_METADATA_ENTITY = 'metadata'
 const RASA_TIMEZONE_PARAMETER = 'timezone'
 const RASA_REMINDER_ID_PARAMETER = 'reminder_id'
+
+const RASA_INTENTS = {
+  GREET: 'greet',
+  CHECKIN: 'daily_checkin',
+  TEST_NAVIGATION: 'navigate_test_locations'
+}
 
 const getTimezone = (): string =>
   new Intl.DateTimeFormat().resolvedOptions().timeZone
@@ -28,7 +32,7 @@ const Rasa: React.FC = props => {
   const timezone = getTimezone()
   if (timezone) metadata[RASA_TIMEZONE_PARAMETER] = timezone
 
-  const payload = createPayload(RASA_GREET_INTENT, metadata)
+  const payload = createPayload(RASA_INTENTS.GREET, metadata)
   return <RasaPage {...props} initPayload={payload} />
 }
 
@@ -36,7 +40,13 @@ const RasaCheckin: React.FC = props => {
   const params = useParams<{ rid: string }>()
 
   const metadata = { [RASA_REMINDER_ID_PARAMETER]: params.rid }
-  const payload = createPayload(RASA_CHECKIN_INTENT, metadata)
+  const payload = createPayload(RASA_INTENTS.CHECKIN, metadata)
+  return <RasaPage {...props} initPayload={payload} />
+}
+
+// For testing purposes
+const RasaTestNavigation: React.FC = props => {
+  const payload = createPayload(RASA_INTENTS.TEST_NAVIGATION, {})
   return <RasaPage {...props} initPayload={payload} />
 }
 
@@ -50,6 +60,9 @@ const RasaRoute: React.FC = () => {
       </Route>
       <Route exact path={`${path}/ci/:rid`}>
         <RasaCheckin />
+      </Route>
+      <Route exact path={`${path}/_test-navigation`}>
+        <RasaTestNavigation />
       </Route>
       <Redirect to={path} />
     </Switch>
