@@ -46,6 +46,7 @@ type QuickReply = {
 const WidgetContainer = styled.div`
   width: 100%;
   height: 100%;
+  -webkit-text-size-adjust: 100%;
 
   .rw-loading {
     background-color: ${props => props.theme.colors.secondaryLight};
