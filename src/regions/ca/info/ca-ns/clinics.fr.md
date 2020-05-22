@@ -2,17 +2,23 @@
 
 Avez-vous besoin d’appeler le 811 pour qu’on évalue votre besoin d’être testé pour la COVID-19?
 
-- Avez-vous une fièvre de plus de 38 °C (ou les symptômes d’une fièvre)?
+Présentez-vous un des symptômes suivants?
 
-- Avez-vous une nouvelle toux ou une toux qui empire?
+- Fièvre (par exemple, frissons, sueurs)
+- Nouvelle toux ou une toux qui s’aggrave
+- Mal de gorge
+- Mal de tête
+- Essoufflement
+- Douleurs musculaires
+- Éternuements
+- Congestion nasale ou écoulement nasal
+- Voix rauque
+- Diarrhée
+- Fatigue inhabituelle
+- Perte d’odorat ou de goût
+- Lésions rouges, violettes ou bleuâtres sur les pieds, les orteils ou les doigts sans cause apparente
 
-- Avez-vous un mal de gorge?
-
-- Avez-vous un écoulement nasal?
-
-- Avez-vous un mal de tête?
-
-Si vous avez répondu oui à deux questions ou plus, appelez le service 811 pour qu’une infirmière vous évalue de manière plus approfondie.
+Si vous avez répondu oui à un ou à plusieurs de ces symptômes, composez le 8-1-1 pour qu’une infirmière vous évalue de manière plus approfondie.
 
 Si vous éprouvez d’autres symptômes qui vous inquiètent, appelez le 811 pour parler à une infirmière.
 
