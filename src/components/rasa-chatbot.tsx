@@ -222,6 +222,7 @@ const WidgetContainer = styled.div`
 
     .rw-response {
       box-sizing: content-box;
+      flex: 0 0 0;
     }
 
     .rw-message:not(:first-child):not(:only-child).rw-with-avatar {
