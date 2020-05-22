@@ -48,6 +48,10 @@ const WidgetContainer = styled.div`
   height: 100%;
   -webkit-text-size-adjust: 100%;
 
+  > * {
+    -webkit-text-size-adjust: 100%;
+  }
+
   .rw-loading {
     background-color: ${props => props.theme.colors.secondaryLight};
   }
