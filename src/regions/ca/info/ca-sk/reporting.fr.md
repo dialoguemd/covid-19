@@ -2,15 +2,22 @@
 
 Des tests sont disponibles et recommandés si vous présentez de nouveaux symptômes inexpliqués ou une aggravation (quelle qu'en soit la gravité) qui peuvent inclure un ou plusieurs des symptômes suivants :
 
-- fièvre
-- toux
-- mal de tête
-- maux et douleurs
-- mal de gorge
-- frissons
-- nez qui coule
-- perte du goût ou de l'odorat
-- essoufflement ou difficulté à respirer
+- Fièvre
+- Toux
+- Mal de tête
+- Maux et douleurs
+- Mal de gorge
+- Frissons
+- Nez qui coule
+- Congestion nasale
+- Conjonctivite
+- Étourdissements
+- Fatigue
+- Nausées/vomissements
+- Diarrhée
+- Perte d'appétit (difficulté à nourrir les enfants)
+- Perte du goût ou de l'odorat
+- Essoufflement ou difficulté à respirer
 
 Vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
 
