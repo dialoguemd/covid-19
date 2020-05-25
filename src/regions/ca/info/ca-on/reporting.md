@@ -2,22 +2,39 @@
 
 Symptoms of COVID-19, which is the disease caused by the 2019 novel coronavirus, range from mild — like the flu and other common respiratory infections — to severe.
 
-The most common symptoms include:
+Call 911 if you are experiencing any of the following symptoms:
 
-- fever
-- cough
-- difficulty breathing
-- muscle aches
-- fatigue
-- headache
+- severe difficulty breathing (struggling for each breath, can only speak in single words)
+- severe chest pain (constant tightness or crushing sensation)
+- feeling confused or unsure of where you are losing consciousness
+
+The most common symptoms of COVID-19 include:
+
+- fever (feeling hot to the touch, a temperature of 37.8 degrees Celsius or higher)
+- chills
+- cough that's new or worsening (continuous, more than usual)
+- barking cough, making a whistling noise when breathing (croup)
+- shortness of breath (out of breath, unable to breathe deeply)
 - sore throat
-- runny nose
+- difficulty swallowing
+- runny, stuffy or congested nose (not related to seasonal allergies or other known causes or conditions)
+- lost sense of taste or smell
+- pink eye (conjunctivitis)
+- headache that’s unusual or long lasting
+- digestive issues (nausea/vomiting, diarrhea, stomach pain)
+- muscle aches
+- extreme tiredness that is unusual (fatigue, lack of energy)
+- falling down often
+- for young children and infants: sluggishness or lack of appetite
 
 Complications from COVID-19 can include serious conditions, like pneumonia or kidney failure and, in some cases, death.
 
 **If you start to feel symptoms of COVID-19**
 
-If you begin to feel symptoms of COVID-19, you should stay home and self-isolate immediately and take a self-assessment to help determine how to seek further care.
+If you begin to feel symptoms of COVID-19, you should:
+- go to a [COVID-19 assessment centre](https://covid-19.ontario.ca/covid-19-assessment-centres) to get tested
+- stay home and [self-isolate] unless you are going to to the assessment centre
+- tell people you were in close physical contact with in the 48 hours before your symptoms began to monitor their health and to self-isolate
 
 Only call 911 if it is an emergency.
 
