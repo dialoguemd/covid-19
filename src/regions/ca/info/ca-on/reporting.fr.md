@@ -2,22 +2,41 @@
 
 Les symptômes de la COVID-19, qui est la maladie causée par le nouveau coronavirus 2019, vont de légers — comme la grippe et autres infections respiratoires courantes — à graves.
 
-Les symptômes les plus courants incluent les suivants :
+Composez le 911 si vous présentez l’un ou l’autre des symptômes suivants :
 
-- fièvre
-- toux
-- difficulté à respirer
-- douleurs musculaires
-- fatigue
-- mal de tête
+- difficultés respiratoires graves (effort pour chaque respiration, ne pouvoir s’exprimer qu’avec des mots simples)
+- douleur intense à la poitrine (sensation constante d’oppression ou d’écrasement)
+- sentiment de confusion ou ne pas savoir où vous êtes
+- perte de conscience
+
+Les symptômes les plus courants de la COVID-19 incluent les suivants :
+
+- fièvre (sensation de chaleur au toucher, température de 37,8 degrés Celsius ou plus)
+- frissons
+- toux nouvelle ou qui s’aggrave (continue, plus que d’habitude)
+- toux qui ressemble à un aboiement, grincement ou sifflement durant la respiration
+essoufflement (souffle court, incapacité à respirer profondément)
 - mal de gorge
-- nez qui coule
+- difficulté à avaler
+- nez qui coule, bouché ou congestionné (sans lien avec les allergies saisonnières ou autres causes ou problèmes de santé connus)
+- perte du goût ou de l’odorat
+- conjonctivite
+- mal de tête inhabituel ou prolongé
+- problèmes digestifs (nausées/vomissements, diarrhée, maux de ventre)
+- douleurs musculaires
+- fatigue extrême inhabituelle (fatigue, manque d'énergie)
+- chutes fréquentes
+- pour les jeunes enfants et les nourrissons : léthargie ou manque d’appétit
 
 Les complications découlant de la COVID-19 peuvent inclure de graves problèmes de santé comme une pneumonie ou une insuffisance rénale et, dans certains cas, la mort.
 
 **Si vous commencez à ressentir des symptômes de COVID-19**
 
-Si vous commencez à ressentir des symptômes de la COVID-19, vous devez rester à la maison et vous auto-isoler immédiatement et faire une autoévaluation pour aider à déterminer si vous avez besoin de recevoir d’autres soins.
+Si vous commencez à ressentir des symptômes de la COVID-19, vous devez:
+
+- vous présenter à un [centre d’évaluation de la COVID-19](https://covid-19.ontario.ca/fr/centres-devaluation-de-la-covid-19) pour subir un test
+- rester à la maison et vous auto-isoler, sauf si vous vous rendez au centre d’évaluation
+- aviser les gens avec qui vous avez été en contact étroit dans les 48 heures précédant l’apparition de vos symptômes de surveiller leur état de santé et de s’auto-isoler
 
 Composez le 911 seulement en situation d’urgence.
 
