@@ -9,6 +9,13 @@ Testing is available and recommended if you have unexplained new or worsening sy
 - Sore throat
 - Chills
 - Runny nose
+- Nasal congestion
+- Conjunctivitis
+- Dizziness
+- Fatigue
+- Nausea/vomiting
+- Diarrhea
+- Loss of appetite (difficulty feeding for children)
 - Loss of sense of taste or smell
 - Shortness of breath or difficulty breathing
 
