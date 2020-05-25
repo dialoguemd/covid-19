@@ -15,7 +15,7 @@ Les symptômes les plus courants de la COVID-19 incluent les suivants :
 - frissons
 - toux nouvelle ou qui s’aggrave (continue, plus que d’habitude)
 - toux qui ressemble à un aboiement, grincement ou sifflement durant la respiration
-essoufflement (souffle court, incapacité à respirer profondément)
+  essoufflement (souffle court, incapacité à respirer profondément)
 - mal de gorge
 - difficulté à avaler
 - nez qui coule, bouché ou congestionné (sans lien avec les allergies saisonnières ou autres causes ou problèmes de santé connus)
