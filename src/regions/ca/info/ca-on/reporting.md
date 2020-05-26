@@ -6,7 +6,7 @@ Call 911 if you are experiencing any of the following symptoms:
 
 - severe difficulty breathing (struggling for each breath, can only speak in single words)
 - severe chest pain (constant tightness or crushing sensation)
-- feeling confused or unsure of where you are 
+- feeling confused or unsure of where you are
 - losing consciousness
 
 The most common symptoms of COVID-19 include:
