@@ -35,7 +35,7 @@ Complications from COVID-19 can include serious conditions, like pneumonia or ki
 If you begin to feel symptoms of COVID-19, you should:
 
 - go to a [COVID-19 assessment centre](https://covid-19.ontario.ca/covid-19-assessment-centres) to get tested
-- stay home and [self-isolate] unless you are going to to the assessment centre
+- stay home and self-isolate unless you are going to to the assessment centre
 - tell people you were in close physical contact with in the 48 hours before your symptoms began to monitor their health and to self-isolate
 
 Only call 911 if it is an emergency.
