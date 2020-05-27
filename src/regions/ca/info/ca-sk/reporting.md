@@ -29,21 +29,21 @@ Please call HealthLine by dialing 811. If you have questions regarding COVID-19 
 
 All residents should be familiar with self-monitoring and self-isolation precautions, in order to keep you and those around you safe.
 
-## Saskatchewan: Travel Information
+## Saskatchewan: International Travel Information
 
-The federal government and Saskatchewan's Chief Medical Health Officer recommend returning to Canada and avoiding non-essential international travel until further notice.
+To limit the spread of COVID-19, the Government of Canada advises avoiding all non-essential travel outside of Canada.
 
-Residents are advised to limit any non-essential travel outside of Saskatchewan, with the exception of people who live in border communities and are commuting for work.
+Travellers returning from international destinations (including the United States) are subject to a mandatory self-isolation public health order and federal quarantine requirements. Violation of the public health order may result in a $2,000 fine.
 
-When you return to the province after a period of time in another country, including the United States, it is mandatory to take the following measures:
+When you return to the province after a period of time in another country, it is mandatory to take the following measures:
 
 - Self-isolate for 14 days.
 - Self-monitor for respiratory or flu-like symptoms for 14 days.
 - Consider preparations you can make in advance to ensure your comfort during this 14-day period.
-- Avoid visiting a long-term care facility or hospital.
 - Call HealthLine 811 if you develop respiratory or flu-like symptoms.
+- For general questions on travel recommendations and prevention measures, email COVID19@health.gov.sk.ca.
 
-For general questions on travel recommendations and prevention measures, email COVID19@health.gov.sk.ca.
+For more information on travel within and outside of Saskatchewan, visit [this page](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/travel-information).
 
 [Source: Government of Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/travel-information)
 
