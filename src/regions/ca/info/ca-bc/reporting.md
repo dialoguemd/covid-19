@@ -12,7 +12,7 @@ More informaiton is available on the [BC government website](https://www2.gov.bc
 
 British Colubmians are encouraged to stay in their own communities and avoid non-essential travel at this time. As the province moves into phase 2 and phase 3 of B.C.'s Restart Plan, more guidance on travel within the province will be provided.
 
-If you are returning from travelling domestically it is encouraged that you self-monitor for symptoms of COVID-19. If you have questions, or you start to feel symptoms, contact your health care provider, 8-1-1, your local public health unit, or complete the COVID-19 Symptom Self-Assessment tool.
+All returning travellers are encouraged to self-monitor for symptoms of COVID-19. If you have questions, or you start to feel symptoms, contact your health care provider, 8-1-1, your local public health unit, or complete the COVID-19 Symptom Self-Assessment tool.
 
 [Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
 
