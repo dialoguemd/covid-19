@@ -33,7 +33,7 @@ Tous les résidents doivent être familiarisés avec les précautions d'autosurv
 
 Pour limiter la propagation de COVID-19, le gouvernement du Canada conseille d'éviter tout voyage non essentiel à l'extérieur du Canada.
 
-Les voyageurs qui reviennent de destinations internationales (y compris des États-Unis) sont soumis à un ordre de santé publique d'auto-isolement obligatoire et à des exigences fédérales de quarantaine. La violation de l'ordonnance de santé publique peut entraîner une amende de 2 000 $.
+Les voyageurs qui reviennent de destinations internationales (y compris des États-Unis) sont soumis à un ordre de santé publique d'auto-isolement obligatoire et à des exigences fédérales de quarantaine. La violation de l'ordonnance de santé publique peut entraîner une amende de 2 000 dollars.
 
 Lorsque vous revenez dans la province après une période passée dans un autre pays, il est obligatoire de prendre les mesures suivantes :
 

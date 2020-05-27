@@ -33,7 +33,7 @@ All residents should be familiar with self-monitoring and self-isolation precaut
 
 To limit the spread of COVID-19, the Government of Canada advises avoiding all non-essential travel outside of Canada.
 
-Travellers returning from international destinations (including the United States) are subject to a mandatory self-isolation public health order and federal quarantine requirements. Violation of the public health order may result in a $2,000 fine.
+Travellers returning from international destinations (including the United States) are subject to a mandatory self-isolation public health order and federal quarantine requirements. Violation of the public health order may result in a 2,000 dollar fine.
 
 When you return to the province after a period of time in another country, it is mandatory to take the following measures:
 
