@@ -14,7 +14,7 @@ De plus amples informations sont disponibles sur le [site Web du gouvernement de
 
 Les habitants de la Colombie britanniques sont encouragés à rester dans leur propre communauté et à éviter tout voyage non essentiel pour le moment. Au fur et à mesure que la province passera à la phase 2 et à la phase 3 du plan de relance de la Colombie-Britannique, des conseils supplémentaires sur les déplacements dans la province seront fournis.
 
-Si vous revenez d'un voyage à l'intérieur de la province, il est recommandé de surveiller vous-même les symptômes du COVID-19. Si vous avez des questions, ou si vous commencez à ressentir des symptômes, contactez votre prestataire de soins de santé, le 8-1-1, votre unité locale de santé publique, ou remplissez l'outil d'auto-évaluation des symptômes de COVID-19.
+Tous les voyageurs de retour sont encouragés à se surveiller eux-mêmes pour détecter les symptômes de la COVID-19. Si vous avez des questions, ou si vous commencez à ressentir des symptômes, contactez votre prestataire de soins de santé, le 8-1-1, votre unité locale de santé publique, ou remplissez l'outil d'auto-évaluation des symptômes de COVID-19.
 
 [Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
 
