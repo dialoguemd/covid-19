@@ -98,13 +98,14 @@ Pour plus d'informations, consultez les [lignes directrices sur le nettoyage et 
 Le port de masques médicaux, dont les masques chirurgicaux, les masques d'intervention et les respirateurs (comme les masques N95), doit être réservé aux travailleurs de la santé et aux autres personnes fournissant des soins directs aux patients infectés par la COVID-19.
 
 Le port d'un masque non médical ou d'un couvre-visage en public est recommandé dans certaines circonstances lorsqu'une distance de 2 mètres ne peut être maintenue entre soi et les autres, en particulier dans les lieux achalandés, comme lorsque :
- 
+
 - vous faites vos courses
 - que vous utilisez les transports en commun
 
 Les responsables de la santé publique formulent leurs recommandations en fonction de nombreux facteurs, notamment les taux d'infection et de transmission au sein de la communauté. Il se peut donc que les recommandations varient d'un endroit à l'autre.
 
 Si vous décidez d'en porter un, nous vous invitons à consulter les :
+
 - [lignes directrices concernant le port de masques non médicaux et les instructions pour en fabriquer un](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/a-propos-masques-couvre-visage-non-medicaux.html)
 - recommandations du [Comité consultatif spécial sur la COVID-19](http://www.phn-rsp.ca/sac-covid-ccs/index-fra.php) en ce qui a trait à l'[utilisation de masques non médicaux ou de couvre visages en milieu communautaire](http://www.phn-rsp.ca/sac-covid-ccs/port-masque-communautaire-fra.php)
 
