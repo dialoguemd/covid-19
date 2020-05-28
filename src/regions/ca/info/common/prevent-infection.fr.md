@@ -97,7 +97,17 @@ Pour plus d'informations, consultez les [lignes directrices sur le nettoyage et 
 
 Le port de masques médicaux, dont les masques chirurgicaux, les masques d'intervention et les respirateurs (comme les masques N95), doit être réservé aux travailleurs de la santé et aux autres personnes fournissant des soins directs aux patients infectés par la COVID-19.
 
-Le port d'un masque non médical ou d'un couvre-visage en public est facultatif. Si vous décidez d'en porter un, consultez nos [directives sur le port de masques non médicaux et sur la façon de fabriquer le vôtre](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/instructions-revetement-visage-tissu-cousu-non-cousu.html).
+Le port d'un masque non médical ou d'un couvre-visage en public est recommandé dans certaines circonstances lorsqu'une distance de 2 mètres ne peut être maintenue entre soi et les autres, en particulier dans les lieux achalandés, comme lorsque :
+
+- Vous faites vos courses
+- Vous utilisez les transports en commun
+
+Les responsables de la santé publique formulent leurs recommandations en fonction de nombreux facteurs, notamment les taux d'infection et de transmission au sein de la communauté. Il se peut donc que les recommandations varient d'un endroit à l'autre.
+
+Si vous décidez d'en porter un, nous vous invitons à consulter les :
+
+- [Lignes directrices concernant le port de masques non médicaux et les instructions pour en fabriquer un](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/a-propos-masques-couvre-visage-non-medicaux.html)
+- Recommandations du [Comité consultatif spécial sur la COVID-19](http://www.phn-rsp.ca/sac-covid-ccs/index-fra.php) en ce qui a trait à l'[utilisation de masques non médicaux ou de couvre visages en milieu communautaire](http://www.phn-rsp.ca/sac-covid-ccs/port-masque-communautaire-fra.php)
 
 Les masques seuls n'empêcheront pas la propagation de la COVID-19. Vous devez suivre à la lettre et en tout temps les consignes d'hygiène adéquate et de santé publique, dont le lavage des mains fréquent et l'éloignement physique (distanciation sociale).
 
