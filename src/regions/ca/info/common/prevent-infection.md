@@ -107,7 +107,7 @@ Public health officials will make recommendations based on a number of factors, 
 
 If you do choose to wear one, refer to the:
 
-- [guidelines on wearing non-medical masks and how to make your own](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/instructions-sew-no-sew-cloth-face-covering.html)
+- [Guidelines on wearing non-medical masks and how to make your own](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/instructions-sew-no-sew-cloth-face-covering.html)
 - [COVID-19 Special Advisory Committee](http://www.phn-rsp.ca/sac-covid-ccs/index-eng.php)'s recommendations on the [use of non-medical cloth masks or face coverings in community settings](http://www.phn-rsp.ca/sac-covid-ccs/wearing-masks-community-eng.php)
 
 Masks alone will not prevent the spread of COVID-19. You must consistently and strictly adhere to good hygiene and public health measures, including frequent hand washing and physical (social) distancing.
