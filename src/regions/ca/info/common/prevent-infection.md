@@ -100,8 +100,8 @@ Medical masks, including surgical, medical procedure face masks and respirators 
 Wearing a non-medical mask or face covering while out in public is recommended for periods of time when it is not possible to consistently maintain a 2-metre physical distance from others, particularly in crowded public settings, such as:
 
 - Stores
-- shopping areas
-- public transportation
+- Shopping areas
+- Public transportation
 
 Public health officials will make recommendations based on a number of factors, including the rates of infection and/or transmission in the community. Recommendations may vary from location to location.
 
