@@ -97,7 +97,17 @@ Refer to the [guidance on cleaning and disinfecting public spaces](https://www.c
 
 Medical masks, including surgical, medical procedure face masks and respirators (like N95 masks), must be kept for health care workers and others providing direct care to COVID-19 patients.
 
-Wearing a non-medical mask or face covering while out in public is optional. If you do choose to wear one, refer to our [guidelines on wearing non-medical masks and how to make your own](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/instructions-sew-no-sew-cloth-face-covering.html).
+Wearing a non-medical mask or face covering while out in public is recommended for periods of time when it is not possible to consistently maintain a 2-metre physical distance from others, particularly in crowded public settings, such as:
+
+- stores
+- shopping areas
+- public transportation 
+
+Public health officials will make recommendations based on a number of factors, including the rates of infection and/or transmission in the community. Recommendations may vary from location to location.
+
+If you do choose to wear one, refer to the: 
+- [guidelines on wearing non-medical masks and how to make your own](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/instructions-sew-no-sew-cloth-face-covering.html)
+- [COVID-19 Special Advisory Committee](http://www.phn-rsp.ca/sac-covid-ccs/index-eng.php)'s recommendations on the [use of non-medical cloth masks or face coverings in community settings](http://www.phn-rsp.ca/sac-covid-ccs/wearing-masks-community-eng.php)
 
 Masks alone will not prevent the spread of COVID-19. You must consistently and strictly adhere to good hygiene and public health measures, including frequent hand washing and physical (social) distancing.
 
