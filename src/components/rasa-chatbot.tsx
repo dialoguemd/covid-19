@@ -264,6 +264,7 @@ const WidgetContainer = styled.div`
   .rw-carousel-container .rw-carousel-card .rw-carousel-card-subtitle {
     height: auto;
     flex: 1 0 auto;
+    white-space: pre-wrap;
   }
 `
 
