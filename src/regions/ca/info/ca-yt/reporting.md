@@ -16,7 +16,7 @@ In communities:
 Call your local health centre to arrange for testing. [Find a community health centre](https://yukon.ca/en/health-and-wellness/hospitals-and-health-centres/find-hospital-or-health-centre).
 
 In Whitehorse:
-Call 811 or your family physician. They may refer you to the [Respiratory Assessment Centre](https://yukon.ca/en/find-respiratory-assessment-centre) if needed. Only people who meet the screening criteria for COVID-19 will be tested.
+Call 811 or your family physician.
 
 [Source: Government of Yukon](https://yukon.ca/en/common-questions-covid-19#Testing-for-COVID-1912)
 
