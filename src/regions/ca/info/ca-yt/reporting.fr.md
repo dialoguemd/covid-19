@@ -13,7 +13,7 @@ Dans les deux cas, appelez le 811 avant de vous rendre sur un site de dépistage
 **Comment les habitants des communautés peuvent-ils se faire dépister ?**
 Dans les communautés : Appelez votre centre de santé local pour organiser un test de dépistage. [Trouvez un centre de santé communautaire](https://yukon.ca/fr/sante-et-bien-etre/hopitaux-et-centres-de-sante/hopitaux-et-centres-de-sante).
 
-À Whitehorse : Appelez le 811 ou votre médecin de famille. Ils pourront vous orienter vers le [Centre d'évaluation respiratoire](https://yukon.ca/fr/find-respiratory-assessment-centre) si nécessaire. Seules les personnes qui répondent aux critères de dépistage de la COVID-19 seront testées.
+À Whitehorse : Appelez le 811 ou votre médecin de famille.
 
 [Source : Gouvernement du Yukon (actuellement en anglais seulement, la page est en cours de traduction](https://yukon.ca/en/common-questions-covid-19#Testing-for-COVID-1912)
 
