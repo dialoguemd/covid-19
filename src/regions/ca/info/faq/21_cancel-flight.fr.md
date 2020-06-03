@@ -6,7 +6,7 @@ Plus d'informations [ici](https://voyage.gc.ca/voyager/avertissements?_ga=2.4190
 
 Notez que le temps d'attente pour discuter avec un agent de compagnie aérienne peut dépasser 3-4 heures. Si vous avez réservé avant une certaine date, certaines entreprises proposent de compléter un formulaire en ligne au lieu de passer du temps à entendre sur la ligne de la compagnie. Visitez leur site web avant d'appeler. Voici les informations des principales compagnies aériennes au Canada:
 
-- [Air Transat](https://www.airtransat.com/fr-CA/info-voyage/coronavirus)
+- [Air Transat](https://www.airtransat.com/en-CA/travel-information/coronavirus)
 - [Air Canada](https://www.aircanada.com/ca/fr/aco/home/book/travel-news-and-updates/2020/covid-19.html)
 - [WestJet](https://www.westjet.com/en-ca/travel-info/coronavirus) (Anglais seulement)
 
