@@ -10,4 +10,4 @@ We do not send any information documents produced by Dialogue about COVID-19, as
 
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
 
-- [C19.ca](https://www.c19.ca/)
+- [Canada's trusted resource for COVID-19 updates](https://www.c19.ca/)
