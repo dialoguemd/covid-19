@@ -1,9 +1,9 @@
-## Une personne avec laquelle j'ai un contact direct ou avec laquelle je vis est malade
+## Que dois-je faire si j'ai été en contact avec une personne qui a ou est soupçonnée d'avoir le COVID-19 ?
 
-Si une personne avec laquelle vous êtes en contact direct est malade, les lignes directrices suggèrent que vous devriez également vous mettre en quarantaine pendant une période de 2 semaines afin d'éviter de propager la maladie.
+Vous devez vous auto-isoler jusqu'à ce que vous puissiez parler avec les autorités de votre province pour déterminer la meilleure conduite à adopter pour éviter la propagation à d'autres personnes. Il se peut qu'on vous demande de poursuivre votre auto-isolement pendant deux semaines.
 
 Plus d'informations ici:
 
-- [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/covid-19-comment-isoler-chez-soi.html)
-- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/get-your-household-ready-for-COVID-19.html) (Anglais seulement)
-- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fsteps-when-sick.html) (Anglais seulement)
+- [Maladie à coronavirus (COVID-19): Prévention et risques](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
+
+- [Comment s'isoler chez soi lorsqu'on est peut-être atteint de la COVID-19](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/covid-19-comment-isoler-chez-soi.html)
