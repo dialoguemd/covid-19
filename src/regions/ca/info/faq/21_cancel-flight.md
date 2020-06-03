@@ -6,7 +6,7 @@ Note that the waiting time to get hold of an agent can exceed 3-4 hours. If you 
 
 Here is the information from main airlines in Canada:
 
-- [Air Transat](https://www.airtransat.com/fr-CA/info-voyage/coronavirus)
+- [Air Transat](https://www.airtransat.com/en-CA/travel-information/coronavirus)
 - [Air Canada](https://www.aircanada.com/ca/en/aco/home/book/travel-news-and-updates/2020/covid-19.html)
 - [WestJet](https://www.westjet.com/en-ca/travel-info/coronavirus)
 
