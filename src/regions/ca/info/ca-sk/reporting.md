@@ -18,7 +18,7 @@ Testing is available and recommended if you have unexplained new or worsening sy
 - Loss of appetite (difficulty feeding for children)
 - Loss of sense of taste or smell
 - Shortness of breath
-- difficulty breathing
+- Difficulty breathing
 
 You can obtain a referral to a community testing centre by phoning:
 
