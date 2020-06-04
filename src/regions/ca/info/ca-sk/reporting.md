@@ -5,7 +5,7 @@ Testing is available and recommended if you have unexplained new or worsening sy
 - Fever
 - Cough
 - Headache
-- Muscle and/or join aches and pains
+- Muscle and/or joint aches and pains
 - Sore throat
 - Chills
 - Runny nose
