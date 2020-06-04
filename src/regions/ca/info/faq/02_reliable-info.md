@@ -9,3 +9,5 @@ We do not send any information documents produced by Dialogue about COVID-19, as
 - [World Health Organization](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
 
 - [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+
+- [Canada's trusted resource for COVID-19 updates](https://www.c19.ca/)

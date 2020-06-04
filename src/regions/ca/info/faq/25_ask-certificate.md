@@ -5,4 +5,5 @@ Refer your employer to government guidelines. They are asking employers to relax
 Under "[For workplaces](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html)", click on "Flexible arrangements and sick leave":
 
 - [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html)
+- [Canadian medical association (CMA)](https://www.cma.ca/news-releases-and-statements/cma-urges-all-employers-discontinue-requirement-sick-notes-during)
 - [CNESST](https://www.cnesst.gouv.qc.ca/salle-de-presse/Pages/coronavirus.aspx)

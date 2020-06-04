@@ -5,7 +5,7 @@ La COVID-19 est une nouvelle maladie qui n'a pas encore été identifiée chez l
 
 Il y a eu 2 autres coronavirus qui se sont transmis des animaux aux humains, et ont causé des maladies graves chez l'humain :
 
-- le coronavirus du syndrome respiratoire aigu sévère (SRAS-CoV)
-- le coronavirus du syndrome respiratoire du Moyen-Orient (CoV-SRMO)
+- [le coronavirus du syndrome respiratoire aigu sévère (SRAS-CoV)](https://www.canada.ca/fr/sante-canada/services/preoccupations-liees-sante/maladies-affections/sras-syndrome-respiratoire-aigu-severe.html)
+- [le coronavirus du syndrome respiratoire du Moyen-Orient (CoV-SRMO)](https://www.canada.ca/fr/sante-publique/services/maladies/syndrome-respiratoire-moyen-orient-srmo.html)
 
 [Source](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html)

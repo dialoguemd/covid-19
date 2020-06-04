@@ -6,6 +6,7 @@ Des tests sont disponibles et recommandés si vous présentez de nouveaux sympt�
 - Toux
 - Mal de tête
 - Maux et douleurs
+- Douleurs musculaires et/ou articulaires
 - Mal de gorge
 - Frissons
 - Nez qui coule
@@ -17,7 +18,8 @@ Des tests sont disponibles et recommandés si vous présentez de nouveaux sympt�
 - Diarrhée
 - Perte d'appétit (difficulté à nourrir les enfants)
 - Perte du goût ou de l'odorat
-- Essoufflement ou difficulté à respirer
+- Essoufflement
+- Difficulté à respirer
 
 Vous pouvez obtenir une orientation vers un centre de dépistage communautaire en téléphonant :
 

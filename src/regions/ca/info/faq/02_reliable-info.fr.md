@@ -4,8 +4,10 @@ Seulement les sources officielles doivent être considérées car elles sont les
 
 Nous n’envoyons aucun document d’information produit par dialogue au sujet de la Covid-19, la situation autour du Virus évoluant rapidement, nous préférons vous diriger vers des sources officielles ci jointes.
 
-- **[Source fédérale officielle](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html)**
+- [Source fédérale officielle](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html)
 
-- **[Source provinciale officielle](https://msss.gouv.qc.ca/professionnels/maladies-infectieuses/coronavirus-2019-ncov/)**
+- [Organisation mondiale de la santé](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
 
-- **[Source fiable de l'organisation mondiale de la santé](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)**
+- [Centers for Disease Control and Prevention (en anglais seulement](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+
+- [La ressource fiable canadienne pour les mises à jour pour le COVID-19](https://fr.c19.ca/)

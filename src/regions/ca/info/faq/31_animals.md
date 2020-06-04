@@ -24,5 +24,4 @@ These recommendations will be updated as more information becomes available.
 
 More information here:
 
-- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals)
-- [Governement of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
+- [Governement of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/animals-covid-19.html)

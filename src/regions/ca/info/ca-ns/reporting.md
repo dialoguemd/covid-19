@@ -1,6 +1,6 @@
 ## Nova Scotia: If you think you might have been exposed to COVID-19
 
-If you have any one of the COVID-19 symptoms, or any other symptoms that concern you, call 811 for assessment by a nurse.
+If you have any one of the [COVID-19 symptoms](https://novascotia.ca/coronavirus/when-to-seek-help/#symptoms), or any other symptoms that concern you, call 811 for assessment by a nurse.
 
 Nova Scotia Health Authority has established [COVID-19 assessment centres](http://www.nshealth.ca/coronavirus-assessment). If you need in-person assessment, 811 will refer you to a centre. Don't go to a COVID-19 assessment centre unless 811 referred you.
 

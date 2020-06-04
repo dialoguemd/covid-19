@@ -6,7 +6,7 @@ COVID-19 is a new disease that has not been previously identified in humans. Rar
 
 There have been 2 other specific coronaviruses that have spread from animals to humans and which have caused severe illness in humans. These are the:
 
-- Severe acute respiratory syndrome coronavirus (SARS CoV)
-- Middle East respiratory syndrome coronavirus (MERS CoV)
+- [Severe acute respiratory syndrome coronavirus (SARS CoV)](https://www.canada.ca/en/health-canada/services/health-concerns/diseases-conditions/sars-severe-acute-respiratory-syndrome.html)
+- [Middle East respiratory syndrome coronavirus (MERS CoV)](https://www.canada.ca/en/public-health/services/diseases/middle-east-respiratory-syndrome-mers.html)
 
 [Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html?topic=ex-col-faq#a)

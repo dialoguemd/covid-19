@@ -4,4 +4,6 @@ Utilisez cet [outil d'auto-évaluation (en anglais seulement)](https://myhealth.
 
 Le test vous dira si vous êtes atteint de la COVID-19 au moment de votre test, même si vous ne présentez pas de symptômes, mais il ne vous dira pas si vous avez déjà été atteint de la COVID-19. Il ne vous dira pas non plus si vous êtes immunisé contre la COVID-19.
 
+Si le résultat de votre test indique que vous n'avez pas le COVID-19, vous devez quand même pratiquer la distanciation physique.
+
 [Source: Gouvernement de l'Alberta](https://www.albertahealthservices.ca/default.aspx)
