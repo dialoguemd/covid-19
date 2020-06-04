@@ -5,7 +5,7 @@ Testing is available and recommended if you have unexplained new or worsening sy
 - Fever
 - Cough
 - Headache
-- Aches and pains
+- Muscle and/or join aches and pains
 - Sore throat
 - Chills
 - Runny nose
@@ -17,7 +17,8 @@ Testing is available and recommended if you have unexplained new or worsening sy
 - Diarrhea
 - Loss of appetite (difficulty feeding for children)
 - Loss of sense of taste or smell
-- Shortness of breath or difficulty breathing
+- Shortness of breath
+- difficulty breathing
 
 You can obtain a referral to a community testing centre by phoning:
 
