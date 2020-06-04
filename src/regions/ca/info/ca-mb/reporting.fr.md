@@ -12,14 +12,14 @@ Les responsables de la santé publique insistent pour que toute personne ayant d
 
 La distanciation sociale sert à réduire intentionnellement les contacts étroits entre les gens, dans l’espoir de mettre fin à la propagation de tout virus dans la collectivité. Voici comment appliquer la distanciation sociale par tous les Manitobains :
 
-- Annuler ou reporter toute activité réunissant plus de 10 participants.
-- Réduire au minimum les contacts prolongés (plus de 10 minutes) rapprochés (moins de deux mètres) avec d’autres personnes en public.
-- Éviter de fraterniser en se touchant (p. ex., poignées de mains).
-- Désinfecter les surfaces souvent utilisées.
-- Suivre les conseils du service de santé publique concernant la surveillance des symptômes et l’isolement volontaire après un voyage à l’étranger ou l’exposition à une personne atteinte de la COVID-19.
-- Renoncer à voyager, à se rendre à des endroits très fréquentés et à assister à des rassemblements, surtout si votre risque en matière de santé est élevé.
+- Annuler ou reporter les événements de grande envergure comptant plus de 25 participants (en intérieur) ou 50 participants (en extérieur);
+- Réduire au minimum les contacts prolongés (plus de 10 minutes) et étroits (moins de deux mètres) avec d’autres personnes en public;
+- éviter le contact direct (toucher) pour les salutations, comme les poignées de main;
+- Désinfecter les surfaces fréquemment utilisées;
+- Suivre les conseils du service de santé publique en matière d’autosurveillance et d’isolement volontaire s’ils ont voyagé ou ont été exposés à une personne infectée par le virus;
+- Envisager d’éviter les déplacements, les endroits très fréquentés et les activités réunissant une foule, particulièrement s’ils sont à risque plus élevé.
 
-Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vous laver les mains souvent, et maintenir une distance d’environ 2 mètres entre chaque personne.
+Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vous laver les mains souvent, et maintenir une distance d’environ 2 mètres entre vous-même et les autres personnes.
 
 [Source: Gouvernment du Manitoba](https://www.gov.mb.ca/health/coronavirus/public.fr.html)
 
