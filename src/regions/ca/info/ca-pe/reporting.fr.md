@@ -4,7 +4,7 @@ Le 8-1-1 reçoit un volume d’appel supérieur à la normale. Cela pourrait pre
 
 Composez le 8-1-1 pour un dépistage si vous êtes dans l'une des situations suivantes :
 
-Si vous développez des symptômes de la COVID-19, appelez votre médecin de famille ou votre infirmier praticien. Si vous n’avez pas de médecin de famille ou d’infirmier praticien ou si vous êtes incapables de les joindre, composez le 8-1-1.
+Si vous développez des [symptômes de la COVID-19](https://www.princeedwardisland.ca/fr/information/sante-et-mieux-etre/propos-de-la-covid-19-coronavirus), appelez votre médecin de famille ou votre infirmier praticien. Si vous n’avez pas de médecin de famille ou d’infirmier praticien ou si vous êtes incapables de les joindre, composez le 8-1-1.
 
 Toute personne qui a voyagé à l'extérieur de l'Île-du-Prince-Édouard doit s'isoler pendant 14 jours. Cessez tous les voyages non essentiels à l'extérieur de l'Île-du-Prince-Édouard.
 
