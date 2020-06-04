@@ -4,4 +4,6 @@ Use this [self-assessment tool](https://myhealth.alberta.ca/Journey/COVID-19/Pag
 
 Testing will tell you whether you have COVID-19 at the time of your test, even if you are not showing symptoms.Testing will not tell you whether you have previously had COVID-19. It will also not tell you whether or not you have any immunity to COVID-19.
 
+If your test result indicates that you do not have COVID-19, you must still practice physical distancing.
+
 [Source: Government of Alberta](https://www.albertahealthservices.ca/)
