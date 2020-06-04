@@ -4,7 +4,7 @@ Non, vous êtes entre de bonnes mains, nous veillerons à vous soutenir au mieux
 
 Nous pouvons vous aider à trouver ces informations avec Chloé.
 
-Plus d'information [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html). 
+Plus d'information [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html).
 
 De nombreuses ressources offrent des informations sur la manière de gérer votre propre anxiété, celle de vos employés ou même celle de vos enfants:
 
