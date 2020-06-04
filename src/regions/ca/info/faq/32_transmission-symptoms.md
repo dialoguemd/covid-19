@@ -7,4 +7,4 @@ Experts are currently studying in more details the transmission of the virus. Al
 More information here:
 
 - [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html)
-- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html) 
+- [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html)
