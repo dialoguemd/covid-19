@@ -6,7 +6,7 @@ Die Bundesregierung hat am 3. Juni 2020 entschieden, dass die Reisewarnung für 
 
 Noch im Ausland befindliche Touristen sollten zurückreisen, solange es noch Reisemöglichkeiten gibt.
 
-Zu den eingeführten vorübergehenden Grenzkontrollen an den Binnengrenzen und den Reisebeschränkungen im außereuropäischen Luftverkehr informiert das [Bundesinnenministerium auf seiner Internetseite](https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/bevoelkerungsschutz/coronavirus/coronavirus-faqs.html).
+Zu den eingeführten vorübergehenden Grenzkontrollen an den Binnengrenzen und den Reisebeschränkungen im außereuropäischen Luftverkehr informiert das [Bundesinnenministerium auf seiner Internetseite](https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/bevoelkerungsschutz/coronavirus/coronavirus-faqs.html#doc13738352bodyText3).
 
 Einige Länder haben Einreisesperren oder Sonderkontrollen für bestimmte Personengruppen oder Flüge aus bestimmten Regionen erlassen. Hiervon sind teilweise auch Reisende aus Deutschland betroffen. Reisende sollten sich daher vor Reiseantritt bei [der Botschaft oder dem Konsulat Ihres Reiselandes in Deutschland](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten) informieren.
 
