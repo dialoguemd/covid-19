@@ -281,8 +281,8 @@ const onSocketEvent = {
 const customMessageDelay = (message: string) => {
   if (message === 'undefined') return 0
 
-  const delay = message.length * 15
-  return clamp(delay, 1500, 4000)
+  const delay = message.length * 5
+  return clamp(delay, 500, 1500)
 }
 
 const RasaChatWidget: React.FC<Props> = ({
