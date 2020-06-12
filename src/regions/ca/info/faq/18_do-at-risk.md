@@ -1,4 +1,4 @@
-## What should I do if I am more at elevated risk should I catch coronavirus?
+## What should I do if I am at higher risk of complication for the COVID-19?
 
 If you are at higher risk of getting very sick from COVID-19, you should:
 
