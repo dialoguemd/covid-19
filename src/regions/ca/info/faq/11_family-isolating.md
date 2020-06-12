@@ -19,5 +19,3 @@ Experts also recommend that the person stay away from pets in the house until th
   - Clean things in your home with soap and water, but also use disinfectants on appropriate surfaces. Some cleaning products work well to kill bacteria, but not viruses, so it's important to check labels.
 
 Source: UPtodate
-
-More information [here](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/how-to-care-for-person-with-covid-19-at-home-advice-for-caregivers.html).
