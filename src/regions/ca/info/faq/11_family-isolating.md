@@ -1,4 +1,4 @@
-## What to do if omeone in my home has COVID-19?
+## What to do if someone in my home has COVID-19?
 
 The government of Canada has provided [this excellent page](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/how-to-care-for-person-with-covid-19-at-home-advice-for-caregivers.html) which describes all recommended procedures, precautions, cleaning products needed and more.
 
