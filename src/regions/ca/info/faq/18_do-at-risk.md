@@ -14,7 +14,7 @@ If you are at higher risk of getting very sick from COVID-19, you should:
 
 If contact cannot be avoided, take the following precautions:
 
-- keep at least 2 metres between yourself and the other people
+- Keep at least 2 metres between yourself and the other people
 - Wear a mask when with others
 - Give a friendly wave instead of a handshake, kiss or hug
 - Keep interactions brief
