@@ -9,7 +9,7 @@ Also note that it is Dialogue's long-standing policy that we only provide medica
 Signed: Dr Mark Dermer
 
 We do not provide any attestation related to COVID-19 risk or symptoms, based on CMA guidelines and virtual practice limitations. A communiqué has been sent to the companies that offer our services. The CMA (Canadian Medical Association) has asked employers to suspend requirements for notes.
- 
+
 This includes but is not limited to: leave of absence, preventive withdrawal from workplace, certificate of good health, proof of negative result, day care attestation.
 
 More information [here](https://www.cma.ca/news-releases-and-statements/cma-urges-all-employers-discontinue-requirement-sick-notes-during).
