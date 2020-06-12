@@ -1,6 +1,6 @@
 ## Can I go out to the groceries store? 
 
-You should NOT GO to the grocery store if :
+You should NOT GO to the grocery store if:
  
 - You have been diagnosed with COVID-19, or are waiting to hear the results of a lab test for COVID-19
  
