@@ -12,14 +12,14 @@ Si vous êtes plus à risque de tomber très malade à cause de COVID-19, vous d
 - Restez à l'écart des personnes malades.
 - Évitez tout contact avec d'autres personnes, en particulier celles qui ont voyagé ou ont été exposées au virus.
 
-Si le contact ne peut être évité, prenez les précautions suivantes :
+Si le contact ne peut être évité, prenez les précautions suivantes:
 
-- gardez au moins 2 mètres entre vous et les autres personnes
+- Gardez au moins 2 mètres entre vous et les autres personnes
 - Porter un masque quand on est avec d'autres personnes
 - Faites un signe de la main amical au lieu d'une poignée de main, d'un baiser ou d'un câlin
 - Soyez bref dans vos interactions
 
-Plus d'informations:
+Plus d'informations ici:
 
 - [Mesures pour réduire la COVID-19 dans votre communauté](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/mesures-reduire-communaute.html)
 - [Masques et des couvre‑visage non médicaux](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/a-propos-masques-couvre-visage-non-medicaux.html)
