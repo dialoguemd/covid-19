@@ -1,4 +1,4 @@
-## Puis-je aller à l'épicerie ?
+## Puis-je aller à l'épicerie?
 
 Vous ne devez PAS aller à l'épicerie si:
 
