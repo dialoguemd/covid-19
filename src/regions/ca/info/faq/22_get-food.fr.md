@@ -1,7 +1,15 @@
-## Puis-je ou dois-je aller chercher de la nourriture?
+## Puis-je aller à l'épicerie?
 
-Si vous êtes à risque (personne âgée de 65 ans et plus, maladies cardiaques, hypertension, diabète, maladies respiratoires chroniques, cancer etc.), ou si votre système immunitaire est affaibli par une maladie ou un traitement médical (par exemple, chimiothérapie), oui, vous devez vous préparer. Si vous avez voyagé ou été en contact avec une personne malade ou en voyage, vous devriez demander à quelqu'un de faire vos courses pour vous, car vous devriez vous isoler. Il peut y avoir des ressources de livraison dans votre région, informez-vous.
+Vous ne devez PAS aller à l'épicerie si:
 
-Prenez des dispositions pour que votre épicerie et vos fournitures soient déposées à votre porte afin de limiter les contacts. Les magasins adaptent leurs politiques pour limiter l'exposition des clients et de leur personnel, qui méritent d'être protégés et fournissent des services essentiels dans cette crise. De plus, la plupart des autorités ferment TOUTES les entreprises NON-ESSENTIELLES. Si vous faites vos courses dans une épicerie ou une pharmacie, veuillez suivre toutes les instructions avec soin et respect en cette période de crise.
+- Vous avez reçu un diagnostic de COVID-19, ou vous attendez de recevoir les résultats d'un test de laboratoire relatif à la COVID-19
 
-Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html)
+- Vous avez des symptômes de la COVID-19, même s'ils sont légers
+
+- Vous avez été en contact avec un cas soupçonné, probable ou confirmé de COVID-19
+
+- Un représentant de la santé publique vous a dit que vous aviez peut-être été exposé à la COVID-19
+
+-Vous revenez d'un voyage hors du Canada et vous présentez des symptômes de la COVID-19 (obligatoire)
+
+Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
