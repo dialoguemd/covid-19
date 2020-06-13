@@ -1,4 +1,4 @@
-## Quelle est la position de Dialogue sur les notes médicales liées au COVID-19 ?
+## Quelle est la position de Dialogue sur les notes médicales liées au COVID-19?
 
 Comme prévu, la pandémie COVID-19 crée une demande sans précédent pour nos services cliniques et une partie importante de cette demande est liée aux demandes de notes médicales pour documenter l'absence, l'isolement ou l'aptitude à retourner au travail.
 
