@@ -2,7 +2,7 @@
 
 Le gouvernement du Canada a fourni [cette excellente page](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/comment-prendre-soin-personne-atteinte-covid-19-maison-conseils-soignants.html) qui décrit toutes les procédures recommandées, les précautions, les produits de nettoyage nécessaires et plus encore.
 
-Si quelqu'un chez vous a le COVID-19, il y a d'autres choses que vous pouvez faire pour vous protéger et protéger les autres :
+Si quelqu'un chez vous a le COVID-19, il y a d'autres choses que vous pouvez faire pour vous protéger et protéger les autres:
 
 - **Tenir la personne malade à l'écart des autres** - La personne malade doit rester dans une chambre séparée et utiliser une autre salle de bain si possible. Elle doit également manger dans sa propre chambre.
 
