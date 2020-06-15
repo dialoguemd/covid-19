@@ -1,5 +1,7 @@
 ## Will the virus be less effective when we get warmer weather?
 
-For the moment, the general consensus is that not enough is known about COVID-19 to determine if the warmer weather will slow its spread. While there are reasons to expect it to spread more easily during winter, some experts at Harvard University believe that since COVID-19 is new to humans, it will spread more readily regardless of the season due to less immunity in humans.
+Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent the coronavirus disease (COVID-19).
 
-[Source 1](http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus/faq) and [Source 2](https://ccdd.hsph.harvard.edu/will-covid-19-go-away-on-its-own-in-warmer-weather/)
+You can catch COVID-19, no matter how sunny or hot the weather is. Countries with hot weather have reported cases of COVID-19. To protect yourself, make sure you clean your hands frequently and thoroughly and avoid touching your eyes, mouth, and nose.
+
+More information [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters).

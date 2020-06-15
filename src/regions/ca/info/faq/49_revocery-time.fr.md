@@ -1,5 +1,11 @@
-## Si je tombe malade, dans combien de temps devrais-je aller mieux?
+## Si je tombe malade, pendant combien de temps suis-je contagieux et/ou quand devrais-je me sentir mieux?
 
-Les symptômes se développent en moyenne de 5 à 7 jours après la contamination, mais peuvent apparaître entre 2 et 12 jours. Par prudence, il est recommandé de prévoir 14 jours d'isolement. La durée moyenne est inconnue et elle peut être extrêmement variable. Certains ne présentent aucun symptôme et d'autres peuvent nécessiter un traitement prolongé de plusieurs semaines. Selon l'Organisation mondiale de la santé, les personnes infectées souffrent généralement d'une maladie légère et se rétablissent en deux semaines environ.
+Selon l'[OMS](https://www.who.int/fr/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---24-february-2020), le temps de guérison semble être d'environ deux semaines pour les infections légères et de trois à six semaines pour les maladies graves.
 
-Plus d'information disponible en cliquant sur [ce lien (en anglais)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf).
+Le délai entre l'exposition au COVID-19 et le moment où les symptômes commencent est généralement de cinq à six jours, mais peut aller de 1 à 14 jours.
+
+Plus d'information [ici](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses).
+
+Si vous vous remettez de la COVID-19, il est important de rester à la maison et de vous "isoler" jusqu'à ce que votre médecin ou votre infirmière vous dise que vous pouvez reprendre vos activités normales en toute sécurité. S'isoler signifie rester à l'écart des autres personnes, même de celles avec qui vous vivez. Le moment où vous pourrez mettre fin à l'auto-isolement dépendra du temps écoulé depuis que vous avez eu des symptômes et, dans certains cas, du fait que vous ayez subi un test négatif (montrant que le virus n'est plus dans votre corps).
+
+Source: Uptodate

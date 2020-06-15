@@ -1,16 +1,21 @@
 ## Est ce que je dois porter un masque lorsque je sors dehors?
 
-Le port d’un masque, en dehors de lieux avec directives particulières (hôpitaux, cliniques…) n’est pas recommandé pour les personnes en bonne santé.
+Certaines juridictions exigent désormais des masques, par exemple dans les bureaux des services publics, les bibliothèques et autres. Alors que le Canada prévoit de rouvrir ses portes, il est important de se conformer à la réglementation et de coopérer avec les représentants officiels, les propriétaires de magasins et de restaurants, entre autres, pour la protection de tous.
 
-En effet, il existe plusieurs risques associés au port du masque :
+**Port du masque ou d'un couvre-visage**
 
-- Un faux effet de sécurité, qui réduit votre vigilance à ne pas toucher de multiples surfaces, à ne pas vous laver les mains ou à éviter de vous toucher le visage
-- Un risque de contamination lorsque vous mettez, ajustez ou enlever et jeter votre masque
+Le port d'un masque ou d'un couvre-visage non médical fait maison dans la communauté est recommandé dans certaines circonstances lorsqu'une distance de 2 mètres ne peut être maintenue entre soi et les autres, en particulier dans les lieux achalandés, comme lorsque:
 
-Il est cependant important de continuer à éviter tout rassemblement, bien vous lavez les mains, touchez les surfaces avec un tissu et garder une distance de 2 mètres avec les autres personnes.
+- Vous faites vos courses
+- Que vous utilisez les transports en commun
 
-Si vous avez des problèmes de santé, qu’ils soient des problèmes respiratoires aigües (toux, nez qui coule…), chronique ou une condition qui diminue votre système immunitaire, ou si vous prenez soin de quelqu’un qui est infecté, il est cependant conseillé de porter un masque, de bien l’ajuster dès la pose, de le changer régulièrement et de l’enlever par les lanières puis de vous laver les mains.
+Veuillez lire les [lignes directrices concernant le port de masques non médicaux et les instructions pour en fabriquer un](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/a-propos-masques-couvre-visage-non-medicaux.html).
 
-[Voici](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/comment-prendre-soin-personne-atteinte-covid-19-maison-conseils-soignants.html) comment prendre soin de quelqu’un d’infecté au COVID.
+À lui seul, un masque n'empêchera pas la propagation de la COVID-19. Il faut également suivre à la lettre et en tout temps les consignes d'[hygiène](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html#hygiene) et de [santé publique](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html#p), dont le [lavage fréquent des mains](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/evitez-propagation-du-covid-19-lavez-vos-mains.html) et [l'éloignement physique (distanciation sociale)](https://www.canada.ca/fr/sante-publique/services/publications/maladies-affections/distanciation-sociale.html).
 
-Plus d'informations sur le port du masque [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html#pm) et [ici](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
+Plus d'information ici:
+
+- [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
+- [Réseau pancanadien de santé publique](http://www.phn-rsp.ca/sac-covid-ccs/port-masque-communautaire-fra.php)
+- [VIDÉO: Comment bien porter le masque non médical ou le couvre-visage](https://www.canada.ca/fr/sante-publique/services/video/covid-19-bien-porter-masque-non-medical-couvre-visage.html)
+- [OMS: Quand et comment utiliser un masque?](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)

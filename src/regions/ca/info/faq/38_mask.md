@@ -1,18 +1,22 @@
 ## If I go outside, should I wear a mask?
 
-Wearing a mask, outside of places with special instructions (hospitals, clinics, etc.), is not recommended for healthy people.
+Certain jurisdictions now require masks, for example in public service offices, libraries and more. As Canada plans to reopen it is important to comply with regulations and co-operate with officials, shop and restaurant owners and more, for everyone’s protection.
 
-Indeed, there are several risks associated with wearing a mask:
+**Wearing masks or face coverings**
 
-- A false sense of security, which reduces your vigilance in not touching multiple surfaces, not washing your hands or avoiding touching your face.
-- A risk of contamination when you put on, adjust or remove and discard your mask.
+Wearing a non-medical mask or face covering while out in public is **recommended** for periods of time when it is not possible to consistently maintain a 2-metre physical distance from others, particularly in crowded public settings, such as:
 
-It is important, however, to continue to avoid any gathering, wash your hands well, touch the surfaces with a cloth and keep a distance of 2 meters from other people.
+- Stores
+- Shopping areas
+- Public transportation
 
-If you have any health problems, whether they are acute respiratory problems (cough, runny nose...), chronic or a condition that diminishes your immune system, or if you are caring for someone who is infected, it is, however, advisable to wear a mask. Wash your hands before placing it, adjust it well as soon as you put it on, change it regularly and remove it by the straps and then wash your hands.
+Please read the [Canadian guidelines on wearing non-medical masks and how to make your own](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html).
 
-This is how to care for a person with covid-19 : https://www.canada.ca/en/public-health/services/publications/diseases-conditions/how-to-care-for-person-with-covid-19-at-home-advice-for-caregivers.html
+Masks alone will not prevent the spread of COVID-19. You must consistently and strictly adhere to [good hygiene](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#hygiene) and [public health measures](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p), including frequent [hand washing](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/reduce-spread-covid-19-wash-your-hands.html) and [physical (social) distancing](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/social-distancing.html).
 
-More information about masks [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
+More information here:
 
-Additional information available [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
+- [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
+- [Pan-Canadian Public Health Network](http://www.phn-rsp.ca/sac-covid-ccs/wearing-masks-community-eng.php)
+- [VIDEO: How to wear a mask properly](https://www.canada.ca/en/public-health/services/video/covid-19-wear-non-medical-mask-face-covering-properly.html)
+- [WHO: When and how to wear a mask](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)

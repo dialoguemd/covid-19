@@ -1,4 +1,4 @@
-## La quarantaine de 14 jours requise pour les voyageurs commence après la fin des symptômes, n'est-ce pas?
+## Je reviens de vacances. À partir de quand la quarantaine de 14 jours pour les voyageurs commence-t-elle ? Si je présente des symptômes et que je dois m'isoler, est-ce que ce sont 14 jours de plus?
 
 La période de quarantaine de 14 jours commence le jour de votre retour au Canada. La quarantaine de 14 jours a pour but de voir si vous développez des symptômes après l'exposition et de limiter l'exposition avec d'autres personnes dans l'intervalle. Si votre test est positif, c'est à l'équipe de traitement de décider du moment où vous pourrez rompre l'isolement.
 
