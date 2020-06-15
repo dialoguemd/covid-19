@@ -12,7 +12,6 @@ If you are worried about COVID‑19 or if you have [flu-like symptoms](https://w
 
 - For testing and evaluation in Montréal, visit this [santemontreal.qc.ca](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/testing-covid-19-in-montreal/#c41518).
 
-
 If you have these symptoms:
 
 - Do not go to a medical clinic unless you have first obtained an appointment.
