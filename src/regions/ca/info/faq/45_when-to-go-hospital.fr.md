@@ -1,10 +1,17 @@
 ## Quand dois-je aller à l’hôpital?
 
-Bien qu’il faille éviter les visites inutiles en cliniques, vous devez vous rendre à l’hôpital ou appeler le 911 si vous présentez des symptômes urgents. Dans le cas du COVID-19, ceux-ci comprennent mais ne sont pas limités à :
+Recherchez les signes d'alerte d'urgence\* pour COVID-19. Si une personne présente l'un de ces signes, demandez immédiatement des soins médicaux d'urgence:
 
-- Des difficultés respiratoires ou un essoufflement
-- Des douleurs ou de la pression persistante dans la poitrine
-- Une confusion ou une incapacité à vous lever
-- Des lèvres ou visage bleus
+- Difficultés respiratoires
+- Douleur ou pression persistante dans la poitrine
+- Nouvelle confusion
+- Incapacité à se réveiller ou à rester éveillé
+- Lèvres ou visage bleus
+- Perte soudaine de l'odorat ou du goût pour des raisons inconnues
+- Présence de nouvelles décolorations aux extrémités (doigts ou orteils)
 
-Plus d'informations disponibles [ici](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html) (en anglais seulement).
+\*Il ne s'agit pas d'une liste exhaustive de tous les symptômes possibles. Veuillez appeler votre professionnel de la santé pour tout autre symptôme grave ou qui vous concerne.
+
+Appelez le 911 ou appelez à l'avance votre service d'urgence local : Informez l'opérateur que vous cherchez à faire soigner une personne qui a ou pourrait avoir le COVID-19.
+
+Plus d'informations [ici](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html) (en anglais seulement).
