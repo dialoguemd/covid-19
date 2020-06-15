@@ -1,10 +1,17 @@
 ## When should I go to hospital?
 
-Although unnecessary clinic visits should be avoided, you should go to the hospital or call 911 if you have urgent symptoms. In the case of COVID-19, these include but are not limited to :
+Look for emergency warning signs\* for COVID-19. If someone is showing any of these signs, seek emergency medical care immediately:
 
-- Difficulty breathing or shortness of breath
+- Trouble breathing
 - Persistent pain or pressure in the chest
-- Confusion or inability to get up
-- Blue lips or face
+- New confusion
+- Inability to wake or stay awake
+- Bluish lips or face
+- Sudden loss of smell or taste for unknown reasons
+- Presence of new discolorations in the extremities (fingers or toes)
 
-More information available [here](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html).
+\*This is not an exhaustive list of  all possible symptoms. Please call your medical provider for any other symptoms that are severe or concerning to you.
+
+Call 911 or call ahead to your local emergency facility: Notify the operator that you are seeking care for someone who has or may have COVID-19.
+
+More information [here](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html).
