@@ -10,7 +10,8 @@ The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-0024
 
 If you are worried about COVID‑19 or if you have [flu-like symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285) or [gastroenteritis symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816) or similar to [COVID‑19](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539), you can call 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec. For the hearing impaired (TTY), call 1-800-361 9596 (toll free).
 
-- For testing and evaluation in Montréal, visit this [santemontreal.qc.ca](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/#c37517).
+- For testing and evaluation in Montréal, visit this [santemontreal.qc.ca](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/testing-covid-19-in-montreal/#c41518).
+
 
 If you have these symptoms:
 
