@@ -8,7 +8,7 @@ Vous pouvez vous protéger contre les maladies en prennent les précautions suiv
 - Parlez à votre médecin, obstétricien ou sage-femme de la possibilité de remplacer le rendez-vous par un appel téléphonique ou la vidéoconférence
 - Évitez de recevoir des visiteurs à votre domicile
 - [Lavez vos mains](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/evitez-propagation-du-covid-19-lavez-vos-mains.html) souvent avec de l'eau et du savon pendant au moins 20 secondes
-en l'absence de savon ou d'eau, utilisez un désinfectant pour les mains à base d'alcool
+  en l'absence de savon ou d'eau, utilisez un désinfectant pour les mains à base d'alcool
 - Pratiquez l'[éloignement physique](https://www.canada.ca/fr/sante-publique/services/publications/maladies-affections/distanciation-sociale.html) en gardant au moins 2 mètres de distance entre vous et les autres
 - Évitez de toucher votre bouche, votre nez et vos yeux
 - Évitez les endroits bondés et les heures de pointe et n'allez au magasin que pour des achats essentiels

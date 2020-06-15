@@ -1,6 +1,6 @@
 ## Is it safe to receive a package?
 
-Products shipped within or from outside of Canada could  be contaminated. However, because parcels generally take days or weeks to be delivered, and are shipped at room temperature, the risk of spread is low. There is no known risk of coronaviruses entering Canada on parcels or packages.
+Products shipped within or from outside of Canada could be contaminated. However, because parcels generally take days or weeks to be delivered, and are shipped at room temperature, the risk of spread is low. There is no known risk of coronaviruses entering Canada on parcels or packages.
 
 To protect yourself from COVID-19, make sure to do the following when handling products shipped within or outside of Canada:
 
