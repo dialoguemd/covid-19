@@ -1,4 +1,4 @@
-## Si quelqu'un a eu la COVID-19 et s'en est remis, est-il/elle immunisé.e contre la maladie ?
+## Si quelqu'un a eu la COVID-19 et s'en est remis, est-il/elle immunisé.e contre la maladie?
 
 À mesure que les tests deviennent disponibles au Canada, n'oubliez pas que les médecins sont soumis aux recommandations de la santé publique et de leurs organismes provinciaux d'agrément. Les tests ne peuvent être commandés qu'en conformité avec ces recommandations. 
 
