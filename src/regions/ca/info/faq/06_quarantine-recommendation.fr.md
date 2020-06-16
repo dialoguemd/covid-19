@@ -1,10 +1,10 @@
 ## Est-ce que Dialogue peut recommander médicalement à un employé de se mettre en quarantaine?
 
-Oui nous allons suggérer la quarantaine dans ces différents cas:
+Oui. Pour les clients de Dialogue, chaque cas sera évalué personnellement par un professionnel de la santé et une mise en quarantaine sera recommandée si nécessaire. Par exemple, nous le proposerons à nos clients dans les cas suivants :
 
-1. Si le patient a voyagé hors du Canada dans les 14 derniers jours **ET/OU**
-2. Si le patient a été en contact dans les 14 derniers jours avec une personne ayant des symptômes de toux / fièvre / syndrome grippal **ET/OU**
-3. Si le patient a été en contact étroit avec un cas confirmé ou une personne sous investigation de COVID-19 **ET/OU**
-4. Si le patient présente les symptômes de toux / fièvre / syndrome grippal \*
+- Toute personne présentant l'un des symptômes suivants : fièvre, toux, mal de gorge, écoulement nasal ou maux de tête
+- Toute personne qui, au cours des 14 derniers jours, a prodigué des soins ou a été en contact étroit avec une personne symptomatique connue ou suspectée d'être atteinte de COVID-19
+- Toute personne ayant voyagé à l'extérieur du Canada au cours des 14 derniers jours
+- Tout autre cas où un niveau de risque accru a été identifié
 
-_\*Dialogue va seulement délivrer une note médicale aux patients présentant des symptômes qui justifient une note médicale._
+Toutefois, Dialogue ne publiera pas de notes médicales relatives au COVID, quel que soit le moment. Les protocoles de quarantaine et d'auto-isolement sont imposés par les directives de santé publique. Si les employeurs exigent une attestation, Dialogue renverra les patients à leur autorité de santé publique.
