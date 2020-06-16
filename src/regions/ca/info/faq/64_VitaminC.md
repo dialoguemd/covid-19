@@ -1,5 +1,5 @@
 ## Is vitamin C efficient to fight COVID-19?
 
-At this time, vitamin C’s effectiveness against COVID-19 is still being tested. Evidence is lacking as to whether or not vitamin C supplements help to prevent COVID-19 infection.
+The same principles of nutrition in non COVID-19 critically ill patients should be applied to critically-ill COVID-19 patients. We are not proponents of extra protein supplementation, vitamin C or D supplementation, or trace element supplementation over and above the usual recommended daily doses.
 
-[Source](https://www.healthline.com/nutrition/vitamin-c-coronavirus#vitamin-c-covid-19)
+Source: Uptodate
