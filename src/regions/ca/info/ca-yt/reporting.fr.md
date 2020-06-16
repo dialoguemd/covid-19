@@ -30,7 +30,7 @@ Téléphonez toujours au 811 avant d'aller quelque part pour vous faire tester.
 - Dans les communautés: Appelez votre centre de santé local pour organiser un test de dépistage. [Trouvez un centre de santé communautaire](https://yukon.ca/fr/sante-et-bien-etre/hopitaux-et-centres-de-sante/hopitaux-et-centres-de-sante);
 - À Whitehorse: Appelez le 811 ou votre médecin de famille.
 
-**Que font les centres de santé pour protéger la communauté ?**
+**Que font les centres de santé pour protéger la communauté?**
 
 Tous les centres de santé communautaires sont ouverts. Pour visiter votre centre de santé:
 
