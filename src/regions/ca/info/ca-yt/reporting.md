@@ -1,22 +1,41 @@
 ## Yukon: Who should I contact if I think I have COVID-19?
 
-Someone should be tested for COVID-19 if:
+You should get tested for COVID-19 if you:
 
-- If they’ve travelled OR have had close contact with a person with a recent travel history who was or is now symptomatic OR are a known close contact to a confirmed case of COVID-19 and you have any symptoms such as cough, fever/chills, sore throat, headache, runny nose or nasal congestion, vomitting, diarrhea, fatigue or muscle aches or difficulty breathing
+- Travelled;
+- Had close contact with someone with a recent travel history who has had or now has symptoms; or
+- Had close contact with someone who’s been diagnosed with COVID-19; and
+- Have any of the following symptoms:
 
-OR
+  - Cough;
+  - Fever or chills;
+  - Sore throat;
+  - Headache;
+  - Runny nose or nasal congestion;
+  - Vomitting;
+  - Diarrhea;
+  - Fatigue or muscle aches; or
+  - Difficulty breathing.
 
-- If they have not travelled outside of Yukon but have symptoms such as cough, fever and/or chills, or difficulty breathing
+You should also get tested if you have not travelled outside Yukon but have the following symptoms:
 
-In either case, call 811 before visiting a testing site.
+- Cough;
+- Fever or chills; or
+- Difficulty breathing.
 
-**How can people in communities get tested?**
+Always phone 811 before going anywhere to get tested.
 
-In communities:
-Call your local health centre to arrange for testing. [Find a community health centre](https://yukon.ca/en/health-and-wellness/hospitals-and-health-centres/find-hospital-or-health-centre).
+**Where to get tested?**
 
-In Whitehorse:
-Call 811 or your family physician.
+- In communities: Phone your local health centre to arrange for testing. [Find a community health centre](https://yukon.ca/en/health-and-wellness/hospitals-and-health-centres/find-hospital-or-health-centre);
+- In Whitehorse: Phone 811 or your family physician.
+
+**What health centres are doing to protect the community?**
+
+All community health centres are open. To visit your health centre:
+
+- Follow the instructions posted outside or on the front door of your community health centre; and
+- Whenever possible, phone ahead to book an appointment.
 
 [Source: Government of Yukon](https://yukon.ca/en/common-questions-covid-19#Testing-for-COVID-1912)
 
