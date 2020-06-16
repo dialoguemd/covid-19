@@ -1,6 +1,6 @@
 ## Est-ce que Dialogue peut recommander médicalement à un employé de se mettre en quarantaine?
 
-Oui. Pour les clients de Dialogue, chaque cas sera évalué personnellement par un professionnel de la santé et une mise en quarantaine sera recommandée si nécessaire. Par exemple, nous le proposerons à nos clients dans les cas suivants :
+Oui. Pour les clients de Dialogue, chaque cas sera évalué personnellement par un professionnel de la santé et une mise en quarantaine sera recommandée si nécessaire. Par exemple, nous le proposerons à nos clients dans les cas suivants:
 
 - Toute personne présentant l'un des symptômes suivants : fièvre, toux, mal de gorge, écoulement nasal ou maux de tête
 - Toute personne qui, au cours des 14 derniers jours, a prodigué des soins ou a été en contact étroit avec une personne symptomatique connue ou suspectée d'être atteinte de COVID-19
