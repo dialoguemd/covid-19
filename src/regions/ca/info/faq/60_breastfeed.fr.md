@@ -1,6 +1,5 @@
 ## Puis-je continuer d’allaiter avec ou sans symptômes de covid-19?
 
-Oui. Le lait maternel ne contient pas le virus, il est donc recommandé de continuer l’allaitement même si vous avez des symptômes. De plus, le lait maternel contient des éléments qui favorise le développement du système immunitaire de votre enfant.
-Il est primordiale cependant si vous avez des symptômes de bien protéger votre enfant en vous lavant bien les mains, les mamelons et en portant un masque si vous avez des symptômes respiratoires.
+Actuellement, l'[Agence de la santé publique du Canada (ASPC)](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/directives-provisoires-cas-contacts.html) et l'[Organisation mondiale de la santé (OMS)](http://www.emro.who.int/fr/nutrition/nutrition-infocus/breastfeeding-advice-during-covid-19-outbreak.html) (lien en anglais seulement) recommandent aux mères dont on soupçonne ou prouve la présence de COVID-19 de continuer à allaiter.
 
-[Source](https://www.who.int/fr/news-room/q-a-detail/q-a-on-covid-19-pregnancy-childbirth-and-breastfeeding)
+Plus d'information [ici](https://www.cps.ca/fr/documents/position/lallaitement-par-les-meres-atteintes-dune-covid-19-presumee-ou-confirmee).
