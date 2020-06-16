@@ -2,7 +2,7 @@
 
 Le gouvernement du Canada a de nombreuses recommandations qui visent à protéger la santé des Canadiens et à réduire la propagation de COVID-19.
 
-Voici quelques-unes de ces recommandations :
+Voici quelques-unes de ces recommandations:
 
 - Restez à la maison à moins d'être obligé de vous rendre au travail
   - Parlez à votre employeur de la possibilité de travailler de la maison, si possible
