@@ -37,7 +37,7 @@ Tous les centres de santé communautaires sont ouverts. Pour visiter votre centr
 - Suivez les instructions affichées à l'extérieur ou sur la porte d'entrée de votre centre de santé communautaire;
 - Dans la mesure du possible, téléphonez à l'avance pour prendre rendez-vous.
 
-[Source : Gouvernement du Yukon](https://yukon.ca/fr/questions-frequentes-la-covid-19-au-yukon)
+[Source: Gouvernement du Yukon](https://yukon.ca/fr/questions-frequentes-la-covid-19-au-yukon)
 
 ## Yukon: Recommandations et ouvertures/fermetures des services
 
