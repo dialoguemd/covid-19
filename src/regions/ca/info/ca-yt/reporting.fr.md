@@ -1,4 +1,4 @@
-## Yukon: Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Yukon: Qui dois-je contacter si je pense avoir le COVID-19?
 
 Vous devriez vous faire tester pour le COVID-19 si vous:
 
