@@ -16,7 +16,7 @@ Vous devriez vous faire tester pour le COVID-19 si vous:
   - La diarrhée;
   - Fatigue ou douleurs musculaires; ou
   - Difficulté à respirer.
-  
+
 Vous devez également vous faire tester si vous n'avez pas voyagé hors du Yukon mais que vous présentez les symptômes suivants:
 
 - Toux;
