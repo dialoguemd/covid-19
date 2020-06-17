@@ -11,3 +11,5 @@ Visitor movement within the LTCH should be limited to visiting the resident dire
 All visitors should be required to put on a mask at entry to the LTCH, to reduce the risk of transmitting COVID-19 infection to residents or LTCH staff, which may occur even when no symptoms of illness are recognized.
 
 More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevent-control-covid-19-long-term-care-homes.html#a5).
+
+_Last updated on June 15, 2020_
