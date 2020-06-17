@@ -6,3 +6,5 @@ More information here:
 
 - [Government of Canada](https://www.canada.ca/en/institutes-health-research/news/2020/03/government-of-canada-funds-49-additional-covid-19-research-projects-details-of-the-funded-projects.html)
 - [UK Research and Innovation](https://coronavirusexplained.ukri.org/en/article/vdt0005/)
+
+_Last updated on June 4, 2020_
