@@ -3,3 +3,5 @@
 At this time, testing kits and COVID-19 assessment centres are managed by the government. The determination to get tested relies solely on evidence-based risk assessment and protocols, without regard to whether or not the patient is a resident/provincially-insured.
 
 More information [here](https://covid19.dialogue.co/#/).
+
+_Last updated on June 15, 2020_
