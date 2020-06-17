@@ -1,7 +1,5 @@
 ## Should I stop taking medications that suppress my immune system?
 
-Stopping any active treatments can have immediate and negative effects on your health and you should not do so without speaking with your doctor. Despite what you may have heard, at present there are no medications for which a definite recommendation to stop has been made. Some medications like Ibuprofen are being studied, but there is no clear evidence that it can worsen illness.
+First and foremost, if you are on a medication that suppresses your immune system, DO NOT STOP TAKING YOUR MEDICATION. We know that with everything going on, this might be your first reaction, but this is absolutely not an option. Stopping any sort of treatment plan without direct guidance from your healthcare provider is dangerous and could result in hospitalization, which is clearly undesirable for exposure to coronavirus. Please, continue to take your medication and implement extra precautions in your day to day life until the threat has passed.
 
-Your pharmacist and doctor are excellent sources of information on recommendations for medicines you can use. It is strongly suggested to ask your pharmacist for instructions before taking over-the-counter medication when you have symptoms.
-
-For Children there are some medications and treatments to avoid. Do not rub your child with alcohol to lower fever as it may be absorbed by the skin or enter the lungs and can be toxic • Do not give ibuprofen (Advil®, Motrin®, etc.) to children under the age of six months • Do not give acetylsalicylic acid (Aspirin®, etc.) to children or teenagers under the age of 18.
+More information [here](https://cdhf.ca/health-lifestyle/coronavirus-covid-19-and-the-immunocompromised/).

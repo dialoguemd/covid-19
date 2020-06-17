@@ -9,6 +9,10 @@ The Government of Canada states that you can go for a walk if you:
 - Are not isolating
 
 If you go out for a walk, do not congregate and always practise physical (social) distancing by keeping at least 2 metres apart from others at all times.
-It should be noted that most non-essential businesses are now closed to the public. However, they still engage in e-commerce whenever it is permitted. Essential businesses such as hospitals and pharmacies are still open as well as grocery stores.
 
-[Source 1](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html) and [Source 2](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/essential-services-commercial-activities-covid19/)
+More information here:
+
+- [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
+- [Canada's trusted resource for COVID-19 updates](https://www.c19.ca/)
+
+As Canada reopens, it is important to inform yourself for rules to follow in your province or region and we ask you to comply with all posted instructions at businesses for the protection of all. Remember that although you may be very healthy and unconcerned, you can spread the virus to those who are not as fortunate.

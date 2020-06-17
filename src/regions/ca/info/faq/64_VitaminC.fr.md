@@ -1,5 +1,5 @@
 ## La vitamine C est-elle efficace pour combattre la COVID-19?
 
-Pour le moment, l'efficacité de la vitamine C contre la COVID-19 est toujours en cours d'évaluation. Il n’y a pas suffisamment de données pour déterminer si l’utilisation de suppléments de vitamine C aide à prévenir l’infection par la COVID-19.
+Les mêmes principes de nutrition chez les patients gravement malades non COVID-19 doivent être appliqués aux patients gravement malades COVID-19. Nous ne sommes pas partisans d'une supplémentation en protéines, en vitamine C ou D ou en oligo-éléments au-delà des doses quotidiennes recommandées.
 
-[Source (en anglais)](https://www.healthline.com/nutrition/vitamin-c-coronavirus#vitamin-c-covid-19)
+Source: Uptodate

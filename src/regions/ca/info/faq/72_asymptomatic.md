@@ -1,5 +1,7 @@
 ## What is the proportion of asymptomatic COVID-19 patients?
 
-Most studies show that the proportion of asymptomatic COVID-19 patients is between 40% and 50%.
+As Many as 80 Percent of People with COVID-19 Aren’t Aware They Have the Virus. Researchers say anywhere from 25 percent to 80 percent of people with COVID-19 are unaware they have the virus.
 
-[Source 1](https://www.medrxiv.org/content/10.1101/2020.02.03.20020248v2) and [Source 2](https://www.publichealthontario.ca/-/media/documents/ncov/research-estimating-asymptomatic-proportion-diamond-princess-ship.pdf?la=en)
+More information [here](https://www.healthline.com/health-news/50-percent-of-people-with-covid19-not-aware-have-virus).
+
+This has been confirmed by antibody testing. However, further antibody studies being done at large scale would be needed to clarify this for each area of the country.

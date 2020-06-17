@@ -1,21 +1,43 @@
-## Yukon: Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Yukon: Qui dois-je contacter si je pense avoir le COVID-19?
 
-Une personne doit être testée pour le COVID-19 si :
+Vous devriez vous faire tester pour le COVID-19 si vous:
 
-- S'ils ont voyagé OU ont été en contact étroit avec une personne ayant des antécédents de voyage récents qui était ou est maintenant symptomatique OU sont en contact étroit connu avec un cas confirmé de COVID-19 et que vous présentez des symptômes tels que toux, fièvre/frissons, mal de gorge, maux de tête, écoulement nasal ou congestion nasale, vomissements, diarrhée, fatigue ou douleurs musculaires ou difficultés à respirer
+- Avez voyagé;
+- Avez eu un contact étroit avec une personne ayant des antécédents de voyage récents et qui a eu ou a maintenant des symptômes; ou
+- Avez été en contact étroit avec une personne chez qui le COVID-19 a été diagnostiqué; et
+- Présentez l'un des symptômes suivants:
 
-OU
+  - Toux;
+  - Fièvre ou frissons;
+  - Mal de gorge;
+  - Maux de tête;
+  - Écoulement nasal ou congestion nasale;
+  - Vomissements;
+  - La diarrhée;
+  - Fatigue ou douleurs musculaires; ou
+  - Difficulté à respirer.
 
-- s'ils n'ont pas voyagé en dehors du Yukon mais présentent des symptômes tels que toux, fièvre et/ou frissons, ou des difficultés respiratoires
+Vous devez également vous faire tester si vous n'avez pas voyagé hors du Yukon mais que vous présentez les symptômes suivants:
 
-Dans les deux cas, appelez le 811 avant de vous rendre sur un site de dépistage.
+- Toux;
+- Fièvre ou frissons; ou
+- Difficulté à respirer.
 
-**Comment les habitants des communautés peuvent-ils se faire dépister ?**
-Dans les communautés : Appelez votre centre de santé local pour organiser un test de dépistage. [Trouvez un centre de santé communautaire](https://yukon.ca/fr/sante-et-bien-etre/hopitaux-et-centres-de-sante/hopitaux-et-centres-de-sante).
+Téléphonez toujours au 811 avant d'aller quelque part pour vous faire tester.
 
-À Whitehorse : Appelez le 811 ou votre médecin de famille.
+**Où se faire tester?**
 
-[Source : Gouvernement du Yukon (actuellement en anglais seulement, la page est en cours de traduction](https://yukon.ca/en/common-questions-covid-19#Testing-for-COVID-1912)
+- Dans les communautés: Appelez votre centre de santé local pour organiser un test de dépistage. [Trouvez un centre de santé communautaire](https://yukon.ca/fr/sante-et-bien-etre/hopitaux-et-centres-de-sante/hopitaux-et-centres-de-sante);
+- À Whitehorse: Appelez le 811 ou votre médecin de famille.
+
+**Que font les centres de santé pour protéger la communauté?**
+
+Tous les centres de santé communautaires sont ouverts. Pour visiter votre centre de santé:
+
+- Suivez les instructions affichées à l'extérieur ou sur la porte d'entrée de votre centre de santé communautaire;
+- Dans la mesure du possible, téléphonez à l'avance pour prendre rendez-vous.
+
+[Source: Gouvernement du Yukon](https://yukon.ca/fr/questions-frequentes-la-covid-19-au-yukon)
 
 ## Yukon: Recommandations et ouvertures/fermetures des services
 

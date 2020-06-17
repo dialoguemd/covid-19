@@ -10,6 +10,9 @@ Le gouvernement canadien précise que vous pouvez aller faire une promenade dans
 
 Si vous sortez faire une promenade, évitez les rassemblements et pratiquez toujours la distanciation physique (éloignement social) en maintenant au moins 2 mètres entre vous et les autres en tout temps.
 
-Il convient de noter que la plupart des entreprises non essentielles sont désormais fermées au public. Toutefois, elles continuent à pratiquer le commerce électronique chaque fois que cela est autorisé. Les entreprises essentielles telles que les hôpitaux et les pharmacies sont toujours ouvertes, de même que les épiceries.
+Plus d'informations ici:
 
-[Source 1](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html) et [Source 2](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/fermeture-endroits-publics-commerces-services-covid19/)
+- [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
+- [La resource fiable canadienne pour les mises à jour pour le COVID-19](https://fr.c19.ca/)
+
+À l'occasion de la réouverture du Canada, il est important de vous informer des règles à suivre dans votre province ou région et nous vous demandons de respecter toutes les instructions affichées dans les entreprises pour la protection de tous. N'oubliez pas que même si vous êtes en très bonne santé et que vous ne vous en souciez pas, vous pouvez transmettre le virus à ceux qui n'ont pas autant de chance.

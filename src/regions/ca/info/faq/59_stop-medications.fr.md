@@ -1,7 +1,5 @@
-## Dois-je arrêter de prendre des médicaments qui affaiblissent mon système immunitaire ?
+## Dois-je arrêter de prendre des médicaments qui affaiblissent mon système immunitaire?
 
-L'arrêt de tout traitement actif peut avoir des effets immédiats et négatifs sur votre santé et vous ne devez pas le faire sans en parler à votre médecin. Malgré ce que vous avez pu entendre, il n'existe actuellement aucun médicament pour lequel une recommandation d'arrêt définitif a été formulée. Certains médicaments comme l'ibuprofène sont à l'étude, mais il n'y a pas de preuve évidente qu'ils puissent aggraver la maladie.
+D’abord et avant tout, si vous prenez des médicaments qui suppriment votre système immunitaire, N’ARRÊTEZ PAS DE PRENDRE VOS MÉDICAMENTS. Nous sommes conscients qu’avec tout ce qui se passe, cela pourrait être votre première réaction, mais ce n’est absolument pas une option. Il est dangereux d’arrêter n’importe quel plan de traitement sans obtenir les conseils directs de votre fournisseur de soins et vous pourriez vous retrouver à l’hôpital, ce qui est vraiment le dernier endroit où vous voulez être en ce moment. Veuillez continuer à prendre vos médicaments et à mettre en œuvre les précautions additionnelles dans votre vie de tous les jours jusqu’à ce que la menace ait été levée.
 
-Votre pharmacien et votre médecin sont d'excellentes sources d'information sur les recommandations de médicaments que vous pouvez utiliser. Il est fortement conseillé de demander des instructions à votre pharmacien avant de prendre des médicaments en vente libre lorsque vous avez des symptômes.
-
-Pour les enfants, il existe certains médicaments et traitements à éviter. Ne frottez pas votre enfant avec de l'alcool pour faire baisser la fièvre car il peut être absorbé par la peau ou pénétrer dans les poumons et peut être toxique - Ne donnez pas d'ibuprofène (Advil®, Motrin®, etc.) aux enfants de moins de six mois - Ne donnez pas d'acide acétylsalicylique (Aspirine®, etc.) aux enfants ou aux adolescents de moins de 18 ans.
+Plus d'information [ici](https://cdhf.ca/fr/health-lifestyle/le-coronavirus-covid-19-et-les-personnes-immunodeprimees/).

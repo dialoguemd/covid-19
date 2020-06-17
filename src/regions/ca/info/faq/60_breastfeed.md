@@ -1,7 +1,5 @@
 ## Can I continue breastfeeding with or without covid-19 symptoms?
 
-Yes, breast milk does not contain the virus, so it is recommended that you continue breastfeeding even if you have symptoms. In addition, breast milk contains elements that promote the development of your child's immune system.
+Currently, the [Public Health Agency of Canada (PHAC)](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html) and the [World Health Organization (WHO)](http://www.emro.who.int/nutrition/nutrition-infocus/breastfeeding-advice-during-covid-19-outbreak.html) recommend that mothers with suspected or proven COVID-19 continue to breastfeed.
 
-However, if you have symptoms, it is important to protect your child by washing your hands and nipples well and by wearing a mask if you have respiratory symptoms.
-
-[Source](https://www.who.int/news-room/q-a-detail/q-a-on-covid-19-pregnancy-childbirth-and-breastfeeding)
+More information [here](https://www.cps.ca/en/documents/position/breastfeeding-when-mothers-have-suspected-or-proven-covid-19).
