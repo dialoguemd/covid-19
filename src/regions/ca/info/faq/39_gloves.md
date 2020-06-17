@@ -25,3 +25,5 @@
 - Avoid touching your eyes, nose and mouth with unwashed hands.
 
 More information [here](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/how-to-care-for-person-with-covid-19-at-home-advice-for-caregivers.html).
+
+_Last updated on June 15, 2020_
