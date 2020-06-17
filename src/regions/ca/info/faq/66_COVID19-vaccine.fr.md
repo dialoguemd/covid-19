@@ -6,3 +6,5 @@ Plus d'information ici:
 
 - [Gouvermenent du Canada](https://www.canada.ca/fr/instituts-recherche-sante/nouvelles/2020/03/le-gouvernement-du-canada-finance-49nouveaux-projets-de-recherche-sur-la-covid-19--details-des-projets-finances.html)
 - [UK Research and Innovation](https://coronavirusexplained.ukri.org/en/article/vdt0005/) (en anglais)
+
+_Dernière mise à jour le 4 juin 2020_
