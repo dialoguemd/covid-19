@@ -5,3 +5,5 @@ S'exposer au soleil ou à des températures supérieures à 25 °C N'EMPÊCHE PA
 Vous pouvez contracter la COVID-19 sous n'importe quel climat, même par temps chaud ou ensoleillé. Les pays où le climat est chaud ont rapporté des cas de COVID-19. Pour vous protéger, veillez à vous laver les mains fréquemment et soigneusement et évitez de vous toucher les yeux, la bouche et le nez.
 
 Plus d'information [ici](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters).
+
+_Dernière mise à jour le 15 juin 2020_
