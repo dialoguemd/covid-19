@@ -16,3 +16,5 @@ Usually, you will have to cancel with the company first, then fill the cancellat
 If you don’t have travel cancellation insurance or if you prefer this option, most companies offer a refund in credits to use before the end of the year.
 
 For information on the latest travel advice follow [this link](https://travel.gc.ca/travelling/advisories)
+
+_Last updated on June 4, 2020_
