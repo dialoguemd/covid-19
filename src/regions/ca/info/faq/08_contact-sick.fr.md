@@ -7,3 +7,5 @@ Plus d'informations ici:
 - [Maladie à coronavirus (COVID-19): Prévention et risques](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
 
 - [Comment s'isoler chez soi lorsqu'on est peut-être atteint de la COVID-19](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/covid-19-comment-isoler-chez-soi.html)
+
+_Dernière mise à jour le 4 juin 2020_
