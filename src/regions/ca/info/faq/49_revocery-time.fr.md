@@ -9,3 +9,5 @@ Plus d'information [ici](https://www.who.int/fr/emergencies/diseases/novel-coron
 Si vous vous remettez de la COVID-19, il est important de rester à la maison et de vous "isoler" jusqu'à ce que votre médecin ou votre infirmière vous dise que vous pouvez reprendre vos activités normales en toute sécurité. S'isoler signifie rester à l'écart des autres personnes, même de celles avec qui vous vivez. Le moment où vous pourrez mettre fin à l'auto-isolement dépendra du temps écoulé depuis que vous avez eu des symptômes et, dans certains cas, du fait que vous ayez subi un test négatif (montrant que le virus n'est plus dans votre corps).
 
 Source: Uptodate
+
+_Dernière mise à jour le 15 juin 2020_
