@@ -14,4 +14,4 @@ Cela comprend, sans s'y limiter : les congés, le retrait préventif du lieu de 
 
 Pour plus d'informations, cliquez [ici](https://www.cma.ca/fr/communiques-de-presse-et-declarations/lamc-exhorte-tous-les-employeurs-cesser-dexiger-des).
 
-_Last updated on June 13, 2020_
+_Dernière mise à jour le 13 juin 2020_
