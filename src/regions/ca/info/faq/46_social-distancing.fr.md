@@ -7,3 +7,5 @@ Ensemble, nous pouvons ralentir la propagation de la COVID-19 en faisant un effo
 Dans la mesure du possible, maintenez une distance d'au moins un mètre entre vous et les autres. Cela est particulièrement important si vous êtes à côté d'une personne qui tousse ou éternue. Étant donné que certaines personnes infectées ne présentent pas encore de symptômes ou que leurs symptômes peuvent être légers, maintenir une distance physique avec tout le monde est une bonne idée si vous vous trouvez dans une zone où circule le COVID-19.
 
 [Organisation Mondiale de la Santé (OMS)](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses)
+
+_Dernière mise à jour le 15 juin 2020_
