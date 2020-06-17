@@ -11,3 +11,5 @@ Serological tests are not appropriate for early diagnosis of COVID-19. This is l
 For serological test requirements, please consult the [requirements for serological antibody tests](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/covid19-requirements-serological-antibody-tests.html) guidance submitted under the COVID-19 interim order.
 
 [More information here](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid-19/serological-testing.html).
+
+_Last updated on June 16, 2020_
