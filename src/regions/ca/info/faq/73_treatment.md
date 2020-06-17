@@ -4,7 +4,7 @@
 
 Most people with mild coronavirus illness will recover on their own, but some will require hospital care.
 
-If you are concerned about your symptoms, you should self-monitor and consult your health care provider. They may recommend steps you can take to relieve symptoms.The hospitalization rate is clearly higher than that for seasonal flu so careful self monitoring is required.
+If you are concerned about your symptoms, you should self-monitor and consult your health care provider. They may recommend steps you can take to relieve symptoms. The hospitalization rate is clearly higher than that for seasonal flu so careful self monitoring is required.
 
 **Vaccine**
 
