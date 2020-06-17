@@ -9,3 +9,5 @@ Follow the [prevention practices](https://www.canada.ca/en/public-health/service
   - Avoid any physical contacts with the others
 - When they come home they can change and should wash their hands
 - All highly touched surfaces should be disinfected daily
+
+_Last updated on June 4, 2020_
