@@ -8,3 +8,5 @@ Plus d'informations ici:
 
 - [Organisation Mondiale de la Santé (OMS)](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses)
 - [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html)
+
+_Dernière mise à jour le 16 juin 2020_
