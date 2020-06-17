@@ -15,3 +15,5 @@ Recherchez les signes d'alerte d'urgence\* pour COVID-19. Si une personne prése
 Appelez le 911 ou appelez à l'avance votre service d'urgence local : Informez l'opérateur que vous cherchez à faire soigner une personne qui a ou pourrait avoir le COVID-19.
 
 Plus d'informations [ici](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html) (en anglais seulement).
+
+_Dernière mise à jour le 15 juin 2020_
