@@ -14,4 +14,4 @@ This includes but is not limited to: leave of absence, preventive withdrawal fro
 
 More information [here](https://www.cma.ca/news-releases-and-statements/cma-urges-all-employers-discontinue-requirement-sick-notes-during).
 
-*Last updated on June 13, 2020*
+_Last updated on June 13, 2020_
