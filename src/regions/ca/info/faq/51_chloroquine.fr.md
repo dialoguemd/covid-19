@@ -9,3 +9,5 @@ L’OMS déconseille aux médecins de recommander ou d’administrer aux patient
 Plus d'information [ici](https://www.who.int/fr/news-room/q-a-detail/q-a-hydroxychloroquine-and-covid-19).
 
 Plusieurs essais ont été interrompus et sont étroitement surveillés afin de détecter les dangers associés à ce traitement et il est toujours conseillé de ne jamais l'utiliser en dehors d'un protocole de recherche. Nous surveillons ces études et ces recommandations.
+
+_Dernière mise à jour le 15 juin 2020_
