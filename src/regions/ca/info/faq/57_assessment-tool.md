@@ -15,3 +15,5 @@ Most provinces have developed an online self-assessment tool that you can use to
 - [Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/covid-19-self-assessment)
 - [Northwest Territories](https://www.surveymonkey.com/r/nwt-covid19-self-assessment)
 - [Yukon](https://service.yukon.ca/en/covid-19-self-assessment/)
+
+_Last updated on June 4, 2020_
