@@ -9,3 +9,5 @@ WHO has cautioned physicians against recommending or administering unproven trea
 More information [here](https://www.who.int/news-room/q-a-detail/q-a-hydroxychloroquine-and-covid-19?gclid=EAIaIQobChMIt7GG9KHj6QIVhsDICh315QwYEAAYASAAEgLK7fD_BwE#).
 
 Several trials have been stopped and are being closely monitored for dangers associated with this treatment and there is still advice that this should never be used outside of a research protocol. We are monitoring these studies and recommendations.
+
+_Last updated on June 15, 2020_
