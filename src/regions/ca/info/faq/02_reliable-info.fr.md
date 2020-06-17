@@ -11,3 +11,5 @@ Nous n’envoyons aucun document d’information produit par dialogue au sujet d
 - [Centers for Disease Control and Prevention (en anglais seulement](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
 
 - [La ressource fiable canadienne pour les mises à jour pour le COVID-19](https://fr.c19.ca/)
+
+_Dernière mise à jour le 4 juin 2020_
