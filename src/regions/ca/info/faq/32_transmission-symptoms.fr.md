@@ -8,3 +8,5 @@ Plus d'informations ici:
 
 - [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html) (Anglais seulement)
+
+_Dernière mise à jour le 4 juin 2020_
