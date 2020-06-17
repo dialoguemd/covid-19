@@ -9,3 +9,5 @@ More information [here](https://www.who.int/emergencies/diseases/novel-coronavir
 If you are recovering from COVID-19, it's important to stay home and "self-isolate" until your doctor or nurse tells you it's safe to go back to your normal activities. Self-isolation means staying apart from other people, even the people you live with. When you can stop self-isolation will depend on how long it has been since you had symptoms, and in some cases, whether you have had a negative test (showing that the virus is no longer in your body).
 
 Source: Uptodate
+
+_Last updated on June 15, 2020_
