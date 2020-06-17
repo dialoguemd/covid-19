@@ -12,3 +12,5 @@ Plus d'informations ici:
 
 - [Période de transmissibilité](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/hypotheses.html#a4)
 - [Comment se placer en quarantaine (s’auto-isoler) à la maison si vous avez peut‑être été exposé à la COVID-19 mais que vous ne présentez pas de symptômes](https://www.canada.ca/fr/sante-publique/services/publications/maladies-affections/maladie-coronavirus-covid-19-comment-auto-isoler-maison-contact-sans-symptomes.html)
+
+_Dernière mise à jour le 13 juin 2020_
