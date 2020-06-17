@@ -3,3 +3,5 @@
 Pour le moment, les trousses de test et les cliniques spécialisées COVID-19 sont gérées par le gouvernement. Les autorités déterminent si un patient a besoin de se faire tester en fonction de protocoles et d’une évaluation des risques fondées sur des preuves, sans considération du fait qu’un patient soit résident ou couvert par le régime provincial.
 
 Plus d'information [ici](https://covid19.dialogue.co/#/).
+
+_Dernière mise à jour le 15 juin 2020_
