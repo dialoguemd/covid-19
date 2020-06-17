@@ -19,3 +19,5 @@ Plus d'information ici:
 - [Réseau pancanadien de santé publique](http://www.phn-rsp.ca/sac-covid-ccs/port-masque-communautaire-fra.php)
 - [VIDÉO: Comment bien porter le masque non médical ou le couvre-visage](https://www.canada.ca/fr/sante-publique/services/video/covid-19-bien-porter-masque-non-medical-couvre-visage.html)
 - [OMS: Quand et comment utiliser un masque?](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
+
+_Dernière mise à jour le 15 juin 2020_
