@@ -19,3 +19,5 @@ More information here:
 
 - [Government of Canada: Prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
 - [Dialogue: General information](https://covid19.dialogue.co/#/info?id=common)
+
+_Last updated on June 15, 2020_
