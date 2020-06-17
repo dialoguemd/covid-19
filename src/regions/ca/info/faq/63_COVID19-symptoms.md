@@ -8,3 +8,5 @@ More information here:
 
 - [World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses#)
 - [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html)
+
+_Last updated on June 16, 2020_
