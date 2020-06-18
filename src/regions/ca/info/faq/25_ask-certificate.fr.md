@@ -7,3 +7,5 @@ Sous la rubrique "[En milieu de travail](https://www.canada.ca/fr/sante-publique
 - [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/preparation.html)
 - [Association médicale canadienne (AMC)](https://www.cma.ca/fr/communiques-de-presse-et-declarations/lamc-exhorte-tous-les-employeurs-cesser-dexiger-des)
 - [CNESST](https://www.cnesst.gouv.qc.ca/salle-de-presse/Pages/coronavirus.aspx)
+
+_Dernière mise à jour le 4 juin 2020_

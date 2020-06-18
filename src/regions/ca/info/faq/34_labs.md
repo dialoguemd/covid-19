@@ -7,3 +7,5 @@ Some hospitals are no longer accepting external requests, and only process tests
 Some laboratories have reduced their opening hours or limited the samples taken to urgent tests only, and have cancelled some samples collections.
 
 We therefore recommend that you call the place before you go there.
+
+_Last updated on June 4, 2020_

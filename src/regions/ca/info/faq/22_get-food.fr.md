@@ -13,3 +13,5 @@ Vous ne devez PAS aller à l'épicerie si:
 -Vous revenez d'un voyage hors du Canada et vous présentez des symptômes de la COVID-19 (obligatoire)
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
+
+_Dernière mise à jour le 13 juin 2020_

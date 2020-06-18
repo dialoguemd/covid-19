@@ -8,3 +8,5 @@ Oui. Pour les clients de Dialogue, chaque cas sera évalué personnellement par 
 - Tout autre cas où un niveau de risque accru a été identifié
 
 Toutefois, Dialogue ne publiera pas de notes médicales relatives au COVID, quel que soit le moment. Les protocoles de quarantaine et d'auto-isolement sont imposés par les directives de santé publique. Si les employeurs exigent une attestation, Dialogue renverra les patients à leur autorité de santé publique.
+
+_Dernière mise à jour le 16 juin 2020_

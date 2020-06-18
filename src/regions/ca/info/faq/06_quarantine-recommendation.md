@@ -8,3 +8,5 @@ Yes. For Dialogue’s clients, each case will be assessed personally by a health
 - Any other case where an increased level of risk has been identified
 
 However, Dialogue will not issue medical notes related to COVID, period. Quarantine and self-isolation protocols are mandated by public health guidelines. If employers require an attestation, Dialogue will refer patients to their public health authority.
+
+_Last updated on June 16, 2020_

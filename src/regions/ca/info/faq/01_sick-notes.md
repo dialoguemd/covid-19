@@ -13,3 +13,5 @@ We do not provide any attestation related to COVID-19 risk or symptoms, based on
 This includes but is not limited to: leave of absence, preventive withdrawal from workplace, certificate of good health, proof of negative result, day care attestation.
 
 More information [here](https://www.cma.ca/news-releases-and-statements/cma-urges-all-employers-discontinue-requirement-sick-notes-during).
+
+_Last updated on June 13, 2020_

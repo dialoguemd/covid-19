@@ -14,3 +14,5 @@ De nombreuses ressources offrent des informations sur la manière de gérer votr
 - [Mind Body Green](https://www.mindbodygreen.com/articles/how-to-calm-your-anxiety-about-coronavirus-in-90-seconds) (Anglais seulement)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fcoping.html) (Anglais seulement)
 - [QC - Stress, anxiété et déprime associés à la maladie à coronavirus COVID-19](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/stress-anxiete-et-deprime-associes-a-la-maladie-a-coronavirus-covid-19/)
+
+_Dernière mise à jour le 4 juin 2020_

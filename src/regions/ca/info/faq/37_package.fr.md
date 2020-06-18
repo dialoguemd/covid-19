@@ -13,3 +13,5 @@ La chose la plus importante à savoir au sujet du coronavirus sur les surfaces e
 [Postes Canada](https://www.canadapost.ca/cpc/fr/our-company/news-and-media/corporate-news/coronavirus-disease-covid-19/coronavirus-disease-covid-19-faq.page) a déclaré que "Selon l’ASPC, il n’y a aucun risque connu que des coronavirus fassent leur entrée au Canada par des colis ou des paquets. En raison de la faible capacité de survie des coronavirus sur les surfaces, le risque de transmission par l’entremise de produits ou de paquets envoyés sur une période de plusieurs jours ou semaines est très faible. À l’heure actuelle, aucune donnée probante ne démontre que la COVID-19 peut être transmise par l’entremise de biens ou de colis d’importation."
 
 Plus d'infomation [ici](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses).
+
+_Dernière mise à jour le 15 juin 2020_

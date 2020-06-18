@@ -11,3 +11,5 @@ Les tests sérologiques ne conviennent pas pour le diagnostic précoce de la COV
 Pour voir les exigences qui s'appliquent aux tests sérologiques, veuillez consulter la [ligne directrice sur les exigences relatives aux tests sérologiques d'anticorps](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/instruments-medicaux/information-demandes/lignes-directrices/covid19-exigences-relatives-tests-serologiques-anticorps.html) soumis en vertu de l'arrêté d'urgence concernant la COVID-19.
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/covid19-industrie/instruments-medicaux/depistage/serologique.html).
+
+_Dernière mise à jour le 16 juin 2020_

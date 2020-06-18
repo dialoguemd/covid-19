@@ -13,3 +13,5 @@ Nous ne fournissons aucune attestation relative au risque ou aux symptômes de C
 Cela comprend, sans s'y limiter : les congés, le retrait préventif du lieu de travail, le certificat de bonne santé, la preuve d'un résultat négatif, l'attestation de garderie.
 
 Pour plus d'informations, cliquez [ici](https://www.cma.ca/fr/communiques-de-presse-et-declarations/lamc-exhorte-tous-les-employeurs-cesser-dexiger-des).
+
+_Dernière mise à jour le 13 juin 2020_

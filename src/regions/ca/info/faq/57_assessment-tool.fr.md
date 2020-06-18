@@ -13,3 +13,5 @@ La plupart des provinces ont développé un outil d'auto-évaluation en ligne qu
 - [Saskatchewan](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/covid-19-self-assessment)
 - [Territoires du Nord-ouest](https://www.surveymonkey.com/r/tno-auto-evaluation-covid-19)
 - [Yukon](https://service.yukon.ca/fr/covid-19-auto-evaluation/)
+
+_Dernière mise à jour le 4 juin 2020_

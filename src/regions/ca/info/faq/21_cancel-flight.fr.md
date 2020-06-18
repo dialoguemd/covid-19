@@ -16,3 +16,5 @@ En général, vous devrez d'abord annuler avec la compagnie aérienne, puis remp
 Si vous n'avez pas d'assurance annulation de voyage ou si vous préférez cette option, la plupart des compagnies offrent un remboursement en crédits à utiliser avant la fin de l'année.
 
 Pour en savoir plus sur les derniers conseils aux voyageurs visitez [ce lien](https://voyage.gc.ca/voyager/avertissements)
+
+_Dernière mise à jour le 4 juin 2020_

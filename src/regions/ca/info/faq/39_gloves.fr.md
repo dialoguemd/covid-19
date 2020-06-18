@@ -25,3 +25,5 @@
 - Lavez -vous les mains avant de vous toucher les yeux, le nez ou la bouche.
 
 Plus d'informations diponibles [ici](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/comment-prendre-soin-personne-atteinte-covid-19-maison-conseils-soignants.html).
+
+_Dernière mise à jour le 15 juin 2020_

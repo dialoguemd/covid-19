@@ -9,3 +9,5 @@ Suivez les [mesures de prévention](https://www.canada.ca/fr/sante-publique/serv
   - Éviter tout contact physique avec les autres
 - Lorsqu'ils/elles rentrent chez eux, ils/elles peuvent se changer et doivent se laver les mains
 - Toutes les surfaces fréquemment touchées doivent être désinfectées quotidiennement
+
+_Dernière mise à jour le 4 juin 2020_

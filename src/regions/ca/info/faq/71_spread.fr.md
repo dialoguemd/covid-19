@@ -14,3 +14,5 @@ Plus d'informations ici:
 
 - [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
 - [Organisation Mondiale de la Santé (OMS)](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses)
+
+_Dernière mise à jour le 16 juin 2020_

@@ -4,3 +4,5 @@ We can’t substitute for health care providers for pregnant women and people wi
 
 - [Government of Quebec](https://www.quebec.ca/gouv/covid19-fonction-publique/)
 - [CNESST](https://www.cnesst.gouv.qc.ca/salle-de-presse/Pages/coronavirus.aspx)
+
+_Last updated on June 4, 2020_

@@ -9,3 +9,5 @@ Les visiteurs doivent faire l’objet d’un dépistage visant à déceler les s
 Les déplacements des visiteurs à l’intérieur de l’ESLD doivent se limiter à la visite du résident et à la sortie de l’ESLD directement après leur visite. Tous les visiteurs doivent être tenus de porter un masque à l’entrée de l’ESLD afin de réduire le risque de transmission de la COVID-19 aux résidents ou au personnel de l’ESLD, qui peut se produire même si aucun symptôme de la maladie n’est reconnu.
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/prevention-controle-covid-19-foyers-soins-longue-duree.html#a5)
+
+_Dernière mise à jour le 15 juin 2020_

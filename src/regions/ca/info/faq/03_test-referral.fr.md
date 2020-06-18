@@ -7,3 +7,5 @@ Plus d'information ici:
 - [La ressource fiable canadienne pour les mises à jour pour le COVID-19](https://fr.c19.ca/)
 - [Chloé pour la COVID-19](https://covid19.dialogue.co/#/)
 - [Gouvernement du Canada: Outil d’auto-évaluation COVID-19](https://ca.thrive.health/covid19/fr)
+
+_Dernière mise à jour le 13 juin 2020_

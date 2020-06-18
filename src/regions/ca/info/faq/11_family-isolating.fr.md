@@ -20,3 +20,5 @@ Les experts recommandent également que la personne reste à l'écart des animau
   - Nettoyez votre maison à l'eau et au savon, mais utilisez également des désinfectants sur les surfaces appropriées. Certains produits de nettoyage sont efficaces pour tuer les bactéries, mais pas les virus, c'est pourquoi il est important de vérifier les étiquettes.
 
 Source: UPtodate
+
+_Dernière mise à jour le 13 juin 2020_

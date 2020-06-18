@@ -36,3 +36,5 @@ Ainsi que tous ceux qui:
 - qui souffrent de toute condition médicale ou sociale qui pourrait limiter leur capacité à faire face à une telle situation
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/populations-vulnerables-covid-19.html)
+
+_Dernière mise à jour le 19 juin 2020_

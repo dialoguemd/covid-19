@@ -10,3 +10,5 @@ There have been 2 other specific coronaviruses that have spread from animals to 
 - [Middle East respiratory syndrome coronavirus (MERS CoV)](https://www.canada.ca/en/public-health/services/diseases/middle-east-respiratory-syndrome-mers.html)
 
 [Source](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html?topic=ex-col-faq#a)
+
+_Last updated on June 4, 2020_

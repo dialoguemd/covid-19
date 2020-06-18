@@ -7,3 +7,5 @@ More information here:
 - [Canada's trusted resource for COVID-19 updates](https://www.c19.ca/)
 - [Chloe for COVID-19](https://covid19.dialogue.co/#/)
 - [Government of Canada: COVID-19 Self-Assessment Tool](https://ca.thrive.health/covid19/en)
+
+_Last updated on June 13, 2020_

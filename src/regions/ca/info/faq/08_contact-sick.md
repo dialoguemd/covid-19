@@ -7,3 +7,5 @@ More information here:
 - [Coronavirus disease (COVID-19): Prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html?topic=tilelink).
 
 - [How to isolate at home when you may have COVID-19](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html)
+
+_Last updated on June 4, 2020_

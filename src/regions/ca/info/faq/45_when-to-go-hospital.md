@@ -15,3 +15,5 @@ Look for emergency warning signs\* for COVID-19. If someone is showing any of th
 Call 911 or call ahead to your local emergency facility: Notify the operator that you are seeking care for someone who has or may have COVID-19.
 
 More information [here](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html).
+
+_Last updated on June 15, 2020_
