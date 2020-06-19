@@ -34,7 +34,7 @@ interface Props {
 type Response = {
   text?: string
   quick_replies?: QuickReply[]
-  endOfConversation?: boolean
+  disableTextField?: 'true' | 'false'
 }
 
 type QuickReply = {
@@ -270,11 +270,8 @@ const WidgetContainer = styled.div`
 
 const onSocketEvent = {
   bot_uttered: (response: Response) => {
-    const isEndOfConversation = response.endOfConversation === true
-    const hasQuickReplies =
-      response.quick_replies !== undefined && response.quick_replies.length > 0
-
-    toggleInputDisabled(isEndOfConversation || hasQuickReplies)
+    const isTextInputDisabled = response.disableTextField === 'true'
+    toggleInputDisabled(isTextInputDisabled)
   }
 }
 
