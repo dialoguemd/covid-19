@@ -1,4 +1,4 @@
-## Manitoba: Qui dois-je contacter si je pense avoir le COVID-19 ?
+## Manitoba: Qui dois-je contacter si je pense avoir le COVID-19?
 
 Afin de déterminer si vous devez parler à un professionnel de la santé de Health Links–Info Santé au 204-788-8200, ou sans frais, au 1-888-315-9257 ou demander conseil à un médecin, veuillez utiliser [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/).
 
