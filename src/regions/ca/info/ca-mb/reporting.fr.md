@@ -1,18 +1,21 @@
 ## Manitoba: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Afin de déterminer si vous devriez être testé pour la COVID-19, veuillez utiliser [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/) ou appeler Health Links–Info Santé (au 204-788-8200 ou, sans frais, au 1-888-315-9257).
+Afin de déterminer si vous devez parler à un professionnel de la santé de Health Links–Info Santé au 204-788-8200, ou sans frais, au 1-888-315-9257 ou demander conseil à un médecin, veuillez utiliser [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/).
 
 Ne composez pas le 911, sauf s'il s'agit d'une urgence.
 
 Veuillez noter ce qui suit:
 
-Les responsables de la santé publique demandent à tous les Manitobains, y compris aux prestataires de soins de santé, d’annuler ou de reporter tout voyage à l’étranger non essentiel. En outre, les responsables de la santé publique recommandent à tous les voyageurs de retour, y compris ceux qui ont voyagé à l'intérieur du Canada, de s'isoler et de surveiller eux-mêmes leurs symptômes pendant 14 jours après leur retour au Manitoba.
+Les responsables de la santé publique recommandent aux voyageurs qui reviennent dans la province en provenance des endroits suivants de s’auto-isoler et de surveiller l’apparition de symptômes pendant 14 jours après leur retour au Manitoba:
 
-Les responsables de la santé publique insistent pour que toute personne ayant des symptômes de la grippe ou du rhume (toux, fièvre, nez qui coule, mal de gorge, faiblesse ou mal de tête) s’isole volontairement pendant 14 jours. Toute personne présentant ces symptômes est admissible au test COVID-19.
+- Les personnes qui sont revenues d’un voyage international (y compris les États-Unis) au cours des 14 derniers jours;
+- Les personnes qui sont revenues d’un voyage au cours des 14 derniers jours en provenance d’un endroit qui n’est pas exempté par l’ordre de santé publique provincial de s’auto-isoler (les ordres de santé publique excluent actuellement les endroits dans : l’Ouest canadien, les territoires et la région de l’Ontario à l’ouest de Terrace Bay).
 
-La distanciation sociale sert à réduire intentionnellement les contacts étroits entre les gens, dans l’espoir de mettre fin à la propagation de tout virus dans la collectivité. Voici comment appliquer la distanciation sociale par tous les Manitobains :
+Les responsables de la santé publique demandent instamment à toute personne qui présente des symptômes du rhume ou de la grippe, comme une toux, de la fièvre, des écoulements nasaux, des maux de gorge, des maux de tête ou tout autre symptôme indiqué dans l’outil de dépistage, de s’auto-isoler pendant 14 jours, et jusqu’à ce que les symptômes aient disparu pendant 24 heures. Toute personne présentant ces symptômes est admissible au test de dépistage de la COVID-19. Si les résultats de votre test de dépistage de la COVID-19 sont négatifs, vous devez rester à la maison jusqu’à ce que vos symptômes aient disparu depuis 24 heures. Si vous avez voyagé ou avez été exposé à un cas, vous devez continuer à vous isoler pour le reste de la période de 14 jours.
 
-- Annuler ou reporter les événements de grande envergure comptant plus de 25 participants (en intérieur) ou 50 participants (en extérieur);
+L’éloignement social sert à réduire intentionnellement les contacts étroits entre les personnes afin d’éliminer la progression de tout virus et d’en arrêter la transmission. Les stratégies d’éloignement social pour tous les Manitobains comprennent les moyens suivants:
+
+- Annuler ou reporter les événements de grande envergure;
 - Réduire au minimum les contacts prolongés (plus de 10 minutes) et étroits (moins de deux mètres) avec d’autres personnes en public;
 - éviter le contact direct (toucher) pour les salutations, comme les poignées de main;
 - Désinfecter les surfaces fréquemment utilisées;
