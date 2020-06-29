@@ -2,7 +2,7 @@
 
 ### Prévention du coronavirus
 
-Les Canadiens doivent continuer à réfléchir aux mesures qu'ils peuvent prendre pour rester en bonne santé et prévenir la propagation de la COVID-19 au Canada. Cela comprend le fait de rester à la maison autant que possible et de se préparer au cas où vous ou un membre de votre famille tombiez malade. Vous et les membres de votre famille (tout le monde) devriez pratiquer l’éloignement physique (distanciation sociale). Même si vous ne présentez pas de symptômes de COVID-19, vous pourriez être infecté par d'autres.
+Les Canadiens doivent continuer à réfléchir aux mesures qu'ils peuvent prendre pour rester en bonne santé et prévenir la propagation de la COVID-19 au Canada. Les mesures pour [réduire la COVID-19 dans votre communauté](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/mesures-reduire-communaute.html) sont d'autant plus importantes que certaines régions commencent à lever les restriction.
 
 Comme nous continuons de voir la transmission du virus dans différentes communautés, nous savons que tout le monde doit prendre des précautions, même ceux qui n'ont pas voyagé à l'extérieur du Canada.
 
