@@ -2,7 +2,7 @@
 
 ### Preventing coronavirus
 
-Canadians should continue to think ahead about the actions that they can take to stay healthy and prevent the spread of COVID-19 in Canada. This includes staying at home as much as possible and being prepared in case you or a family member becomes ill. Everyone should be practising physical (social) distancing. Even if you do not have symptoms of COVID-19, you could become infected by others.
+Canadians should continue to think ahead about the actions that they can take to stay healthy and prevent the spread of COVID-19 in Canada. Measures to [reduce COVID-19 in your community](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/measures-reduce-community.html) are especially important as some areas begin to lift restrictions.
 
 As we continue to see transmission of the virus within different communities, we know that everyone must take precautions, even those who have not travelled outside of Canada.
 
