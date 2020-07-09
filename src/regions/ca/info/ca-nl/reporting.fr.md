@@ -29,7 +29,7 @@ Si vous commencez à présenter des symptômes de COVID-19 :
 
 [Source: Gouvernement de Terre-Neuve et Labrador (en anglais)](https://www.gov.nl.ca/covid-19/covid-19-symptoms-treatment/)
 
-## Au cours des 14 derniers jours, je suis retourné à Terre-Neuve-et-Labrador. Suis-je obligé de m'isoler ?
+## Au cours des 14 derniers jours, je suis retourné à Terre-Neuve-et-Labrador. Suis-je obligé de m'isoler?
 
 À compter du vendredi 3 juillet 2020, les déplacements interprovinciaux des résidents du Canada atlantique sans obligation de s'isoler sont autorisés à Terre-Neuve-et-Labrador, en Nouvelle-Écosse, au Nouveau-Brunswick et à l'Île-du-Prince-Édouard.
 
