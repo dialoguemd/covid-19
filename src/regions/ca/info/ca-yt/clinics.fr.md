@@ -2,14 +2,12 @@
 
 Utilisez cet [outil d’auto-évaluation](https://service.yukon.ca/fr/covid-19-auto-evaluation/) pour savoir si vous devez passer un test de dépistage de la COVID-19. Vous pouvez répondre aux questions pour vous ou pour une autre personne, si elle ne peut le faire elle-même.
 
-Depuis le 24 avril 2020, le questionnaire de dépistage du Yukon a été élargi pour permettre de détecter un plus grand nombre de cas et de mieux prévenir la propagation de la COVID-19 dans la population.
+Depuis le mercredi 15 juillet 2020, le questionnaire de dépistage du Yukon a été élargi pour permettre de détecter un plus grand nombre de cas et de mieux prévenir la propagation de la COVID-19 dans la population.
 
-Si vous avez voyagé OU avez été en contact étroit avec une personne qui a voyagé récemment et qui avait (ou qui a maintenant) des symptômes, OU si vous avez été en contact étroit avec un cas confirmé de COVID-19 et que vous avez l’un des symptômes suivants :
+Pour toutes les personnes, si vous avez ou n'avez pas voyagé mais que vous présentez l'un des symptômes suivants, même s'il est léger:
 
-- toux, fièvre ou frissons, mal de gorge, maux de tête, écoulement nasal ou congestion nasale, vomissements, diarrhée, fatigue ou douleurs musculaires, ou difficulté à respirer.
+- fièvre/frissons, toux, essoufflement, écoulement nasal, mal de gorge, perte du goût ou de l'odorat, maux de tête, fatigue, perte d'appétit, nausées ou vomissements, diarrhée ou douleurs musculaires.
 
-Si vous n’avez pas voyagé à l’extérieur du Yukon, mais que vous avez les symptômes suivants :
-
-- toux, fièvre ou frissons, ou difficulté à respirer.
+Pour vous protéger lorsque vous êtes en public, lavez-vous les mains fréquemment ou utilisez un désinfectant pour les mains s'il n'y a pas d'installations pour se laver les mains et maintenez une distance de 2 mètres par rapport aux autres.
 
 [Source](https://service.yukon.ca/fr/covid-19-auto-evaluation/)
