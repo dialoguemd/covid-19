@@ -2,7 +2,7 @@
 
 Utilisez cet [outil d’auto-évaluation](https://service.yukon.ca/fr/covid-19-auto-evaluation/) pour savoir si vous devez passer un test de dépistage de la COVID-19. Vous pouvez répondre aux questions pour vous ou pour une autre personne, si elle ne peut le faire elle-même.
 
-Depuis le Mercredi 15 juillet 2020, le questionnaire de dépistage du Yukon a été élargi pour permettre de détecter un plus grand nombre de cas et de mieux prévenir la propagation de la COVID-19 dans la population.
+Depuis le mercredi 15 juillet 2020, le questionnaire de dépistage du Yukon a été élargi pour permettre de détecter un plus grand nombre de cas et de mieux prévenir la propagation de la COVID-19 dans la population.
 
 Pour toutes les personnes, si vous avez ou n'avez pas voyagé mais que vous présentez l'un des symptômes suivants, même s'il est léger:
 
