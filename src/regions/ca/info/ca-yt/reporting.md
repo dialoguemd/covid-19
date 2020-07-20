@@ -1,43 +1,28 @@
 ## Yukon: Who should I contact if I think I have COVID-19?
 
-You should get tested for COVID-19 if you:
+You should get tested if you have any of the following symptoms:
 
-- Travelled;
-- Had close contact with someone with a recent travel history who has had or now has symptoms; or
-- Had close contact with someone who’s been diagnosed with COVID-19; and
-- Have any of the following symptoms:
+- fever/chills;
+- cough;
+- shortness of breath;
+- runny nose;
+- sore throat;
+- headache;
+- loss of sense of taste or smell;
+- headache;
+- fatigue;
+- loss of appetite;
+- nausea and vomiting;
+- diarrhea; and
+- muscle aches.
 
-  - Cough;
-  - Fever or chills;
-  - Sore throat;
-  - Headache;
-  - Runny nose or nasal congestion;
-  - Vomitting;
-  - Diarrhea;
-  - Fatigue or muscle aches; or
-  - Difficulty breathing.
+Use the [online COVID-19 self-assessment tool](https://service.yukon.ca/en/covid-19-self-assessment/) if you think you may have COVID-19.
 
-You should also get tested if you have not travelled outside Yukon but have the following symptoms:
+**Getting tested for COVID-19**
 
-- Cough;
-- Fever or chills; or
-- Difficulty breathing.
+You should get tested for COVID-19 if you have COVID-19 symptoms. Always phone 811 before going anywhere to get tested.
 
-Always phone 811 before going anywhere to get tested.
-
-**Where to get tested?**
-
-- In communities: Phone your local health centre to arrange for testing. [Find a community health centre](https://yukon.ca/en/health-and-wellness/hospitals-and-health-centres/find-hospital-or-health-centre);
-- In Whitehorse: Phone 811 or your family physician.
-
-**What health centres are doing to protect the community?**
-
-All community health centres are open. To visit your health centre:
-
-- Follow the instructions posted outside or on the front door of your community health centre; and
-- Whenever possible, phone ahead to book an appointment.
-
-[Source: Government of Yukon](https://yukon.ca/en/common-questions-covid-19#Testing-for-COVID-1912)
+[Find out about symptoms of COVID-19](https://yukon.ca/en/find-out-about-symptoms-covid-19).
 
 ## Yukon: Recommendation and opening/closing of services
 
