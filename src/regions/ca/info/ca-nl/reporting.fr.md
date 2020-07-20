@@ -2,7 +2,7 @@
 
 Les symptômes de la COVID-19 sont définis comme ayant deux ou plusieurs des symptômes suivants (apparition ou aggravation) :
 
-- Fièvre (ou signes de fièvre\*) ;
+- Fièvre (frissons, sueurs, douleurs musculaires, étourdissements) ;
 - Toux ;
 - Maux de tête ;
 - Mal de gorge ;
@@ -15,8 +15,6 @@ Les symptômes de la COVID-19 sont définis comme ayant deux ou plusieurs des sy
 OU
 
 - Petites taches rouges ou mauves sur les mains et/ou les pieds.
-
-\* Les signes de fièvre comprennent les frissons, les sueurs, les douleurs musculaires, les étourdissements
 
 La gravité des symptômes peut varier de légère à grave. Les informations actuelles suggèrent que la plupart des cas ne sont pas graves et ne nécessitent pas d'hospitalisation.
 
