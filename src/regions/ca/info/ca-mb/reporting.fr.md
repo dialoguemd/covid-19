@@ -2,8 +2,6 @@
 
 Afin de déterminer si vous devez parler à un professionnel de la santé de Health Links–Info Santé au 204-788-8200, ou sans frais, au 1-888-315-9257 ou demander conseil à un médecin, veuillez utiliser [l'outil de depistage](https://covid19.soinscommunsmb.ca/covid19/outil-de-depistage/).
 
-Ne composez pas le 911, sauf s'il s'agit d'une urgence.
-
 Veuillez noter ce qui suit:
 
 Les responsables de la santé publique recommandent aux voyageurs qui reviennent dans la province en provenance des endroits suivants de s’auto-isoler et de surveiller l’apparition de symptômes pendant 14 jours après leur retour au Manitoba:
