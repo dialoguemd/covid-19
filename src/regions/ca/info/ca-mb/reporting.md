@@ -2,8 +2,6 @@
 
 In order to determine if you should contact Health Links – Info Santé (204-788-8200 or toll-free at 1-888-315-9257) or seek other medical advice, please use the [screening tool](https://sharedhealthmb.ca/covid19/screening-tool/).
 
-Do not call 911 unless it is an emergency.
-
 Please note:
 
 Public health officials are recommending returning travelers from the following locations, self-isolate and self-monitor for symptoms for 14 days after returning to Manitoba:
