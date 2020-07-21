@@ -4,7 +4,7 @@ Utilisez cet [outil d’auto-évaluation](https://service.yukon.ca/fr/covid-19-a
 
 Depuis le mercredi 15 juillet 2020, le questionnaire de dépistage du Yukon a été élargi pour permettre de détecter un plus grand nombre de cas et de mieux prévenir la propagation de la COVID-19 dans la population.
 
-Pour toutes les personnes, si vous avez ou n'avez pas voyagé mais que vous présentez l'un des symptômes suivants, même s'il est léger:
+Toute personne (ayant voyagé ou non) qui ressent l’un ou l’autre des symptômes suivants, même léger, doit passer un test :
 
 - fièvre/frissons, toux, essoufflement, écoulement nasal, mal de gorge, perte du goût ou de l'odorat, maux de tête, fatigue, perte d'appétit, nausées ou vomissements, diarrhée ou douleurs musculaires.
 

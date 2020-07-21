@@ -22,6 +22,4 @@ Si vous avez répondu oui à un ou à plusieurs de ces symptômes, composez le 8
 
 Si vous éprouvez d’autres symptômes qui vous inquiètent, appelez le 811 pour parler à une infirmière.
 
-Les symptômes d’une fièvre sont les suivants: frissons, sueurs, douleurs musculaires, étourdissements.
-
 [Source](https://when-to-call-about-covid19.novascotia.ca/fr)

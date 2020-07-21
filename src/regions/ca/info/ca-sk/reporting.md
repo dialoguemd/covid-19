@@ -30,6 +30,8 @@ Please call HealthLine by dialing 811. If you have questions regarding COVID-19 
 
 All residents should be familiar with self-monitoring and self-isolation precautions, in order to keep you and those around you safe.
 
+To protect yourself while out in public, wash your hands frequently and maintain a safe distance from others.
+
 ## Saskatchewan: International Travel Information
 
 To limit the spread of COVID-19, the Government of Canada advises avoiding all non-essential travel outside of Canada.

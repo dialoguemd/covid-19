@@ -48,6 +48,8 @@ Under this order, if you have recently returned to Canada you must self-isolate 
 
 If you need it, you will get immediate medical attention when you arrive in Canada.
 
+Learn about [travel advisories](https://travel.gc.ca/travelling/health-safety/travel-health-notices) related to the 2019 novel coronavirus.
+
 [Source: Government of Ontario](https://www.ontario.ca/page/covid-19-stop-spread#section-0)
 
 ## Ontario: Recommendation and opening/closing of services

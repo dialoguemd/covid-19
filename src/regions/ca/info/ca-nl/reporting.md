@@ -2,7 +2,7 @@
 
 Symptoms of COVID-19 are defined as having two or more of the following (new or worsening):
 
-- Fever (or signs of a fever\*);
+- Fever (or signs of a fever, including chills, sweats, muscle aches, lightheadedness);
 - Cough;
 - Headache;
 - Sore throat;
@@ -15,8 +15,6 @@ Symptoms of COVID-19 are defined as having two or more of the following (new or 
 OR
 
 - Small red or purple spots on your hands and/or feet.
-
-\* Signs of a fever include chills, sweats, muscle aches, lightheadedness
 
 The severity of symptoms can range from mild to severe.
 
