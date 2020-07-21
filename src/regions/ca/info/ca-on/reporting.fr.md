@@ -15,7 +15,7 @@ Les symptômes les plus courants de la COVID-19 incluent les suivants :
 - frissons
 - toux nouvelle ou qui s’aggrave (continue, plus que d’habitude)
 - toux qui ressemble à un aboiement, grincement ou sifflement durant la respiration
-  essoufflement (souffle court, incapacité à respirer profondément)
+- essoufflement (souffle court, incapacité à respirer profondément)
 - mal de gorge
 - difficulté à avaler
 - nez qui coule, bouché ou congestionné (sans lien avec les allergies saisonnières ou autres causes ou problèmes de santé connus)
@@ -45,6 +45,10 @@ Composez le 911 seulement en situation d’urgence.
 Pour ralentir l’introduction et la propagation de la COVID-19 au pays, le gouvernement du Canada a adopté un arrêté d’urgence en vertu de la Loi sur la mise en quarantaine qui s’applique à tous les voyageurs qui arrivent au Canada.
 
 En vertu de cet arrêté, si vous êtes récemment revenu au Canada, vous devez vous auto-isoler (vous mettre en quarantaine) et rester à la maison, que vous présentiez ou non des symptômes. Même si vous ne présentez pas de symptômes dans l’immédiat, vous êtes à risque de les développer et d’infecter d’autres personnes.
+
+Si nécessaire, vous recevrez immédiatement des soins à votre arrivée au Canada.
+
+Renseignez-vous sur les [conseils à l’intention des voyageurs](https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs) en lien avec le nouveau coronavirus 2019.
 
 [Source: Gouvernement de l'Ontario](https://www.ontario.ca/fr/page/freinez-la-propagation-de-la-covid-19)
 
