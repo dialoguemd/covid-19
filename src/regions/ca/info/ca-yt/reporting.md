@@ -17,7 +17,7 @@ You should get tested if you have any of the following symptoms:
 - muscle aches.
 
 **If you have symptoms**
-1.Self-isolate, and then:
+1. Self-isolate, and then:
 
 - do a self-assessment ‒ [launch the tool](https://service.yukon.ca/en/covid-19-self-assessment/); or
 - phone 811; or
