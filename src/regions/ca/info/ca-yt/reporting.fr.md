@@ -15,13 +15,16 @@ Vous devez passer un test de dépistage si vous présentez l’un des symptômes
 - diarrhée;
 - douleurs musculaires.
 
-Si vous pensez avoir la COVID-19, remplissez le[questionnaire d’auto-évaluation en ligne](https://service.yukon.ca/fr/covid-19-auto-evaluation/).
+**Si vous avez des symptômes**
+1. S'auto-isoler, puis:
 
-**Dépistage de la COVID-19**
+- faire une auto-évaluation - [lancer l'outil](https://service.yukon.ca/fr/covid-19-auto-evaluation/); ou
+- téléphoner au 811; ou
+- téléphoner à votre prestataire de soins de santé ou au [centre de santé local](https://yukon.ca/fr/hopitaux-et-centres-de-sante).
 
-Vous devriez passer un test de dépistage si vous présentez les symptômes de la COVID-19. Composez le 811 avant de vous rendre dans un centre pour un test de dépistage.
+2. Suivez les conseils qui vous sont donnés.
 
-[Cliquez ici pour consulter la liste des symptômes](https://yukon.ca/fr/covid-19-informations-sur-les-symptomes).
+Découvrez [comment vous auto-isoler](https://yukon.ca/fr/renseignements-sur-lauto-isolement).
 
 [Source: Gouvernement du Yukon](https://yukon.ca/fr/questions-frequentes-la-covid-19-au-yukon)
 
