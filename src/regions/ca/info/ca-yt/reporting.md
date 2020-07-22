@@ -16,13 +16,18 @@ You should get tested if you have any of the following symptoms:
 - diarrhea; and
 - muscle aches.
 
-Use the [online COVID-19 self-assessment tool](https://service.yukon.ca/en/covid-19-self-assessment/) if you think you may have COVID-19.
+**If you have symptoms**
+1. Self-isolate, and then:
 
-**Getting tested for COVID-19**
+- do a self-assessment ‒ [launch the tool](https://service.yukon.ca/en/covid-19-self-assessment/); or
+- phone 811; or
+- phone your health care provider, or [local health centre](https://yukon.ca/en/find-hospital-or-health-centre).
 
-You should get tested for COVID-19 if you have COVID-19 symptoms. Always phone 811 before going anywhere to get tested.
+2. Follow the advice you're given.
 
-[Find out about symptoms of COVID-19](https://yukon.ca/en/find-out-about-symptoms-covid-19).
+Find out [how to self-isolate](https://yukon.ca/en/health-and-wellness/covid-19-information/your-health-covid-19/information-self-isolation).
+
+Source: [Yukon Government](https://yukon.ca/en/find-out-about-symptoms-covid-19)
 
 ## Yukon: Recommendation and opening/closing of services
 
