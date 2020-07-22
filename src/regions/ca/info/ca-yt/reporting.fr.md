@@ -16,7 +16,7 @@ Vous devez passer un test de dépistage si vous présentez l’un des symptômes
 - douleurs musculaires.
 
 **Si vous avez des symptômes**
-1.S'auto-isoler, puis:
+1. S'auto-isoler, puis:
 
 - faire une auto-évaluation - [lancer l'outil](https://service.yukon.ca/fr/covid-19-auto-evaluation/); ou
 - téléphoner au 811; ou
