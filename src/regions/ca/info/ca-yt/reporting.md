@@ -23,7 +23,7 @@ You should get tested if you have any of the following symptoms:
 - phone 811; or
 - phone your health care provider, or [local health centre](https://yukon.ca/en/find-hospital-or-health-centre).
 
-2.Follow the advice you're given.
+  2.Follow the advice you're given.
 
 Find out [how to self-isolate](https://yukon.ca/en/health-and-wellness/covid-19-information/your-health-covid-19/information-self-isolation).
 
