@@ -2,25 +2,26 @@
 
 Vous devez passer un test de dépistage si vous présentez l’un des symptômes suivants :
 
-- fièvre ou frissons;
-- toux;
-- essoufflement ou difficultés respiratoires;
-- écoulement nasal;
-- mal de gorge;
-- maux de tête;
-- perte du goût ou de l’odorat;
-- fatigue;
-- perte d’appétit;
-- nausées et vomissements;
-- diarrhée;
-- douleurs musculaires.
+- Fièvre ou frissons;
+- Toux;
+- Essoufflement ou difficultés respiratoires;
+- Écoulement nasal;
+- Mal de gorge;
+- Maux de tête;
+- Perte du goût ou de l’odorat;
+- Fatigue;
+- Perte d’appétit;
+- Nausées et vomissements;
+- Diarrhée;
+- Douleurs musculaires.
 
 **Si vous avez des symptômes**
+
 1.S'auto-isoler, puis:
 
-- faire une auto-évaluation - [lancer l'outil](https://service.yukon.ca/fr/covid-19-auto-evaluation/); ou
-- téléphoner au 811; ou
-- téléphoner à votre prestataire de soins de santé ou au [centre de santé local](https://yukon.ca/fr/hopitaux-et-centres-de-sante).
+- Faire une auto-évaluation - [lancer l'outil](https://service.yukon.ca/fr/covid-19-auto-evaluation/); ou
+- Téléphoner au 811; ou
+- Téléphoner à votre prestataire de soins de santé ou au [centre de santé local](https://yukon.ca/fr/hopitaux-et-centres-de-sante).
 
   2.Suivez les conseils qui vous sont donnés.
 
