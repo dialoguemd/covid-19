@@ -67,7 +67,7 @@ Le maintien d’une bonne hygiène des mains et le respect de l’étiquette res
   - Si vous n’avez pas accès à de l’eau et à du savon, utilisez un [désinfectant pour les mains](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/desinfectants/covid-19/desinfectants-mains.html) contenant au moins 60 % d'alcool.
 - Lorsque vous toussez ou éternuez:
   - Toussez ou éternuez dans un papier-mouchoir ou dans le creux de votre bras, et non dans votre main
-  - Jetez  immédiatement les mouchoirs utilisés dans une poubelle doublée d'un sac de plastique et lavez-vous les mains immédiatement
+  - Jetez immédiatement les mouchoirs utilisés dans une poubelle doublée d'un sac de plastique et lavez-vous les mains immédiatement
 - Évitez de vous toucher les yeux, le nez ou la bouche sans vous être d'abord lavé les mains
 
 ### Nettoyage
