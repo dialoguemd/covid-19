@@ -4,107 +4,93 @@
 
 Les Canadiens doivent continuer à réfléchir aux mesures qu'ils peuvent prendre pour rester en bonne santé et prévenir la propagation de la COVID-19 au Canada. Les mesures pour [réduire la COVID-19 dans votre communauté](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/mesures-reduire-communaute.html) sont d'autant plus importantes que certaines régions commencent à lever les restriction.
 
-Comme nous continuons de voir la transmission du virus dans différentes communautés, nous savons que tout le monde doit prendre des précautions, même ceux qui n'ont pas voyagé à l'extérieur du Canada.
+Pour prévenir la propagation de la COVID-19 dans les collectivités et dans l’ensemble du pays, tous les Canadiens devraient:
 
-Afin de prévenir la propagation du COVID-19 dans les collectivités et à travers le pays, tous les Canadiens sont invités à:
-
-- restez à la maison à moins d'être obligé de vous rendre au travail
-  - parlez à votre employeur de la possibilité de travailler de la maison, si possible
-- évitez tous les déplacements non essentiels dans la communauté
-- ne participez pas à des rassemblements de groupe
-- limitez les contacts avec les personnes présentant un risque plus élevé (comme les aînés et les personnes en mauvaise santé)
-  sortez pour faire de l'exercice, mais demeurez près de votre domicile
-- si vous sortez de chez vous, gardez toujours une distance d'au moins 2 longueurs de bras (environ 2 mètres) entre vous et les autres
-
-  - les membres du ménage (les personnes avec lesquelles vous vivez) n'ont pas besoin de s'éloigner les uns des autres, sauf s'ils sont malades ou s'ils ont voyagé au cours des 14 derniers jours
-
-Vous pouvez aller faire une promenade dans les cas suivants :
-
-- vous n'avez pas reçu de diagnostic de la COVID-19
-- vous ne présentez pas de symptômes de la COVID-19
-- vous n'avez pas voyagé à l'extérieur du Canada au cours des 14 derniers jours
-- vous n'êtes pas en quarantaine (s'auto-isoler)
-- vous ne vous isolez pas
-
-Si vous sortez faire une promenade, évitez les rassemblements et pratiquez toujours la distanciation physique (éloignement social) en maintenant au moins 2 mètres entre vous et les autres en tout temps.
-
-Pensez-vous avoir la COVID-19 ? [Faites une auto-évaluation](https://ca.thrive.health)
+- Éviter les espaces clos, bondés et les contacts rapprochés
+- Rester à la maison et à l’écart d’autres personnes s’ils pensent être malades
+- S’en tenir à un petit cercle social régulier et éviter les rassemblements en groupes importants
+- Discuter avec leur employeur de la possibilité de travailler de la maison
+- Limiter les contacts avec les personnes présentant un risque plus élevé, comme les personnes âgées et les personnes ayant des problèmes de santé sous-jacents ou dont le système immunitaire est affaibli
+- Sortir pour faire de l'exercice
+- Maintenir une distance d'au moins deux longueurs de bras (environ deux mètres) entre eux et les autres
+  - Les membres du ménage (les personnes avec lesquelles ils vivent) n'ont pas besoin de s'éloigner les uns des autres, sauf s'ils sont malades ou s'ils ont voyagé au cours des 14 derniers jours
 
 ### Voyageurs
 
-Les voyageurs peuvent être plus exposés au risque d'attraper la COVID-19. Il est conseillé aux Canadiens d'[éviter tout voyage non essentiel](https://voyage.gc.ca/voyager/sante-securite/conseils-sante-voyageurs/221). Si vous devez voyager, consultez les plus récents [conseils aux voyageurs](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html) avant votre départ.
+Les voyageurs peuvent être plus exposés au risque de contracter la COVID-19. Si vous devez voyager, consultez les plus récents [conseils à l’intention des voyageurs](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html) avant votre départ.
+
+Si vous êtes de retour au Canada (que vous reveniez au pays ou dans certains cas, si vous avez voyagé d’une province à une autre ou d’un territoire à un autre), vous devrez:
+
+- Vous placer [en quarantaine (vous auto-isoler)](https://www.canada.ca/fr/sante-publique/services/publications/maladies-affections/maladie-coronavirus-covid-19-comment-auto-isoler-maison-contact-sans-symptomes.html) chez vous s’il y a un risque que vous ayez été exposé à la COVID-19, mais que vous ne présentez pas de symptômes
+- Vous [isoler](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/covid-19-comment-isoler-chez-soi.html) si vous présentez des [symptômes de COVID-19](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html#s) et qu’il est possible que vous ayez été exposé au virus
 
 Santé Canada continuera de modifier ses évaluations des risques en fonction des plus récentes données.
 
+[Des restrictions supplémentaires s’appliquent aux voyageurs qui rentrent au Canada.](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#arrivant)
+
 ### Si vous ou votre enfant tombez malade
 
-Si vous avez des symptômes de la COVID-19 :
+Si vous avez des symptômes de la COVID-19, réduisez vos contacts avec les autres:
 
-- restez chez vous pour une période de 14 jours afin d’éviter d'infecter d'autres personnes :
-  - si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
-    -rendez-vous chez un professionnel de la santé ou votre autorité de santé publique locale :
-  - appelez à l’avance pour informez de vos symptômes la personne à qui vous parlerez, puis suivez ses instructions
+- Isolez-vous chez vous pour une période de 14 jours afin d'éviter d'infecter d'autres:
+  - Si vous ne vivez pas seul, isolez-vous dans une pièce ou maintenez une distance de 2 mètres avec les autres personnes
+- Rendez-vous chez un professionnel de la santé ou votre autorité de [santé publique locale](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes/ressources-provinces-territoires-covid-19.html) pour obtenir des renseignements sur la façon de subir un [test de dépistage](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes/tests-depistage.html):
+  - Téléphonez avant de vous présenter chez un professionnel de la santé pour l'informer de vos symptômes, puis suivez ses instructions
 
-Les enfants qui présentent des symptômes légers de la COVID-19 peuvent rester à la maison avec une personne qui s'occupe d'eux pendant toute la durée de leur rétablissement sans devoir être hospitalisés. Si vous prenez soin d'un enfant chez qui la COVID-19 est soupçonnée ou probable, il est important de suive les conseils pour les soignants. Ces conseils vous aideront à vous protéger et protéger les autres qui vivent dans la maison, ainsi que les personnes de votre communauté.
+Les enfants qui présentent des symptômes légers de la COVID-19 peuvent rester à la maison avec une personne soignante pendant toute leur rétablissement et ils n'ont pas à être hospitalisés.
 
-Si vous vous sentez malade pendant votre voyage à destination du Canada ou à votre arrivée :
+Si vous prenez soin d'un enfant chez qui la COVID-19 est soupçonnée ou probable, il est important de suive les [conseils pour les soignants](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/comment-prendre-soin-enfant-atteinte-covid-19-maison-conseils-soignants.html). Ces conseils vous aideront à vous protéger et protéger les autres qui vivent dans la maison, ainsi que les personnes de votre communauté.
 
-- informez l'agent de bord ou un agent des services frontaliers canadiens
-- veuillez signaler à un agent des services frontaliers du Canada à votre arrivée au Canada si vous pensez avoir été exposé à une source de COVID-19, même si vous ne présentez pas de symptômes
-  - la Loi sur la quarantaine l'exige
-  - l'agent des services frontaliers du Canada vous donnera des instructions à suivre
+Si vous vous sentez malade pendant votre voyage de retour au Canada:
 
-### D'éloignement physique (distanciation sociale)
+- Informez l'agent de bord ou un agent des services frontaliers canadiens
+- Si vous pensez avoir été exposé à une source de COVID-19, veuillez le signaler à un agent des services frontaliers du Canada à votre arrivée au pays, même si vous n'avez pas de symptômes
+  - La Loi sur la quarantaine l'exige
+  - L'agent des services frontaliers du Canada vous expliquera la marche à suivre
 
-Ensemble, nous pouvons ralentir la propagation de la COVID-19 en faisant vraiment un effort pour maintenir une certaine distance physique entre nous et les autres. Il est prouvé que l'éloignement physique est l'un des moyens les plus efficaces de réduire la propagation de la maladie pendant une épidémie.
+### Éloignement physique
 
-Cela signifie qu'il faut apporter des changements à vos habitudes quotidiennes pour réduire au minimum les contacts étroits avec les autres, y compris:
+Ensemble, nous pouvons ralentir la propagation de la COVID-19 en faisant vraiment un effort pour maintenir une certaine distance physique entre nous et les autres. Il est prouvé que [l'éloignement physique](https://www.canada.ca/fr/sante-publique/services/publications/maladies-affections/distanciation-sociale.html) est l'un des moyens les plus efficaces de réduire la propagation de la maladie pendant une épidémie.
 
-- éviter les endroits achalandés et les rassemblements non essentiels
-- éviter les salutations d'usage, comme les poignées de main
-- limiter les contacts avec les personnes présentant un risque plus élevé comme les aînés et les personnes en mauvaise santé
-- maintenir autant que possible une distance d'au moins 2 longueurs de bras (environ 2 mètres) avec les autres
+Pour ce faire, il faut modifier nos habitudes quotidiennes afin de réduire au minimum les contacts étroits avec d'autres personnes, notamment par les moyens suivants:
+
+- Éviter les endroits bondés et les rassemblements
+- Éviter les salutations d'usage, comme les poignées de main
+- Limiter les contacts avec les personnes présentant un risque plus élevé comme les aînés et les personnes ayant des problèmes de santé sous-jacents ou dont le système immunitaire est affaibli
+- Maintenir autant que possible une distance d'au moins 2 longueurs de bras (environ 2 mètres) avec les autres
 
 ### Hygiène
 
-Une hygiène adéquate peut aider à réduire le risque de contracter ou de transmettre une infection :
+Le maintien d’une bonne hygiène des mains et le respect de l’étiquette respiratoire sont des pratiques personnelles très importantes qui contribuent à réduire le risque d’infection ou de propagation de l’infection à d’autres personnes.
 
-- lavez-vous les mains souvent avec de l'eau et du savon pendant au moins 20 secondes, surtout après avoir été aux toilettes et après avoir manipulé des aliments
-  - utilisez un [désinfectant pour les mains](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/desinfectants/covid-19/desinfectants-mains.html) à base d'alcool si vous n'avez pas accès à du savon et à de l'eau
-- lorsque vous toussez ou éternuez :
-  - toussez ou éternuez dans un papier-mouchoir ou dans le creux de votre bras, et non dans votre main
-  - jetez immédiatement les papiers-mouchoirs utilisés dans une poubelle doublée de plastique et lavez-vous ensuite les mains
-- évitez de vous toucher les yeux, le nez ou la bouche sans vous être d'abord lavé les mains
+- Lavez-vous les mains souvent avec de l'eau et du savon pendant au moins 20 secondes, surtout après avoir été aux toilettes et après avoir manipulé des aliments
+  - Si vous n’avez pas accès à de l’eau et à du savon, utilisez un [désinfectant pour les mains](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/desinfectants/covid-19/desinfectants-mains.html) contenant au moins 60 % d'alcool.
+- Lorsque vous toussez ou éternuez:
+  - Toussez ou éternuez dans un papier-mouchoir ou dans le creux de votre bras, et non dans votre main
+  - Jetez  immédiatement les mouchoirs utilisés dans une poubelle doublée d'un sac de plastique et lavez-vous les mains immédiatement
+- Évitez de vous toucher les yeux, le nez ou la bouche sans vous être d'abord lavé les mains
 
 ### Nettoyage
 
-Les coronavirus sont parmi les types de virus les plus faciles à tuer avec un produit désinfectant approprié, lorsqu'ils sont utilisés conformément au mode d'emploi figurant sur l'étiquette. Santé Canada a publié une [liste de désinfectants pour surfaces dures](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/desinfectants/covid-19/liste.html) susceptibles d'être efficaces contre la COVID-19.
+Le virus à l'origine de la COVID-19 a plus de chances de se retrouver sur des surfaces fréquemment touchées avec les mains. [Nettoyez et désinfectez](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/nettoyage-desinfection.html) les surfaces fréquemment touchées pour réduire le risque de propagation de la COVID‑19 à la maison, au travail et dans les lieux publics.
 
-Bien qu'il ne soit pas allégué que les nettoyants tuent le coronavirus, ils peuvent jouer un rôle en aidant à limiter le transfert des micro-organismes. Santé Canada recommande de nettoyer souvent les surfaces dures fréquemment touchées, que ce soit avec des produits d'entretien ménager ordinaires ou avec de l'eau de Javel diluée conformément aux instructions figurant sur l'étiquette. La solution d'eau de Javel devrait être préparée conformément aux instructions figurant sur l'étiquette ou selon un ratio de 250 ml (1 tasse) d'eau pour 5 ml (1 cuillère à thé) d'eau de Javel. Les instructions sont fondées sur de l'eau de Javel contenant de l'hypochlorite de sodium à 5 %, qui donnerait une solution d'hypochlorite de sodium de 0,1 %. Ne mélangez jamais de l'eau de Javel avec d'autres produits chimiques, et utilisez la dans un endroit bien ventilé. Des [précautions spéciales](https://www.canada.ca/fr/sante-canada/services/securite-domicile/securite-produits-chimiques-menagers.html) doivent être prises pour éviter les accidents graves lors du nettoyage avec de l'eau de Javel.
+Santé Canada a publié une [liste de désinfectants pour surfaces dures](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/desinfectants/covid-19/liste.html) qui seront probablement efficaces contre la COVID-19.
 
-Ces surfaces comprennent les :
-
-- toilettes
-- téléphones
-- télécommandes
-- tables de chevet
-- poignées de porte
-- appareils électroniques
-
-Pour plus d'informations, consultez les [lignes directrices sur le nettoyage et la désinfection des espaces publics](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/nettoyage-desinfection-espaces-publics.html).
+Il faut prendre des [précautions spéciales](https://www.canada.ca/fr/sante-canada/services/securite-domicile/securite-produits-chimiques-menagers.html) lors du nettoyage à l’eau de Javel pour éviter les incidents graves.
 
 ### Port du masque ou d'un couvre-visage
 
-Le port de masques médicaux, dont les masques chirurgicaux, les masques d'intervention et les respirateurs (comme les masques N95), doit être réservé aux travailleurs de la santé et aux autres personnes fournissant des soins directs aux patients infectés par la COVID-19.
+Il est recommandé de porter un masque non médical ou un couvre-visage en public pendant les périodes au cours desquelles il n’est pas possible de maintenir une distance de deux mètres entre soi‑même et les autres, en particulier dans les endroits publics bondés, comme les:
 
-Le port d'un masque non médical ou d'un couvre-visage en public est recommandé dans certaines circonstances lorsqu'une distance de 2 mètres ne peut être maintenue entre soi et les autres, en particulier dans les lieux achalandés, comme lorsque :
+- Centres d’achat
+- Transports en commun
+- Magasins et établissements de services personnels
 
-- Vous faites vos courses
-- Vous utilisez les transports en commun
+Dans certains cas, les autorités provinciales ou territoriales de santé publique ont rendu obligatoire le port d’un masque non médical (ou d’un couvre-visage) dans les endroits publics. Les responsables de la santé publique formulent des recommandations en ce sens en s’appuyant sur un certain nombre de facteurs, notamment l’intensité de la COVID-19 qui circule dans votre collectivité. Dans certaines régions, le port du masque est maintenant obligatoire dans de nombreux espaces publics intérieurs et dans les transports en commun. Vérifiez auprès des autorités de santé publique locales pour connaître les exigences dans votre région.
 
-Les responsables de la santé publique formulent leurs recommandations en fonction de nombreux facteurs, notamment les taux d'infection et de transmission au sein de la communauté. Il se peut donc que les recommandations varient d'un endroit à l'autre.
+Les masques n’empêcheront pas à eux seuls la propagation de la COVID-19. Vous devez également suivre à la lettre les consignes d'hygiène et de santé publique, y compris les pratiques personnelles de base comme le lavage fréquent des mains et l’éloignement physique.
 
-Si vous décidez d'en porter un, nous vous invitons à consulter les :
+Pour obtenir de plus amples renseignements sur les couvre-visage en tissu ou les masques non médicaux, consultez les ressources ci‑après:
 
 - [Lignes directrices concernant le port de masques non médicaux et les instructions pour en fabriquer un](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/a-propos-masques-couvre-visage-non-medicaux.html)
 - Recommandations du [Comité consultatif spécial sur la COVID-19](http://www.phn-rsp.ca/sac-covid-ccs/index-fra.php) en ce qui a trait à l'[utilisation de masques non médicaux ou de couvre visages en milieu communautaire](http://www.phn-rsp.ca/sac-covid-ccs/port-masque-communautaire-fra.php)
