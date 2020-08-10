@@ -1,6 +1,6 @@
 ## Saskatchewan: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Des tests sont disponibles et recommandés si vous présentez de nouveaux symptômes inexpliqués ou une aggravation (quelle qu'en soit la gravité) qui peuvent inclure un ou plusieurs des symptômes suivants :
+Des tests sont disponibles et recommandés si vous présentez de nouveaux symptômes inexpliqués ou une aggravation (même les symptômes légers) qui peuvent inclure un ou plusieurs des symptômes suivants :
 
 - Fièvre
 - Toux
