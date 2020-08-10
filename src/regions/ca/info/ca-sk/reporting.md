@@ -1,6 +1,6 @@
 ## Saskatchewan: Who should I contact if I think I have COVID-19?
 
-Testing is available and recommended if you have unexplained new or worsening symptoms (of any severity) that may include one or more of the following:
+Testing is available and recommended if you have unexplained new or worsening symptoms (even mild symptoms) that may include one or more of the following:
 
 - Fever
 - Cough
