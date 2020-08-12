@@ -23,7 +23,7 @@ care provider or local public health authority and advise them of possible conta
 COVID-19.
 
 If you are ill and must visit a health care professional, call ahead or tell them when you
-arrive that you have a respiratory illness and if you have traveled.
+arrive that you have a respiratory illness and if you have travelled.
 
 [Source: Government of Nuvavut](https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus)
 
