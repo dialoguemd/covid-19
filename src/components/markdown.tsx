@@ -31,8 +31,9 @@ export const Markdown = styled(MarkdownContainer)`
   }
 
   a {
-    color: ${props => props.theme.colors.primary};
-    text-decoration: none;
+    color: ${props => props.theme.colors.secondary};
+    text-decoration: underline;
+    font-weight: bold;
   }
 
   hr {

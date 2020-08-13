@@ -1,13 +1,15 @@
 import 'styled-components'
 import { overrides } from 'services/overrides'
 
+//212020
+
 const colors = {
-  primary: '#0097F3',
-  primaryLight: '#E5F4FD',
-  secondary: '#534E71',
-  secondaryLight: '#7378A3',
-  text: '#534E71',
-  textLight: '#FFFFFF',
+  primary: '#212020',
+  primaryLight: '#212020',
+  secondary: '#ED9877',
+  secondaryLight: '#ED9877',
+  text: '#212020',
+  textLight: '#212020',
   disabled: '#EAEDEE',
   background: '#FAFAFB',
   backgroundLight: '#FFFFFF',
