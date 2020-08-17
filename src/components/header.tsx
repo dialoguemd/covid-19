@@ -27,7 +27,7 @@ const LogoContainer = styled.div<LogoContainerProps>`
   z-index: 1000002;
   top: 0;
   left: 0;
-  background-color: ${props => props.theme.colors.secondary};
+  background-color: ${props => props.theme.colors.tertiary};
   padding: 24px 42px 21px 18px;
   border-bottom-right-radius: 100px;
   flex-basis: 0;
