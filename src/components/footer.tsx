@@ -8,7 +8,7 @@ import { mobileBreakpoint } from 'theme'
 
 const FooterContainer = styled.div`
   background-color: ${props => props.theme.colors.backgroundLight};
-  border-top: 1px solid ${props => props.theme.colors.primaryLight};
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
   color: ${props => props.theme.colors.text};
   width: 100%;
 `

@@ -30,11 +30,6 @@ export const Markdown = styled(MarkdownContainer)`
     border-bottom: 1px solid ${props => props.theme.colors.primaryLight};
   }
 
-  a {
-    color: ${props => props.theme.colors.primary};
-    text-decoration: none;
-  }
-
   hr {
     border: 1px dashed ${props => props.theme.colors.primaryLight};
   }

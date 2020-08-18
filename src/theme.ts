@@ -2,12 +2,14 @@ import 'styled-components'
 import { overrides } from 'services/overrides'
 
 const colors = {
-  primary: '#0097F3',
-  primaryLight: '#E5F4FD',
-  secondary: '#534E71',
-  secondaryLight: '#7378A3',
-  text: '#534E71',
-  textLight: '#FFFFFF',
+  primary: '#212020',
+  primaryLight: '#212020',
+  secondary: '#ED9877',
+  secondaryLight: '#ED9877',
+  tertiary: '#FFEFE2',
+  tertiaryLight: '#FFEFE2',
+  text: '#212020',
+  textLight: '#212020',
   disabled: '#EAEDEE',
   background: '#FAFAFB',
   backgroundLight: '#FFFFFF',
@@ -27,7 +29,7 @@ export const theme = {
   colors,
   sizes,
   fontFamily:
-    '"Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
+    '"Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
 } as const
 
 export const mobileBreakpoint = 500 as number
