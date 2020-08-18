@@ -17,13 +17,13 @@ You should get tested if you have any of the following symptoms:
 
 **If you have symptoms**
 
-1.Self-isolate, and then:
+1. Self-isolate, and then:
 
 - Do a self-assessment ‒ [launch the tool](https://service.yukon.ca/en/covid-19-self-assessment/); or
 - Phone 811; or
 - Phone your health care provider, or [local health centre](https://yukon.ca/en/find-hospital-or-health-centre).
 
-2.Follow the advice you're given.
+2. Follow the advice you're given.
 
 Find out [how to self-isolate](https://yukon.ca/en/health-and-wellness/covid-19-information/your-health-covid-19/information-self-isolation).
 
