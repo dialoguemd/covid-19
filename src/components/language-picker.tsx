@@ -19,7 +19,7 @@ const LanguagePickerButton = styled.button`
   outline: none;
 
   &:hover {
-    background-color: ${props => props.theme.colors.primaryLight};
+    background-color: ${props => props.theme.colors.tertiaryLight};
   }
 `
 

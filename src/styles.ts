@@ -11,10 +11,9 @@ const GlobalStyles = createGlobalStyle`
     font-weight: 300;
     color: ${props => props.theme.colors.text};
   }
-
   a {
-    color: ${props => props.theme.colors.primary};
-    text-decoration: none;
+    color: ${props => props.theme.colors.secondary};
+    text-decoration: underline;
     transition: opacity ease-in-out 150ms;
     :hover {
       opacity: 0.5;

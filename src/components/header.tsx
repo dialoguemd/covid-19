@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import styled from 'styled-components/macro'
 import { overrides } from 'services/overrides'
 
-import LogoImage from 'images/dialogue-logo.svg'
+import LogoImage from 'images/dialogue-logo.png'
 import LanguagePicker from './language-picker'
 import Title from './title'
 import RegionPicker from 'components/region-picker'
@@ -27,7 +27,7 @@ const LogoContainer = styled.div<LogoContainerProps>`
   z-index: 1000002;
   top: 0;
   left: 0;
-  background-color: ${props => props.theme.colors.primaryLight};
+  background-color: ${props => props.theme.colors.tertiary};
   padding: 24px 42px 21px 18px;
   border-bottom-right-radius: 100px;
   flex-basis: 0;
