@@ -4,11 +4,13 @@ If you have any one of the [COVID-19 symptoms](https://novascotia.ca/coronavirus
 
 Nova Scotia Health Authority has established [COVID-19 assessment centres](http://www.nshealth.ca/coronavirus-assessment). If you need in-person assessment, 811 will refer you to a centre. Don't go to a COVID-19 assessment centre unless 811 referred you.
 
-**If you’ve travelled**
-
-The Government of Nova Scotia, under the authority of the Health Protection Act, requires anyone who has travelled outside Nova Scotia to self-isolate for 14 days from the day they get back to the province, even if they don't have symptoms.
-
 [Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/when-to-seek-help/)
+
+**Travel**
+
+Information for international and interprovincial travellers, including travel restrictions and the self-declaration process for entering Nova Scotia. Learn more: [travel and travelling to Nova Scotia](https://novascotia.ca/coronavirus/travel/).
+
+[Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/restrictions-and-guidance/#travel)
 
 ## Nova Scotia: Recommendation and opening/closing of services
 
