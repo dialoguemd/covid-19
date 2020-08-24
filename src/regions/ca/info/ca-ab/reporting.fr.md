@@ -41,7 +41,7 @@ Liens disponibles en anglais seulement:
 
 - [Stratégie de relance de l'Alberta](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
 - [Modifications temporaires des règles relatives au lieu de travail](https://www.alberta.ca/temporary-workplace-rule-changes.aspx)
-- [WCB-Alberta (Workers’Compensation Board-Alberta](https://www.wcb.ab.ca/about-wcb/news-and-announcements/COVID-19.html)
+- [WCB-Alberta (Workers’ Compensation Board-Alberta](https://www.wcb.ab.ca/about-wcb/news-and-announcements/COVID-19.html)
 - [Alberta Biz Connect](https://www.alberta.ca/biz-connect.aspx)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
