@@ -33,7 +33,7 @@ Découvrez [comment vous auto-isoler](https://yukon.ca/fr/renseignements-sur-lau
 
 - [Fermetures, annulations et restrictions d’accès](https://yukon.ca/fr/fermetures-annulations-et-restrictions-dacces)
 - [Services essentiels au Yukon pendant la pandémie de COVID-19](https://yukon.ca/fr/health-and-wellness/covid-19/essential-services-yukon-during-covid-19)
-- [Directives et recommandations en matière de santé et de sécurité : COVID-19](https://yukon.ca/fr/industry-specific-guidelines-and-recommendations-covid-19)
+- [Directives et recommandations en matière de santé et de sécurité : COVID-19](https://yukon.ca/fr/lignes-directrices-covid-19)
 
 Lien disponible en anglais seulement:
 
