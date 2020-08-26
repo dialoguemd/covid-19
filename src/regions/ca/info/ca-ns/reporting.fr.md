@@ -2,7 +2,7 @@
 
 Si vous avez l'un des [symptômes de la COVID-19](https://novascotia.ca/coronavirus/when-to-seek-help/fr/#symptoms) ou si vous avez d'autres symptômes qui vous inquiètent, faites le 811 pour vous faire évaluer par une infirmière.
 
-La Régie de la santé de la Nouvelle-Écosse a mis en place des [centres de dépistage de la maladie COVID-19](http://www.nshealth.ca/coronavirus/fr). Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres. Ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811.
+La Régie de la santé de la Nouvelle-Écosse a mis en place des [centres de dépistage de la maladie COVID-19](http://www.nshealth.ca/coronavirus/fr). Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres (ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811).
 
 [Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/when-to-seek-help/fr/)
 
