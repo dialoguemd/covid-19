@@ -29,6 +29,15 @@ Découvrez [comment vous auto-isoler](https://yukon.ca/fr/renseignements-sur-lau
 
 [Source: Gouvernement du Yukon](https://yukon.ca/fr/questions-frequentes-la-covid-19-au-yukon)
 
+Vous n'avez pas à vous isoler si vous n'avez pas voyagé à l'extérieur du/de/des:
+
+Yukon ;
+la Colombie-Britannique ;
+Nunavut ; et
+Territoires du Nord-Ouest 
+
+[Source](https://yukon.ca/fr/covid-19-informations-sur-les-symptomes)
+
 ## Yukon: Recommandations et ouvertures/fermetures des services
 
 - [Fermetures, annulations et restrictions d’accès](https://yukon.ca/fr/fermetures-annulations-et-restrictions-dacces)
