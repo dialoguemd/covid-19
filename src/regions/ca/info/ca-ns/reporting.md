@@ -12,6 +12,10 @@ Information for international and interprovincial travellers, including travel r
 
 [Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/restrictions-and-guidance/#travel)
 
+All persons from outside Atlantic Canada entering Nova Scotia (including post-secondary students and persons passing through Nova Scotia on their way to another province) are required to isolate themselves for 14 days upon arrival in Nova Scotia (or for the duration of their stay if less than 14 days). If they have already been in isolation in another province in Atlantic Canada, they can come to Nova Scotia without having to be isolated again. They do not have to be isolated if they are exempt from the isolation requirements.
+
+[Source](https://novascotia.ca/coronavirus/restrictions-and-guidance/en/)
+
 ## Nova Scotia: Recommendation and opening/closing of services
 
 - [Closures, cancellations and service changes](https://novascotia.ca/closures-cancellations-and-service-changes/)

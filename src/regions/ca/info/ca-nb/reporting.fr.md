@@ -9,6 +9,14 @@ Si vous avez des symptômes :
 
 [Source: Gouvernment du Nouveau Brunswick](https://www2.gnb.ca/content/gnb/fr/ministeres/bmhc/maladies_transmissibles/content/maladies_respiratoires/coronavirus.html)
 
+Évitez les voyages non essentiels à l'extérieur du Canada atlantique.
+
+Pour plus d'Information sur le contrôle des voyageurs, cliquez sur ce [lien](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/voyageurs.html)
+
+[Source](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/voyageurs.html)
+
+[Source](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/voyageurs.html)
+
 ## Nouveau-Brunswick: Recommandations et ouvertures/fermetures des services
 
 - [Plan de rétablissement du Nouveau-Brunswick](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/retablissement.html)

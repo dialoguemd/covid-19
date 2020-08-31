@@ -29,6 +29,15 @@ Find out [how to self-isolate](https://yukon.ca/en/health-and-wellness/covid-19-
 
 [Source: Government of Yukon](https://yukon.ca/en/find-out-about-symptoms-covid-19)
 
+You do not have to self-isolate if you have not travelled outside:
+
+Yukon;
+British Columbia;
+Nunavut; and
+Northwest Territories.
+
+[Source](https://yukon.ca/en/find-out-about-symptoms-covid-19)
+
 ## Yukon: Recommendation and opening/closing of services
 
 - [Closures, cancellations, facility access and services](https://yukon.ca/en/closures-cancellations-and-restricted-facility-access)
