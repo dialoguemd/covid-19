@@ -22,6 +22,14 @@ Si vous avez ces symptômes :
 
 [Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
 
+En général, vous pouvez arrêter l’isolement si toutes les conditions suivantes sont réunies :
+
+10 jours se sont écoulés depuis le début de vos symptômes.
+Vous n’avez plus de fièvre depuis au moins 48 heures (sans avoir pris un médicament contre la fièvre).
+Vos symptômes se sont améliorés depuis au moins 24 heures (excluant la toux ou la perte de l’odorat, qui peuvent durer plus longtemps). 
+
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-isolement-personne-atteinte-covid-19/) 
+
 ## Québec: Pour les citoyens de retour de voyage?
 
 Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris les croisiéristes, ont l’obligation de s’isoler pour une période de 14 jours.
