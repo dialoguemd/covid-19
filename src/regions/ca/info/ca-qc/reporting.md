@@ -22,6 +22,14 @@ If you have these symptoms:
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
+In general, you can stop the isolation if all of the following conditions are met :
+
+10 days have passed since the onset of your symptoms.
+You have not had a fever for at least 48 hours (without having taken fever medication).
+Your symptoms have improved for at least 24 hours (excluding cough or loss of smell, which may last longer). 
+
+[Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-people-with-covid-19-in-home-isolation/)
+
 ## Quebec: For citizens returning from travelling
 
 Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Postpone all non-urgent medical appointments.
