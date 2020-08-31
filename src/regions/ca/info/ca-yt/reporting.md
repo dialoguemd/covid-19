@@ -34,7 +34,7 @@ You do not have to self-isolate if you have not travelled outside:
 Yukon;
 British Columbia;
 Nunavut; and
-Northwest Territories. 
+Northwest Territories.
 
 [Source](https://yukon.ca/en/find-out-about-symptoms-covid-19)
 

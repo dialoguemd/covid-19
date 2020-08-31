@@ -26,9 +26,9 @@ En général, vous pouvez arrêter l’isolement si toutes les conditions suivan
 
 10 jours se sont écoulés depuis le début de vos symptômes.
 Vous n’avez plus de fièvre depuis au moins 48 heures (sans avoir pris un médicament contre la fièvre).
-Vos symptômes se sont améliorés depuis au moins 24 heures (excluant la toux ou la perte de l’odorat, qui peuvent durer plus longtemps). 
+Vos symptômes se sont améliorés depuis au moins 24 heures (excluant la toux ou la perte de l’odorat, qui peuvent durer plus longtemps).
 
-[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-isolement-personne-atteinte-covid-19/) 
+[Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-isolement-personne-atteinte-covid-19/)
 
 ## Québec: Pour les citoyens de retour de voyage?
 

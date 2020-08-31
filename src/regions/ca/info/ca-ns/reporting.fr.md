@@ -12,7 +12,7 @@ Renseignements à l’intention des voyageurs internationaux et interprovinciaux
 
 [Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/restrictions-and-guidance/fr/)
 
-Toutes les personnes de l’extérieur du Canada atlantique qui entrent en Nouvelle-Écosse (y compris les étudiants de niveau postsecondaire et les personnes qui passent par la Nouvelle-Écosse à destination d’une autre province) doivent s’isoler pendant 14 jours dès leur arrivée en Nouvelle-Écosse (ou pendant la durée de leur séjour s’il est de moins de 14 jours). Si elles ont déjà été en isolement dans une autre province du Canada atlantique, elles peuvent venir en Nouvelle-Écosse sans devoir s'isoler de nouveau. Elles n’ont pas à s’isoler si elles sont exemptées des exigences d’isolement. 
+Toutes les personnes de l’extérieur du Canada atlantique qui entrent en Nouvelle-Écosse (y compris les étudiants de niveau postsecondaire et les personnes qui passent par la Nouvelle-Écosse à destination d’une autre province) doivent s’isoler pendant 14 jours dès leur arrivée en Nouvelle-Écosse (ou pendant la durée de leur séjour s’il est de moins de 14 jours). Si elles ont déjà été en isolement dans une autre province du Canada atlantique, elles peuvent venir en Nouvelle-Écosse sans devoir s'isoler de nouveau. Elles n’ont pas à s’isoler si elles sont exemptées des exigences d’isolement.
 
 [Source](https://novascotia.ca/coronavirus/restrictions-and-guidance/fr/)
 

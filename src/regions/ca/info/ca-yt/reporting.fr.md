@@ -34,7 +34,7 @@ Vous n'avez pas à vous isoler si vous n'avez pas voyagé à l'extérieur du/de/
 Yukon ;
 la Colombie-Britannique ;
 Nunavut ; et
-Territoires du Nord-Ouest 
+Territoires du Nord-Ouest
 
 [Source](https://yukon.ca/fr/covid-19-informations-sur-les-symptomes)
 

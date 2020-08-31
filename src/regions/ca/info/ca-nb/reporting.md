@@ -11,7 +11,7 @@ If you have symptoms:
 
 Avoid non-essential travel outside of Atlantic Canada.
 
-For more precision about traveller screening, click [here]((https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19/travel.html) 
+For more precision about traveller screening, click [here]((https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19/travel.html)
 
 [Source](https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19/travel.html)
 

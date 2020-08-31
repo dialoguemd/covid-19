@@ -26,7 +26,7 @@ In general, you can stop the isolation if all of the following conditions are me
 
 10 days have passed since the onset of your symptoms.
 You have not had a fever for at least 48 hours (without having taken fever medication).
-Your symptoms have improved for at least 24 hours (excluding cough or loss of smell, which may last longer). 
+Your symptoms have improved for at least 24 hours (excluding cough or loss of smell, which may last longer).
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-people-with-covid-19-in-home-isolation/)
 
