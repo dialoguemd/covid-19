@@ -22,7 +22,7 @@ If you have these symptoms:
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
-In general, you can stop the isolation if all of the following conditions are met :
+In general, you can stop the isolation if all of the following conditions are met:
 
 10 days have passed since the onset of your symptoms.
 You have not had a fever for at least 48 hours (without having taken fever medication).
