@@ -12,9 +12,13 @@ Renseignements à l’intention des voyageurs internationaux et interprovinciaux
 
 [Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/restrictions-and-guidance/fr/)
 
-Toutes les personnes de l’extérieur du Canada atlantique qui entrent en Nouvelle-Écosse (y compris les étudiants de niveau postsecondaire et les personnes qui passent par la Nouvelle-Écosse à destination d’une autre province) doivent s’isoler pendant 14 jours dès leur arrivée en Nouvelle-Écosse (ou pendant la durée de leur séjour s’il est de moins de 14 jours). Si elles ont déjà été en isolement dans une autre province du Canada atlantique, elles peuvent venir en Nouvelle-Écosse sans devoir s'isoler de nouveau. Elles n’ont pas à s’isoler si elles sont exemptées des exigences d’isolement.
+Les déplacements entre la Nouvelle-Écosse, le Nouveau-Brunswick, l'Île-du-Prince-Édouard et Terre-Neuve-et-Labrador seront permis sans exigence d'isolement pour les résidents du Canada atlantique. Si vous vivez dans une province du Canada atlantique, vous devez montrer une preuve de résidence pour entrer en Nouvelle-Écosse. Il n'est pas nécessaire de remplir le formulaire Contrôle-santé de la Nouvelle-Écosse avant de vous rendre dans la province.
 
-[Source](https://novascotia.ca/coronavirus/restrictions-and-guidance/fr/)
+À votre arrivée en Nouvelle-Écosse, vous devez démontrer aux personnes responsables que vous avez envoyé le formulaire (ayez une copie du formulaire rempli ou le courriel de confirmation que vous avez reçu après l'envoi du formulaire). Tout adulte du Canada atlantique doit présenter, à son arrivée en Nouvelle-Écosse, une pièce d’identité officielle (comme un permis de conduire ou une carte santé), une facture de service public ou un relevé bancaire portant son adresse de résidence permanente. Les Canadiens des provinces de l'Atlantique doivent aussi suivre les directives de santé publique pendant leur séjour en Nouvelle-Écosse.
+
+Les personnes de l’extérieur du Canada atlantique qui ont déjà été en isolement pendant 14 jours dans une autre province du Canada atlantique peuvent venir en Nouvelle-Écosse sans devoir s'isoler de nouveau. Ils doivent toutefois remplir le formulaire Contrôle-santé de la Nouvelle-Écosse sauf s'ils sont exemptés des exigences en matière d'isolement. Elles n'ont pas besoin de remplir le formulaire Contrôle-santé de la Nouvelle-Écosse avant de se rendre dans la province.
+
+[Source](https://novascotia.ca/coronavirus/travel/fr/)
 
 ## Nouvelle-Écosse: Recommandations et ouvertures/fermetures des services
 
