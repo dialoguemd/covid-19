@@ -38,8 +38,6 @@ Such isolation covers both travellers who are sick or display symptoms and those
 
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 
-To remind people who are returning to the country of these obligations, police checkpoints will be established near the US border.
-
 It should be noted that businesses that deliver goods from abroad in Québec do not have to ask their employees to temporarily self-isolate.
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/)
