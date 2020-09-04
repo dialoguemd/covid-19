@@ -12,9 +12,13 @@ Information for international and interprovincial travellers, including travel r
 
 [Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/restrictions-and-guidance/#travel)
 
-All persons from outside Atlantic Canada entering Nova Scotia (including post-secondary students and persons passing through Nova Scotia on their way to another province) are required to isolate themselves for 14 days upon arrival in Nova Scotia (or for the duration of their stay if less than 14 days). If they have already been in isolation in another province in Atlantic Canada, they can come to Nova Scotia without having to be isolated again. They do not have to be isolated if they are exempt from the isolation requirements.
+Travel within Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador is permitted without the requirement to self-isolate for Atlantic Canadian residents. If you live in an Atlantic Canadian province, you need to show proof of residency when you enter Nova Scotia. You don’t need to complete a Nova Scotia Safe Check-in Form before you travel to the province.
 
-[Source](https://novascotia.ca/coronavirus/restrictions-and-guidance/en/)
+When Atlantic Canadians arrive in Nova Scotia, every adult needs to provide government-issued identification (like a Driver's Licence or Health Card) or a utility bill or bank statement that shows their permanent home address. Atlantic Canadians also need to follow public health directives while they're in Nova Scotia.
+
+People from outside Atlantic Canada who have already self-isolated in another Atlantic Canadian province for 14 days, may enter Nova Scotia without self-isolating again. They don’t need to complete a Nova Scotia Safe Check-in Form before they travel to the province.
+
+[Source](https://novascotia.ca/coronavirus/travel/#atlantic-bubble)
 
 ## Nova Scotia: Recommendation and opening/closing of services
 
