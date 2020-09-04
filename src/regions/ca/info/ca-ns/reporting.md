@@ -1,10 +1,28 @@
 ## Nova Scotia: If you think you might have been exposed to COVID-19
 
-If you have any one of the [COVID-19 symptoms](https://novascotia.ca/coronavirus/when-to-seek-help/#symptoms), or any other symptoms that concern you, call 811 for assessment by a nurse.
+If you have symptoms
+Call 811 if you’re experiencing or have experienced any of the following symptoms in the past 48 hours:
 
-Nova Scotia Health Authority has established [COVID-19 assessment centres](http://www.nshealth.ca/coronavirus-assessment). If you need in-person assessment, 811 will refer you to a centre (don't go to a COVID-19 assessment centre unless 811 referred you).
+- fever or cough (new or worsening)
+- 2 or more symptoms including sore throat, runny nose, headache or shortness of breath (new or worsening)
 
-[Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/when-to-seek-help/)
+If you have any other symptoms that concern you, call 811 for assessment by a nurse.
+
+If you think you've been exposed to COVID-19:
+
+Call 811 for assessment by a nurse if you think you've been exposed to COVID-19.
+
+Testing
+
+Nova Scotia Health Authority has established COVID-19 assessment centres. If you need in-person assessment, 811 will refer you to a centre (don't go to a COVID-19 assessment centre unless 811 referred you).
+
+After testing, you’re legally required to self-isolate for 14 days if you:
+
+- are waiting for your COVID-19 test results
+- have tested positive for COVID-19
+- have tested negative for COVID-19, but had close contact with someone who has or is suspected to have COVID-19
+
+[Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/symptoms-and-testing/)
 
 **Travel**
 
@@ -12,7 +30,11 @@ Information for international and interprovincial travellers, including travel r
 
 [Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/restrictions-and-guidance/#travel)
 
-All persons from outside Atlantic Canada entering Nova Scotia (including post-secondary students and persons passing through Nova Scotia on their way to another province) are required to isolate themselves for 14 days upon arrival in Nova Scotia (or for the duration of their stay if less than 14 days). If they have already been in isolation in another province in Atlantic Canada, they can come to Nova Scotia without having to be isolated again. They do not have to be isolated if they are exempt from the isolation requirements.
+Travel within Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador is permitted without the requirement to self-isolate for Atlantic Canadian residents. If you live in an Atlantic Canadian province, you need to show proof of residency when you enter Nova Scotia. You don’t need to complete a Nova Scotia Safe Check-in Form before you travel to the province.
+
+When Atlantic Canadians arrive in Nova Scotia, every adult needs to provide a government-issued identification card, driver's licence, passport or a utility bill or bank statement that shows their permanent home address. Atlantic Canadians also need to follow public health directives while they're in Nova Scotia.
+
+People from outside Atlantic Canada who have already self-isolated in another Atlantic Canadian province for 14 days, may enter Nova Scotia without self-isolating again. They don’t need to complete a Nova Scotia Safe Check-in Form before they travel to the province.
 
 [Source](https://novascotia.ca/coronavirus/restrictions-and-guidance/en/)
 
