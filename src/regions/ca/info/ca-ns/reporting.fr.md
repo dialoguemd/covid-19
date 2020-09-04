@@ -1,10 +1,29 @@
 ## Nouvelle-Écosse: Que faire si vous croyez avoir été en contact avec la maladie COVID-19
 
-Si vous avez l'un des [symptômes de la COVID-19](https://novascotia.ca/coronavirus/when-to-seek-help/fr/#symptoms) ou si vous avez d'autres symptômes qui vous inquiètent, faites le 811 pour vous faire évaluer par une infirmière.
+Si vous avez des symptômes:
 
-La Régie de la santé de la Nouvelle-Écosse a mis en place des [centres de dépistage de la maladie COVID-19](http://www.nshealth.ca/coronavirus/fr). Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres (ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811).
+Communiquez avec le 811 si vous avez eu au cours des 48 dernières heures ou que vous avez à l’heure actuelle :
 
-[Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/when-to-seek-help/fr/)
+- Fièvre ou toux (nouvelle ou qui s'aggrave)
+- Deux ou plusieurs des symptômes suivants (nouveaux ou qui s'aggravent) : mal de gorge, écoulement nasal, mal de tête ou essoufflement
+
+Si vous éprouvez d’autres symptômes qui vous inquiètent, composez le 811 pour parler à une infirmière.
+
+Que faire si vous croyez avoir été en contact avec la maladie COVID-19:
+
+Communiquez avec le 811 pour vous faire évaluer par une infirmière si vous croyez avoir été exposé à la COVID-19.
+
+Dépistage
+
+La Régie de la santé de la Nouvelle-Écosse a mis en place des centres de dépistage de la maladie COVID-19. Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres. Ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811.
+
+Après un test de dépistage, la loi exige que vous vous isoliez pendant 14 jours si vous :
+
+- attendez les résultats de votre test de dépistage de la COVID-19;
+- avez obtenu un résultat positif au test de dépistage de la COVID-19;
+- avez obtenu un résultat négatif au test de dépistage de la COVID-19, mais vous avez eu des contacts étroits avec une personne qui a un cas confirmé ou probable de COVID-19.
+
+[Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/symptoms-and-testing/fr/)
 
 **Conseils de voyage**
 
@@ -12,7 +31,11 @@ Renseignements à l’intention des voyageurs internationaux et interprovinciaux
 
 [Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/restrictions-and-guidance/fr/)
 
-Toutes les personnes de l’extérieur du Canada atlantique qui entrent en Nouvelle-Écosse (y compris les étudiants de niveau postsecondaire et les personnes qui passent par la Nouvelle-Écosse à destination d’une autre province) doivent s’isoler pendant 14 jours dès leur arrivée en Nouvelle-Écosse (ou pendant la durée de leur séjour s’il est de moins de 14 jours). Si elles ont déjà été en isolement dans une autre province du Canada atlantique, elles peuvent venir en Nouvelle-Écosse sans devoir s'isoler de nouveau. Elles n’ont pas à s’isoler si elles sont exemptées des exigences d’isolement.
+Les déplacements entre la Nouvelle-Écosse, le Nouveau-Brunswick, l'Île-du-Prince-Édouard et Terre-Neuve-et-Labrador seront permis sans exigence d'isolement pour les résidents du Canada atlantique. Si vous vivez dans une province du Canada atlantique, vous devez montrer une preuve de résidence pour entrer en Nouvelle-Écosse. Il n'est pas nécessaire de remplir le formulaire Contrôle-santé de la Nouvelle-Écosse avant de vous rendre dans la province.
+
+Tout adulte du Canada atlantique doit présenter, à son arrivée en Nouvelle-Écosse, une pièce d'identité délivrée par le gouvernement, un permis de conduire, un passeport ou encore une facture de service public ou un relevé bancaire portant l'adresse de sa résidence permanente. Les Canadiens des provinces de l'Atlantique doivent aussi suivre les directives de santé publique pendant leur séjour en Nouvelle-Écosse.
+
+Les personnes de l’extérieur du Canada atlantique qui ont déjà été en isolement pendant 14 jours dans une autre province du Canada atlantique peuvent venir en Nouvelle-Écosse sans devoir s'isoler de nouveau. Ils doivent toutefois remplir le formulaire Contrôle-santé de la Nouvelle-Écosse sauf s'ils sont exemptés des exigences en matière d'isolement. Elles n'ont pas besoin de remplir le formulaire Contrôle-santé de la Nouvelle-Écosse avant de se rendre dans la province.
 
 [Source](https://novascotia.ca/coronavirus/restrictions-and-guidance/fr/)
 
