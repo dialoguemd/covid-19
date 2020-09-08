@@ -1,10 +1,29 @@
 ## Nouvelle-Écosse: Que faire si vous croyez avoir été en contact avec la maladie COVID-19
 
-Si vous avez l'un des [symptômes de la COVID-19](https://novascotia.ca/coronavirus/when-to-seek-help/fr/#symptoms) ou si vous avez d'autres symptômes qui vous inquiètent, faites le 811 pour vous faire évaluer par une infirmière.
+Si vous avez des symptômes:
 
-La Régie de la santé de la Nouvelle-Écosse a mis en place des [centres de dépistage de la maladie COVID-19](http://www.nshealth.ca/coronavirus/fr). Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres (ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811).
+Communiquez avec le 811 si vous avez eu au cours des 48 dernières heures ou que vous avez à l’heure actuelle :
 
-[Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/when-to-seek-help/fr/)
+- Fièvre ou toux (nouvelle ou qui s'aggrave)
+- Deux ou plusieurs des symptômes suivants (nouveaux ou qui s'aggravent) : mal de gorge, écoulement nasal, mal de tête ou essoufflement
+
+Si vous éprouvez d’autres symptômes qui vous inquiètent, composez le 811 pour parler à une infirmière.
+
+Que faire si vous croyez avoir été en contact avec la maladie COVID-19:
+
+Communiquez avec le 811 pour vous faire évaluer par une infirmière si vous croyez avoir été exposé à la COVID-19.
+
+Dépistage
+
+La Régie de la santé de la Nouvelle-Écosse a mis en place des centres de dépistage de la maladie COVID-19. Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres. Ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811.
+
+Après un test de dépistage, la loi exige que vous vous isoliez pendant 14 jours si vous :
+
+- attendez les résultats de votre test de dépistage de la COVID-19;
+- avez obtenu un résultat positif au test de dépistage de la COVID-19;
+- avez obtenu un résultat négatif au test de dépistage de la COVID-19, mais vous avez eu des contacts étroits avec une personne qui a un cas confirmé ou probable de COVID-19.
+
+[Source: Gouvernement de la Nouvelle-Écosse](https://novascotia.ca/coronavirus/symptoms-and-testing/fr/)
 
 **Conseils de voyage**
 

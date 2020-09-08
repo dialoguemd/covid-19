@@ -1,10 +1,28 @@
 ## Nova Scotia: If you think you might have been exposed to COVID-19
 
-If you have any one of the [COVID-19 symptoms](https://novascotia.ca/coronavirus/when-to-seek-help/#symptoms), or any other symptoms that concern you, call 811 for assessment by a nurse.
+If you have symptoms
+Call 811 if you’re experiencing or have experienced any of the following symptoms in the past 48 hours:
 
-Nova Scotia Health Authority has established [COVID-19 assessment centres](http://www.nshealth.ca/coronavirus-assessment). If you need in-person assessment, 811 will refer you to a centre (don't go to a COVID-19 assessment centre unless 811 referred you).
+- fever or cough (new or worsening)
+- 2 or more symptoms including sore throat, runny nose, headache or shortness of breath (new or worsening)
 
-[Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/when-to-seek-help/)
+If you have any other symptoms that concern you, call 811 for assessment by a nurse.
+
+If you think you've been exposed to COVID-19:
+
+Call 811 for assessment by a nurse if you think you've been exposed to COVID-19.
+
+Testing
+
+Nova Scotia Health Authority has established COVID-19 assessment centres. If you need in-person assessment, 811 will refer you to a centre (don't go to a COVID-19 assessment centre unless 811 referred you).
+
+After testing, you’re legally required to self-isolate for 14 days if you:
+
+- are waiting for your COVID-19 test results
+- have tested positive for COVID-19
+- have tested negative for COVID-19, but had close contact with someone who has or is suspected to have COVID-19
+
+[Source: Government of Nova Scotia](https://novascotia.ca/coronavirus/symptoms-and-testing/)
 
 **Travel**
 
