@@ -3,7 +3,7 @@
 Devriez-vous appeler le 811 pour qu’on évalue votre besoin de subir un test de dépistage de la COVID-19?
 Au cours des 48 dernières heures ou à l’heure actuelle, avez-vous un des symptômes suivants?
 
-- Fièvre OU toux (nouvelle ou qui s'aggrave)
+- une fièvre (c’est-à-dire des frissons, des sueurs) OU une toux (nouvelle ou qui s'aggrave)
 
 OU
 
@@ -11,7 +11,7 @@ Présentez-vous au moins deux des symptômes suivants (nouveaux ou qui s’aggra
 
 - Mal de gorge
 
-- Écoulement nasal
+- Écoulement nasal/congestion nasale
 
 - Mal de tête
 

@@ -1,17 +1,5 @@
 ## Nova Scotia: If you think you might have been exposed to COVID-19
 
-If you have symptoms
-Call 811 if you’re experiencing or have experienced any of the following symptoms in the past 48 hours:
-
-- fever or cough (new or worsening)
-- 2 or more symptoms including sore throat, runny nose, headache or shortness of breath (new or worsening)
-
-If you have any other symptoms that concern you, call 811 for assessment by a nurse.
-
-If you think you've been exposed to COVID-19:
-
-Call 811 for assessment by a nurse if you think you've been exposed to COVID-19.
-
 Testing
 
 Nova Scotia Health Authority has established COVID-19 assessment centres. If you need in-person assessment, 811 will refer you to a centre (don't go to a COVID-19 assessment centre unless 811 referred you).

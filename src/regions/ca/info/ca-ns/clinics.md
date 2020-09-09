@@ -2,11 +2,11 @@
 
 In the past 48 hours have you had, or are you currently experiencing:
 
-- Fever OR cough (new or worsening)
+- Fever (i.e. chills/sweats) OR cough (new or worsening)
 
 OR
 
-- Two or more of the following symptoms (new or worsening);
+Two or more of the following symptoms (new or worsening);
 
 - Sore throat
 
