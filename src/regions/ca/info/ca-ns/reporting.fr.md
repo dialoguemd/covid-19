@@ -1,18 +1,5 @@
 ## Nouvelle-Écosse: Que faire si vous croyez avoir été en contact avec la maladie COVID-19
 
-Si vous avez des symptômes:
-
-Communiquez avec le 811 si vous avez eu au cours des 48 dernières heures ou que vous avez à l’heure actuelle :
-
-- Fièvre ou toux (nouvelle ou qui s'aggrave)
-- Deux ou plusieurs des symptômes suivants (nouveaux ou qui s'aggravent) : mal de gorge, écoulement nasal, mal de tête ou essoufflement
-
-Si vous éprouvez d’autres symptômes qui vous inquiètent, composez le 811 pour parler à une infirmière.
-
-Que faire si vous croyez avoir été en contact avec la maladie COVID-19:
-
-Communiquez avec le 811 pour vous faire évaluer par une infirmière si vous croyez avoir été exposé à la COVID-19.
-
 Dépistage
 
 La Régie de la santé de la Nouvelle-Écosse a mis en place des centres de dépistage de la maladie COVID-19. Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres. Ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811.
