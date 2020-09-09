@@ -15,8 +15,6 @@ Pour plus d'Information sur le contrôle des voyageurs, cliquez sur ce [lien](ht
 
 [Source](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/voyageurs.html)
 
-[Source](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/voyageurs.html)
-
 ## Nouveau-Brunswick: Recommandations et ouvertures/fermetures des services
 
 - [Plan de rétablissement du Nouveau-Brunswick](https://www2.gnb.ca/content/gnb/fr/corporate/promo/covid-19/retablissement.html)

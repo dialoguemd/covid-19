@@ -4,6 +4,8 @@ This [self-assessment tool](https://www.princeedwardisland.ca/en/service/self-as
 
 Testing is currently focused on individuals who have returned from travel, including from within Canada and the US, or had contact with someone diagnosed as having COVID-19, or have developed [symptoms of COVID-19](https://www.princeedwardisland.ca/en/information/health-and-wellness/about-covid-19-coronavirus).
 
+For further details, visit [Information about COVID-19 Testing in PEI](https://www.princeedwardisland.ca/en/information/health-and-wellness/information-about-covid-19-testing-pei).
+
 Gastrointestinal symptoms like nausea, vomiting, or diarrhea have been reported, but typically in conjunction with other COVID-19 symptoms, and may be more frequent in children.
 
 For health related general questions about COVID-19, call 1-800-958-6400.
