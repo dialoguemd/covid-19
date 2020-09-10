@@ -31,7 +31,7 @@ Si vous commencez à présenter des symptômes de COVID-19 :
 
 À compter du vendredi 3 juillet 2020, les déplacements interprovinciaux des résidents du Canada atlantique sans obligation de s'isoler sont autorisés à Terre-Neuve-et-Labrador, en Nouvelle-Écosse, au Nouveau-Brunswick et à l'Île-du-Prince-Édouard.
 
-Les personnes qui ont obtenu une [exemption de voyage (en anglais)](https://www.gov.nl.ca/covid-19/travel-restrictions/) de la santé publique et qui viennent à Terre-Neuve-et-Labrador en provenance d'autres provinces ou territoires canadiens doivent s'isoler pendant 14 jours à leur arrivée dans la province.
+Les personnes qui ont obtenu une [exemption de voyage (en anglais)](https://www.gov.nl.ca/covid-19/travel-restrictions/) de la santé publique et qui viennent à Terre-Neuve-et-Labrador en provenance d'autres provinces ou territoires canadiens doivent s'isoler pendant 14 jours à leur arrivée dans la province. Cela ne s'applique pas aux travailleurs permutants venant d'autres régions du Canada qui ont opté pour sept jours d'isolement avec un test COVID-19 négatif.
 
 Pour savoir comment s'isoler, veuillez consulter cette page: [Auto-isolement et autosurveillance (en anglais seulement)](https://www.gov.nl.ca/covid-19/individuals-and-households/self-isolation-and-self-monitoring/).
 
