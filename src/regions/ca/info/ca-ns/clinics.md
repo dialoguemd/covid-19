@@ -10,7 +10,7 @@ Two or more of the following symptoms (new or worsening);
 
 - Sore throat
 
-- Runny nose
+- Runny nose/nasal congestion
 
 - Headache
 
