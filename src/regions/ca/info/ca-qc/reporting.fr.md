@@ -22,6 +22,8 @@ Si vous avez ces symptômes :
 
 [Source](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/)
 
+**Quand peut-on arrêter l’isolement à la maison?**
+
 En général, vous pouvez arrêter l’isolement si toutes les conditions suivantes sont réunies :
 
 10 jours se sont écoulés depuis le début de vos symptômes.
