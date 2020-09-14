@@ -9,15 +9,17 @@ Les responsables de la santé publique recommandent aux voyageurs qui reviennent
 - Les personnes qui sont revenues d’un voyage international (y compris les États-Unis) au cours des 14 derniers jours;
 - Les personnes qui sont revenues d’un voyage au cours des 14 derniers jours en provenance d’un endroit qui n’est pas exempté par l’ordre de santé publique provincial de s’auto-isoler (les ordres de santé publique excluent actuellement les endroits dans : l’Ouest canadien, les territoires et la région de l’Ontario à l’ouest de Terrace Bay).
 
-Les responsables de la santé publique demandent instamment à toute personne qui présente des symptômes du rhume ou de la grippe, comme une toux, de la fièvre, des écoulements nasaux, des maux de gorge, des maux de tête ou tout autre symptôme indiqué dans l’outil de dépistage, de s’auto-isoler pendant 14 jours, et jusqu’à ce que les symptômes aient disparu pendant 24 heures. Toute personne présentant ces symptômes est admissible au test de dépistage de la COVID-19. Si les résultats de votre test de dépistage de la COVID-19 sont négatifs, vous devez rester à la maison jusqu’à ce que vos symptômes aient disparu depuis 24 heures. Si vous avez voyagé ou avez été exposé à un cas, vous devez continuer à vous isoler pour le reste de la période de 14 jours.
+Les responsables de la santé publique recommandent également vivement à toute personne qui présente des symptômes de rhume ou de grippe, tels que toux, fièvre, écoulement nasal, mal de gorge, maux de tête ou tout autre symptôme énuméré dans l'outil de dépistage, d'isoler et de se faire tester pour le COVID-19. En vous faisant dépister, vous contribuez à maintenir votre famille et votre communauté en bonne santé. Si vous vous faites tester pour COVID-19, vous devez continuer à vous isoler jusqu'à ce que vous ayez les résultats de votre test, et vous recevrez alors des instructions supplémentaires sur l'isolement.
 
-L’éloignement social sert à réduire intentionnellement les contacts étroits entre les personnes afin d’éliminer la progression de tout virus et d’en arrêter la transmission. Les stratégies d’éloignement social pour tous les Manitobains comprennent les moyens suivants:
+Si vous choisissez de ne pas vous faire tester, vous devrez vous isoler pendant au moins 10 jours, et jusqu'à ce que vous n'ayez plus de fièvre pendant 24 heures et que vos autres symptômes aient disparu. Si vous avez voyagé ou avez été exposé à un cas, vous devez continuer à vous isoler (quarantaine) pendant le reste de la période de 14 jours.
+
+La distanciation physique est utilisée pour réduire intentionnellement les contacts étroits entre les personnes afin d'essayer d'arrêter la progression de la transmission communautaire de tout virus. Les stratégies de distanciation physique pour tous les Manitobains comprennent:
 
 - Annuler ou reporter les événements de grande envergure;
 - Réduire au minimum les contacts prolongés (plus de 10 minutes) et étroits (moins de deux mètres) avec d’autres personnes en public;
 - éviter le contact direct (toucher) pour les salutations, comme les poignées de main;
 - Désinfecter les surfaces fréquemment utilisées;
-- Suivre les conseils du service de santé publique en matière d’autosurveillance et d’isolement volontaire s’ils ont voyagé ou ont été exposés à une personne infectée par le virus;
+- Suivre les conseils de santé publique relatifs à l'auto-isolement (quarantaine) si vous avez voyagé ou avez été exposé à une personne malade du virus
 - Envisager d’éviter les déplacements, les endroits très fréquentés et les activités réunissant une foule, particulièrement s’ils sont à risque plus élevé.
 
 Nous vous rappelons de vous protéger lorsque vous sortez en public. Veuillez vous laver les mains souvent, et maintenir une distance d’environ 2 mètres entre vous-même et les autres personnes.
