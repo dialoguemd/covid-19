@@ -9,15 +9,17 @@ Public health officials are recommending returning travelers from the following 
 - Those who have returned from international travel (including to the United States) in the last 14 days;
 - Those who have returned from domestic travel in the last 14 days to a location that is not excluded by current provincial Public Health Order from the requirement to self-isolate (Public Health Orders currently exclude locations in: Western Canada, the territories, and Ontario – west of Terrace Bay);
 
-Public health officials also strongly urge anyone who has cold or flu-like symptoms, such as a cough, fever, runny nose, sore throat, headache, or any of the symptoms listed in the screening tool to self-isolate for 14 days, and until symptoms are resolved for 24 hours. Anyone with these symptoms is eligible for COVID-19 testing. If your COVID-19 test results are negative, you should stay home until your symptoms have resolved for 24 hours. If you have travelled or been exposed to a case, you should continue to self-isolate for the remainder of the 14-day period.
+Public health officials also strongly urge anyone who has cold or flu-like symptoms, such as a cough, fever, runny nose, sore throat, headache, or any of the symptoms listed in the screening tool to isolate and get tested for COVID-19. By getting tested, you are helping to keep your family and community healthy. If you get tested for COVID-19, you should continue to isolate until you have your test results, and you will receive further instructions on isolation at that time.
 
-Social distancing is used to intentionally reduce close contact between people to try to stop the progression of community transmission of any virus. Social distancing strategies for all Manitobans include:
+If you choose to not get tested, you will need to isolate for at least 10 days, and until you no longer have fever for 24 hours and your other symptoms have resolved. If you have travelled or been exposed to a case, you should continue to self-isolate (quarantine) for the remainder of the 14-day period.
+
+Physical distancing is used to intentionally reduce close contact between people to try to stop the progression of community transmission of any virus. Physical distancing strategies for all Manitobans include:
 
 - Cancelling or postponing any large-scale events;
 - Minimizing prolonged (more than 10 minutes), close (less than two metres) contact between other individuals in public;
 - Avoiding greetings that involve touching such as handshakes;
 - Disinfecting frequently used surfaces;
-- Following public health advice related to self-monitoring and self-isolation if you have travelled or have been exposed to someone ill with the virus; and
+- Following public health advice related to self-isolation (quarantine) if you have travelled or have been exposed to someone ill with the virus; and
 - Considering avoiding travel, crowded places and events, especially if you are at higher risk.
 
 We remind you to protect yourself while out in public. Please wash your hands frequently, and maintain a distance of about 2 metres from others.
