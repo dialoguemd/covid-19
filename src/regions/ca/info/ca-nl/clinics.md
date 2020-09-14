@@ -4,11 +4,11 @@ Use this [this self-assessment tool](https://www.811healthline.ca/covid-19-self-
 
 You can complete this assessment for yourself or on behalf of someone else, if they are not able.
 
-If you have questions about COVID-19, please visit the following site:
+If you have questions about COVID-19, please visit the following resources:
 
 - [Learn about COVID-19 and actions being taken to protect the health of Newfoundlanders and Labradordorians](https://www.gov.nl.ca/covid-19/).
 
-If you have returned from travel outside the Atlantic Provinces in the past 14 days, you need to self-isolate for 14 days.
+If you have returned from travel outside the Atlantic Provinces in the past 14 days, you need to self-isolate for 14 days. This does not apply to NL residents who are rotational workers and have opted for the seven days of self-isolation plus a negative Covid-19 test.
 
 To protect yourself while out in public, wash your hands frequently, and maintain a distance of about 2 metres from others.
 
