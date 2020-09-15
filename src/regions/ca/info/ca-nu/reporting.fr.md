@@ -24,7 +24,7 @@ Si vous faites de la fièvre, si vous toussez ou avez de la difficulté à respi
 **Voyageurs revenant au Nunavut :**
 
 Tous les voyageurs qui rentrent au Nunavut depuis l’international ou l’extérieur du territoire doivent s’isoler durant 14 jours et surveiller l’apparition de symptômes. Certains cas précis peuvent faire exception (ex.: période d’isolement déjà complétée dans un site approuvé).
-Les membres de la famille ou les colocataires des personnes en auto-isolement, mais qui n’ont pas eux-mêmes voyagé doivent s’évaluer, limiter les sorties non essentielles et pratiquer un éloignement social intensif de deux mètres avec d’autres personnes, en plus d’éviter tout contact physique et de se laver les mains souvent. 
+Les membres de la famille ou les colocataires des personnes en auto-isolement, mais qui n’ont pas eux-mêmes voyagé doivent s’évaluer, limiter les sorties non essentielles et pratiquer un éloignement social intensif de deux mètres avec d’autres personnes, en plus d’éviter tout contact physique et de se laver les mains souvent.
 
 [Source](https://nu.thrive.health/covid19/fr)
 

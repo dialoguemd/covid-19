@@ -30,7 +30,7 @@ arrive that you have a respiratory illness and if you have travelled.
 **Travelers returning to Nunavut:**
 
 All travelers who returned to Nunavut from international or out-of-territory travel are required to self-isolate immediately for 14 days and monitor for symptoms. This may not apply to specific situations (e.g. already completed isolation in an approved site).
-Family members and those living with people who are self-isolating, but did not travel themselves should self-monitor, limit non-essential outings and practice strong social distancing-stay two meters apart from others, avoid physical contact and wash your hands often. 
+Family members and those living with people who are self-isolating, but did not travel themselves should self-monitor, limit non-essential outings and practice strong social distancing-stay two meters apart from others, avoid physical contact and wash your hands often.
 
 [Source](https://nu.thrive.health/covid19/en)
 
