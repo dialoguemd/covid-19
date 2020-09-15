@@ -21,7 +21,6 @@ You should get tested if you have any of the following symptoms:
 
 - Do a self-assessment ‒ [launch the tool](https://service.yukon.ca/en/covid-19-self-assessment/); or
 - Phone 811; or
-- Phone your health care provider, or [local health centre](https://yukon.ca/en/find-hospital-or-health-centre).
 
 2. Follow the advice you're given.
 

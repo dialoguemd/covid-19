@@ -16,7 +16,7 @@ If you choose to not get tested, you will need to isolate for at least 10 days, 
 Physical distancing is used to intentionally reduce close contact between people to try to stop the progression of community transmission of any virus. Physical distancing strategies for all Manitobans include:
 
 - Cancelling or postponing any large-scale events;
-- Minimizing prolonged (more than 10 minutes), close (less than two metres) contact between other individuals in public;
+- Minimizing prolonged (more than 15 minutes), close (less than two metres) contact between other individuals in public;
 - Avoiding greetings that involve touching such as handshakes;
 - Disinfecting frequently used surfaces;
 - Following public health advice related to self-isolation (quarantine) if you have travelled or have been exposed to someone ill with the virus; and

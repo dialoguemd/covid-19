@@ -21,6 +21,13 @@ Si vous faites de la fièvre, si vous toussez ou avez de la difficulté à respi
 
 [Source: Gouvernement du Nuvavut](https://www.gov.nu.ca/fr/sante/information/covid-19-nouveau-coronavirus)
 
+**Voyageurs revenant au Nunavut :**
+
+Tous les voyageurs qui rentrent au Nunavut depuis l’international ou l’extérieur du territoire doivent s’isoler durant 14 jours et surveiller l’apparition de symptômes. Certains cas précis peuvent faire exception (ex.: période d’isolement déjà complétée dans un site approuvé).
+Les membres de la famille ou les colocataires des personnes en auto-isolement, mais qui n’ont pas eux-mêmes voyagé doivent s’évaluer, limiter les sorties non essentielles et pratiquer un éloignement social intensif de deux mètres avec d’autres personnes, en plus d’éviter tout contact physique et de se laver les mains souvent.
+
+[Source](https://nu.thrive.health/covid19/fr)
+
 ## Nunavut: Recommandations et ouvertures/fermetures des services
 
 - CSTIT (Commission de la sécurité au travail et de l’indemnisation des travailleurs): [Sécurité au travail et mises à jour sur les services de la CSTIT](https://www.wscc.nt.ca/fr/sant%C3%A9-et-s%C3%A9curit%C3%A9/covid-19)

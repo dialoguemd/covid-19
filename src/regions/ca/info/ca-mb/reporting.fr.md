@@ -16,7 +16,7 @@ Si vous choisissez de ne pas vous faire tester, vous devrez vous isoler pendant 
 La distanciation physique est utilisée pour réduire intentionnellement les contacts étroits entre les personnes afin d'essayer d'arrêter la progression de la transmission communautaire de tout virus. Les stratégies de distanciation physique pour tous les Manitobains comprennent:
 
 - Annuler ou reporter les événements de grande envergure;
-- Réduire au minimum les contacts prolongés (plus de 10 minutes) et étroits (moins de deux mètres) avec d’autres personnes en public;
+- Réduire au minimum les contacts prolongés (plus de 15 minutes) et étroits (moins de deux mètres) avec d’autres personnes en public;
 - éviter le contact direct (toucher) pour les salutations, comme les poignées de main;
 - Désinfecter les surfaces fréquemment utilisées;
 - Suivre les conseils de santé publique relatifs à l'auto-isolement (quarantaine) si vous avez voyagé ou avez été exposé à une personne malade du virus
