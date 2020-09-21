@@ -21,6 +21,7 @@ Vous devez passer un test de dépistage si vous présentez l’un des symptômes
 
 - Faire une auto-évaluation - [lancer l'outil](https://service.yukon.ca/fr/covid-19-auto-evaluation/); ou
 - Téléphoner au 811; ou
+- contactez votre fournisseur de soins de santé ou le [centre de santé de votre localité](https://yukon.ca/fr/hopitaux-et-centres-de-sante).
 
   2.Suivez les conseils qui vous sont donnés.
 
