@@ -27,6 +27,8 @@ TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 
 
 Si vous êtes mis en quarantaine parce que vous êtes récemment revenu de l'étranger, ou si vous êtes un contact proche d'un cas confirmé de COVID, vous devez rester sur votre propriété. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement.
 
+Si, à un moment quelconque de votre période d'auto-isolement de 14 jours, vous présentez des symptômes de maladie, vous êtes tenu de rester chez vous pendant 10 jours à compter de la date d'apparition des symptômes ou jusqu'à ce que les symptômes aient disparu, selon la période la plus longue. Cela peut prolonger votre période d'isolement à plus de 14 jours.
+
 Il n'est PAS recommandé aux Albertains de voyager à l'extérieur du pays pour le moment.
 
 Si vous n'êtes pas sûr de devoir vous isoler ou si vous avez des questions sur la marche à suivre, suivez [ces directives](https://www.alberta.ca/isolation.aspx) ou appelez [Health Link 811](https://www.albertahealthservices.ca/info/Page12630.aspx).
