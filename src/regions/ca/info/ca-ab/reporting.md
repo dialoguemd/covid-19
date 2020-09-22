@@ -27,6 +27,8 @@ ALL travellers who returned to Alberta from outside Canada in the last 14 days a
 
 If you are quarantined because you recently came back from outside the country, or you are a close contact of a confirmed case of COVID, you must remain on your own property. Under no circumstance should you leave your property during the 14 days of self-isolation.
 
+If, at any time in your 14 day period of self-isolation, you develop symptoms of illness, you are required to stay home for 10 days from date of symptom onset, or until symptoms have cleared, whichever is longer. This may extend your period of self-isolation to longer than 14 days.
+
 Albertans are NOT recommended to travel outside of the country at this time.
 
 If you are unsure if you should be self-isolating, or if you have questions about how to do it, follow these [guidelines](https://www.alberta.ca/isolation.aspx) or call [Health Link 811](https://www.albertahealthservices.ca/info/Page12630.aspx).
