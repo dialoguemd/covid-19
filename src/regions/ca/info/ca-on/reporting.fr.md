@@ -40,6 +40,14 @@ Si vous commencez à ressentir des symptômes de la COVID-19, vous devez:
 
 Composez le 911 seulement en situation d’urgence.
 
+Dans le cadre de son plan de préparation sanitaire pour l'automne, intitulé Protéger les Ontariens : Se préparer à de futures vagues de COVID-19, le gouvernement de l'Ontario s'allie aux pharmacies pour élargir l'accès aux tests de dépistage de la COVID-19 afin de suivre, de retracer et d'isoler les cas.
+
+À partir du vendredi 25 septembre 2020, les pharmacies ci-dessous proposeront gratuitement des tests de dépistage, sur rendez-vous uniquement, aux personnes ne présentant aucun symptôme de la COVID-19. D'autres pharmacies s'ajouteront à cette liste dans les semaines à venir.
+
+Les personnes qui se déplacent pour passer un test doivent respecter toutes les mesures de santé publique, incluant le port d'un masque, le respect de l'écart sanitaire et le lavage fréquent des mains.Si vous vous sentez mal le jour de votre rendez-vous, veuillez rester à la maison et prendre un autre rendez-vous.
+
+[Source](https://news.ontario.ca/fr/backgrounder/58494/lontario-elargit-lacces-aux-tests-de-depistage-de-la-covid-19-aux-pharmacies)
+
 **Retour de voyage**
 
 Pour ralentir l’introduction et la propagation de la COVID-19 au pays, le gouvernement du Canada a adopté un arrêté d’urgence en vertu de la Loi sur la mise en quarantaine qui s’applique à tous les voyageurs qui arrivent au Canada.
