@@ -6,19 +6,49 @@ If you believe you have been exposed to COVID-19 or have symptoms similar to COV
 
 The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-002492/) is designed to help each individual make the best possible decisions regarding their own health and that of their families during the coronavirus COVID-19 pandemic. Specifically, it sets down the best means for protection against the coronavirus disease (COVID-19) and provides information about self-care, basic care for family members, and information about when and where to consult a doctor, if medical care is required.
 
-## Quebec: Who should I contact if I think I have COVID-19?
+## Quebec: Whom to contact if you have symptoms of COVID-19
 
-If you are worried about COVID‑19 or if you have [flu-like symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285) or [gastroenteritis symptoms](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816) or similar to [COVID‑19](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539), you can call, from Monday to Friday between 8:00 a.m. and 6:00 p.m and Saturday and Sunday, between 8:30 a.m. and 4:30 p.m., 418-644-4545, 514-644-4545, 450-644-4545, 819-644-4545 and 1-877-644-4545 (toll free) elsewhere in Québec. For the hearing impaired (TTY), call 1-800-361 9596 (toll free).
+You are worried or have questions:
 
-- For testing and evaluation in Montréal, visit this [santemontreal.qc.ca](https://santemontreal.qc.ca/en/public/coronavirus-covid-19/testing-covid-19-in-montreal/#c41518).
+If in doubt, do the symptom self-assessment as soon as possible and follow the instructions.
 
-If you have these symptoms:
+[Do the symptom self assessment](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/covid-19-symptom-self-assessment-tool/)
 
-- Do not go to a medical clinic unless you have first obtained an appointment.
-- If your condition allows you to do so, call 1-877-644-4545 to be referred to the right resource.
-- Visit the emergency room only if you have difficulty breathing (you have difficulty breathing when resting or are unable to breathe when lying down).
+You can also call the coronavirus (COVID‑19) information line.
 
-**If you do not have any of these symptoms** and you have a health problem, you can consult a health professional, even during the pandemic. **It is especially important to continue your medical follow-up** if you have a chronic disease, heart disease, cancer or any other disease or condition that requires regular health follow-up. For more information, go to the page [If you need a consultation during the COVID-19 pandemic](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/if-you-need-a-consultation-during-the-covid-19-pandemic/).
+Opening hours:
+
+Monday to Friday: 8 a.m. to 6 p.m.
+Saturday and Sunday: 8:30 a.m. to 4:30 p.m.
+Telephone:
+
+418-644-4545
+514-644-4545
+450-644-4545
+819-644-4545
+1-877-644-4545 (toll free) elsewhere in Quebec.
+For the hearing impaired (TTY)
+1-800-361-9596 (toll free)
+
+You have symptoms and want to get tested:
+
+If you have influenza, gastroenteritis or COVID‑19‑like symptoms, you are advised to:
+
+[Do the symptom self-assessment](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/covid-19-symptom-self-assessment-tool/)
+
+You can also [call the coronavirus (COVID‑19) information line](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/whom-to-contact-if-you-have-symptoms-of-covid-19/#c72022).
+
+For more information about testing, go to the [Testing for COVID‑19](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/testing-for-covid-19/) page.
+
+You have symptoms and have a health problem:
+
+If you have [influenza](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285), [gastroenteritis](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816) or [COVID‑19–like symptoms](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539), whatever your need for a consultation in family medicine, call the [coronavirus (COVID‑19) information line](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/whom-to-contact-if-you-have-symptoms-of-covid-19/#c72022).
+
+Your health condition will be assessed and you will be referred, if necessary, to a designated assessment clinic or another resource where you can be seen safely during the pandemic.
+
+You have a health problem and need a consultation:
+
+If you do not have [COVID‑19–like symptoms](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539) and you have a health problem, you can consult a health care professional even during the pandemic. It is especially important to continue your medical follow-up if you have a chronic disease, heart disease, cancer or any other disease or condition that requires regular health follow-up. For more information, go to the page [If you need a consultation during the COVID‑19 pandemic](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/if-you-need-a-consultation-during-the-covid-19-pandemic/).
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/)
 
@@ -37,6 +67,8 @@ Your symptoms have improved for at least 24 hours (excluding cough or loss of sm
 Anyone returning from a stay outside Canada, including cruise passengers, must self-isolate for 14 days. Postpone all non-urgent medical appointments.
 
 Such isolation covers both travellers who are sick or display symptoms and those who do not have symptoms and are in perfect health. All individuals who are returning from outside Canada and are in self-isolation at home must abide by the [instructions on returning home from abroad](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/#c58168).
+
+If you develop symptoms during this time, call 1-877-644-4545 and consult and follow the instructions in the [COVID-19 Symptom Self-Assessment Tool](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/covid-19-symptom-self-assessment-tool/).
 
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 
