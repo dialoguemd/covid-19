@@ -21,19 +21,32 @@ If you are in mandatory self-isolation:
 
 Returning to Alberta:
 
-Effective March 25, the Government of Canada has implemented a mandatory 14-day quarantine, under the Quarantine Act, for travellers returning to Canada.
+Effective March 25, the Government of Canada has implemented a mandatory 14-day quarantine, under the [Quarantine Act](https://laws-lois.justice.gc.ca/eng/acts/q-1.1/page-1.html), for travellers returning to Canada.
 
-ALL travellers who returned to Alberta from outside Canada in the last 14 days are required to self-isolate immediately for 14 days after the date of return and monitor for symptoms.
+ALL travellers who returned to Alberta from outside Canada in the last 14 days are required to [self-isolate](https://www.alberta.ca/isolation.aspx) immediately for 14 days after the date of return and monitor for [symptoms](https://www.albertahealthservices.ca/topics/Page16997.aspx#sign).
 
 If you are quarantined because you recently came back from outside the country, or you are a close contact of a confirmed case of COVID, you must remain on your own property. Under no circumstance should you leave your property during the 14 days of self-isolation.
 
-If, at any time in your 14 day period of self-isolation, you develop symptoms of illness, you are required to stay home for 10 days from date of symptom onset, or until symptoms have cleared, whichever is longer. This may extend your period of self-isolation to longer than 14 days.
+If you have symptoms:
 
-Albertans are NOT recommended to travel outside of the country at this time.
+Anyone who has symptoms including fever, cough, shortness of breath, difficulty breathing, sore throat, runny nose or nasal congestion MUST [self-isolate](https://www.alberta.ca/isolation.aspx) for 14 days. Under no circumstance should you leave your property during the 14 days of self-isolation. If your symptoms worsen, have concerns about your health or questions about COVID-19, call 811. If you need immediate medical attention, call 911 and advise them that you may have COVID-19.
+
+Follow these [self-isolation guidelines](https://www.alberta.ca/isolation.aspx):
+
+- Avoid close contact with other people, especially those with chronic conditions, a compromised immune system, or seniors.
+- Do not attend work, school, social events or any other public gatherings.
+- Watch for symptoms like fever, cough or shortness of breath in yourself or family members.
+- If, at any time in your 14 day period of self-isolation, you develop symptoms of illness, you are required to stay home for 10 days from date of symptom onset, or until symptoms have cleared, whichever is longer. This may extend your period of self-isolation to longer than 14 days.
+- If your symptoms worsen, have concerns about your health or questions about COVID, call [Health Link 811](https://www.albertahealthservices.ca/info/Page12630.aspx). Call from home before going to a health care facility, unless severely ill.
+- If severely ill and in need of immediate medical attention call 911 and inform them that you may have COVID-19.
 
 If you are unsure if you should be self-isolating, or if you have questions about how to do it, follow these [guidelines](https://www.alberta.ca/isolation.aspx) or call [Health Link 811](https://www.albertahealthservices.ca/info/Page12630.aspx).
 
 Further information for travellers returning to work and school can be found on the [Alberta COVID-19 website](https://www.alberta.ca/coronavirus-info-for-albertans.aspx#p22780s6).
+
+Departing Travellers
+
+Albertans are NOT recommended to travel outside of the country at this time.
 
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
 

@@ -21,19 +21,32 @@ Si vous êtes en auto-isolement obligatoire :
 
 Retour en Alberta :
 
-Depuis le 25 mars, le gouvernement du Canada a mis en place une quarantaine obligatoire de 14 jours, en vertu de la Loi sur la Quarantaine, pour les voyageurs qui reviennent au Canada.
+Depuis le 25 mars, le gouvernement du Canada a mis en place une quarantaine obligatoire de 14 jours, en vertu de la [Loi sur la mise en quarantaine](https://laws-lois.justice.gc.ca/fra/lois/q-1.1/page-1.html), pour les voyageurs qui reviennent au Canada.
 
-TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 14 derniers jours sont tenus de s'isoler immédiatement pendant 14 jours après la date de retour et de surveiller les symptômes.
+TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 14 derniers jours sont tenus de s'isoler immédiatement pendant 14 jours après la date de leur retour et de surveiller les symptômes.
 
-Si vous êtes mis en quarantaine parce que vous êtes récemment revenu de l'étranger, ou si vous êtes un contact proche d'un cas confirmé de COVID, vous devez rester sur votre propriété. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement.
+Si vous êtes mis en quarantaine parce que vous êtes récemment revenu de l'étranger ou que vous êtes un contact proche d'un cas confirmé de COVID, vous devez rester sur votre propriété. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement.
 
-Si, à un moment quelconque de votre période d'auto-isolement de 14 jours, vous présentez des symptômes de maladie, vous êtes tenu de rester chez vous pendant 10 jours à compter de la date d'apparition des symptômes ou jusqu'à ce que les symptômes aient disparu, selon la période la plus longue. Cela peut prolonger votre période d'isolement à plus de 14 jours.
+Si vous avez des symptômes :
+
+Toute personne présentant des symptômes tels que fièvre, toux, essoufflement, difficulté à respirer, mal de gorge, écoulement nasal ou congestion nasale DOIT s'isoler pendant 14 jours. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement. Si vos symptômes s'aggravent, si vous avez des inquiétudes concernant votre santé ou des questions sur le COVID-19, appelez le 811. Si vous avez besoin de soins médicaux immédiats, appelez le 911 et informez-les que vous êtes peut-être atteint de COVID-19.
+
+Suivez ces directives d'auto-isolement :
+
+- Évitez tout contact étroit avec d'autres personnes, en particulier celles qui souffrent de maladies chroniques, dont le système immunitaire est affaibli ou qui sont âgées.
+- N'assistez pas au travail, à l'école, aux événements sociaux ou à tout autre rassemblement public.
+- Surveillez les symptômes tels que la fièvre, la toux ou l'essoufflement chez vous ou chez les membres de votre famille.
+- Si, à un moment quelconque de votre période d'auto-isolement de 14 jours, vous présentez des symptômes de maladie, vous êtes tenu de rester chez vous pendant 10 jours à compter de la date d'apparition des symptômes ou jusqu'à ce que les symptômes aient disparu, selon la période la plus longue. Cela peut prolonger votre période d'isolement à plus de 14 jours.
+- Si vos symptômes s'aggravent, si vous avez des inquiétudes concernant votre santé ou des questions sur le COVID, appelez Health Link 811. Appelez de chez vous avant de vous rendre dans un établissement de soins, sauf en cas de maladie grave.
+- Si vous êtes gravement malade et que vous avez besoin de soins médicaux immédiats, appelez le 911 et informez-les que vous êtes peut-être atteint de COVID-19.
+
+Si vous n'êtes pas sûr de devoir vous isoler ou si vous avez des questions sur la façon de le faire, suivez ces directives ou appelez Health Link 811.
+
+De plus amples informations pour les voyageurs retournant au travail et à l'école sont disponibles sur le site web COVID-19 de l'Alberta.
+
+Voyageurs en partance:
 
 Il n'est PAS recommandé aux Albertains de voyager à l'extérieur du pays pour le moment.
-
-Si vous n'êtes pas sûr de devoir vous isoler ou si vous avez des questions sur la marche à suivre, suivez [ces directives](https://www.alberta.ca/isolation.aspx) ou appelez [Health Link 811](https://www.albertahealthservices.ca/info/Page12630.aspx).
-
-De plus amples informations pour les voyageurs retournant au travail et à l'école sont disponibles sur le [site web COVID-19 de l'Alberta](https://www.alberta.ca/coronavirus-info-for-albertans.aspx#p22780s6).
 
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
 
