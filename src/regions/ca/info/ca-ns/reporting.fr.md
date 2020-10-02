@@ -1,8 +1,16 @@
 ## Nouvelle-Écosse: Que faire si vous croyez avoir été en contact avec la maladie COVID-19
 
+Vous devriez aussi composer le 811 pour une évaluation si vous pensez avoir été exposé au virus de la COVID-19 ou si vous avez d’autres symptômes qui vous inquiètent.
+
+Si l'évaluation détermine que vous avez besoin d'un test de dépistage, la Régie de la santé de la Nouvelle-Écosse ou le IWK Health Centre communiquera avec vous dans un délai d'un à deux jours pour vous donner un rendez-vous.
+
 Dépistage
 
-La Régie de la santé de la Nouvelle-Écosse a mis en place des centres de dépistage de la maladie COVID-19. Si vous avez besoin d'une évaluation en personne, le service 811 vous demandera de vous rendre à l'un de ces centres. Ne vous présentez pas à un centre de dépistage de la maladie COVID-19 sans renvoi du service 811.
+La Régie de la santé de la Nouvelle-Écosse a mis en place des centres de dépistage de la maladie COVID-19. Si vous avez besoin d'un test de dépistage, la Régie de la santé de la Nouvelle-Écosse ou le IWK Health Centre communiquera avec vous pour vous donner un rendez-vous. Ne vous présentez pas à un centre de dépistage de la COVID-19 sans renvoi.
+
+Si vous avez reçu la directive de subir un test de dépistage de la COVID-19, vous devez vous isoler immédiatement. Les gens qui vivent avec vous n'ont pas besoin de s'isoler sauf s'ils ne se sentent pas bien, si les responsables de la Santé publique leur ont donné la consigne de s'isoler ou s'ils doivent s'isoler pour d'autres raisons. Ils doivent surveiller leurs symptômes attentivement et s'isoler s'ils ne se sentent pas bien.
+
+Si vous avez reçu la directive de faire subir un test de dépistage de la COVID-19 à votre enfant, ce dernier doit être isolé immédiatement. Les autres membres de votre ménage (même la personne qui s'occupe de l'enfant qui attend les résultats du test de dépistage) n'ont pas à s'isoler sauf s'ils ne se sentent pas bien, si les responsables de la Santé publique leur ont donné la consigne de s'isoler ou s'ils doivent s'isoler pour d'autres raisons. Ils doivent surveiller leurs symptômes attentivement et s'isoler s'ils ne se sentent pas bien.
 
 Après un test de dépistage, la loi exige que vous vous isoliez pendant 14 jours si vous :
 
