@@ -8,7 +8,7 @@ Consultez la page [Si vous êtes malade](http://www.bccdc.ca/health-info/disease
 
 ### Je suis de retour en Colombie Britannique, que dois-je faire avant d'arriver?
 
-À moins que vous n'en soyez [exempté](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return#exempt), tous les voyageurs internationaux qui retournent en Colombie-Britannique sont tenus par la loi de [s'auto-isoler](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) pendant 14 jours et de remplir un plan d'auto-isolement. Les voyageurs doivent remplir la [demande fédérale ArriveCAN](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/digital-tools.html) avant leur arrivée ou à leur retour en Colombie-Britannique.
+À moins que vous n'en soyez [exempté](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return#exempt), tous les voyageurs internationaux qui retournent en Colombie-Britannique sont tenus par la loi de s'[isoler](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) pendant 14 jours. Les voyageurs doivent remplir la [demande fédérale ArriveCAN](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/reponse-numerique-du-gouvernement-du-canada-covid-19.html) avant leur arrivée ou à leur retour en Colombie-Britannique.
 
 De plus amples informations sont disponibles sur le [site Web du gouvernement de la Colombie-Britannique](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return) pour les voyageurs internationaux de retour.
 
