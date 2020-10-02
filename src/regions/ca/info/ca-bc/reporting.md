@@ -6,7 +6,7 @@ Go to the [If you are sick](http://www.bccdc.ca/health-info/diseases-conditions/
 
 ### I am returning to B.C., what do I need to do before arriving?
 
-Unless you are [exempt](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return#exempt), all international travellers returning to B.C. are required by law to [self-isolate](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) for 14 days. Travellers must complete the [federal ArriveCAN](https://www.canada.ca/en/government/system/digital-government/digital-government-response-to-covid-19.html) application prior to arrival or upon their return to B.C. 
+Unless you are [exempt](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return#exempt), all international travellers returning to B.C. are required by law to [self-isolate](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) for 14 days. Travellers must complete the [federal ArriveCAN](https://www.canada.ca/en/government/system/digital-government/digital-government-response-to-covid-19.html) application prior to arrival or upon their return to B.C.
 
 More information is available on the [BC government website](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return) for returning international travellers.
 
