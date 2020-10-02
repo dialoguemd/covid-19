@@ -1,8 +1,16 @@
 ## Nova Scotia: If you think you might have been exposed to COVID-19
 
+You should also call 811 for assessment if you think you've been exposed to COVID-19 or have any other symptoms that concern you.
+
+If the assessment determines that you need a test, Nova Scotia Health Authority or IWK Health Centre will call you within 1 to 2 days to book the testing appointment.
+
 Testing
 
-Nova Scotia Health Authority has established COVID-19 assessment centres. If you need in-person assessment, 811 will refer you to a centre (don't go to a COVID-19 assessment centre unless 811 referred you).
+Nova Scotia Health Authority has established COVID-19 assessment centres. If you need a test, Nova Scotia Health Authority or IWK Health Centre will call you to book an appointment (don't go to a COVID-19 assessment centre unless you're referred).
+
+If you’re referred for COVID-19 testing you need to self-isolate right away. People you live with don’t need to self-isolate unless they become unwell, have been told by Public Health that they need to self-isolate or are required to self-isolate for other reasons. They need to monitor their symptoms closely and self-isolate if they start to feel sick.
+
+If your child is referred for COVID-19 testing they need to self-isolate right away. Other people in the home (including if they’re caring for the child) don’t need to self-isolate unless they become unwell, have been told by Public Health that they need to self-isolate or are required to self-isolate for other reasons. They need to monitor their symptoms closely and self-isolate if they start to feel sick.
 
 After testing, you’re legally required to self-isolate for 14 days if you:
 
