@@ -8,13 +8,11 @@ The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-0024
 
 ## Quebec: Whom to contact if you have symptoms of COVID-19
 
-You are worried or have questions:
-
-If in doubt, do the symptom self-assessment as soon as possible and follow the instructions.
+If you have [influenza]((https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285)), [gastroenteritis]((https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816)) or [COVID‑19‑like symptoms]((https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539)) or, if in doubt, do the symptom self-assessment as soon as possible and follow the instructions.
 
 [Do the symptom self assessment](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/covid-19-symptom-self-assessment-tool/)
 
-You can also call the coronavirus (COVID‑19) information line.
+You can also [call the coronavirus (COVID‑19) information line]((https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/whom-to-contact-if-you-have-symptoms-of-covid-19/#c72022).).
 
 Opening hours:
 
@@ -30,21 +28,9 @@ Telephone:
 For the hearing impaired (TTY)
 1-800-361-9596 (toll free)
 
-You have symptoms and want to get tested:
-
-If you have influenza, gastroenteritis or COVID‑19‑like symptoms, you are advised to:
-
-[Do the symptom self-assessment](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/covid-19-symptom-self-assessment-tool/)
-
-You can also [call the coronavirus (COVID‑19) information line](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/whom-to-contact-if-you-have-symptoms-of-covid-19/#c72022).
+Your health condition will be assessed and you will be referred, if necessary, to a designated assessment clinic or another resource where you can be seen safely during the pandemic.
 
 For more information about testing, go to the [Testing for COVID‑19](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/testing-for-covid-19/) page.
-
-You have symptoms and have a health problem:
-
-If you have [influenza](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285), [gastroenteritis](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816) or [COVID‑19–like symptoms](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539), whatever your need for a consultation in family medicine, call the [coronavirus (COVID‑19) information line](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/whom-to-contact-if-you-have-symptoms-of-covid-19/#c72022).
-
-Your health condition will be assessed and you will be referred, if necessary, to a designated assessment clinic or another resource where you can be seen safely during the pandemic.
 
 You have a health problem and need a consultation:
 
@@ -73,6 +59,12 @@ If you develop symptoms during this time, call 1-877-644-4545 and consult and fo
 Anyone who does not comply with these instructions commits an offence under the federal legislation and is liable to [penalties](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html#a2).
 
 It should be noted that businesses that deliver goods from abroad in Québec do not have to ask their employees to temporarily self-isolate.
+
+Travel in Québec:
+
+If you plan to travel in Quebec, to ensure your safety, we ask that you follow the Instructions to ensure [safe vacations in Québec (COVID‑19)](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/safe-vacations-quebec-covid-19/).
+
+The residents of a region or territory now designated as a red zone (Maximum Alert) must avoid travelling to a green, yellow or orange zone and outside Québec, except for essential travel (workers, shared child custody and freight transportation). [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/travelling-region-to-another-covid19/)
 
 [Source](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-travellers-covid19/)
 
