@@ -12,7 +12,7 @@ Si vous présentez des symptômes d’allure [grippale](https://www.quebec.ca/sa
 
 [Remplir l’auto-évaluation des symptômes](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/guide-auto-evaluation-symptomes-covid-19/)
 
-Vous pouvez aussi contacter la [ligne d’information sur le coronavirus (COVID-19)]((https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/qui-contacter-en-cas-de-symptomes/#c72018)).
+Vous pouvez aussi contacter la [ligne d’information sur le coronavirus (COVID-19)](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/qui-contacter-en-cas-de-symptomes/#c72018).
 
 Heures d’ouverture :
 
