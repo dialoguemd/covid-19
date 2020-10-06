@@ -8,11 +8,11 @@ The [Self-Care Guide](https://publications.msss.gouv.qc.ca/msss/en/document-0024
 
 ## Quebec: Whom to contact if you have symptoms of COVID-19
 
-If you have [influenza]((https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285)), [gastroenteritis]((https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816)) or [COVID‑19‑like symptoms]((https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539)) or, if in doubt, do the symptom self-assessment as soon as possible and follow the instructions.
+If you have [influenza](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/flu-influenza/#c1285), [gastroenteritis](https://www.quebec.ca/en/health/health-issues/flu-cold-and-gastroenteritis/gastroenteritis/#c1816) or [COVID‑19‑like symptoms](https://www.quebec.ca/en/health/health-issues/a-z/general-information-about-coronavirus/#c46539) or, if in doubt, do the symptom self-assessment as soon as possible and follow the instructions.
 
 [Do the symptom self assessment](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/covid-19-symptom-self-assessment-tool/)
 
-You can also [call the coronavirus (COVID‑19) information line]((https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/whom-to-contact-if-you-have-symptoms-of-covid-19/#c72022).).
+You can also [call the coronavirus (COVID‑19) information line](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/whom-to-contact-if-you-have-symptoms-of-covid-19/#c72022).
 
 Opening hours:
 
