@@ -14,4 +14,4 @@ You should NOT GO to the grocery store if:
 
 More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#self).
 
-_Last updated on June 13, 2020_
+_Last updated on October 9, 2020_
