@@ -4,4 +4,4 @@ Veuillez consulter les directives de votre gouvernement provincial ou de votre v
 
 Plus d'information [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html).
 
-_Dernière mise à jour le 13 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_
