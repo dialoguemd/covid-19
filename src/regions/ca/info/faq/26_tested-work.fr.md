@@ -7,4 +7,4 @@ Plus d'informations ici:
 - [La ressource fiable canadienne pour les mises à jour pour le COVID-19](https://fr.c19.ca/)
 - [Chloé pour la COVID-19](https://covid19.dialogue.co/#/)
 
-_Dernière mise à jour le 13 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_
