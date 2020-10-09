@@ -5,4 +5,4 @@ Nous ne pouvons pas nous substituer aux fournisseurs de soins de santé pour les
 - [Gouvernement du Québec](https://www.quebec.ca/gouv/covid19-fonction-publique/)
 - [CNESST](https://www.cnesst.gouv.qc.ca/salle-de-presse/Pages/coronavirus.aspx)
 
-_Dernière mise à jour le 4 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_
