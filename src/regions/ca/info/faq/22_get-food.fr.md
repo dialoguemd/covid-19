@@ -14,4 +14,4 @@ Vous ne devez PAS aller à l'épicerie si:
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
 
-_Dernière mise à jour le 13 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_
