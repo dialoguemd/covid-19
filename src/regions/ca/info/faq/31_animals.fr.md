@@ -1,29 +1,18 @@
 ## Les animaux peuvent-ils transmettre le virus aux humains?
 
-Il n'y a actuellement aucune preuve que ce virus circule chez les animaux au Canada.
+Nous en apprenons encore sur le virus qui provoque la COVID-19, mais il semble qu'il puisse se transmettre de l'homme aux animaux dans certaines situations. Un petit nombre d'animaux de compagnie dans le monde entier, y compris des chats et des chiens, ont été signalés, la plupart du temps après un contact étroit avec des personnes atteintes de COVID-19.
 
-Il est possible que certains types d'animaux puissent être infectés par le COVID-19, mais rien ne prouve que les animaux de compagnie ou d'autres animaux puissent propager le virus. Il y a encore beaucoup d'inconnues sur le COVID-19 et c'est un domaine qui reste à étudier et à comprendre.
+Les animaux de compagnie infectés peuvent tomber malades ou ne présenter aucun symptôme. Parmi les animaux qui sont tombés malades, la plupart n'ont eu qu'une maladie légère et se sont complètement rétablis.
 
-Jusqu'à ce que nous en sachions plus, si vous avez été diagnostiqué avec COVID-19 et que vous avez un animal de compagnie ou un autre animal:
+Sur la base des informations limitées disponibles à ce jour, le risque que les animaux transmettent COVID-19 à l'homme est considéré comme faible.
 
-- évitez tout contact étroit avec eux
-- ne les serrez pas dans vos bras, ne l'embrassez pas, ne les laissez pas vous lécher, ne vous asseyez pas sur vos genoux et ne dormez pas dans votre lit
-- pratiquer la bonne étiquette en matière de toux
-- éviter de tousser et d'éternuer sur vos animaux
-- faire soigner vos animaux par un autre membre de votre ménage
-- si ce n'est pas possible, lavez-vous toujours les mains avant de les toucher ou de les nourrir
-- limiter les contacts de votre animal avec d'autres personnes et animaux
-  Cela peut signifier les garder à l'intérieur.
+- Traitez les animaux de compagnie comme les autres membres de la famille humaine - ne laissez pas les animaux de compagnie interagir avec des personnes extérieures au foyer.
+- Si une personne à l'intérieur du foyer tombe malade, isolez-la de toutes les autres, y compris des animaux domestiques.
+- Il s'agit d'une situation qui évolue rapidement et les informations seront mises à jour dès qu'elles seront disponibles.
 
-À ce jour, il n'a été signalé nulle part que du bétail ait été infecté par le COVID-19. Cependant, les éleveurs de bétail doivent suivre les mesures de biosécurité normales comme toujours. Il s'agit notamment de limiter les visiteurs ou les travailleurs qui ont pu se rendre dans une zone touchée ou être en contact avec une personne de cette zone. Pour plus d'informations sur la prévention des maladies agricoles, les producteurs sont encouragés à consulter le:
+Pour plus d’informations:
 
-- [Gouvernement du Canada](https://www.inspection.gc.ca/sante-des-animaux/animaux-terrestres/biosecurite/normes-et-principes/fra/1344707905203/1344707981478)
-- [Gouvernement du Canada](https://www.inspection.gc.ca/sante-des-animaux/animaux-terrestres/biosecurite/normes-et-principes/gestion-proactive/fra/1374175296768/1374176128059?chap=0)
+- [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/animaux-covid-19.html) (dernière mise à jour le 22 juillet)
+- [Center for disease control and prevention](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) (en anglais, dernière mise à jour le 9 septembre)
 
-Ces recommandations seront mises à jour au fur et à mesure que des informations supplémentaires seront disponibles.
-
-Plus d'informations ici:
-
-- [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques/animaux-covid-19.html)
-
-_Dernière mise à jour le 4 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_
