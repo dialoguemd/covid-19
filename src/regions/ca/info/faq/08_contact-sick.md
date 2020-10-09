@@ -8,4 +8,4 @@ More information here:
 
 - [How to isolate at home when you may have COVID-19](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html)
 
-_Last updated on June 4, 2020_
+_Last updated on October 9, 2020_
