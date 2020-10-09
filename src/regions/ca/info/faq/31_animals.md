@@ -1,29 +1,18 @@
 ## Can animals carry the virus to humans?
 
-There is currently no evidence to suggest that this virus is circulating in animals in Canada.
+We are still learning about the virus that causes COVID-19, but it appears that it can spread from people to animals in some situations. A small number of pets worldwide, including cats and dogs, have been reported, mostly after close contact with people with COVID-19.
 
-It is possible that some types of animals can be infected with COVID-19 but there is no evidence that pets or other animals can spread the virus. There are still many unknowns about COVID-19 and this is an area that remains to be studied and understood.
+Infected pets might get sick or they might not have any symptoms. Of the pets that have gotten sick, most only had mild illness and fully recovered.
 
-Until we know more, if you have been diagnosed with COVID-19 and have a pet or other animal:
+Based on the limited information available to date, the risk of animals spreading COVID-19 to people is considered to be low.
 
-- Avoid close contact with them
-  - Do not snuggle or kiss them, or let them lick you, sit on your lap, or sleep in your bed
-- Practice good cough etiquette
-  - Avoid coughing and sneezing on your animals
-- Have another member of your household care for your animals
-  - If this is not possible, always wash your hands before touching or feeding them
-- Limit your animal's contact with other people and animals
-  - This may mean keeping them indoors
+- Treat pets as you would other human family members – do not let pets interact with people outside the household.
+- If a person inside the household becomes sick, isolate that person from everyone else, including pets.
+- This is a rapidly evolving situation and information will be updated as it becomes available.
 
-To date, there have not been any reports of livestock being infected by COVID-19 anywhere. However, livestock producers should follow normal biosecurity measures as always. This includes limiting visitors or workers who may have travelled to, or been in contact with, someone from an affected area. For more information on-farm disease prevention, producers are encouraged to consult the following sites:
+For more information: 
 
-- [Governement of Canada](https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/eng/1344707905203/1344707981478)
-- [Government of Canada](https://www.inspection.gc.ca/animal-health/terrestrial-animals/biosecurity/standards-and-principles/proactive-management/eng/1374175296768/1374176128059?chap=0)
+- [Center for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html)
+- [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/animals-covid-19.html)
 
-These recommendations will be updated as more information becomes available.
-
-More information here:
-
-- [Governement of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/animals-covid-19.html)
-
-_Last updated on June 4, 2020_
+_Last updated on October 9, 2020_
