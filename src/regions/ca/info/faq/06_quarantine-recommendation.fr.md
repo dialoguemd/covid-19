@@ -28,5 +28,4 @@ Voici les symptômes de COVID-19 :
 
 Dialogue ne publiera pas de notes médicales relatives au COVID, quel que soit le moment. Les protocoles de quarantaine et d'auto-isolement sont imposés par les directives de santé publique. Si les employeurs exigent une attestation, Dialogue renverra les patients à leur autorité de santé publique.
 
-
 _Dernière mise à jour le 9 octobre 2020_
