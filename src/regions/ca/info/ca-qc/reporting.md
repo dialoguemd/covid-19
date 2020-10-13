@@ -70,7 +70,8 @@ The residents of a region or territory now designated as a red zone (Maximum Ale
 
 ## Quebec: Recommendation and opening/closing of services
 
-- [Gradual resumption of activities under the COVID-19-related pause](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/gradual-resumption-activities-covid19-related-pause/)
+- [Affected economic sectors in the red zone (COVID-19)](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/affected-economic-sectors-red-zone-covid-19/)
+- [Questions and answers concerning stores, public spaces and services during the COVID-19 pandemic](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/answers-questions-coronavirus-covid19/questions-answers-stores-public-spaces-covid-19/)
 - CNESST (Commission des normes, de l’équité, de la santé et de la sécurité au travail): [Quebec is going back to work safely](https://www.cnesst.gouv.qc.ca/salle-de-presse/covid-19-info-en/Pages/back-to-work.aspx)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
