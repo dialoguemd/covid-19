@@ -41,6 +41,10 @@ Il existe des exemptions à ces exigences. Veuillez consulter les [ordonnances d
 
 ## Terre-Neuve et Labrador: Recommandations et ouvertures/fermetures des services
 
+La Croix-Rouge canadienne a mis en place une ligne d'assistance téléphonique pour aider les personnes qui sont touchées par l'auto-isolement à accéder à un large éventail de soutiens et de services. Les personnes qui ont des problèmes ou des préoccupations concernant l'auto-isolement doivent appeler le 1-800-863-6582.
+
+[Source](https://www.gov.nl.ca/covid-19/fr/ressources/)
+
 Liens disponibles en anglais seulement:
 
 - [Système de niveau d'alerte](https://www.gov.nl.ca/covid-19/alert-system/)
