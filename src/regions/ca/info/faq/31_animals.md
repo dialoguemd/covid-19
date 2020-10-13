@@ -10,7 +10,7 @@ Based on the limited information available to date, the risk of animals spreadin
 - If a person inside the household becomes sick, isolate that person from everyone else, including pets.
 - This is a rapidly evolving situation and information will be updated as it becomes available.
 
-For more information: 
+For more information:
 
 - [Center for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html)
 - [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/animals-covid-19.html)
