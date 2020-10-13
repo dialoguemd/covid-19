@@ -32,11 +32,7 @@ Les complications découlant de la COVID-19 peuvent inclure de graves problèmes
 
 **Si vous commencez à ressentir des symptômes de COVID-19**
 
-Si vous commencez à ressentir des symptômes de la COVID-19, vous devez:
-
-- vous présenter à un [centre d’évaluation de la COVID-19](https://covid-19.ontario.ca/fr/centres-devaluation-de-la-covid-19) pour subir un test
-- rester à la maison et vous auto-isoler, sauf si vous vous rendez au centre d’évaluation
-- aviser les gens avec qui vous avez été en contact étroit dans les 48 heures précédant l’apparition de vos symptômes de surveiller leur état de santé et de s’auto-isoler
+À partir du mardi 6 octobre, vous devrez prendre rendez-vous pour passer untest de dépistage dans tous les centres d'évaluation et dans certaines pharmacies. Contactez le centre d'évaluation ou la pharmacie pour prendre rendez-vous pour votre test ici: https://covid-19.ontario.ca/emplacements-centres-devaluation/.
 
 Composez le 911 seulement en situation d’urgence.
 
