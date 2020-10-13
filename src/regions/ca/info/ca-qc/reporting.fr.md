@@ -57,7 +57,8 @@ Les personnes qui habitent dans une région ou un territoire qui est actuellemen
 
 ## Québec: Recommandations et ouvertures/fermetures des services
 
-- [Reprise graduelle des activités en lien avec les mesures de ralentissement de la COVID-19](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/reprise-graduelle-activites-mesures-ralentissement-covid19/)
+- [Liste des secteurs économiques impactés en zone rouge (COVID-19)](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/liste-secteurs-economiques-impactes-zone-rouge-covid-19/)
+- [Questions et réponses sur les commerces, les lieux publics et les services dans le contexte de la COVID-19](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/reponses-questions-coronavirus-covid19/questions-et-reponses-sur-les-commerces-les-lieux-publics-et-les-services-dans-le-contexte-de-la-covid-19/)
 - CNESST (Commission des normes, de l’équité, de la santé et de la sécurité au travail): [Le Québec se remet au travail en toute sécurité : trousse COVID-19](https://www.cnesst.gouv.qc.ca/salle-de-presse/covid-19/Pages/trousse.aspx)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
