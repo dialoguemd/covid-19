@@ -14,4 +14,4 @@ The most important thing to know about coronavirus on surfaces is that they can 
 
 More information [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses).
 
-_Last updated on June 15, 2020_
+_Last updated on October 13, 2020_
