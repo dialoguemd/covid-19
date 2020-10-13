@@ -15,4 +15,4 @@ Many resources offer information on how to deal with your own anxiety, your empl
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fcoping.html)
 - [QC - Stress, Anxiety and Depression Associated With the Coronavirus COVID-19 Disease](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/stress-anxiety-and-depression-associated-with-the-coronavirus-covid-19-disease/)
 
-_Last updated on June 4, 2020_
+_Last updated on October 13, 2020_
