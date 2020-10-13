@@ -2,4 +2,4 @@
 
 [Voici un résumé très clair](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/auto-surveillance-auto-isolement-isolement-pour-covid-19.html) pour répondre à cette question par le Gouvernement du Canada.
 
-_Dernière mise à jour le 4 juin 2020_
+_Dernière mise à jour le 13 octobre 2020_

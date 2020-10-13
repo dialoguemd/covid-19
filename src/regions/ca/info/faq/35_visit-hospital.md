@@ -12,4 +12,4 @@ All visitors should be required to put on a mask at entry to the LTCH, to reduce
 
 More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevent-control-covid-19-long-term-care-homes.html#a5).
 
-_Last updated on June 15, 2020_
+_Last updated on October 13, 2020_

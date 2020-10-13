@@ -43,6 +43,10 @@ There are exemptions to these requirements. Please see [Public Health Orders](ht
 
 ## Newfoundland and Labrador: Recommendation and opening/closing of services
 
+The Canadian Red Cross has established a help line to assist people who are impacted by self-isolation in accessing a wide range of supports and services. People who have issues or concerns regarding self-isolation should call 1-800-863-6582.
+
+[Source](https://www.gov.nl.ca/covid-19/resources/)
+
 - [Alert Level System](https://www.gov.nl.ca/covid-19/alert-system/)
 - [Refer to this page to see the current level](https://www.gov.nl.ca/covid-19/)
 - [Information Sheets for Businesses and Workplaces](https://gov.nl.ca/covid-19/information-sheets-for-businesses-and-workplaces/)

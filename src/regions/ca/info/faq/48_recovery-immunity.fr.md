@@ -12,4 +12,4 @@ Pour voir les exigences qui s'appliquent aux tests sérologiques, veuillez consu
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/covid19-industrie/instruments-medicaux/depistage/serologique.html).
 
-_Dernière mise à jour le 16 juin 2020_
+_Dernière mise à jour le 13 octobre 2020_

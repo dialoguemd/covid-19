@@ -21,4 +21,4 @@ More information here:
 - [VIDEO: How to wear a mask properly](https://www.canada.ca/en/public-health/services/video/covid-19-wear-non-medical-mask-face-covering-properly.html)
 - [WHO: When and how to wear a mask](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
 
-_Last updated on June 15, 2020_
+_Last updated on October 13, 2020_

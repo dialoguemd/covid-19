@@ -8,4 +8,4 @@ Some laboratories have reduced their opening hours or limited the samples taken 
 
 We therefore recommend that you call the place before you go there.
 
-_Last updated on June 4, 2020_
+_Last updated on October 13, 2020_

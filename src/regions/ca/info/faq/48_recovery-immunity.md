@@ -12,4 +12,4 @@ For serological test requirements, please consult the [requirements for serologi
 
 [More information here](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid-19/serological-testing.html).
 
-_Last updated on June 16, 2020_
+_Last updated on October 13, 2020_

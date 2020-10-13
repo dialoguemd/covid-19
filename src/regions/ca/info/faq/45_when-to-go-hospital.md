@@ -7,8 +7,6 @@ Look for emergency warning signs\* for COVID-19. If someone is showing any of th
 - New confusion
 - Inability to wake or stay awake
 - Bluish lips or face
-- Sudden loss of smell or taste for unknown reasons
-- Presence of new discolorations in the extremities (fingers or toes)
 
 \*This is not an exhaustive list of all possible symptoms. Please call your medical provider for any other symptoms that are severe or concerning to you.
 

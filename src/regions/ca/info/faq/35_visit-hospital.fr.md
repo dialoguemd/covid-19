@@ -10,4 +10,4 @@ Les déplacements des visiteurs à l’intérieur de l’ESLD doivent se limiter
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/prevention-controle-covid-19-foyers-soins-longue-duree.html#a5)
 
-_Dernière mise à jour le 15 juin 2020_
+_Dernière mise à jour le 13 octobre 2020_
