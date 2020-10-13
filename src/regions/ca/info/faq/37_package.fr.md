@@ -14,4 +14,4 @@ La chose la plus importante à savoir au sujet du coronavirus sur les surfaces e
 
 Plus d'infomation [ici](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses).
 
-_Dernière mise à jour le 15 juin 2020_
+_Dernière mise à jour le 13 octobre 2020_
