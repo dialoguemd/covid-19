@@ -17,9 +17,16 @@ Plus d'informations ici:
 
 **Les populations vulnérables peuvent inclure:**
 
-- une personne âgée
-- à risque en raison de conditions médicales sous-jacentes (par exemple, maladies cardiaques, hypertension, diabète, maladies respiratoires chroniques, cancer)
-- à risque en raison d'un système immunitaire affaibli par une maladie ou un traitement (par exemple, la chimiothérapie)
+- Les personnes âgées (le risque augmente par tranche de 10 ans, particulièrement après l’âge de 60 ans)
+- Les personnes de tous âges qui ont des problèmes de santé chroniques, notamment une maladie pulmonaire, du cœur, des reins ou du foie, l’hypertension artérielle, le diabète, un accident vasculaire cérébral ou la démence
+- Les personnes de tous âges qui sont immunodéprimées à cause d’un problème de santé (comme le cancer) ou d’un traitement qui affaiblit le système immunitaire (comme la chimiothérapie)
+- Les personnes atteintes d’obésité (indice de masse corporelle de 40 ou plus)
+
+Certaines personnes sont plus susceptibles d’être exposées au virus de la COVID-19 pour différentes raisons :
+
+- Leur emploi ou leur profession les amène à entrer en contact avec un grand nombre de personnes, ce qui accroît le risque d’exposition à une personne qui a la COVID-19.
+- Elles vivent dans des lieux d’habitation de groupe où le virus de la COVID-19 peut se propager plus facilement, par exemple des établissements de soins de longue durée, des établissements correctionnels, des refuges ou des résidences de groupe.
+- Des obstacles limitent leur capacité d’adopter des mesures de santé publique efficaces, par exemple, les personnes ayant une incapacité pour qui certains renseignements, services ou établissements se révèlent non accessibles.
 
 Ainsi que tous ceux qui:
 
@@ -37,4 +44,4 @@ Ainsi que tous ceux qui:
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/populations-vulnerables-covid-19.html)
 
-_Dernière mise à jour le 19 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_

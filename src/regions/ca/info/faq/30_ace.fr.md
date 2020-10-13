@@ -9,4 +9,4 @@ Plus d'information ici:
 - [Société Canadienne de Cardiologie](http://www.ccs.ca/images/Images_2020/CCS_CHFS_statement_regarding_COVID_fr.pdf)
 - [Organisation mondiale de la Santé (OMS)](https://www.who.int/news-room/commentaries/detail/covid-19-and-the-use-of-angiotensin-converting-enzyme-inhibitors-and-receptor-blockers)(lien en anglais seulement)
 
-_Dernière mise à jour le 15 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_

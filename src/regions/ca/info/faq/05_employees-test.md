@@ -6,4 +6,4 @@ Suspected cases will be directed to the appropriate health authority. Our care t
 
 Provincial health authorities have specific care paths patients need to follow as they centralize all cases in specific testing and treating locations. We are monitoring all Canadian and provincial screening protocols which we must follow to the letter to ensure everyone’s safety. These are changing daily or more often so we are checking the procedures in realtime and referring according to recommendations.
 
-_Last updated on June 19, 2020_
+_Last updated on October 9, 2020_

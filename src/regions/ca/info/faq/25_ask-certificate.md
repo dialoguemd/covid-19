@@ -8,4 +8,4 @@ Under "[For workplaces](https://www.canada.ca/en/public-health/services/diseases
 - [Canadian medical association (CMA)](https://www.cma.ca/news-releases-and-statements/cma-urges-all-employers-discontinue-requirement-sick-notes-during)
 - [CNESST](https://www.cnesst.gouv.qc.ca/salle-de-presse/Pages/coronavirus.aspx)
 
-_Last updated on June 4, 2020_
+_Last updated on October 9, 2020_

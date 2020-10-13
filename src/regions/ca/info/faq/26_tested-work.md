@@ -7,4 +7,4 @@ More information here:
 - [Canada's trusted resource for COVID-19 updates](https://www.c19.ca/)
 - [Chloe for COVID-19](https://covid19.dialogue.co/#/)
 
-_Last updated on June 13, 2020_
+_Last updated on October 9, 2020_

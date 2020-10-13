@@ -1,12 +1,31 @@
 ## Est-ce que Dialogue peut recommander médicalement à un employé de se mettre en quarantaine?
 
-Oui. Pour les clients de Dialogue, chaque cas sera évalué personnellement par un professionnel de la santé et une mise en quarantaine sera recommandée si nécessaire. Par exemple, nous le proposerons à nos clients dans les cas suivants:
+Vous devez vous isoler pendant 14 jours si vous remplissez au moins une des conditions suivantes :
 
-- Toute personne présentant l'un des symptômes suivants : fièvre, toux, mal de gorge, écoulement nasal ou maux de tête
-- Toute personne qui, au cours des 14 derniers jours, a prodigué des soins ou a été en contact étroit avec une personne symptomatique connue ou suspectée d'être atteinte de COVID-19
-- Toute personne ayant voyagé à l'extérieur du Canada au cours des 14 derniers jours
-- Tout autre cas où un niveau de risque accru a été identifié
+- vous êtes revenu d'un voyage à l'étranger
+- avez été diagnostiqué comme présentant des symptômes de COVID-19, même s'ils sont bénins
+- avez été en contact avec un cas suspecté, probable ou confirmé de COVID-19
 
-Toutefois, Dialogue ne publiera pas de notes médicales relatives au COVID, quel que soit le moment. Les protocoles de quarantaine et d'auto-isolement sont imposés par les directives de santé publique. Si les employeurs exigent une attestation, Dialogue renverra les patients à leur autorité de santé publique.
+Veuillez noter que certaines provinces exigent 10 jours d'isolement si vous n'avez pas d'antécédents de voyage.
 
-_Dernière mise à jour le 16 juin 2020_
+Voici les symptômes de COVID-19 :
+
+- fièvre ou signes de fièvre, y compris frissons, sueurs, douleurs musculaires, sensation de tête légère)
+- perte soudaine de l'odorat sans congestion nasale, avec ou sans perte de goût,
+- une grande fatigue,
+- une perte d'appétit importante,
+- des douleurs musculaires générales (non liées à l'effort physique) ;
+- symptômes respiratoires :
+- toux (nouvelle ou plus grave),
+- essoufflement, difficulté à respirer,
+- mal de gorge,
+- nez qui coule ou qui est bouché ;
+- symptômes gastro-intestinaux :
+- nausées,
+- vomissement,
+- la diarrhée,
+- des maux d'estomac.
+
+Dialogue ne publiera pas de notes médicales relatives au COVID, quel que soit le moment. Les protocoles de quarantaine et d'auto-isolement sont imposés par les directives de santé publique. Si les employeurs exigent une attestation, Dialogue renverra les patients à leur autorité de santé publique.
+
+_Dernière mise à jour le 9 octobre 2020_

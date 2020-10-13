@@ -8,4 +8,4 @@ Plus d'informations ici:
 
 - [Comment s'isoler chez soi lorsqu'on est peut-être atteint de la COVID-19](https://www.canada.ca/fr/sante-publique/services/publications/maladies-et-affections/covid-19-comment-isoler-chez-soi.html)
 
-_Dernière mise à jour le 4 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_

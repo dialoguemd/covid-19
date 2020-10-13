@@ -4,4 +4,4 @@ Please check the guidelines of your provincial government or city. If you use pu
 
 More info can be found [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html).
 
-_Last updated on June 13, 2020_
+_Last updated on October 9, 2020_

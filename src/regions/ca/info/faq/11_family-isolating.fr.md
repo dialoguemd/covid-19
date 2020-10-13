@@ -19,6 +19,6 @@ Les experts recommandent également que la personne reste à l'écart des animau
   - Nettoyez régulièrement les objets qui sont souvent touchés. Cela inclut les comptoirs, les tables de chevet, les poignées de porte, les ordinateurs, les téléphones et les surfaces de la salle de bain.
   - Nettoyez votre maison à l'eau et au savon, mais utilisez également des désinfectants sur les surfaces appropriées. Certains produits de nettoyage sont efficaces pour tuer les bactéries, mais pas les virus, c'est pourquoi il est important de vérifier les étiquettes.
 
-Source: UPtodate
+Source: [UPtodate](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-epidemiology-virology-and-prevention)
 
-_Dernière mise à jour le 13 juin 2020_
+_Dernière mise à jour le 9 octobre 2020_

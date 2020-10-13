@@ -13,4 +13,4 @@ More information here:
 - [Period of communicability](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/assumptions.html#a4)
 - [How to quarantine (self-isolate) at home when you may have been exposed to COVID-19 and have no symptom ](https://www.canada.ca/en/public-health/services/publications/diseases-conditions/coronavirus-disease-covid-19-how-to-self-isolate-home-exposed-no-symptoms.html)
 
-_Last updated on June 13, 2020_
+_Last updated on October 9, 2020_

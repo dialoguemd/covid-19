@@ -18,6 +18,6 @@ Experts also recommend that the person stay away from pets in the house until th
   - Regularly clean things that are touched a lot. This includes counters, bedside tables, doorknobs, computers, phones, and bathroom surfaces.
   - Clean things in your home with soap and water, but also use disinfectants on appropriate surfaces. Some cleaning products work well to kill bacteria, but not viruses, so it's important to check labels.
 
-Source: UPtodate
+Source: [UPtodate](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-epidemiology-virology-and-prevention)
 
-_Last updated on June 13, 2020_
+_Last updated on October 9, 2020_
