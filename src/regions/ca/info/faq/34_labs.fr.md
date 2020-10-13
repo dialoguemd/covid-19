@@ -8,4 +8,4 @@ Enfin, certains laboratoires ont des horaires réduites ou limitent le nombre de
 
 Nous recommandons donc d'appeler le lieu avant de vous y rendre.
 
-_Dernière mise à jour le 4 juin 2020_
+_Dernière mise à jour le 13 octobre 2020_
