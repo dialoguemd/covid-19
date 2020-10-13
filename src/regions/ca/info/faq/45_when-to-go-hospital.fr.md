@@ -7,8 +7,6 @@ Recherchez les signes d'alerte d'urgence\* pour COVID-19. Si une personne prése
 - Nouvelle confusion
 - Incapacité à se réveiller ou à rester éveillé
 - Lèvres ou visage bleus
-- Perte soudaine de l'odorat ou du goût pour des raisons inconnues
-- Présence de nouvelles décolorations aux extrémités (doigts ou orteils)
 
 \*Il ne s'agit pas d'une liste exhaustive de tous les symptômes possibles. Veuillez appeler votre professionnel de la santé pour tout autre symptôme grave ou qui vous concerne.
 
@@ -16,4 +14,4 @@ Appelez le 911 ou appelez à l'avance votre service d'urgence local : Informez l
 
 Plus d'informations [ici](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html) (en anglais seulement).
 
-_Dernière mise à jour le 15 juin 2020_
+_Dernière mise à jour le 13 octobre 2020_
