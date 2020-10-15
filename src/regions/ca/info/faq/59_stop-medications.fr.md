@@ -4,4 +4,4 @@ D’abord et avant tout, si vous prenez des médicaments qui suppriment votre sy
 
 Plus d'information [ici](https://cdhf.ca/fr/health-lifestyle/le-coronavirus-covid-19-et-les-personnes-immunodeprimees/).
 
-_Dernière mise à jour le 16 juin 2020_
+_Dernière mise à jour le 15 octobre 2020_
