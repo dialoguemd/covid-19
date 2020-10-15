@@ -17,4 +17,4 @@ More information here:
 
 As Canada reopens, it is important to inform yourself for rules to follow in your province or region and we ask you to comply with all posted instructions at businesses for the protection of all. Remember that although you may be very healthy and unconcerned, you can spread the virus to those who are not as fortunate.
 
-_Last updated on June 16, 2020_
+_Last updated on October 15, 2020_
