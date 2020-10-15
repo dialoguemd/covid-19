@@ -4,4 +4,4 @@ First and foremost, if you are on a medication that suppresses your immune syste
 
 More information [here](https://cdhf.ca/health-lifestyle/coronavirus-covid-19-and-the-immunocompromised/).
 
-_Last updated on June 16, 2020_
+_Last updated on October 15, 2020_
