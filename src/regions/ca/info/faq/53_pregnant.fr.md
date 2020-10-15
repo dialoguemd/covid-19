@@ -23,4 +23,4 @@ Plus d'informations ici:
 - [Gouvernement du Canada](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/prevention-risques.html)
 - [Ressources de la SOGC sur la COVID-19](https://www.sogc.org/fr/-COVID-19/COVID-19/fr/content/COVID-19/COVID-19.aspx?hkey=92ce4e29-3648-4925-8cc4-68e9de58a3b2).
 
-_Dernière mise à jour le 15 juin 2020_
+_Dernière mise à jour le 15 octobre 2020_
