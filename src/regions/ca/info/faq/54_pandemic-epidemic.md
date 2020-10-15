@@ -7,4 +7,4 @@ More information here:
 - [World health organization](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020)
 - [Rochester regional health](https://www.rochesterregional.org/news/2020/03/pandemic-vs-epidemic)
 
-_Last updated on June 4, 2020_
+_Last updated on October 15, 2020_
