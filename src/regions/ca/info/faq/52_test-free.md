@@ -4,4 +4,4 @@ At this time, testing kits and COVID-19 assessment centres are managed by the go
 
 More information [here](https://covid19.dialogue.co/#/).
 
-_Last updated on June 15, 2020_
+_Last updated on October 15, 2020_
