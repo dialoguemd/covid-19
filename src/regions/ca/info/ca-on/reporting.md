@@ -36,14 +36,6 @@ As of Tuesday, October 6, you will need an appointment to get a test at all asse
 
 Only call 911 if it is an emergency.
 
-As part of its fall preparedness plan, Keeping Ontarians Safe: Preparing for Future Waves of COVID-19, the Ontario government is partnering with pharmacies to expand access to COVID-19 testing to track, trace and isolate cases.
-
-Starting Friday, September 25, 2020, the pharmacy locations below will be offering free testing by appointment only to individuals with no symptoms of COVID-19. More pharmacy locations will make testing available in the coming weeks.
-
-Individuals must follow all public health measures when going for a test, including wearing a mask, practising physical distancing, and frequent handwashing. If you are feeling ill on the date of your appointment, please stay home and re-schedule your test.
-
-[Source](https://news.ontario.ca/en/backgrounder/58491/ontario-expands-covid-19-testing-to-pharmacies-1)
-
 **Returning from travel**
 
 To slow the introduction and spread of COVID-19 in the country, the Government of Canada has put in place an emergency order under the Quarantine Act that applies to all travellers arriving in Canada.
