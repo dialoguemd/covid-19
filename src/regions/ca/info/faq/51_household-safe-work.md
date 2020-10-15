@@ -7,7 +7,8 @@ Follow the [prevention practices](https://www.canada.ca/en/public-health/service
   - Wash their hands 20 seconds every time they touch highly touched surfaces
   - Avoid touching highly touched surfaces with their hands (Use clothes/tissues)
   - Avoid any physical contacts with the others
+  - Wearing a non-medical mask or face covering while out in public is recommended for periods of time when it's not possible to consistently maintain a 2-metre physical distance from others, particularly in crowded public settings
 - When they come home they can change and should wash their hands
 - All highly touched surfaces should be disinfected daily
 
-_Last updated on June 4, 2020_
+_Last updated on October 15, 2020_
