@@ -6,4 +6,4 @@ You can catch COVID-19, no matter how sunny or hot the weather is. Countries wit
 
 More information [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters).
 
-_Last updated on June 15, 2020_
+_Last updated on October 15, 2020_
