@@ -1,6 +1,6 @@
 ## Est-ce que la chloroquine peut être prescrite pour prévenir le COVID-19?
 
-Le 17 juin 2020, l'OMS a annoncé l'arrêt du volet hydroxychloroquine (HCQ) de l'essai de solidarité visant à trouver un traitement efficace contre le COVID-19. 
+Le 17 juin 2020, l'OMS a annoncé l'arrêt du volet hydroxychloroquine (HCQ) de l'essai de solidarité visant à trouver un traitement efficace contre le COVID-19.
 
 Le groupe exécutif de l'essai et les chercheurs principaux ont pris cette décision en se basant sur les preuves de l'essai Solidarity, de l'essai Recovery du Royaume-Uni et d'un examen Cochrane d'autres preuves sur l'hydroxychloroquine.
 

@@ -1,6 +1,6 @@
 ## Can chloroquine be prescribed to prevent COVID-19?
 
-On 17 June 2020, WHO announced that the hydroxychloroquine (HCQ) arm of the Solidarity Trial to find an effective COVID-19 treatment was being stopped. 
+On 17 June 2020, WHO announced that the hydroxychloroquine (HCQ) arm of the Solidarity Trial to find an effective COVID-19 treatment was being stopped.
 
 The trial's Executive Group and principal investigators made the decision based on evidence from the Solidarity trial, UK's Recovery trial and a Cochrane review of other evidence on hydroxychloroquine.
 
