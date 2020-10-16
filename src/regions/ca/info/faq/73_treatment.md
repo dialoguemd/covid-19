@@ -16,4 +16,4 @@ Health Canada is fast tracking the importation and sale of medical devices used 
 
 More information [here](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html#t).
 
-_Last updated on June 17, 2020_
+_Last updated on October 16, 2020_
