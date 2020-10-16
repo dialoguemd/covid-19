@@ -21,4 +21,4 @@ More information here:
 - [Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html)
 - [Dialogue’s return to work guide for Canadians organizations](https://www.dialogue.co/covid19-return-to-work-guide-canada)
 
-_Last updated on June 16, 2020_
+_Last updated on October 16, 2020_

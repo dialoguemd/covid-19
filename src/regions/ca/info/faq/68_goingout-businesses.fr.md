@@ -17,4 +17,4 @@ Plus d'informations ici:
 
 À l'occasion de la réouverture du Canada, il est important de vous informer des règles à suivre dans votre province ou région et nous vous demandons de respecter toutes les instructions affichées dans les entreprises pour la protection de tous. N'oubliez pas que même si vous êtes en très bonne santé et que vous ne vous en souciez pas, vous pouvez transmettre le virus à ceux qui n'ont pas autant de chance.
 
-_Dernière mise à jour le 16 juin 2020_
+_Dernière mise à jour le 15 octobre 2020_

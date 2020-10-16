@@ -14,10 +14,6 @@ If you have [influenza](https://www.quebec.ca/en/health/health-issues/flu-cold-a
 
 You can also [call the coronavirus (COVID‑19) information line](https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/whom-to-contact-if-you-have-symptoms-of-covid-19/#c72022).
 
-Opening hours:
-
-Monday to Friday: 8 a.m. to 6 p.m.
-Saturday and Sunday: 8:30 a.m. to 4:30 p.m.
 Telephone:
 
 418-644-4545

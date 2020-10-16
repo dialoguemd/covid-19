@@ -4,4 +4,4 @@ Pour le moment, les trousses de test et les cliniques spécialisées COVID-19 so
 
 Plus d'information [ici](https://covid19.dialogue.co/#/).
 
-_Dernière mise à jour le 15 juin 2020_
+_Dernière mise à jour le 15 octobre 2020_

@@ -7,4 +7,4 @@ Plus d'information ici:
 - [Organisation mondiale de la santé](https://www.who.int/fr/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020)
 - [Office québécois de la langue française](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?id=1893)
 
-_Dernière mise à jour le 4 juin 2020_
+_Dernière mise à jour le 15 octobre 2020_

@@ -14,4 +14,4 @@ La plupart des provinces ont développé un outil d'auto-évaluation en ligne qu
 - [Territoires du Nord-ouest](https://www.surveymonkey.com/r/tno-auto-evaluation-covid-19)
 - [Yukon](https://service.yukon.ca/fr/covid-19-auto-evaluation/)
 
-_Dernière mise à jour le 4 juin 2020_
+_Dernière mise à jour le 15 octobre 2020_

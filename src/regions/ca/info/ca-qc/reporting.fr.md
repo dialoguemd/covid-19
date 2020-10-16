@@ -14,10 +14,6 @@ Si vous présentez des symptômes d’allure [grippale](https://www.quebec.ca/sa
 
 Vous pouvez aussi contacter la [ligne d’information sur le coronavirus (COVID-19)](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/qui-contacter-en-cas-de-symptomes/#c72018).
 
-Heures d’ouverture :
-
-Lundi au vendredi : de 8 h à 18 h
-Samedi et dimanche : de 8 h 30 à 16 h 30
 Téléphone :
 
 418 644-4545

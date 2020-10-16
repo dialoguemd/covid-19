@@ -6,4 +6,4 @@ Vous pouvez contracter la COVID-19 sous n'importe quel climat, même par temps c
 
 Plus d'information [ici](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters).
 
-_Dernière mise à jour le 15 juin 2020_
+_Dernière mise à jour le 15 octobre 2020_

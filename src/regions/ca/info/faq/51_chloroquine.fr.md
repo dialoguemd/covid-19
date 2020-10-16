@@ -1,13 +1,11 @@
 ## Est-ce que la chloroquine peut être prescrite pour prévenir le COVID-19?
 
-L’OMS évalue actuellement l’utilisation de l’hydroxychloroquine sur les patients COVID-19 dans le cadre de l’essai Solidarity. Le volet hydroxychloroquine a été suspendu par mesure de précaution le temps que les données relatives à l’innocuité soient examinées.
+Le 17 juin 2020, l'OMS a annoncé l'arrêt du volet hydroxychloroquine (HCQ) de l'essai de solidarité visant à trouver un traitement efficace contre le COVID-19.
 
-Chaque pays, en particulier lorsqu’il est doté d’autorités de réglementation, est habilité à conseiller ses citoyens sur l’utilisation de tout médicament. Même si l’hydroxychloroquine et la chloroquine sont déjà autorisées pour le traitement d’autres maladies, à ce stade, ces médicaments n’ont pas démontré leur efficacité pour le traitement de la COVID-19.
+Le groupe exécutif de l'essai et les chercheurs principaux ont pris cette décision en se basant sur les preuves de l'essai Solidarity, de l'essai Recovery du Royaume-Uni et d'un examen Cochrane d'autres preuves sur l'hydroxychloroquine.
 
-L’OMS déconseille aux médecins de recommander ou d’administrer aux patients COVID-19 des traitements dont l’efficacité n’a pas été démontrée et met en garde les particuliers contre leur usage en automédication.
+Les données de Solidarité (y compris les données de l'essai français Discovery) et les résultats récemment annoncés de l'essai Recovery au Royaume-Uni ont tous deux montré que l'hydroxychloroquine n'entraîne pas de réduction de la mortalité des patients hospitalisés sous COVID-19, par rapport à la norme de soins.
 
 Plus d'information [ici](https://www.who.int/fr/news-room/q-a-detail/q-a-hydroxychloroquine-and-covid-19).
 
-Plusieurs essais ont été interrompus et sont étroitement surveillés afin de détecter les dangers associés à ce traitement et il est toujours conseillé de ne jamais l'utiliser en dehors d'un protocole de recherche. Nous surveillons ces études et ces recommandations.
-
-_Dernière mise à jour le 15 juin 2020_
+_Dernière mise à jour le 15 octobre 2020_

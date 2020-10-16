@@ -16,4 +16,4 @@ Most provinces have developed an online self-assessment tool that you can use to
 - [Northwest Territories](https://www.surveymonkey.com/r/nwt-covid19-self-assessment)
 - [Yukon](https://service.yukon.ca/en/covid-19-self-assessment/)
 
-_Last updated on June 4, 2020_
+_Last updated on October 15, 2020_

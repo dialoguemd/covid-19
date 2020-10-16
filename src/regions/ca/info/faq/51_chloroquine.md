@@ -1,13 +1,11 @@
 ## Can chloroquine be prescribed to prevent COVID-19?
 
-WHO is currently assessing the use of hydroxychloroquine on COVID-19 patients within the Solidarity Trial. The hydroxychloroquine arm has been paused as a precaution while the safety data is being reviewed.
+On 17 June 2020, WHO announced that the hydroxychloroquine (HCQ) arm of the Solidarity Trial to find an effective COVID-19 treatment was being stopped.
 
-Every country, particularly those with regulatory authorities, is in a position to advise its citizens regarding the use of any drug. Although hydroxychloroquine and chloroquine are already licensed products for treating other diseases, at this stage, these drugs have not been found to be effective in the treatment of COVID-19.
+The trial's Executive Group and principal investigators made the decision based on evidence from the Solidarity trial, UK's Recovery trial and a Cochrane review of other evidence on hydroxychloroquine.
 
-WHO has cautioned physicians against recommending or administering unproven treatments to COVID-19 patients, and cautioned people against self-medicating with them.
+Data from Solidarity (including the French Discovery trial data) and the recently announced results from the UK's Recovery trial both showed that hydroxychloroquine does not result in the reduction of mortality of hospitalised COVID-19 patients, when compared with standard of care.
 
 More information [here](https://www.who.int/news-room/q-a-detail/q-a-hydroxychloroquine-and-covid-19?gclid=EAIaIQobChMIt7GG9KHj6QIVhsDICh315QwYEAAYASAAEgLK7fD_BwE#).
 
-Several trials have been stopped and are being closely monitored for dangers associated with this treatment and there is still advice that this should never be used outside of a research protocol. We are monitoring these studies and recommendations.
-
-_Last updated on June 15, 2020_
+_Last updated on October 15, 2020_

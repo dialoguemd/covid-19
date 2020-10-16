@@ -16,4 +16,4 @@ Santé Canada accélère l'importation et la vente d'instruments médicaux pour 
 
 Plus d'informations [ici](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/symptomes.html#t).
 
-_Dernière mise à jour le 17 juin 2020_
+_Dernière mise à jour le 16 octobre 2020_
