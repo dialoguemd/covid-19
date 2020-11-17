@@ -11,3 +11,12 @@ Gastrointestinal symptoms like nausea, vomiting, or diarrhea have been reported,
 For health related general questions about COVID-19, call 1-800-958-6400.
 
 [Source](https://www.princeedwardisland.ca/en/service/self-assessment-covid-19)
+
+If you have any health questions related to covid, call 1-833-533-9333 to:
+
+- Learn about the supports in place to minimize the impact of COVID-19;
+- Schedule an appointment for a screening test;
+- Obtain the results of a screening test;
+- Learn about social and business supports, and mental health and addiction services.
+
+[Source](https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-inquiries)
