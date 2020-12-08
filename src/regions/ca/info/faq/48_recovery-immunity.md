@@ -1,15 +1,7 @@
 ## If someone had COVID-19 and recovered, are they immune to the disease?
 
-As tests become available in Canada, remember that doctors are subject to the recommendations of public health and their provincial licensing bodies. Tests can only be ordered in compliance with these recommendations.
+Many studies have investigated that matter, but no immunity to the disease after a first infection to SARS-COV-2 has been shown.
 
-**Serological testing**
-
-Serological tests do not detect the virus itself. Instead, they detect the antibodies produced in response to an infection.
-
-Serological tests are not appropriate for early diagnosis of COVID-19. This is largely because of variability in the time required after infection to develop antibodies. However, Health Canada is now authorizing the sale in Canada of serological testing devices used for other purposes.
-
-For serological test requirements, please consult the [requirements for serological antibody tests](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/covid19-requirements-serological-antibody-tests.html) guidance submitted under the COVID-19 interim order.
-
-[More information here](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/covid-19/serological-testing.html).
+For more information: https://www.who.int/news-room/commentaries/detail/immunity-passports-in-the-context-of-covid-19#:~:text=There%20is%20currently%20no%20evidence,from%20a%20second%20infection.
 
 _Last updated on October 13, 2020_
