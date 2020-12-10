@@ -6,7 +6,7 @@ Si vous développez des symptômes de rhume, de grippe ou de [type COVID-19](htt
 
 Consultez la page [Si vous êtes malade](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/if-you-are-sick) pour savoir comment arrêter la propagation des germes, ce qu'il faut faire si vos symptômes s'aggravent et comment mettre fin à l'auto-isolement.
 
-### Je suis de retour en Colombie Britannique, que dois-je faire avant d'arriver?
+### Je suis de retour en Colombie Britannique, que dois-je faire avant d'arriver ?
 
 À moins que vous n'en soyez [exempté](https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/self-isolation-on-return#exempt), tous les voyageurs internationaux qui retournent en Colombie-Britannique sont tenus par la loi de [s'isoler](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation) pendant 14 jours. Les voyageurs doivent remplir la [demande fédérale ArriveCAN](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/reponse-numerique-du-gouvernement-du-canada-covid-19.html) avant leur arrivée ou à leur retour en Colombie-Britannique.
 
@@ -14,7 +14,7 @@ De plus amples informations sont disponibles sur le [site Web du gouvernement de
 
 Tous les voyageurs de retour sont encouragés à se surveiller eux-mêmes pour détecter les symptômes de la COVID-19. Si vous avez des questions, ou si vous commencez à ressentir des symptômes, contactez votre prestataire de soins de santé, le 8-1-1, votre unité locale de santé publique, ou remplissez l'outil d'auto-évaluation des symptômes de COVID-19.
 
-[Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions)
+[Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions) (disponible en anglais seulement). 
 
 ## British Columbia: Recommandations et ouvertures/fermetures des services
 
