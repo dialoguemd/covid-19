@@ -2,7 +2,7 @@
 
 In the past 48 hours have you had, or are you currently experiencing:
 
-- Fever (i.e. chills/sweats) OR cough (new or worsening)
+- Fever (i.e. chills/sweats) OR cough (new or worsening). 
 
 OR
 
@@ -16,8 +16,6 @@ Two or more of the following symptoms (new or worsening);
 
 - Shortness of breath
 
-If you answer yes to either of these questions, please call 811 for further assessment by a nurse.
+If you answer yes to either of these questions, or if you experience other symptoms that are a concern for you, please call 811 for further assessment by a nurse.
 
-If you experience other symptoms that are a concern for you, call 811 to speak with a nurse
-
-[Source: Nova Scotia Health Authority](https://when-to-call-about-covid19.novascotia.ca/en)
+[Source: Nova Scotia Health Authority](https://novascotia.ca/coronavirus/symptoms-and-testing/?_ga=2.13714679.1743591394.1607628768-906968224.1591366349#symptoms)
