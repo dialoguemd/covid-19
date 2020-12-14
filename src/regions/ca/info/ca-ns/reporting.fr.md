@@ -1,4 +1,4 @@
-## Nouvelle-Écosse: Que faire si vous croyez avoir été en contact avec la maladie COVID-19
+## Nouvelle-Écosse: Que faire si vous croyez avoir été en contact avec la maladie COVID-19 ?
 
 Vous devriez aussi composer le 811 pour une évaluation si vous pensez avoir été exposé au virus de la COVID-19 ou si vous avez d’autres symptômes qui vous inquiètent.
 
