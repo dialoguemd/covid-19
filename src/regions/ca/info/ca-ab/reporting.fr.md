@@ -1,6 +1,6 @@
 ## Alberta: Que dois-je faire si je pense avoir le COVID-19 ?
 
-- Si vous êtes revenu d'un voyage à l'étranger ou si vous avez été en contact étroit avec un cas connu, vous DEVEZ vous isoler pendant les 14 jours suivant votre retour/exposition et surveiller vos symptômes.
+- Si vous êtes revenu d'un voyage à l'étranger ou si vous avez été en contact étroit avec un cas connu, vous devez vous isoler pendant les 14 jours suivant votre retour/exposition et surveiller vos symptômes.
 - Si vous présentez des symptômes tels que fièvre, toux, essoufflement, difficulté à respirer, mal de gorge ou écoulement nasal, vous DEVEZ vous isoler pendant 10 jours après l'apparition des symptômes et jusqu'à ce que ceux-ci aient disparu (la période la plus longue étant retenue).
 - Faites l'[auto-évaluation en ligne COVID-19](https://myhealth.alberta.ca/Journey/COVID-19/Pages/COVID-Self-Assessment.aspx) pour déterminer si vous devez faire un test COVID-19
 - Si vous êtes mis en quarantaine parce que vous êtes récemment revenu de l'étranger, ou si vous êtes un contact proche d'un cas confirmé de COVID, vous devez rester sur votre propriété. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement.
@@ -23,13 +23,13 @@ Retour en Alberta :
 
 Depuis le 25 mars, le gouvernement du Canada a mis en place une quarantaine obligatoire de 14 jours, en vertu de la [Loi sur la mise en quarantaine](https://laws-lois.justice.gc.ca/fra/lois/q-1.1/page-1.html), pour les voyageurs qui reviennent au Canada.
 
-TOUS les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 14 derniers jours sont tenus de s'isoler immédiatement pendant 14 jours après la date de leur retour et de surveiller les symptômes.
+Tous les voyageurs qui sont rentrés en Alberta depuis l'étranger au cours des 14 derniers jours sont tenus de s'isoler immédiatement pendant 14 jours après la date de leur retour et de surveiller les symptômes.
 
 Si vous êtes mis en quarantaine parce que vous êtes récemment revenu de l'étranger ou que vous êtes un contact proche d'un cas confirmé de COVID, vous devez rester sur votre propriété. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement.
 
 Si vous avez des symptômes :
 
-Toute personne présentant des symptômes tels que fièvre, toux, essoufflement, difficulté à respirer, mal de gorge, écoulement nasal ou congestion nasale DOIT s'isoler pendant 14 jours. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement. Si vos symptômes s'aggravent, si vous avez des inquiétudes concernant votre santé ou des questions sur le COVID-19, appelez le 811. Si vous avez besoin de soins médicaux immédiats, appelez le 911 et informez-les que vous êtes peut-être atteint de COVID-19.
+Toute personne présentant des symptômes tels que fièvre, toux, essoufflement, difficulté à respirer, mal de gorge, écoulement nasal ou congestion nasale doit s'isoler pendant 14 jours. Vous ne devez en aucun cas quitter votre propriété pendant les 14 jours d'auto-isolement. Si vos symptômes s'aggravent, si vous avez des inquiétudes concernant votre santé ou des questions sur le COVID-19, appelez le 811. Si vous avez besoin de soins médicaux immédiats, appelez le 911 et informez-les que vous êtes peut-être atteint de COVID-19.
 
 Suivez ces directives d'auto-isolement :
 
@@ -44,9 +44,9 @@ Si vous n'êtes pas sûr de devoir vous isoler ou si vous avez des questions sur
 
 De plus amples informations pour les voyageurs retournant au travail et à l'école sont disponibles sur le site web COVID-19 de l'Alberta.
 
-Voyageurs en partance:
+Voyages:
 
-Il n'est PAS recommandé aux Albertains de voyager à l'extérieur du pays pour le moment.
+Il n'est pas recommandé aux Albertains de voyager à l'extérieur du pays pour le moment.
 
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
 
