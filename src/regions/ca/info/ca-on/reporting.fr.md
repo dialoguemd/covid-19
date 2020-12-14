@@ -1,6 +1,6 @@
 ## Ontario: Qui dois-je contacter si je pense avoir le COVID-19 ?
 
-Les symptômes de la COVID-19, qui est la maladie causée par le nouveau coronavirus 2019, vont de légers — comme la grippe et autres infections respiratoires courantes — à graves.
+Les symptômes de la COVID-19 vont de légers — comme la grippe et autres infections respiratoires courantes — à graves.
 
 Composez le 911 si vous présentez l’un ou l’autre des symptômes suivants :
 
@@ -32,7 +32,7 @@ Les complications découlant de la COVID-19 peuvent inclure de graves problèmes
 
 **Si vous commencez à ressentir des symptômes de COVID-19**
 
-À partir du mardi 6 octobre, vous devrez prendre rendez-vous pour passer untest de dépistage dans tous les centres d'évaluation et dans certaines pharmacies. Contactez le centre d'évaluation ou la pharmacie pour prendre rendez-vous pour votre test ici: https://covid-19.ontario.ca/emplacements-centres-devaluation/.
+À partir du mardi 6 octobre 2020, vous devrez prendre rendez-vous pour passer untest de dépistage dans tous les centres d'évaluation et dans certaines pharmacies. Contactez le centre d'évaluation ou la pharmacie pour prendre rendez-vous pour votre test ici: https://covid-19.ontario.ca/fr/information-sur-le-depistage-et-les-centres-de-depistage-de-la-covid-19
 
 Composez le 911 seulement en situation d’urgence.
 
@@ -40,7 +40,7 @@ Composez le 911 seulement en situation d’urgence.
 
 Pour ralentir l’introduction et la propagation de la COVID-19 au pays, le gouvernement du Canada a adopté un arrêté d’urgence en vertu de la Loi sur la mise en quarantaine qui s’applique à tous les voyageurs qui arrivent au Canada.
 
-En vertu de cet arrêté, si vous êtes récemment revenu au Canada, vous devez vous auto-isoler (vous mettre en quarantaine) et rester à la maison, que vous présentiez ou non des symptômes. Même si vous ne présentez pas de symptômes dans l’immédiat, vous êtes à risque de les développer et d’infecter d’autres personnes.
+En vertu de cette loi, si vous êtes récemment revenu au Canada, vous devez vous auto-isoler et rester à la maison 14 jours, que vous présentiez ou non des symptômes. Même si vous ne présentez pas de symptômes dans l’immédiat, vous êtes à risque de les développer et d’infecter d’autres personnes.
 
 Si nécessaire, vous recevrez immédiatement des soins à votre arrivée au Canada.
 
@@ -52,6 +52,6 @@ Renseignez-vous sur les [conseils à l’intention des voyageurs](https://voyage
 
 - [Déconfinement de l’Ontario après la COVID-19](https://www.ontario.ca/fr/page/deconfinement-de-lontario-apres-la-covid-19)
 - [Ressources pour prévenir la COVID-19 dans les lieux de travail](https://www.ontario.ca/fr/page/ressources-pour-prevenir-la-covid-19-dans-les-lieux-de-travail)
-- [WSIB Ontario (Workplace Safety and Insurance Board)](https://www.wsib.ca/en/novel-coronavirus-covid-19-update)
+- [WSIB Ontario (Workplace Safety and Insurance Board)](https://www.wsib.ca/fr/nouvelles-sur-maladie-coronavirus-covid-19)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
