@@ -24,7 +24,7 @@ Les personnes qui reviennent d’un séjour à l’extérieur du pays, y compris
 
 Cet isolement vise autant les voyageurs malades ou qui ressentent des symptômes que ceux qui n’en ont pas et qui sont en parfaite santé. Toutes les personnes qui reviennent d’un séjour à l’extérieur du Canada et qui sont en isolement à la maison doivent donc respecter les [consignes à suivre pour la personne de retour d’un pays étranger](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/consignes-aux-voyageurs-covid19/#c56528).
 
-Si vous développez des symptômes pendant cette période, vous devrez contacter la ligne 1 877 644-4545 et l’[Outil d’autoévaluation des symptômes de la COVID-19] (https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/guide-auto-evaluation-symptomes-covid-19/)et suivre les consignes.
+Si vous développez des symptômes pendant cette période, vous devrez contacter la ligne 1 877 644-4545 et l’[Outil d’autoévaluation des symptômes de la COVID-19](https://www.quebec.ca/sante/problemes-de-sante/a-z/coronavirus-2019/guide-auto-evaluation-symptomes-covid-19/)et suivre les consignes.
 
 Une personne qui ne respecte pas ces consignes commet une infraction à la loi fédérale et s’expose à des [sanctions](https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/derniers-conseils-sante-voyageurs.html#a2).
 
