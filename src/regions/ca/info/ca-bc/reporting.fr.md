@@ -14,7 +14,7 @@ De plus amples informations sont disponibles sur le [site Web du gouvernement de
 
 Tous les voyageurs de retour sont encouragés à se surveiller eux-mêmes pour détecter les symptômes de la COVID-19. Si vous avez des questions, ou si vous commencez à ressentir des symptômes, contactez votre prestataire de soins de santé, le 8-1-1, votre unité locale de santé publique, ou remplissez l'outil d'auto-évaluation des symptômes de COVID-19.
 
-[Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions) (disponible en anglais seulement). 
+[Source: BC Centre for Disease Control](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/common-questions) (disponible en anglais seulement).
 
 ## British Columbia: Recommandations et ouvertures/fermetures des services
 
