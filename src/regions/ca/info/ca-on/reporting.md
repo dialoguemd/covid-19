@@ -1,6 +1,6 @@
 ## Ontario: Who should I contact if I think I have COVID-19?
 
-Symptoms of COVID-19, which is the disease caused by the 2019 novel coronavirus, range from mild — like the flu and other common respiratory infections — to severe.
+Symptoms of COVID-19 range from mild — like the flu and other common respiratory infections — to severe.
 
 Call 911 if you are experiencing any of the following symptoms:
 
