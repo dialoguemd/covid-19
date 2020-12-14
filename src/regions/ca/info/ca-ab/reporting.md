@@ -56,4 +56,4 @@ Albertans are not recommended to travel outside of the country at this time.
 - [WCB-Alberta (Workers’ Compensation Board-Alberta](https://www.wcb.ab.ca/about-wcb/news-and-announcements/COVID-19.html)
 - [Alberta Biz Connect](https://www.alberta.ca/biz-connect.aspx)
 
-_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information_
