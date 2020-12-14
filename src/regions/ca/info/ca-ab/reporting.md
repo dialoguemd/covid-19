@@ -23,7 +23,7 @@ Returning to Alberta:
 
 Effective March 25, the Government of Canada has implemented a mandatory 14-day quarantine, under the [Quarantine Act](https://laws-lois.justice.gc.ca/eng/acts/q-1.1/page-1.html), for travellers returning to Canada.
 
-ALL travellers who returned to Alberta from outside Canada in the last 14 days are required to [self-isolate](https://www.alberta.ca/isolation.aspx) immediately for 14 days after the date of return and monitor for [symptoms](https://www.albertahealthservices.ca/topics/Page16997.aspx#sign).
+All travellers who returned to Alberta from outside Canada in the last 14 days are required to [self-isolate](https://www.alberta.ca/isolation.aspx) immediately for 14 days after the date of return and monitor for [symptoms](https://www.albertahealthservices.ca/topics/Page16997.aspx#sign).
 
 If you are quarantined because you recently came back from outside the country, or you are a close contact of a confirmed case of COVID, you must remain on your own property. Under no circumstance should you leave your property during the 14 days of self-isolation.
 
@@ -44,9 +44,8 @@ If you are unsure if you should be self-isolating, or if you have questions abou
 
 Further information for travellers returning to work and school can be found on the [Alberta COVID-19 website](https://www.alberta.ca/coronavirus-info-for-albertans.aspx#p22780s6).
 
-Departing Travellers
-
-Albertans are NOT recommended to travel outside of the country at this time.
+Departing Travellers:
+Albertans are not recommended to travel outside of the country at this time.
 
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
 
@@ -57,4 +56,4 @@ Albertans are NOT recommended to travel outside of the country at this time.
 - [WCB-Alberta (Workers’ Compensation Board-Alberta](https://www.wcb.ab.ca/about-wcb/news-and-announcements/COVID-19.html)
 - [Alberta Biz Connect](https://www.alberta.ca/biz-connect.aspx)
 
-_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information._
+_This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information_
