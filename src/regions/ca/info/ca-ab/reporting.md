@@ -50,10 +50,6 @@ Albertans are not recommended to travel outside of the country at this time.
 [Source](https://www.albertahealthservices.ca/topics/Page16997.aspx)
 
 ## Alberta: Recommendation and opening/closing of services
-
-- [Alberta's Relaunch Strategy](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
-- [Temporary workplace rule changes](https://www.alberta.ca/temporary-workplace-rule-changes.aspx)
-- [WCB-Alberta (Workers’ Compensation Board-Alberta](https://www.wcb.ab.ca/about-wcb/news-and-announcements/COVID-19.html)
-- [Alberta Biz Connect](https://www.alberta.ca/biz-connect.aspx)
+[Alberta's Relaunch Strategy](https://www.alberta.ca/alberta-relaunch-strategy.aspx)
 
 _This information is updated very regularly on the government's website. Please read the recommendations carefully and consult them regularly in order to have the most up-to-date information_
