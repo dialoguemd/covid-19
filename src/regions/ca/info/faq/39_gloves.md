@@ -1,10 +1,10 @@
 ## Do I have to wear latex or vinyl gloves when I go to a store?
 
-People who are at higher risk of serious illness from COVID-19 should not care for someone with COVID-19. These people include elderly persons, those with chronic medical conditions (e.g. heart disease, diabetes) or compromised immune systems.
+People who are likely to become seriously ill if they contract COVID-19 should not visit stores, especially during peak traffic hours. This includes the elderly, people with chronic health problems (e.g. heart disease, diabetes) or people with weakened immune systems.
 
 When to wear latex or vinyl gloves during a pandemic?
 
-1. If you need to be within 2 metres of the ill person, wear personal protective equipment:
+1. If you need to be within 2 metres of an ill person, wear personal protective equipment:
 
 - A medical [mask](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#wm)
 - Disposable gloves
