@@ -88,6 +88,7 @@ export const Feedback: React.FC<{
           submitted={submitted}
           visible={submitted !== 'thumbs_down'}
           disabled={!!submitted}
+          onClick={trackThumbsUp}
         >
           <ImageThumbsUp />
         </Button>
@@ -95,6 +96,7 @@ export const Feedback: React.FC<{
           submitted={submitted}
           visible={submitted !== 'thumbs_up'}
           disabled={!!submitted}
+          onClick={trackThumbsDown}
         >
           <ImageThumbsDown />
         </Button>
