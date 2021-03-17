@@ -72,19 +72,6 @@ export const Feedback: React.FC<{
   const { t } = useTranslation()
   const [submitted, setSubmitted] = useState(null)
 
-  const track = eventType =>
-    analytics.track(eventType, { id }, { context: { ip: '0.0.0.0' } })
-
-  const trackThumbsUp = () => {
-    track('thumbs_up')
-    setSubmitted('thumbs_up')
-  }
-
-  const trackThumbsDown = () => {
-    track('thumbs_down')
-    setSubmitted('thumbs_down')
-  }
-
   return (
     <Container>
       <Label visible={!submitted}>{t('resultsPage.feedbackLabel')}</Label>

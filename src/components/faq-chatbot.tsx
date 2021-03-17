@@ -31,15 +31,7 @@ const FaqChatbot: React.FC = props => {
     renderedSteps
       .filter(step => step.id === 'userQuestion')
       .map(step => step.value)
-      .forEach(question => {
-        analytics.track(
-          'user_faq_question',
-          {
-            value: question
-          },
-          { context: { ip: '0.0.0.0' } }
-        )
-      })
+      .forEach(question => {})
   }, [])
 
   return (

@@ -15,7 +15,7 @@
     "noEmit": true,
     "jsx": "react",
     "baseUrl": "src",
-    "types": ["segment-analytics"]
+    "types": []
   },
   "include": ["src"]
 }
