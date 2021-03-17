@@ -70,7 +70,15 @@ export const Feedback: React.FC<{
   id: String
 }> = ({ id }) => {
   const { t } = useTranslation()
-  const [submitted] = useState(null)
+  const [submitted, setSubmitted] = useState(null)
+
+  const trackThumbsUp = () => {
+    setSubmitted('thumbs_up')
+  }
+
+  const trackThumbsDown = () => {
+    setSubmitted('thumbs_down')
+  }
 
   return (
     <Container>
@@ -80,6 +88,7 @@ export const Feedback: React.FC<{
           submitted={submitted}
           visible={submitted !== 'thumbs_down'}
           disabled={!!submitted}
+          onClick={trackThumbsUp}
         >
           <ImageThumbsUp />
         </Button>
@@ -87,6 +96,7 @@ export const Feedback: React.FC<{
           submitted={submitted}
           visible={submitted !== 'thumbs_up'}
           disabled={!!submitted}
+          onClick={trackThumbsDown}
         >
           <ImageThumbsDown />
         </Button>
