@@ -70,7 +70,15 @@ export const Feedback: React.FC<{
   id: String
 }> = ({ id }) => {
   const { t } = useTranslation()
-  const [submitted] = useState(null)
+  const [submitted, setSubmitted] = useState(null)
+
+  const trackThumbsUp = () => {
+    setSubmitted('thumbs_up')
+  }
+
+  const trackThumbsDown = () => {
+    setSubmitted('thumbs_down')
+  }
 
   return (
     <Container>
