@@ -70,7 +70,7 @@ export const Feedback: React.FC<{
   id: String
 }> = ({ id }) => {
   const { t } = useTranslation()
-  const [submitted, setSubmitted] = useState(null)
+  const [submitted] = useState(null)
 
   return (
     <Container>
