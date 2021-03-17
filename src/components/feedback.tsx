@@ -70,20 +70,7 @@ export const Feedback: React.FC<{
   id: String
 }> = ({ id }) => {
   const { t } = useTranslation()
-  const [submitted, setSubmitted] = useState(null)
-
-  const track = eventType =>
-    analytics.track(eventType, { id }, { context: { ip: '0.0.0.0' } })
-
-  const trackThumbsUp = () => {
-    track('thumbs_up')
-    setSubmitted('thumbs_up')
-  }
-
-  const trackThumbsDown = () => {
-    track('thumbs_down')
-    setSubmitted('thumbs_down')
-  }
+  const [submitted] = useState(null)
 
   return (
     <Container>
@@ -93,7 +80,6 @@ export const Feedback: React.FC<{
           submitted={submitted}
           visible={submitted !== 'thumbs_down'}
           disabled={!!submitted}
-          onClick={trackThumbsUp}
         >
           <ImageThumbsUp />
         </Button>
@@ -101,7 +87,6 @@ export const Feedback: React.FC<{
           submitted={submitted}
           visible={submitted !== 'thumbs_up'}
           disabled={!!submitted}
-          onClick={trackThumbsDown}
         >
           <ImageThumbsDown />
         </Button>
