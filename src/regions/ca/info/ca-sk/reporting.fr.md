@@ -54,14 +54,7 @@ Pour plus d'informations sur les voyages à l'intérieur et à l'extérieur de l
 - [Plan de réouverture de la Saskatchewan](https://www.saskatchewan.ca/bonjour/health-and-healthy-living/2019-novel-coronavirus#re-open-saskatchewan-plan)
 - [Re-Open Saskatchewan Plan (plus détaillé en anglais)](https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/re-open-saskatchewan-plan)
 
-Liens disponibles en anglais seulement:
-
-- [WorkSafe Saskatchewan](http://www.worksafesask.ca/covid-19/)
-
-WCB SK (Saskatchewan Workers’Compensation Board):
-
-- [COVID-19 response for workers](http://www.wcbsask.com/workers/information-for-workers-on-covid-19/)
-- [COVID-19 response for employers](http://www.wcbsask.com/employers/covid-19-and-the-workplace/?)
-- [COVID-19 response for care providers](http://www.wcbsask.com/care-providers/information-for-care-providers-on-covid-19/)
+Lien disponible en anglais seulement:
+[WorkSafe Saskatchewan](http://www.worksafesask.ca/covid-19/)
 
 _Ces informations sont mises à jour très régulièrement sur le site du gouvernement, merci de lire attentivement les recommandations et de les consulter régulièrement afin d'avoir les informations les plus à jour._
