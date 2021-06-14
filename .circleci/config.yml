@@ -128,17 +128,17 @@ workflows:
             branches:
               only: /.*/
       - node/build_deploy:
-                name: 🚀🙊 deploy-dev-ca2-ephemeral
-                stage: dev
-                place: ca2
-                ephemeral: yes
-                context: org-global-v2
-                requires:
-                  - test
-                filters:
-                  branches:
-                    ignore:
-                      - master
+          name: 🚀🙊 deploy-dev-ca2-ephemeral
+          stage: dev
+          place: ca2
+          ephemeral: yes
+          context: org-global-v2
+          requires:
+            - test
+          filters:
+            branches:
+              ignore:
+                - master
       - node/build_deploy:
           name: 🚀🧑‍🚀 deploy-dev-ca2
           stage: dev
