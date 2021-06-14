@@ -156,10 +156,6 @@ workflows:
           place: ca
           context: org-global-v2
           cache_strategy: create-react
-          before_build_steps:
-            - inject_env_var:
-                environment: "production"
-                target_config: "ca"
           requires:
             - test
             - cypress_test
