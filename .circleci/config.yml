@@ -158,7 +158,6 @@ workflows:
           cache_strategy: create-react
           requires:
             - test
-            - cypress_test
           filters:
             branches:
               only:
