@@ -1,5 +1,8 @@
 version: 2.1
 
+orbs:
+  node: dialogue/node@0.8.2
+
 regions: &regions
   - 'ca-central-1'
   - 'eu-central-1'
@@ -124,23 +127,35 @@ workflows:
               ignore: /.*/
             branches:
               only: /.*/
-      - build:
-          context: org-global-v2
-          bucket: covid19.dialogue.co
-          filters:
-            tags:
-              ignore: /.*/
-            branches:
-              only: /.*/
-      - deploy:
-          context: org-global-v2
-          bucket: covid19.dialogue.co
-          region: us-east-1
-          requires:
-            - test
-            - build
-          filters:
-            tags:
-              ignore: /.*/
-            branches:
-              only: /.*/
+      - node/build_deploy:
+                name: 🚀🙊 deploy-dev-ca2-ephemeral
+                stage: dev
+                place: ca2
+                ephemeral: yes
+                context: org-global-v2
+                requires:
+                  - test
+                filters:
+                  branches:
+                    ignore:
+                      - master
+      # - build:
+      #     context: org-global-v2
+      #     bucket: covid19.dialogue.co
+      #     filters:
+      #       tags:
+      #         ignore: /.*/
+      #       branches:
+      #         only: /.*/
+      # - deploy:
+      #     context: org-global-v2
+      #     bucket: covid19.dialogue.co
+      #     region: us-east-1
+      #     requires:
+      #       - test
+      #       - build
+      #     filters:
+      #       tags:
+      #         ignore: /.*/
+      #       branches:
+      #         only: /.*/
