@@ -35,7 +35,22 @@ commands:
           key: v2-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
           paths:
             - ~/.npm
-
+  inject_env_var_dev_ca2:
+    steps:
+      - run:
+          command: |
+            cci-export REACT_APP_FAQ_ENDPOINT "https://covidfaq.dev.dialoguecorp.com"
+            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_EN "https://covidflow-core-en.dev.dialoguecorp.com"
+            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_FR "https://covidflow-core-fr.dev.dialoguecorp.com"
+            cci-export REACT_APP_RASA_SOCKET_PATH "/socket.io/"
+  inject_env_var_prod_ca:
+    steps:
+      - run:
+          command: |
+            cci-export REACT_APP_FAQ_ENDPOINT="https://covidfaq.dialoguecorp.com"
+            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_EN="https://covidflow-core-en.dialogue.co"
+            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_FR="https://covidflow-core-fr.dialogue.co"
+            cci-export REACT_APP_RASA_SOCKET_PATH "/socket.io/"
 jobs:
   lint:
     executor: debian
@@ -133,6 +148,8 @@ workflows:
           place: ca2
           ephemeral: yes
           context: org-global-v2
+          before_build_steps:
+            - inject_env_var_dev_ca2
           requires:
             - test
           filters:
@@ -144,6 +161,8 @@ workflows:
           stage: dev
           place: ca2
           context: org-global-v2
+          before_build_steps:
+            - inject_env_var_dev_ca2
           requires:
             - test
           filters:
@@ -156,6 +175,8 @@ workflows:
           place: ca
           context: org-global-v2
           cache_strategy: create-react
+          before_build_steps:
+            - inject_env_var_prod_ca
           requires:
             - test
           filters:
