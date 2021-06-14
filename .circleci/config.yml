@@ -150,6 +150,23 @@ workflows:
             branches:
               only:
                 - master
+      - node/build_deploy:
+          name: 🚀🇨🇦 deploy-prod-ca
+          stage: prod
+          place: ca
+          context: org-global-v2
+          cache_strategy: create-react
+          before_build_steps:
+            - inject_env_var:
+                environment: "production"
+                target_config: "ca"
+          requires:
+            - test
+            - cypress_test
+          filters:
+            branches:
+              only:
+                - master
       - build:
           context: org-global-v2
           bucket: covid19.dialogue.co
