@@ -42,7 +42,7 @@ commands:
             cci-export REACT_APP_FAQ_ENDPOINT "https://covidfaq.dev.dialogue.co"
             cci-export REACT_APP_RASA_SOCKET_ENDPOINT_EN "https://covidflow-core-en.dev.dialogue.co"
             cci-export REACT_APP_RASA_SOCKET_ENDPOINT_FR "https://covidflow-core-fr.dev.dialogue.co"
-            cci-export REACT_APP_RASA_SOCKET_PATH "/socket.io/"
+            cci-export REACT_APP_RASA_SOCKET_PATH "/socket.io"
   inject_env_var_prod_ca:
     steps:
       - run:
