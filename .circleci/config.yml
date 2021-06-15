@@ -144,8 +144,7 @@ workflows:
           stage: dev
           place: ca2
           context: org-global-v2
-          before_build_steps:
-            - inject_env_var_dev_ca2
+          build_script: npm run build:dev
           requires:
             - test
           filters:
@@ -158,8 +157,6 @@ workflows:
           place: ca
           context: org-global-v2
           cache_strategy: create-react
-          before_build_steps:
-            - inject_env_var_prod_ca
           requires:
             - test
           filters:
