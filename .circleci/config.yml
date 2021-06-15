@@ -161,7 +161,7 @@ workflows:
             - test
           filters:
             branches:
-              ignore:
+              only:
                 - master
       - build:
           context: org-global-v2
