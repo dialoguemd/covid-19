@@ -1,5 +1,8 @@
 version: 2.1
 
+orbs:
+  node: dialogue/node@0.8.2
+
 regions: &regions
   - 'ca-central-1'
   - 'eu-central-1'
@@ -32,7 +35,6 @@ commands:
           key: v2-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
           paths:
             - ~/.npm
-
 jobs:
   lint:
     executor: debian
@@ -124,6 +126,43 @@ workflows:
               ignore: /.*/
             branches:
               only: /.*/
+      - node/build_deploy:
+          name: 🚀🙊 deploy-dev-ca2-ephemeral
+          stage: dev
+          place: ca2
+          ephemeral: yes
+          context: org-global-v2
+          build_script: build:dev
+          requires:
+            - test
+          filters:
+            branches:
+              ignore:
+                - master
+      - node/build_deploy:
+          name: 🚀🧑‍🚀 deploy-dev-ca2
+          stage: dev
+          place: ca2
+          context: org-global-v2
+          build_script: build:dev
+          requires:
+            - test
+          filters:
+            branches:
+              only:
+                - master
+      - node/build_deploy:
+          name: 🚀🇨🇦 deploy-prod-ca
+          stage: prod
+          place: ca
+          context: org-global-v2
+          cache_strategy: create-react
+          requires:
+            - test
+          filters:
+            branches:
+              only:
+                - master
       - build:
           context: org-global-v2
           bucket: covid19.dialogue.co
