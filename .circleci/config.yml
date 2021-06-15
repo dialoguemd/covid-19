@@ -40,16 +40,16 @@ commands:
       - run:
           command: |
             cci-export REACT_APP_FAQ_ENDPOINT "https://covidfaq.dev.dialogue.co"
-            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_EN "wss://covidflow-core-en.dev.dialogue.co"
-            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_FR "wss://covidflow-core-fr.dev.dialogue.co"
+            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_EN "https://covidflow-core-en.dev.dialogue.co"
+            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_FR "https://covidflow-core-fr.dev.dialogue.co"
             cci-export REACT_APP_RASA_SOCKET_PATH "/socket.io/"
   inject_env_var_prod_ca:
     steps:
       - run:
           command: |
             cci-export REACT_APP_FAQ_ENDPOINT "https://covidfaq.dialoguecorp.com"
-            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_EN "wss://covidflow-core-en.dialogue.co"
-            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_FR wss://covidflow-core-fr.dialogue.co"
+            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_EN "https://covidflow-core-en.dialogue.co"
+            cci-export REACT_APP_RASA_SOCKET_ENDPOINT_FR https://covidflow-core-fr.dialogue.co"
             cci-export REACT_APP_RASA_SOCKET_PATH "/socket.io/"
 jobs:
   lint:
