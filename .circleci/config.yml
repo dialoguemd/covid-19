@@ -132,7 +132,7 @@ workflows:
           place: ca2
           ephemeral: yes
           context: org-global-v2
-          build_script: npm run build:dev
+          build_script: build:dev
           requires:
             - test
           filters:
@@ -144,7 +144,7 @@ workflows:
           stage: dev
           place: ca2
           context: org-global-v2
-          build_script: npm run build:dev
+          build_script: build:dev
           requires:
             - test
           filters:
