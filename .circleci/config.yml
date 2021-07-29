@@ -30,6 +30,24 @@ jobs:
       - checkout
       - install-deps
       - run: npm run lint
+  build-dev:
+    executor: debian
+    steps:
+      - install-deps
+      - run: npm run build:dev
+      - run: cp -r build build-dev
+      - node/persist_build:
+          workspace_root: .
+          workspace_path: build-dev
+  build-prod:
+    executor: debian
+    steps:
+      - install-deps
+      - run: npm run build
+      - run: cp -r build build-prod-ca
+      - node/persist_build:
+          workspace_root: .
+          workspace_path: build-prod-ca
 
 
 workflows:
@@ -39,51 +57,64 @@ workflows:
       - lint:
           context: org-global-v2
           filters:
-            tags:
-              ignore: /.*/
             branches:
               only: /.*/
       - node/test:
           name: "test"
           context: org-global-v2
           filters:
-            tags:
-              ignore: /.*/
             branches:
               only: /.*/
-      - node/build_deploy:
-          name: 🚀🙊 deploy-dev-ca2-ephemeral
+
+      - build-dev:
+          context: org-global-v2
+          filters:
+            branches:
+              only: /.*/
+      - node/deploy:
+          name: 🚀🥀🇨🇦 deploy-dev-ca2-ephemeral
           stage: dev
           place: ca2
           ephemeral: yes
           context: org-global-v2
-          build_script: build:dev
+          workspace_path: build-dev
           requires:
             - test
+            - build-dev
           filters:
             branches:
               ignore:
                 - master
-      - node/build_deploy:
-          name: 🚀🧑‍🚀 deploy-dev-ca2
+      - node/deploy:
+          name: 🚀👩‍💻🇨🇦 deploy-dev-ca2
           stage: dev
           place: ca2
           context: org-global-v2
-          build_script: build:dev
+          workspace_path: build-dev
           requires:
+            - build-dev
             - test
           filters:
             branches:
               only:
                 - master
-      - node/build_deploy:
+
+      - build-prod:
+          context: org-global-v2
+          filters:
+            branches:
+              only:
+                - master
+      - node/deploy:
           name: 🚀🇨🇦 deploy-prod-ca
           stage: prod
           place: ca
           context: org-global-v2
           cache_strategy: create-react
+          workspace_path: build-prod-ca
           requires:
             - test
+            - build-prod
           filters:
             branches:
               only:
