@@ -7,7 +7,7 @@ executors:
   debian:
     docker:
       - image: circleci/node:10.16.3
-    working_directory: ~/covid19-debian
+    working_directory: ~/project
 
 commands:
   install-deps:
