@@ -1,8 +1,8 @@
 version: 2.1
 
 orbs:
-  node: dialogue/node@0.8.2
-  
+  node: dialogue/node@0.9.3
+
 executors:
   debian:
     docker:
