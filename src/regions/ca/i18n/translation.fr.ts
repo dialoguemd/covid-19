@@ -28,6 +28,12 @@ export default {
     previousRunExpired:
       'Les réponses de votre dernière session ont expiré. Veuillez lancer une nouvelle conversation pour obtenir les informations les plus récentes.'
   },
+  goodbyePage: {
+    title: 'La mission de Chloé est maintenant terminée',
+    description:
+      'Après une longue année passée à aider les Canadiens à obtenir des informations actualisées sur COVID-19, Chloé va cesser ses opérations. Nous vous remercions pour votre support.',
+    button: 'À propos de Dialogue'
+  },
   rasaChatWidget: {
     subtitle: 'COVID-19',
     inputTextFieldHint: 'Saisissez un message…'
@@ -56,7 +62,7 @@ export default {
   },
   footer: {
     bottomText:
-      "© 2020 Dialogue. Ce site utilise des cookies à des fins d'analyse. En continuant à utiliser ce site, vous acceptez cette utilisation.",
+      "© 2021 Dialogue. Ce site utilise des cookies à des fins d'analyse. En continuant à utiliser ce site, vous acceptez cette utilisation.",
     aboutHeader: 'À propos',
     aboutMenu: [
       ['À propos de ce site', 'https://github.com/dialoguemd/covid-19/wiki'],
@@ -66,8 +72,7 @@ export default {
         'Ressources pour organisations canadiennes',
         'https://www.dialogue.co/fr/covid-19'
       ],
-      ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/'],
-      ['Poser une question COVID-19.', 'https://covid19.dialogue.co/#/info']
+      ['Contacter Dialogue', 'https://www.dialogue.co/fr/nous-joindre/']
     ],
     adminAreaHeader: 'Pour les résidents de provinces',
     adminAreaMenu: [

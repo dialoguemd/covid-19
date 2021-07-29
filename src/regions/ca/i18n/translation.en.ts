@@ -27,6 +27,12 @@ export default {
       'Answers from last session have expired. Please start new chat to get latest information.',
     button: 'Get Started'
   },
+  goodbyePage: {
+    title: "Chloe's mission is now over",
+    description:
+      'After a long year of helping Canadians get up-to-date information about COVID-19, Chloe will be ceasing operating this knowledge bank. We thank you for your continued support.',
+    button: 'Learn more about Dialogue'
+  },
   rasaChatWidget: {
     subtitle: 'COVID-19',
     inputTextFieldHint: 'Type a message…'
@@ -53,7 +59,7 @@ export default {
   },
   footer: {
     bottomText:
-      '© 2020 Dialogue. This site uses cookies for analytics. By continuing to use this site, you agree to this use.',
+      '© 2021 Dialogue. This site uses cookies for analytics. By continuing to use this site, you agree to this use.',
     aboutHeader: 'About',
     aboutMenu: [
       ['About this site', 'https://github.com/dialoguemd/covid-19/wiki'],
@@ -63,8 +69,7 @@ export default {
         'Resources for Canadian Organizations',
         'https://www.dialogue.co/covid-19'
       ],
-      ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/'],
-      ['Ask a COVID-19 question.', 'https://covid19.dialogue.co/#/info']
+      ['Contact Dialogue', 'https://www.dialogue.co/en/contact-us/']
     ],
     adminAreaHeader: 'For Provincial Residents',
     adminAreaMenu: [
