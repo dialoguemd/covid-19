@@ -33,6 +33,7 @@ jobs:
   build-dev:
     executor: debian
     steps:
+      - checkout
       - install-deps
       - run: npm run build:dev
       - run: cp -r build build-dev
@@ -42,6 +43,7 @@ jobs:
   build-prod:
     executor: debian
     steps:
+      - checkout
       - install-deps
       - run: npm run build
       - run: cp -r build build-prod-ca
