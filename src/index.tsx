@@ -5,6 +5,8 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { CSSProp } from 'styled-components/macro'
 
+import './services/i18n'
+
 import './polyfill'
 import App from './app'
 import * as serviceWorker from './service-worker'

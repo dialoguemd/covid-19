@@ -17,6 +17,12 @@ export default {
       'Neueste COVID-19-Informationen der deutschen Regierung %23coronavirus {{url}}',
     CTA: 'Verbreiten Sie die Information, nicht den Virus'
   },
+  goodbyePage: {
+    title: 'Chloes Mission ist nun beendet',
+    description:
+      'Nach einem langen Jahr, in dem wir den Kanadiern geholfen haben, aktuelle Informationen über COVID-19 zu erhalten, wird Chloe den Betrieb dieser Wissensdatenbank einstellen. Wir danken Ihnen für Ihre weitere Unterstützung.',
+    button: 'Erfahren Sie mehr über Dialogue'
+  },
   welcomePage: {
     title: 'COVID-19: Was Sie wissen müssen',
     description:
@@ -39,7 +45,7 @@ export default {
   },
   footer: {
     bottomText:
-      '© 2020 Dialogue. Diese Website verwendet Cookies für Analysen. Wenn Sie diese Website weiterhin nutzen, stimmen Sie dieser Nutzung zu.',
+      '© 2021 Dialogue. Diese Website verwendet Cookies für Analysen. Wenn Sie diese Website weiterhin nutzen, stimmen Sie dieser Nutzung zu.',
     aboutHeader: 'Über',
     aboutMenu: [
       ['Über uns', 'https://github.com/dialoguemd/covid-19/wiki'],

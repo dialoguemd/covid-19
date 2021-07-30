@@ -2,7 +2,7 @@ import React from 'react'
 
 import styled from 'styled-components/macro'
 import { useTranslation } from 'react-i18next'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 import { mobileBreakpoint } from 'theme'
 
@@ -58,16 +58,16 @@ const BottomText = styled.h3`
 `
 
 // Todo: replace this with a proper solution
-const scrollToContent = () => {
-  const contentAnchor = window.document.getElementById('contentScrollAnchor')
-  if (contentAnchor) {
-    contentAnchor.scrollIntoView()
-  }
-}
+// const scrollToContent = () => {
+//   const contentAnchor = window.document.getElementById('contentScrollAnchor')
+//   if (contentAnchor) {
+//     contentAnchor.scrollIntoView()
+//   }
+// }
 
-const AutoScrollLink: React.FC<any> = props => {
-  return <Link onClick={scrollToContent} {...props} />
-}
+// const AutoScrollLink: React.FC<any> = props => {
+//   return <Link onClick={scrollToContent} {...props} />
+// }
 
 export const Footer: React.FC = props => {
   const { t, i18n } = useTranslation()
@@ -77,18 +77,18 @@ export const Footer: React.FC = props => {
     defaultValue: []
   })
 
-  const adminAreaMenu: Array<[string, string]> = i18n.t(
-    'footer.adminAreaMenu',
-    {
-      returnObjects: true,
-      defaultValue: []
-    }
-  )
+  // const adminAreaMenu: Array<[string, string]> = i18n.t(
+  //   'footer.adminAreaMenu',
+  //   {
+  //     returnObjects: true,
+  //     defaultValue: []
+  //   }
+  // )
 
-  const classMenu: Array<[string, string]> = i18n.t('footer.classMenu', {
-    returnObjects: true,
-    defaultValue: []
-  })
+  // const classMenu: Array<[string, string]> = i18n.t('footer.classMenu', {
+  //   returnObjects: true,
+  //   defaultValue: []
+  // })
 
   return (
     <FooterContainer {...props}>
@@ -103,7 +103,7 @@ export const Footer: React.FC = props => {
             ))}
           </FooterColumn>
         )}
-        {adminAreaMenu.length > 0 && (
+        {/* {adminAreaMenu.length > 0 && (
           <FooterColumn>
             <h3>{t('footer.adminAreaHeader')}</h3>
             {adminAreaMenu.map(([text, classes]) => (
@@ -122,7 +122,7 @@ export const Footer: React.FC = props => {
               </AutoScrollLink>
             ))}
           </FooterColumn>
-        )}
+        )} */}
       </FooterContent>
       <BottomText>{t('footer.bottomText')}</BottomText>
     </FooterContainer>
