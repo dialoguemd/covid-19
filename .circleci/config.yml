@@ -74,11 +74,11 @@ workflows:
             branches:
               only: /.*/
       - node/deploy:
-          name: 🚀🥀🇨🇦 deploy-dev-ca2-ephemeral
+          name: 🚀🥀🇨🇦 deploy-dev-ca-ephemeral
           stage: dev
-          place: ca2
+          place: ca
           ephemeral: yes
-          context: static-cdn-deployer-dev-ca2
+          context: static-cdn-deployer-dev-ca
           workspace_path: build-dev
           requires:
             - test
