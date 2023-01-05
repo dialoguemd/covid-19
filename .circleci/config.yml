@@ -57,19 +57,19 @@ workflows:
   make-project:
     jobs:
       - lint:
-          context: org-global-v2
+          context: gemfury-download
           filters:
             branches:
               only: /.*/
       - node/test:
           name: "test"
-          context: org-global-v2
+          context: gemfury-download
           filters:
             branches:
               only: /.*/
 
       - build-dev:
-          context: org-global-v2
+          context: gemfury-download
           filters:
             branches:
               only: /.*/
@@ -78,7 +78,7 @@ workflows:
           stage: dev
           place: ca2
           ephemeral: yes
-          context: org-global-v2
+          context: static-cdn-deployer-dev-ca2
           workspace_path: build-dev
           requires:
             - test
@@ -91,7 +91,7 @@ workflows:
           name: 🚀👩‍💻🇨🇦 deploy-dev-ca2
           stage: dev
           place: ca2
-          context: org-global-v2
+          context: static-cdn-deployer-dev-ca2
           workspace_path: build-dev
           requires:
             - build-dev
@@ -102,7 +102,7 @@ workflows:
                 - master
 
       - build-prod:
-          context: org-global-v2
+          context: gemfury-download
           filters:
             branches:
               only:
@@ -111,7 +111,7 @@ workflows:
           name: 🚀🇨🇦 deploy-prod-ca
           stage: prod
           place: ca
-          context: org-global-v2
+          context: static-cdn-deployer-prod-ca
           cache_strategy: create-react
           workspace_path: build-prod-ca
           requires:
