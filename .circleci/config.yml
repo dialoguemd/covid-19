@@ -88,10 +88,10 @@ workflows:
               ignore:
                 - master
       - node/deploy:
-          name: 🚀👩‍💻🇨🇦 deploy-dev-ca2
+          name: 🚀👩‍💻🇨🇦 deploy-dev-ca
           stage: dev
-          place: ca2
-          context: static-cdn-deployer-dev-ca2
+          place: ca
+          context: static-cdn-deployer-dev-ca
           workspace_path: build-dev
           requires:
             - build-dev
