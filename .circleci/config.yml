@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  node: dialogue/node@0.9.3
+  node: dialogue/node@0.19.2
 
 executors:
   debian:
