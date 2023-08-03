@@ -1,112 +1,75 @@
 version: 2.1
 
 orbs:
-  node: dialogue/node@0.21.0
+  node: dialogue/node@1.1.0
 
-executors:
-  debian:
-    docker:
-      - image: circleci/node:10.16.3
-    working_directory: ~/project
-
-commands:
-  install-deps:
-    description: Install and cache application dependencies
-    steps:
-      - restore_cache:
-          keys:
-            - v2-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
-            - v2-covid19-{{ .Branch }}-
-            - v2-covid19-
-      - run: npm ci
-      - save_cache:
-          key: v2-covid19-{{ .Branch }}-{{ checksum "package.json" }}-{{ checksum "package-lock.json" }}
-          paths:
-            - ~/.npm
-jobs:
-  lint:
-    executor: debian
-    steps:
-      - checkout
-      - install-deps
-      - run: npm run lint
-  build-dev:
-    executor: debian
-    steps:
-      - checkout
-      - install-deps
-      - run: npm run build:dev
-      - run: cp -r build build-dev
-      - node/persist_build:
-          workspace_root: .
-          workspace_path: build-dev
-  build-prod:
-    executor: debian
-    steps:
-      - checkout
-      - install-deps
-      - run: npm run build
-      - run: cp -r build build-prod-ca
-      - node/persist_build:
-          workspace_root: .
-          workspace_path: build-prod-ca
-
+aliases:
+  - &executor
+    executor:
+      name: node/node
+      version: "10.24.1"
 
 workflows:
-  version: 2
   make-project:
     jobs:
-      - lint:
-          context: gemfury-download
-          filters:
-            branches:
-              only: /.*/
+      - node/run:
+          name: 🧹 lint
+          run: lint
+          <<: *executor
+          context: code-validator
+      
       - node/test:
-          name: "test"
-          context: gemfury-download
-          filters:
-            branches:
-              only: /.*/
+          name: 🧪 test
+          <<: *executor
+          context: code-validator
 
-      - build-dev:
-          context: gemfury-download
-          filters:
-            branches:
-              only: /.*/
+      - node/build:
+          name: 🛠👩‍💻🇨🇦 build-dev
+          build_command: build:dev
+          workspace_path: build-dev
+          <<: *executor
+          context: code-validator
+      
       - node/deploy:
           name: 🚀🥀🇨🇦 deploy-dev-ca-ephemeral
           stage: dev
           place: ca
           ephemeral: yes
-          context: static-cdn-deployer-dev-ca
           workspace_path: build-dev
+          context: static-cdn-deployer-dev-ca
           requires:
-            - test
-            - build-dev
+            - 🧪 test
+            - 🛠👩‍💻🇨🇦 build-dev
           filters:
             branches:
               ignore:
                 - master
+      
       - node/deploy:
           name: 🚀👩‍💻🇨🇦 deploy-dev-ca
           stage: dev
           place: ca
-          context: static-cdn-deployer-dev-ca
           workspace_path: build-dev
+          context: static-cdn-deployer-dev-ca
           requires:
-            - build-dev
-            - test
+            - 🧪 test
+            - 🛠👩‍💻🇨🇦 build-dev
           filters:
             branches:
               only:
                 - master
 
-      - build-prod:
-          context: gemfury-download
+      - node/build:
+          name: 🛠🇨🇦 build-prod-ca
+          build_command: build
+          workspace_path: build-prod-ca
+          <<: *executor
+          context: code-validator
           filters:
             branches:
               only:
                 - master
+      
       - node/deploy:
           name: 🚀🇨🇦 deploy-prod-ca
           stage: prod
@@ -115,8 +78,8 @@ workflows:
           cache_strategy: create-react
           workspace_path: build-prod-ca
           requires:
-            - test
-            - build-prod
+            - 🧪 test
+            - 🛠🇨🇦 build-prod-ca
           filters:
             branches:
               only:
